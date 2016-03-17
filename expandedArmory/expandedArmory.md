@@ -6,8 +6,7 @@ In this document I present my take on expanding and improving upon the armor and
 
 Wherever possible an effort was made to work within the framework of the existing ruleset and not to overburden players and DMs with arbitraty modifiers, new combat mechanics, or overshadow existing class features, racial abilities, or feats. All ideas presented here are optional and can be used independent of each other. For example, you might decided to use the new weapon and armor lists but ignore the new properties, or you might use only a few new properties and ignore others. Feel free to hack the system to your personal preferences. Feedback is always welcome.
 
-### Contents
-
+#### Contents
 * New Weapon Properties
 * Alternate Weapon Names
 * Expanded Weapon Table
@@ -18,4 +17,7 @@ Wherever possible an effort was made to work within the framework of the existin
 * Contact Info
 * Changelog
 * Legal Stuff
-
+```
+```
+## Weapons
+*A street thug sneaks up on an unsuspecting victim, club in hand, knowing that one quick strike to the back of the head will most likely render his target unconscious. A weapon master teaches her students the finer points of spear fighting and how a quick change in grip can extend their reach to strike opponents at a distance. A pack of kobolds snag a spelunking elf in a mancatcher and then drag the poor fellow through their already prepared gauntlet of traps while staying safely out of reach. The dual wielding swordsman with flashing blades quickly and efficiently slashes and cuts his enemies as they try to slip past him, while at the same time he easily dodges under the slow and clumsy strikes of an ogre's greatclub.*
