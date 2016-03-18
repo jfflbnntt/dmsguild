@@ -17,7 +17,13 @@ Wherever possible an effort was made to work within the framework of the existin
 * Contact Info
 * Changelog
 * Legal Stuff
+
 ```
 ```
+
 ## Weapons
-*A street thug sneaks up on an unsuspecting victim, club in hand, knowing that one quick strike to the back of the head will most likely render his target unconscious. A weapon master teaches her students the finer points of spear fighting and how a quick change in grip can extend their reach to strike opponents at a distance. A pack of kobolds snag a spelunking elf in a mancatcher and then drag the poor fellow through their already prepared gauntlet of traps while staying safely out of reach. The dual wielding swordsman with flashing blades quickly and efficiently slashes and cuts his enemies as they try to slip past him, while at the same time he easily dodges under the slow and clumsy strikes of an ogre's greatclub.*
+*A street thug sneaks up on an unsuspecting victim, club in hand, knowing that one quick strike to the back of the head will most likely render his target unconscious. A weapon master teaches her students the finer points of spear fighting and how a quick change in grip can extend their reach to strike opponents at a distance. A pack of kobolds snag a spelunking elf in a mancatcher and then drag the poor fellow through their already prepared gauntlet of traps while staying safely out of reach. With a flick of the wrist a monk wraps her whip around the ankles of a fleeing enemy. The dual wielding swordsman with flashing blades quickly and efficiently slashes and cuts his enemies as they try to slip past him, while at the same time he easily dodges under the slow and clumsy strikes of an ogre's greatclub.*
+
+Something as simple as a choice of weapon can have a major impact on the overall feel and flavor of a character. Certain weapons pair so frequently with certain types of characters that we rarely question it. Fierce warriors tend to swing axes, while knights tend to weild swords, and mindless grunts prefer heavy bludgeons. However when you look at the stats for these items there is no inherent reason nor mechanical difference why you might choose to equip your character, monster, or npc with battleaxe, longsword, or warhammer. The choice is purely a colorful one and has no impact on the game (ignoring the uncommon circumstance of damage type resistance). On the otherhand you may envision your fighter as a soldier highly trained in field tactics using the spear and shield, however you'd be effectively be at a disadvantage by not choosing the mechanically superior standard longsword. 
+
+What if there were more properties that could be used to help draw distinctions between these weapons and start to explain why someone would choose one weapon over another beyond simple math? Following are a collection of new weapon properties that start to do just that!
