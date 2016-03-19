@@ -31,5 +31,7 @@ Following are a collection of new weapons and weapon properties that can be used
 ### New Weapon Properties
 *A street thug sneaks up on an unsuspecting victim, club in hand, knowing that one quick strike to the back of the head will most likely render his target unconscious. A weapon master teaches her students the finer points of spear fighting and how a quick change in grip can extend their reach to strike opponents at a distance. A pack of kobolds snag a spelunking adventurer in a mancatcher and then drag the helpless wretch through a gauntlet of traps while staying safely out of reach. With a flick of the wrist a monk wraps her whip around the ankles of a fleeing enemy. A dual-wielding swordsman's flashing blades easily slash and cut his enemies as they try to slip past him, while at the same time he easily dodges under the slow and clumsy strikes of an ogre's greatclub.*
 
-Weapons tend to fall into certain categories based on how they are best applied. Heavy weapons are slow but punishing when they connect. Light blades excel at quick strikes, while larger blades cut deeper and leave grevious wounds. Applying new weapon properties that reflect their typical use helps to reinforce these concepts.
+Weapons tend to fall into certain categories based on how they are best applied. Heavy weapons are slow but punishing when they connect. Light blades excel at quick strikes, while larger blades create deadly wounds. Applying these new weapon properties helps to reinforce these concepts.
+
+
 
