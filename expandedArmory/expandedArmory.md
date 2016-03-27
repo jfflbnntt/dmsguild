@@ -29,7 +29,7 @@ On closer inspection of the weapon table you might notice that something is miss
 Following are a collection of old weapons and new weapon properties that can be used to create distinctive weapons and add more interesting choices for your characters.
 
 ### New Weapon Properties
-*A street thug sneaks up on an unsuspecting victim, club in hand, knowing that one quick strike to the back of the head will most likely render his target unconscious. A weapon master teaches her students the finer points of spear fighting and how a quick change in grip can extend their reach to strike opponents at a distance. A pack of kobolds snag a spelunking adventurer in a mancatcher and then drag the helpless wretch through a gauntlet of traps while staying safely out of reach. With a flick of the wrist a monk wraps her whip around the ankles of a fleeing enemy. A dual-wielding swordsman's quick flashing blades deter his enemies from trying to slip past him, while at the same time his companions easily dodge under the slow and clumsy strikes of an ogre's greatclub.*
+*A street thug sneaks up on an unsuspecting victim, club in hand, knowing that one quick strike to the back of the head will most likely render his target unconscious. A weapon master teaches her students the finer points of spear fighting and how a quick change in grip can extend their reach to strike opponents at a distance. A seasoned warrior grits his teeth and sets his pike in preparation to recieve the front ranks of the charging orc horde. With a flick of the wrist a monk wraps her whip around the ankles of a fleeing enemy. A dual-wielding swordsman's quick flashing blades deter his enemies from trying to slip past him, while nearby his companions easily dodge under the slow and clumsy strikes of an ogre's greatclub.*
 
 Weapons tend to fall into certain categories based on how they are best used. Heavy weapons are slow but punishing when they connect. Light blades excel at quick strikes, while larger blades cut deeply. Whips and chains can wrap around obstacles or even be used with some skill to entangle targets. Applying the following new weapon properties helps to reinforce these ideas.
 
@@ -49,6 +49,8 @@ Weapons tend to fall into certain categories based on how they are best used. He
 
 **Monk.** Weapons with this property count as Monk weapons and can be used with the Martial Arts feature (PHB pg.78) if not already included. **Monk** weapons tend to be simple weapons without the **heavy** or **two-handed** properties, although there are a few select martial weapons that are included as well.
 
+**Oversized.** This weapon is larger and heavier than most **versatile** weapons and difficult to use properly without exceptional strength. If you do not meet minimum Strength requirement in the parentheses the **versatile** property and is replaced with the **two-handed** property instead.
+
 **Powerdraw.** Especially powerful bows made from reinforced, rare, or composite materials derive their damage from raw strength. When applied to a shortbow or longbow this property allows you to use your Strength modifier for attack and damage bonuses in place of Dexterity. The weapon cannot be used if the minimum Strength requirement in parentheses is not met.
 
 **Reapeating.** When applied to a crossbow of any type this property replaces the loading property of that weapon when used with an appropriate magazine that still has ammunition in it. The size of the magazine supported is listed in parentheses. Reloading a magazine takes an action. **Repeating** crossbows are rare and valuable.
@@ -57,9 +59,10 @@ Weapons tend to fall into certain categories based on how they are best used. He
 
 **Slow.** These weapons are slow to recover and are too heavy or cumbersome to use effectively as a reaction. An attack with a weapon with this property has Disadvantage on Opportunity Attacks. **Heavy** and **two-handed** weapons tend to be **slow**. A **slow** weapon cannot also be **balanced**.
 
-**Sneaky.** this weapon is especially effective when used to strike a distracted or unaware foe. If you hit with this weapon and had advantage with the attack, treat the hit as a critical hit. It can also be used with a sneak attack if not already allowed.
+**Sneaky.** This weapon is especially dangerous when used to strike a distracted or unaware foe. If you hit with this weapon and had Advantage with the attack, treat the hit as a critical hit. It can also be used with a Rogue's Sneak Attack feature, if not already allowed. **Sneaky** weapons tend to be simple, small, silent, and easily concealable. 
 
-**Underwater.** can be used underwater without disadvantage (from PHB)
+**Underwater.** A weapon with this property can be used underwater without Disadvantage(PHB pg. 198). **Underwater** weapons tend to be piercing and thrusting weapons.
+
 
 
 
