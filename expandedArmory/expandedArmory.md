@@ -2,25 +2,25 @@
 
 Each edition of Dungeons and Dragons has seen a tweaking of the weapon and armor tables. What has been presented in the 5th edition Player's Handbook is the most streamlined and simplified equipment lists yet. Gone are the days of weapons with specific bonuses againsts certain types of armor and damage dice that vary based on the size of the wielder or the target. No longer do we have to worry about keeping track of weapon critical threat ranges or critical damage multipliers or different rates of fire. Say good-bye to specific armor skill check penalties and weapon group proficiency bonuses. For the most part the game benefits from the refinement. However, after playing for awhile now I began to feel that there was something missing, that there wasn't quite enough variety or distintion between items, and a few glaring ommisions.
 
-In this document I present my take on expanding and improving upon the armor and weapon lists. In addition to including a selection of items from previous editions there are a few new weapon and armor properties detailed which add flavor to and create meaningful distinctions between items. Near the end I've added suggestions on how to tweak items further using the new weapon and armor properties to create custom high quality or low quality items. 
+In this document I present my take on expanding and improving upon the armor and weapon lists. In addition to including a selection of items from previous editions there are a few new weapon and armor properties detailed which add flavor to and create meaningful distinctions between items. I've also added suggestions on how to tweak items further using the new weapon and armor properties to create custom high quality or low quality items. 
 
-Wherever possible an effort was made to work within the framework of the existing ruleset and not to overburden players and DMs with arbitraty modifiers, new combat mechanics, or overshadow existing class features, racial abilities, or feats. All ideas presented here are optional and could be used independent of each other. For example, you might decide to use the new weapon and armor lists but ignore the new properties, or you might use only a few new properties and ignore others. Feel free to hack the system to your personal preferences. Feedback is always welcome.
+Wherever possible an effort was made to work within the framework of the existing ruleset and not to overburden players and DMs with arbitraty modifiers, new combat mechanics, or overshadow existing class features, racial abilities, or feats. All ideas presented here are optional and could be used independent of each other. For example, you might decide to use the new weapon and armor lists but ignore the new properties, or you might use only a few new properties and ignore others. Feel free to hack the system to your personal preferences and feedback is always welcome.
 
-#### Contents
-* New Weapon Properties
-* Customizing Weapons
-* New Weapons
-* New Armor Properties
-* New Armor
-* Customizing Armors
-* Appendix A: Updated Weapon Table
-* Appendix B: Weapons Grouped By Properties
-* Appendix C: Alternate Weapon Names
-* Appendix D: Racial and Class Weapon Proficiencies Table
-* Appendix E: Updated Armor Table
-* Contact Info
-* Legal Stuff
-* Changelog
+> ### Contents
+> * New Weapon Properties
+> * Customizing Weapons
+> * New Weapons
+> * New Armor Properties
+> * New Armor
+> * Customizing Armors
+> * Appendix A: Updated Weapon Table
+> * Appendix B: Weapons Grouped By Properties
+> * Appendix C: Alternate Weapon Names
+> * Appendix D: Updated Weapon Proficiencies Table
+> * Appendix E: Updated Armor Table
+> * Contact Info
+> * Legal Stuff
+> * Changelog
 
 ```
 ```
@@ -41,7 +41,7 @@ Following are a collection of old weapons and new weapon properties that can be 
 
 *A street thug sneaks up on an unsuspecting victim, club in hand, knowing that one quick strike to the back of the head will most likely render his target unconscious. A weapon master teaches her students the finer points of spear fighting and how a quick change in grip can extend their reach to strike opponents at a distance. A seasoned warrior grits his teeth and sets his pike in preparation to recieve the front ranks of the charging orc horde. With a flick of the wrist a monk wraps her whip around the ankles of a fleeing enemy. A dual-wielding swordsman's quick flashing blades deter his enemies from trying to slip past him, while nearby his companions easily dodge under the slow and clumsy strikes of an ogre's greatclub.*
 
-Weapons tend to fall into certain categories based on how they are best used. Heavy weapons are slow but punishing when they connect. Light blades excel at quick strikes, while larger blades cut deeply. Whips and chains can wrap around obstacles or even be used with some skill to entangle targets. Applying the following new weapon properties helps to reinforce these ideas.
+Weapons tend to fall into certain categories based on how they are best used. Heavy weapons are slow but punishing when they connect. Light blades excel at quick strikes, while larger blades cut deeply. Whips and chains can wrap around obstacles or even be used with some skill to entangle targets. Applying the following new weapon properties helps to reinforce these ideas. See *Appendix B* for a listing of weapons grouped by each property. 
 
 **Balanced.** A weapon with this property is particularly well-balanced or suited to exploiting tactical openings. You have Advantage on Opportunity Attacks using this weapon. Double-edged swords of short to medium length tend to be more **balanced** than other types of weapons. A **balanced** weapon cannot also be **slow**.
 
@@ -79,16 +79,16 @@ Weapons tend to fall into certain categories based on how they are best used. He
 
 ### Customizing Weapons
 
-When creating your own weapons or customizing existing here are a few guidelines that will help to keep things balanced.
+When creating your own weapons or customizing existing here are a few guidelines that will help to keep things balanced:
 
 * Simple weapons tend to do less damage and have fewer beneficial keywords than Martial weapons. 
-* Common tools and farming implements tend to also be used as Simple weapons.
-* Light weapons tend to do low damage since they can be used in the off-hand.
-* Finesse weapons tend to do low damage as well since they can be used with Sneak Attack.
+* Common tools and farming implements also can be used as Simple weapons.
+* Light weapons tend to do low damage since they can be used in the off-hand for a bonus attack.
+* Finesse weapons tend to do low damage as well since they can be used in conjunction with Sneak Attack.
 * Light and Finesse weapons should not also be Heavy.
 * Reach and Two-handed weapons tend to be Heavy.
-* Thrown weapon maximum range is 3x its short range.
-* Ammunition weapon maximum range is 4x its short range.
+* Thrown weapons have a maximum range which is 3x its short range.
+* Ammunition weapons have a maximum range which is 4x its short range.
 
 #### High Quality Weapons
 
@@ -112,7 +112,7 @@ On the other hand you might wish to create a low-tech campaign or equip your mon
 
 ### New Weapons
 
-The following is a small selection of new weapon options that in my opinion fill some gaps in the original weapons list.
+The following is a small selection of new weapons that helps to fill some of the gaps in the original weapons list. See *Appendix A* for their full stat listings.
 
 **Bastard Sword.** A double-edged sword with a wide crossguard and an extended pommel. Longer than a longsword but shorter than a greatsword.
 
