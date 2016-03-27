@@ -32,6 +32,9 @@ Following are a collection of old weapons and new weapon properties that can be 
 *A street thug sneaks up on an unsuspecting victim, club in hand, knowing that one quick strike to the back of the head will most likely render his target unconscious. A weapon master teaches her students the finer points of spear fighting and how a quick change in grip can extend their reach to strike opponents at a distance. A seasoned warrior grits his teeth and sets his pike in preparation to recieve the front ranks of the charging orc horde. With a flick of the wrist a monk wraps her whip around the ankles of a fleeing enemy. A dual-wielding swordsman's quick flashing blades deter his enemies from trying to slip past him, while nearby his companions easily dodge under the slow and clumsy strikes of an ogre's greatclub.*
 
 Weapons tend to fall into certain categories based on how they are best used. Heavy weapons are slow but punishing when they connect. Light blades excel at quick strikes, while larger blades cut deeply. Whips and chains can wrap around obstacles or even be used with some skill to entangle targets. Applying the following new weapon properties helps to reinforce these ideas.
+<div class='pageNumber'>1</div>
+<div class='footnote'>D&D 5th Edition Armory Remix | Weapons</div>
+\page
 
 **Balanced.** A weapon with this property is particularly well-balanced or suited to exploiting tactical openings. You have Advantage on Opportunity Attacks using this weapon. Double-edged swords of short to medium length tend to be more **balanced** than other types of weapons. A **balanced** weapon cannot also be **slow**.
 
@@ -62,12 +65,3 @@ Weapons tend to fall into certain categories based on how they are best used. He
 **Sneaky.** This weapon is especially dangerous when used to strike a distracted or unaware foe. If you hit with this weapon and had Advantage with the attack, treat the hit as a critical hit. It can also be used with a Rogue's Sneak Attack feature, if not already allowed. **Sneaky** weapons tend to be simple, small, silent, and easily concealable. 
 
 **Underwater.** A weapon with this property can be used underwater without Disadvantage(PHB pg. 198). **Underwater** weapons tend to be piercing and thrusting weapons.
-
-
-
-
-
-
-
-
-
