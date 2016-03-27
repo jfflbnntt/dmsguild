@@ -75,38 +75,38 @@ Weapons tend to fall into certain categories based on how they are best used. He
 ### New Weapons
 **Light Flail.** Two short sections of wood or metal connected by a small chain or hinge. Intended as an agricultural tool for threshing grain.
 
-**Longspear** Similar to a normal spear, but longer reaching lengths of 8' to 10'.
+**Longspear.** Similar to a normal spear, but longer reaching lengths of 8' to 10'.
 
-**Pick** A small double-headed pick usually used for breaking up dirt or rocks.
+**Pick.** A small double-headed pick usually used for breaking up dirt or rocks.
 
-**Pitchfork** Your standard pitchfork, two or more prongs on a long wooded handle.
+**Pitchfork.** Your standard pitchfork, two or more prongs on a long wooded handle.
 
-**Scythe** A sharp inwardly curved blade attached to a long wooden handle intended for shearing grain.
+**Scythe.** A sharp inwardly curved blade attached to a long wooden handle intended for shearing grain.
 
-**Shovel** A digging tool with a metal head on a long wooden handle.
+**Shovel.** A digging tool with a metal head on a long wooden handle.
 
-**Lasso** A length of rope tied into a loop or noose that can be thrown around a target to restraint it.
+**Lasso.** A length of rope tied into a loop or noose that can be thrown around a target to restraint it.
 
-**Throwing Knife** A small sharp blade specially shaped and balanced for accurate throwing.
+**Throwing Knife.** A small sharp blade specially shaped and balanced for accurate throwing.
 
-**Bastard Sword** A double-edged sword with a wide crossguard and an extended pommel. Longer than a longsword but shorter than a greatsword.
+**Bastard Sword.** A double-edged sword with a wide crossguard and an extended pommel. Longer than a longsword but shorter than a greatsword.
 
-**Broadsword** A sword with straight wide blade with very little taper and a short pommel. The length is about midway between a shortsword and a longsword.
+**Broadsword.** A sword with straight wide blade with very little taper and a short pommel. The length is about midway between a shortsword and a longsword.
 
-**Chain** A long length of interlocking chains with a weight on each end.
+**Chain.** A long length of interlocking chains with a weight on each end.
 
-**Heavy Flail** A larger and heavier version of the flail intended to be used with two hands.
+**Heavy Flail.** A larger and heavier version of the flail intended to be used with two hands.
 
-**Heavy Warpick** A larger and heavier version of the warpick intended to be used with two hands.
+**Heavy Warpick.** A larger and heavier version of the warpick intended to be used with two hands.
 
-**Khopesh** An exotic looking axe-like sword with an outwardly curving blade.
+**Khopesh.** An exotic looking axe-like sword with an outwardly curving blade.
 
-**Lucern Hammer** A hammer with a spike on the other side mounted on a long pole.
+**Lucern Hammer.** A hammer with a spike on the other side mounted on a long pole.
 
-**Mancatcher** A cage-like ring of inwardly pointing barbs mounted on the end of a long pole. Intended to be used to unhorse riders and capture targets rather than kill them.
+**Mancatcher.** A cage-like ring of inwardly pointing barbs mounted on the end of a long pole. Intended to be used to unhorse riders and capture targets rather than kill them.
 
-**Scourge** A short leather whip with multiple tails, usually used as a form of torture.
+**Scourge.** A short leather whip with multiple tails, usually used as a form of torture.
 
-**Bola** Two weights connected by rope that when spun and thrown entangle their target.
+**Bola.** Two weights connected by rope that when spun and thrown entangle their target.
 
 
