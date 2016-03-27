@@ -47,17 +47,15 @@ Weapons tend to fall into certain categories based on how they are best used. He
 
 **Lunging.** Some one-handed weapons are long and light enough to be used as a reach weapon, but do less damage beyond 5'. When making a reach attack with a **lunging** weapon use the lower damage die listed in parentheses. You cannot use this feature while also using a **versatile** weapon in both hands. A **lunging** weapon cannot also be **heavy** or **two-handed**.
 
-**Monk.** unarmed strikes, simple weapons without heavy or two-handed keywords, and short swords are considered monk weapons (from PHB)
+**Monk.** Weapons with this property count as Monk weapons and can be used with the Martial Arts feature (PHB pg.78) if not already included. **Monk** weapons tend to be simple weapons without the **heavy** or **two-handed** properties, although there are a few select martial weapons that are included as well.
 
-**Mounted.** this weapon is meant to be used while mounted, otherwise it is used at disadvantage
+**Powerdraw.** Especially powerful bows made from reinforced, rare, or composite materials derive their damage from raw strength. When applied to a shortbow or longbow this property allows you to use your Strength modifier for attack and damage bonuses in place of Dexterity. The weapon cannot be used if the minimum Strength requirement in parentheses is not met.
 
-**Powerdraw.** when applied to a shortbow or longbow this allows you to use your strength modifier for attack and damage bonus instead of dexterity
+**Reapeating.** When applied to a crossbow of any type this property replaces the loading property of that weapon when used with an appropriate magazine that still has ammunition in it. The size of the magazine supported is listed in parentheses. Reloading a magazine takes an action. **Repeating** crossbows are rare and valuable.
 
-**Reapeating.** when applied to a crossbow of any type this allows you to ignore the loading property of the that weapon when used with an appropriate magazine that still has ammunition in it. The size of the magazine supported is listed in parenthesis. Loading a new magazine takes an action. 
+**Set.** A weapon with this property is highly effective when properly used against charging opponents. When you use a readied action to Attack an opponent with this weapon that has moved at least 10' toward you, that attack has Advantage and if it hits treat the hit as a critical hit. Spear-like piercing weapons tend to have the **set** property.
 
-**Set.** this weapon is more effective when used against charging opponents. a readied attack action against a charge has advantage and if it hits treat the hit as a critical hit.
-
-**Slow.** this weapon is too slow, heavy, or awkward to use properly as a reaction, granting disadvantage on opportunity attacks.
+**Slow.** These weapons are slow to recover and are too heavy or cumbersome to use effectively as a reaction. An attack with a weapon with this property has Disadvantage on Opportunity Attacks. **Heavy** and **two-handed** weapons tend to be **slow**. A **slow** weapon cannot also be **balanced**.
 
 **Sneaky.** this weapon is especially effective when used to strike a distracted or unaware foe. If you hit with this weapon and had advantage with the attack, treat the hit as a critical hit. It can also be used with a sneak attack if not already allowed.
 
