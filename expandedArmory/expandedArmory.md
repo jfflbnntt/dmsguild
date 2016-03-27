@@ -8,12 +8,15 @@ Wherever possible an effort was made to work within the framework of the existin
 
 #### Contents
 * New Weapon Properties
-* Updated Weapons Table
+* New Weapons
+* Customizing Weapons
 * New Armor Properties
-* Updated Armor Table
-* Creating Custom Items
-* Appendix A: Weapons Grouped By Properties
-* Appendix B: Alternate Weapon Names
+* New Armor
+* Customizing Armors
+* Appendix A: Updated Weapon Table
+* Appendix B: Weapons Grouped By Properties
+* Appendix C: Alternate Weapon Names
+* Appendix D: Updated Armor Table
 * Contact Info
 * Legal Stuff
 * Changelog
@@ -27,14 +30,14 @@ Something as simple as the choice of a favored weapon can have a major impact on
 On closer inspection of the weapon table you might notice that something is missing or feels slightly off. Perhaps you envisioned your fighter as spear and shield type of soldier, but then realized you'd be at a mechanical disadvantage by not choosing the superior longsword instead. Maybe you wanted to equip your army of gnomes with reach weapons only to find that there are practically no reasonable items they can use effectively. You might have even wondered why the trident requires a martial proficiency when it has the same stats as a simple spear. Or you've asked yourself, "Where have some of my favorite weapons gone, like the broadsword, scythe, scourge, khopesh, falchion, bill-guisarme, and bec-de-corbin?"
 
 Following are a collection of old weapons and new weapon properties that can be used to create distinctive weapons and add more interesting choices for your characters.
+<div class='pageNumber'>1</div>
+<div class='footnote'>Armory Remix | Weapons</div>
+\page
 
 ### New Weapon Properties
 *A street thug sneaks up on an unsuspecting victim, club in hand, knowing that one quick strike to the back of the head will most likely render his target unconscious. A weapon master teaches her students the finer points of spear fighting and how a quick change in grip can extend their reach to strike opponents at a distance. A seasoned warrior grits his teeth and sets his pike in preparation to recieve the front ranks of the charging orc horde. With a flick of the wrist a monk wraps her whip around the ankles of a fleeing enemy. A dual-wielding swordsman's quick flashing blades deter his enemies from trying to slip past him, while nearby his companions easily dodge under the slow and clumsy strikes of an ogre's greatclub.*
 
 Weapons tend to fall into certain categories based on how they are best used. Heavy weapons are slow but punishing when they connect. Light blades excel at quick strikes, while larger blades cut deeply. Whips and chains can wrap around obstacles or even be used with some skill to entangle targets. Applying the following new weapon properties helps to reinforce these ideas.
-<div class='pageNumber'>1</div>
-<div class='footnote'>Armory Remix | Weapons</div>
-\page
 
 **Balanced.** A weapon with this property is particularly well-balanced or suited to exploiting tactical openings. You have Advantage on Opportunity Attacks using this weapon. Double-edged swords of short to medium length tend to be more **balanced** than other types of weapons. A **balanced** weapon cannot also be **slow**.
 
@@ -69,3 +72,4 @@ Weapons tend to fall into certain categories based on how they are best used. He
 <div class='footnote'>Armory Remix | New Weapon Properties</div>
 \page
 
+### New Weapons
