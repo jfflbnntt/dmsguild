@@ -31,36 +31,42 @@ Following are a collection of old weapons and new weapon properties that can be 
 ### New Weapon Properties
 *A street thug sneaks up on an unsuspecting victim, club in hand, knowing that one quick strike to the back of the head will most likely render his target unconscious. A weapon master teaches her students the finer points of spear fighting and how a quick change in grip can extend their reach to strike opponents at a distance. A pack of kobolds snag a spelunking adventurer in a mancatcher and then drag the helpless wretch through a gauntlet of traps while staying safely out of reach. With a flick of the wrist a monk wraps her whip around the ankles of a fleeing enemy. A dual-wielding swordsman's quick flashing blades deter his enemies from trying to slip past him, while at the same time his companions easily dodge under the slow and clumsy strikes of an ogre's greatclub.*
 
-Weapons tend to fall into certain categories based on how they are best used. Heavy weapons are slow but punishing when they connect. Light blades excel at quick strikes, while larger blades cut deeply. Whips and chains can wrap around obstacles to hit their targets or even be used with some skill to entangle another. Applying some of these new weapon properties helps to reinforce these concepts.
+Weapons tend to fall into certain categories based on how they are best used. Heavy weapons are slow but punishing when they connect. Light blades excel at quick strikes, while larger blades cut deeply. Whips and chains can wrap around obstacles or even be used with some skill to entangle targets. Applying the following new weapon properties helps to reinforce these ideas.
 
-**High Crit.** unusually large damage on a critical hit. Base damage is maximized then roll extra crit damage normally.
+**Balanced.** A weapon with this property is particularly well-balanced or suited to exploiting tactical openings. You have Advantage on Opportunity Attacks using this weapon. Double-edged swords of short to medium length tend to be more **balanced** than other types of weapons. A **balanced** weapon cannot also be **slow**.
 
-**Brutal.** these weapons make the most of brute strength and tend to do more damage on average when the weilder satisfies the minimum strength requirement. if the result of any weapon damage die is 1, reroll it and take the new result instead
+**Brutal.** These weapons make the most of brute strength. When the you satisfy the minimum Strength requirement in the parentheses you do greater than average damage. If the result of any rolled weapon damage die is 1, reroll it and take the new result instead. This includes any extra damage dice provided by a critical hit or Martial Arts damage, but does not include sneak attack damage dice or spell damage dice. This benefit is lost against targets wearing **durable** armor. Impaling, crushing, and **heavy** weapons tend to also be **brutal**. A **brutal** weapon cannot also be **light** or **feeble**.
 
-**Sneaky.** this weapon is especially effective when used to strike a distracted or unaware foe. If you hit with this weapon and had advantage with the attack, treat the hit as a critical hit. It can also be used with a sneak attack if not already allowed.
+**Feeble.** This weapon is weak, brittle, or otherwise poorly made and deals less damage than usual. If the result of any weapon damage die is its max value, reroll it and take the new result. A **feeble** weapon cannot also be **brutal**. 
 
-**Balanced.** this weapon is particularly well-balanced or suited to exploiting tactical openings, granting it advantage on opportunity attacks.
+**Flexible.** A weapon with this property can be used to neutralize the benefits of shields and cover. As long as the attacker can see the target an attack made with this weapon ignores AC bonuses from shields or half cover and treats three-quarter cover as only half cover. Whips, chains, and flails are all **flexible** weapons.
 
-**Slow.** this weapon is too slow, heavy, or awkward to use properly as a reaction, granting disadvantage on opportunity attacks.
+**Grappling.** These weapons can be used to make a grappling Attack instead of doing damage. Using a weapon in this way does not require you to have a free hand and you make a melee or ranged weapon attack roll in place of a STR (Athletics) check, but otherwise works in the same way as a normal grappling Attack. **Grappling** weapons tend to also be **flexible** and **monk** weapons, but aren't required to be either.
 
-**Flexible.** flexible weapons can be used to wrap around obstacles to strike targets. when attack is made from within 5' it ignores AC bonuses from half cover and shields and treats three quarter cover as half cover 
+**High Crit.** These weapons deal unusually large amounts of damage on a critical hit. Whenever you score a critical hit with this weapon maximize the base damage and then roll any extra crit damage dice normally. This feature is nullified by targets wearing **tough** armor. Chopping weapons like axes and single edged swords and impaling weapons like picks tend to be **high crit** weapons.
 
-**Grappling.** weapon can be used to make a Grapple Attack instead of doing damage. Use the weapon's range and attack modifiers instead of a STR (Athletics) check.
-
-**Underwater.** can be used underwater without disadvantage (from PHB)
-
-**Mounted.** this weapon is meant to be used while mounted, otherwise it is used at disadvantage
-
-**Set.** this weapon is more effective when used against charging opponents. a readied attack action against a charge has advantage and if it hits treat the hit as a critical hit.
+**Lunging.** Some one-handed weapons are long and light enough to be used as a reach weapon, but do less damage beyond 5'. When making a reach attack with a **lunging** weapon use the lower damage die listed in parentheses. You cannot use this feature while also using a **versatile** weapon in both hands. A **lunging** weapon cannot also be **heavy** or **two-handed**.
 
 **Monk.** unarmed strikes, simple weapons without heavy or two-handed keywords, and short swords are considered monk weapons (from PHB)
 
-**Lunging.** can be treated as a one-handed reach weapon, but do less damage beyond 5', use the lower damage die.
-
-**Feeble.** feeble weapons deal less than average damage and are the opposite of Brutal weapons. If the result of any weapon die is its max value, reroll it and take the new result instead
+**Mounted.** this weapon is meant to be used while mounted, otherwise it is used at disadvantage
 
 **Powerdraw.** when applied to a shortbow or longbow this allows you to use your strength modifier for attack and damage bonus instead of dexterity
 
 **Reapeating.** when applied to a crossbow of any type this allows you to ignore the loading property of the that weapon when used with an appropriate magazine that still has ammunition in it. The size of the magazine supported is listed in parenthesis. Loading a new magazine takes an action. 
+
+**Set.** this weapon is more effective when used against charging opponents. a readied attack action against a charge has advantage and if it hits treat the hit as a critical hit.
+
+**Slow.** this weapon is too slow, heavy, or awkward to use properly as a reaction, granting disadvantage on opportunity attacks.
+
+**Sneaky.** this weapon is especially effective when used to strike a distracted or unaware foe. If you hit with this weapon and had advantage with the attack, treat the hit as a critical hit. It can also be used with a sneak attack if not already allowed.
+
+**Underwater.** can be used underwater without disadvantage (from PHB)
+
+
+
+
+
+
 
 
