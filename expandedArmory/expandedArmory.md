@@ -8,12 +8,12 @@ Wherever possible an effort was made to work within the framework of the existin
 
 #### Contents
 * New Weapon Properties
-* Other Weapon Names
-* Updated Weapon Table
+* Updated Weapons Table
 * New Armor Properties
 * Updated Armor Table
 * Creating Custom Items
-* Appendix: Weapons Grouped By Property
+* Appendix A: Weapons Grouped By Properties
+* Appendix B: Alternate Weapon Names
 * Contact Info
 * Legal Stuff
 * Changelog
@@ -33,7 +33,7 @@ Following are a collection of old weapons and new weapon properties that can be 
 
 Weapons tend to fall into certain categories based on how they are best used. Heavy weapons are slow but punishing when they connect. Light blades excel at quick strikes, while larger blades cut deeply. Whips and chains can wrap around obstacles or even be used with some skill to entangle targets. Applying the following new weapon properties helps to reinforce these ideas.
 <div class='pageNumber'>1</div>
-<div class='footnote'>D&D 5th Edition Armory Remix | Weapons</div>
+<div class='footnote'>Armory Remix | Weapons</div>
 \page
 
 **Balanced.** A weapon with this property is particularly well-balanced or suited to exploiting tactical openings. You have Advantage on Opportunity Attacks using this weapon. Double-edged swords of short to medium length tend to be more **balanced** than other types of weapons. A **balanced** weapon cannot also be **slow**.
@@ -65,3 +65,7 @@ Weapons tend to fall into certain categories based on how they are best used. He
 **Sneaky.** This weapon is especially dangerous when used to strike a distracted or unaware foe. If you hit with this weapon and had Advantage with the attack, treat the hit as a critical hit. It can also be used with a Rogue's Sneak Attack feature, if not already allowed. **Sneaky** weapons tend to be simple, small, silent, and easily concealable. 
 
 **Underwater.** A weapon with this property can be used underwater without Disadvantage(PHB pg. 198). **Underwater** weapons tend to be piercing and thrusting weapons.
+<div class='pageNumber'>2</div>
+<div class='footnote'>Armory Remix | New Weapon Properties</div>
+\page
+
