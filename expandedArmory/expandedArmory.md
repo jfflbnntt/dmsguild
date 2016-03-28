@@ -159,7 +159,7 @@ When creating your own weapons or customizing existing here are a few guidelines
 
 #### High Quality Weapons
 
-In some cases it's okay to break the game balance guidelines above, especially when you want to create a unique and memorable item. High quality weapons are rare and valuable. Some are expertly crafted and can be considered masterwork items, others are made of rare materials that grant them special properties. A high quality weapon can have one or more of the following benefits above and beyond the stats of its base item:
+In some cases it's okay to break the game balance guidelines above, especially when you want to create a unique and memorable item. High quality weapons are rare and valuable and their cost should reflect this. Some are expertly crafted and can be considered masterwork items, others are made of rare materials that grant them special properties. Avoid the temptation to add inherent attack or damage bonuses. Instead a high quality weapon can have one or more of the following benefits above and beyond the stats of its base item:
 
 * Add the **high crit** or **brutal** property
 * Add the **finesse** or **light** property or remove **heavy** property
@@ -222,6 +222,28 @@ Following are a few new options for armor and shields. For a full listing of sta
 
 ### Customizing Armor and Shields
 
+As with weapons some shields and armor are a cut above the standard or sometimes sub-par. Here are some helpful hints when creating your own items.
 
+#### High Quality Armor and Shields
+
+These items are masterwork items, crafted of excellent skill, or made from rare and wonderful materials. High quality armor and shields are highly sought after and their cost should reflect this. Avoid the temptation to add inherent AC bonuses. Instead a high quality suit of armor or shield should grant one or more of the following benefits:
+
+* Add the **durable** or **tough** property
+* Remove the **restrictive**, **unwieldy**, or **cumbersome** property
+* Reduce the STR requirement for the **cumbersome** or **unwieldy** property
+* Reduce the weight of the armor or shield
+
+#### Low Quality Armor and Shields
+
+Sometimes armor is old and worn out or a shield is cracked. Maybe the armor is crafted of a non-standard material like bone, stone, or wood. Maybe a serving platter is being used as a makeshift shield. In any case, low quality shields and armor have one or more of the following drawbacks:
+
+* Remove the **durable** or **tough** property
+* Add the **restrictive**, **cumbersome**, or **unwieldy** property
+* Increase the STR requirement for the **cumbersome** or **unwieldy** property
+* Increase the weight of the armor or shield
+
+<div class='pageNumber'>5</div>
+<div class='footnote'>Armory Remix | Armor and Shields</div>
+\page
 
 
