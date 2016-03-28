@@ -11,13 +11,13 @@ Wherever possible an effort was made to work within the framework of the existin
 > * Customizing Weapons
 > * New Weapons
 > * New Armor Properties
-> * New Armor
+> * New Armor and Shields
 > * Customizing Armors
 > * Appendix A: Updated Weapon Table
 > * Appendix B: Weapons Grouped By Properties
 > * Appendix C: Alternate Weapon Names
 > * Appendix D: Updated Weapon Proficiencies Table
-> * Appendix E: Updated Armor Table
+> * Appendix E: Updated Armor and Shields Table
 > * Contact Info
 > * Legal Stuff
 > * Changelog
@@ -98,6 +98,8 @@ In some cases it's okay to break the game balance guidelines above, especially w
 * Add the **finesse** or **light** property or remove **heavy** property
 * Add the **balanced** property or remove the **slow** property
 * Add the **powerdraw** property to a shortbow or longbow or add the **repeating** property to a crossbow
+* Remove the **oversized** property
+* Reduce STR requirement for **brutal** or **oversized** weapons
 
 #### Low Quality Weapons
 
@@ -106,6 +108,8 @@ On the other hand you might wish to create a low-tech campaign or equip your mon
 * Add the **feeble** property or remove either the **high crit** or **brutal** property
 * Add the **heavy** property or remove either the **light** or **finesse** property
 * Add the **slow** property or remove the **balanced** property
+* Add the **oversized** property if the weapon is **versatile**
+* Increase the **brutal** STR requirement for **brutal** or **oversized** weapons
 
 ```
 ```
@@ -153,4 +157,6 @@ The following is a small selection of new weapons that helps to fill some of the
 <div class='pageNumber'>3</div>
 <div class='footnote'>Armory Remix | Customizing Weapons</div>
 \page
+
+## Armor and Shields
 
