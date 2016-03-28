@@ -196,5 +196,25 @@ Just as some weapons pose additional threats, the right kind of armor can neutra
 
 **Covering.** Shields with the **covering** property can be treated as cover while prone and crouching behind it. Medium shields provide half-cover to one creature and large shields provide three-quarter cover to one creature or half-cover to two adjacent creatures. Small shields do not provide any cover. Take only the AC bonus from the shield or cover condition depending on how it's being used, but not both.
 
-**Unwieldy** Large shields are cumbersome and difficult to carry in one hand by all but the exceptionally strong. All melee attacks are made at Disadvantage while carrying a large shield unless the wielder meets the minimum STR requirement in parentheses. However a large shield can be set on the ground as an action and used as cover until picked up again with another action.
+**Unwieldy.** Large shields are cumbersome and difficult to carry in one hand by all but the exceptionally strong. All melee attacks are made at Disadvantage while carrying a large shield unless the wielder meets the minimum STR requirement in parentheses. However a large shield can be set on the ground as an action and used as cover until picked up again with another action.
+
+### New Armor and Shields
+
+Following are a few new options for armor and shields. For a full listing of stats see *Appendix D*.
+
+**Banded Plate Mail.** Heavy armor made from overlapping horizontal plates of metal attached to a backing of chain mail and a padded undertunic. Also known as **banded plate**, **banded mail**, **laminar armor**, or simple **banded armor**.
+
+**Brigandine.** An armored coat with small rigid plates sewn between layers of cloth which can be easily concealed. Grants more protection than other light armors, but is heavier and a bit more restrictive as a trade-off. Also known as a **coat of plates** or **jack of plates**
+
+**Half and Full Plate.** Layers of interlocking plate armor covering most or all of the body. Half plate usually consists of the breastplate, pauldrons and guantlets while full plate includes vambraces, greaves, arm and neck guards. You can buy a suit of half plate and then later add the other pieces to make a full suit of plate armor.
+
+**Large Shield.** A large heavy shield, sometimes as tall as 5', most often made of metal with a groove in the middle to help it stand upright when placed on the ground. Used on battlefields as a mobile piece of cover for archers. Also known as a **pavise**, **mantlet**, or **tower** shield.
+
+**Medium Shield.** A standard shield usually made of metal, or wood with metal reinforcement. Styles include **scutum**, **heater**, and **kite** shields.
+
+**Small Shield.** A small round shield usually made of wood or leather and possibly with metal reinforcement. Sometimes known as a **target** or **buckler**.
+
+**Splinted Plate Mail.** Heavy armor made from vertical metal ribs, or splints, attached to a backing of chain mail. Also known as **splint mail**, **splinted plate** or simply **splint armor**.
+
+
 
