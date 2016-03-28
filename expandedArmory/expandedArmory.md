@@ -190,11 +190,15 @@ The number of options available on the armor and shields list in the Player's Ha
 
 Just as some weapons pose additional threats, the right kind of armor can neutralize those threats. Likewise a shield is not only useful in deflecting blows in close combat, but a hefty shield when used properly can offer a much needed source of cover from explosions, magical blasts, and bursts of dragon's breath.
 
+**Covering.** Shields with the **covering** property can be treated as cover while prone and crouching behind it. Medium shields provide half-cover to one creature and large shields provide three-quarter cover to one creature or half-cover to two adjacent creatures. Small shields do not provide any cover. Take only the AC bonus from the shield or cover condition depending on how it's being used, but not both.
+
+**Cumbersome.** Armor with this property weighs the wearer down and can slow movement. The wearer must meet the minimum STR requirement in the parenthese or have their base movement speed be reduced by 10' while wearing this armor.
+
 **Durable.** This armor provides additional protection and cushioning against heavy hitting impacts from **brutal** weapons, effectively allowing the wearer to ignore that property. All damage from **brutal** weapons is rolled normally. Scale mail, banded plate mail, and full plate are all **durable**.
 
-**Tough.** This armor is reinforced around the vital areas making it harder to land deadly blows and allowing the wearer to ignore the **high crit** property of any weapons. Roll damage normally for a critical hit from any **high crit** weapons. Half plate, splint plate mail, and full plate are all considered **tough**.
+**Restrictive.** Armor with this property restricts the full range of motion, making it difficult to move quickly and quietly. The wearer has Disadvantage with stealth checks while wearing this armor.
 
-**Covering.** Shields with the **covering** property can be treated as cover while prone and crouching behind it. Medium shields provide half-cover to one creature and large shields provide three-quarter cover to one creature or half-cover to two adjacent creatures. Small shields do not provide any cover. Take only the AC bonus from the shield or cover condition depending on how it's being used, but not both.
+**Tough.** This armor is reinforced around the vital areas making it harder to land deadly blows and allowing the wearer to ignore the **high crit** property of any weapons. Roll damage normally for a critical hit from any **high crit** weapons. Half plate, splint plate mail, and full plate are all considered **tough**.
 
 **Unwieldy.** Large shields are cumbersome and difficult to carry in one hand by all but the exceptionally strong. All melee attacks are made at Disadvantage while carrying a large shield unless the wielder meets the minimum STR requirement in parentheses. However a large shield can be set on the ground as an action and used as cover until picked up again with another action.
 
@@ -215,6 +219,9 @@ Following are a few new options for armor and shields. For a full listing of sta
 **Small Shield.** A small round shield usually made of wood or leather and possibly with metal reinforcement. Sometimes known as a **target** or **buckler**.
 
 **Splinted Plate Mail.** Heavy armor made from vertical metal ribs, or splints, attached to a backing of chain mail. Also known as **splint mail**, **splinted plate** or simply **splint armor**.
+
+### Customizing Armor and Shields
+
 
 
 
