@@ -10,7 +10,7 @@ Wherever possible an effort was made to work within the framework of the existin
 > * New Weapon Properties
 > * New and Alternate Weapons
 > * Customizing Weapons
-> * New Armor Properties
+> * New Armor Shield Properties
 > * New Armor and Shields
 > * Customizing Armors
 > * Appendix A: Updated Weapon Table
@@ -184,5 +184,17 @@ On the other hand you might wish to create a low-tech campaign or equip your mon
 
 ## Armor and Shields
 
-If you're like me the number of options available on the armor and shields list in the Player's Handbook might strike you as seemimgly a bit boring and lacking in variety. Here I try to remedy that by offering some new types of armor and shields as well as some new special properties to make things a little more interesting.
+The number of options available on the armor and shields list in the Player's Handbook might strike you as a bit boring and lacking in variety. Here I try to remedy that by offering some new types of armor and shields as well as some new special properties to make things a little more interesting.
+
+### New Armor and Shield Properties
+
+Just as some weapons pose additional threats, the right kind of armor can neutralize those threats. Likewise a shield is not only useful in deflecting blows in close combat, but a hefty shield when used properly can offer a much needed source of cover from explosions, magical blasts, and bursts of dragon's breath.
+
+**Durable.** This armor provides additional protection and cushioning against heavy hitting impacts from **brutal** weapons, effectively allowing the wearer to ignore that property. All damage from **brutal** weapons is rolled normally. Scale mail, banded plate mail, and full plate are all **durable**.
+
+**Tough.** This armor is reinforced around the vital areas making it harder to land deadly blows and allowing the wearer to ignore the **high crit** property of any weapons. Roll damage normally for a critical hit from any **high crit** weapons. Half plate, splint plate mail, and full plate are all considered **tough**.
+
+**Covering.** Shields with the **covering** property can be treated as cover while prone and crouching behind it. Medium shields provide half-cover to one creature and large shields provide three-quarter cover to one creature or half-cover to two adjacent creatures. Small shields do not provide any cover. Take only the AC bonus from the shield or cover condition depending on how it's being used, but not both.
+
+**Unwieldy** Large shields are cumbersome and difficult to carry in one hand by all but the exceptionally strong. All melee attacks are made at Disadvantage while carrying a large shield unless the wielder meets the minimum STR requirement in parentheses. However a large shield can be set on the ground as an action and used as cover until picked up again with another action.
 
