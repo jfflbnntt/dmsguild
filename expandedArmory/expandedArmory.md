@@ -8,16 +8,15 @@ Wherever possible an effort was made to work within the framework of the existin
 
 > ### Contents
 > * New Weapon Properties
+> * New and Alternate Weapons
 > * Customizing Weapons
-> * New Weapons
 > * New Armor Properties
 > * New Armor and Shields
 > * Customizing Armors
 > * Appendix A: Updated Weapon Table
 > * Appendix B: Weapons Grouped By Properties
-> * Appendix C: Alternate Weapon Names
-> * Appendix D: Updated Weapon Proficiencies Table
-> * Appendix E: Updated Armor and Shields Table
+> * Appendix C: Updated Weapon Proficiencies Table
+> * Appendix D: Updated Armor and Shields Table
 > * Contact Info
 > * Legal Stuff
 > * Changelog
@@ -29,7 +28,7 @@ Wherever possible an effort was made to work within the framework of the existin
 
 Something as simple as the choice of a favored weapon can have a major impact on the overall feel and flavor of a character. Certain weapons pair so frequently with certain roles and character archtypes that we rarely question it: Fierce warriors like to swing axes, while knights tend to favor swords, and mindless grunts prefer heavy bludgeons. However when you look at the stats for these items there is no inherent reason nor mechanical difference why they this is. You might choose to equip your character with battleaxe, longsword, or warhammer but the choice is largely a colorful one and has no impact on the game, ignoring the unusual circumstance of damage type resistance that is. 
 
-On closer inspection of the weapon table you might notice that something is missing or feels slightly off. Perhaps you envisioned your fighter as spear and shield type of soldier, but then realized you'd be at a mechanical disadvantage by not choosing the superior longsword instead. Maybe you wanted to equip your army of gnomes with reach weapons only to find that there are practically no reasonable items they can use effectively. You might have even wondered why the trident requires a martial proficiency when it has the same stats as a simple spear. Or you've asked yourself, "Where have some of my favorite weapons gone, like the broadsword, scythe, scourge, khopesh, falchion, bill-guisarme, and bec-de-corbin?"
+On closer inspection of the weapon table in the Player's Handbook you might notice that something is missing or feels slightly off. Perhaps you envisioned your fighter as a spear and shield type of soldier, but then realized you'd be at a mechanical disadvantage by not choosing the superior longsword instead. Maybe you wanted to equip your army of gnomes with reach weapons only to find that there are practically no reasonable items they can use effectively. You might have even wondered why the trident requires a martial proficiency when it has the same stats as a simple spear. Or you've asked yourself, "Where have some of my favorite weapons gone, like the broadsword, scythe, scourge, khopesh, falchion, bill-guisarme, and bec-de-corbin?"
 
 Following are a collection of old weapons and new weapon properties that can be used to create distinctive weapons and add more interesting choices for your characters.
 
@@ -77,6 +76,74 @@ Weapons tend to fall into certain categories based on how they are best used. He
 <div class='footnote'>Armory Remix | New Weapon Properties</div>
 \page
 
+### New and Alternate Weapons
+
+The following is a selection of descriptions for new weapons and old ones with alternate names that helps to fill some of the gaps in the original weapons list. See *Appendix A* for their full stat listings.
+
+**Club.** A small light one-handed bludgeon which can include a **sap**, **truncheon**, or **baton**.
+
+**Dagger.** A small light one-handed weapon meant for stabbing and cutting in close combat. Can also be called a **dirk**, **stiletto**, or **knife**.
+
+**Handaxe.** A light one-handed axe or chopping tool. Could also be called a **hatchet** or **throwing axe**.
+
+**Bastard Sword.** A double-edged sword with a wide crossguard and an extended pommel. Longer than a longsword but shorter than a greatsword. Sometimes known as a **hand-and-a-half sword** or a **claymore**.
+
+**Bolas.** Two or three weights connected by cords that when spun and thrown entangle their target.
+
+**Broadsword.** A sword with wide blade with very little taper and a short pommel. The length is about midway between a shortsword and a longsword. A **falchion** is another version of this weapon.
+
+**Chain.** A long length of interlocking chains with a weight on each end.
+
+**Flail.** A larger and more dangerous version of the light flail able to be used in one or two hands. Sometimes called a **horseman's flail**.
+
+**Glaive.** A sword-like blade on the end of a long pole. Other examples include the **voulge** and **bardiche**.
+
+**Halberd.** An axe-like blade, sometimes accompanied by a spike, on the end of a long pole. The **guisarme**, **fauchard**, and **bill-guisarme** all fall into this category as well.
+
+**Heavy Flail.** A larger and heavier version of the flail intended to be used with two hands. Sometimes known as a **footman's flail**.
+
+**Heavy Warpick.** A larger and heavier version of the warpick intended to be used with two hands. Sometimes known as a **footman's pick**.
+
+**Khopesh.** An exotic-looking axe-like sword with an outwardly curving blade.
+
+**Lasso.** A length of rope tied into a loop or noose that can be thrown around a target to restraint it. Also known as a **lariat**.
+
+**Light Flail.** Two short sections of wood or metal connected by a small chain or hinge. Originally intended as an agricultural tool for threshing grain.
+
+**Longspear.** Longer than a normal spear, reaching lengths of 8' to 10'.
+
+**Longsword.** A long slender double-edged blade with a crossguard and balanced pommel. Sometimes known as a **warsword**.
+
+**Lucern Hammer.** A hammer with a spike on the other side mounted on a long pole. Very similar to a **bec-de-corbin**.
+
+**Man Catcher.** A cage-like ring of inwardly pointing barbs mounted on the end of a long pole. Intended to be used to unhorse riders and capture targets rather than kill them.
+
+**Pick.** A small double-headed pick usually used for breaking up dirt or rocks.
+
+**Pike.** A long and reinforced spear with a crossguard near the top meant for impaling enemies on the end. The **ranseur**, **spetum**, **partisan**, and **military fork** also fall in this category.
+
+**Pitchfork.** Your standard pitchfork, two or more prongs on a long wooded handle.
+
+**Scimitar.** A light one-handed single-edged curved sword meant for chopping and cutting. Sometimes known as a **sabre** or **cutlass**.
+
+**Scourge.** A short lash with multiple thongs typically made of leather and usually used as a form of torture.
+
+**Scythe.** A sharp inwardly curved blade attached to a long wooden handle intended for shearing grain.
+
+**Shovel.** A digging tool with a metal head on a long wooden handle. A **hoe** or a **spade** are very similar.
+
+**Shortsword.** A light one-handed double-edged sword with a short blade meant for stabbing which includes the **gladius** and **viking sword**.
+
+**Trident.** A three pronged fork with barbes mounted on a handle long enough to be used in one or two hands. Can also be called a **harpoon**.
+
+**Throwing Knife.** A small sharp blade specially shaped and balanced for accurate throwing.
+
+**Warpick.** A larger and more dangerous version of the pick able to be used in one or two hands. Sometimes called a **horseman's pick**.
+
+<div class='pageNumber'>3</div>
+<div class='footnote'>Armory Remix | New and Alternate Weapons</div>
+\page
+
 ### Customizing Weapons
 
 When creating your own weapons or customizing existing here are a few guidelines that will help to keep things balanced:
@@ -111,52 +178,11 @@ On the other hand you might wish to create a low-tech campaign or equip your mon
 * Add the **oversized** property if the weapon is **versatile**
 * Increase the **brutal** STR requirement for **brutal** or **oversized** weapons
 
-```
-```
-
-### New Weapons
-
-The following is a small selection of new weapons that helps to fill some of the gaps in the original weapons list. See *Appendix A* for their full stat listings.
-
-**Bastard Sword.** A double-edged sword with a wide crossguard and an extended pommel. Longer than a longsword but shorter than a greatsword.
-
-**Bolas.** Two or three weights connected by cords that when spun and thrown entangle their target.
-
-**Broadsword.** A sword with straight wide blade with very little taper and a short pommel. The length is about midway between a shortsword and a longsword.
-
-**Chain.** A long length of interlocking chains with a weight on each end.
-
-**Heavy Flail.** A larger and heavier version of the flail intended to be used with two hands.
-
-**Heavy Warpick.** A larger and heavier version of the warpick intended to be used with two hands.
-
-**Khopesh.** An exotic-looking axe-like sword with an outwardly curving blade.
-
-**Lasso.** A length of rope tied into a loop or noose that can be thrown around a target to restraint it.
-
-**Light Flail.** Two short sections of wood or metal connected by a small chain or hinge. Intended as an agricultural tool for threshing grain.
-
-**Longspear.** Similar to a normal spear, but longer reaching lengths of 8' to 10'.
-
-**Lucern Hammer.** A hammer with a spike on the other side mounted on a long pole.
-
-**Man Catcher.** A cage-like ring of inwardly pointing barbs mounted on the end of a long pole. Intended to be used to unhorse riders and capture targets rather than kill them.
-
-**Pick.** A small double-headed pick usually used for breaking up dirt or rocks.
-
-**Pitchfork.** Your standard pitchfork, two or more prongs on a long wooded handle.
-
-**Scourge.** A short lash with multiple thongs typically made of leather and usually used as a form of torture.
-
-**Scythe.** A sharp inwardly curved blade attached to a long wooden handle intended for shearing grain.
-
-**Shovel.** A digging tool with a metal head on a long wooden handle.
-
-**Throwing Knife.** A small sharp blade specially shaped and balanced for accurate throwing.
-
-<div class='pageNumber'>3</div>
+<div class='pageNumber'>4</div>
 <div class='footnote'>Armory Remix | Customizing Weapons</div>
 \page
 
 ## Armor and Shields
+
+If you're like me the number of options available on the armor and shields list in the Player's Handbook might strike you as seemimgly a bit boring and lacking in variety. Here I try to remedy that by offering some new types of armor and shields as well as some new special properties to make things a little more interesting.
 
