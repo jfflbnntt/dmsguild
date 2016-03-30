@@ -224,7 +224,7 @@ Following are a few new options for armor and shields. For a full listing of sta
 
 **Brigandine.** An armored coat with small rigid plates sewn between layers of cloth. Grants more protection than other light armors, but is heavier and a bit more restrictive as a trade-off. Also known as a **coat of plates** or **jack of plates**
 
-**Large Shield.** A large heavy shield, sometimes as tall as 5', most often made of metal with a groove in the middle to help it stand upright when placed on the ground. Used on battlefields as a mobile piece of cover for archers. Also known as a **pavise**, **mantlet**, or **tower** shield.
+**Large Shield.** A large heavy shield, sometimes as tall as 5', most often made of metal with a groove in the middle to help it stand upright when placed on the ground. Used on battlefields as a mobile piece of cover for archers. Also known as a **pavise**, **mantlet**, **body**, or **tower** shield.
 
 **Medium Shield.** A standard shield usually made of metal, or wood with metal reinforcement. Styles include **scutum**, **heater**, and **kite** shields.
 
