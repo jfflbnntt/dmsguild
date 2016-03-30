@@ -8,7 +8,7 @@ Wherever possible an effort was made to work within the framework of the existin
 
 > ### Contents
 > * New Weapon Properties
-> * New and Alternate Weapons
+> * New Weapons
 > * Customizing Weapons
 > * New Armor Shield Properties
 > * New Armor and Shields
@@ -42,17 +42,17 @@ Following are a collection of old weapons and new weapon properties that can be 
 
 Weapons tend to fall into certain categories based on how they are best used. Heavy weapons are slow but punishing when they connect. Light blades excel at quick strikes, while larger blades cut deeply. Whips and chains can wrap around obstacles or even be used with some skill to entangle targets. Applying the following new weapon properties helps to reinforce these ideas. See *Appendix B* for a listing of weapons grouped by each property. 
 
-**Balanced.** A weapon with this property is particularly well-balanced or suited to exploiting tactical openings. You have Advantage on Opportunity Attacks using this weapon. Double-edged swords of short to medium length tend to be more **balanced** than other types of weapons. A **balanced** weapon cannot also be **slow**.
+**Balanced.** A weapon with this property is particularly well-balanced or suited to exploiting tactical openings. You have Advantage on opportunity attacks using this weapon. Double-edged swords of short to medium length tend to be more **balanced** than other types of weapons. A **balanced** weapon cannot also be **slow**.
 
-**Brutal.** These weapons make the most of brute strength. When the you satisfy the minimum Strength requirement in the parentheses you do greater than average damage. If the result of any rolled weapon damage die is 1, reroll it and take the new result instead. This includes any extra damage dice provided by a critical hit or Martial Arts damage, but does not include sneak attack damage dice or spell damage dice. This benefit is lost against targets wearing **durable** armor. Impaling, crushing, and **heavy** weapons tend to also be **brutal**. A **brutal** weapon cannot also be **light** or **feeble**.
+**Brutal.** These weapons rely on heavy mass or cruel spikes and barbs to deal higher than normal damage. If the result of any rolled weapon damage die is 1, reroll it and take the new result instead. This includes any damage dice provided by a critical hit or martial arts feature, but does not include sneak attack damage dice or spell damage dice. This benefit is lost against targets wearing **durable** armor. Impaling, crushing, and **heavy** weapons tend to also be **brutal**. A **brutal** weapon cannot also be **light**, **finesse**, or **feeble**.
 
-**Feeble.** This weapon is weak, brittle, or otherwise poorly made and deals less damage than usual. If the result of any weapon damage die is its max value, reroll it and take the new result. A **feeble** weapon cannot also be **brutal**. 
+**Feeble.** A weapon with this property is weak, brittle, crafted of sub-standard materials, or otherwise poorly made and deals less damage than usual. If the result of any weapon damage die is its max value, reroll it and take the new result. A **feeble** weapon cannot also be **brutal**. 
 
-**Flexible.** A weapon with this property can be used to neutralize the benefits of shields and cover. As long as the attacker can see the target an attack made with this weapon ignores AC bonuses from shields or half cover and treats three-quarter cover as only half cover. Whips, chains, and flails are all **flexible** weapons.
+**Flexible.** A weapon with this property consists of multiple interlocking parts or made entirely of a flexible material and can be used to neutralize the benefits of shields and cover. As long as the attacker can see the target an attack made with this weapon ignores AC bonuses from shields or half cover and treats three-quarter cover as only half cover. Whips, chains, and flails are all **flexible** weapons.
 
-**Grappling.** These weapons can be used to make a grappling attack instead of doing damage. Using a weapon in this way does not require you to have a free hand and you make a melee or ranged weapon attack roll in place of a STR (Athletics) check, but otherwise works in the same way as a normal grappling Attack. **Grappling** weapons tend to also be **flexible** and **monk** weapons, but aren't required to be either.
+**Grappling.** These weapons are made from entangling cords, chains, nets, or have special hooks designed for grabbing and can be used to make a grappling attack instead of doing damage. Using a weapon in this way does not require you to have a free hand and you make a melee or ranged weapon attack roll in place of a STR (Athletics) check, but otherwise works in the same way as a normal grappling Attack. **Grappling** weapons tend to also be **flexible** and **monk** weapons, but aren't required to be either.
 
-**High Crit.** These weapons deal unusually large amounts of damage on a critical hit. Whenever you score a critical hit with this weapon maximize the base damage and then roll any extra crit damage dice normally. This feature is nullified by targets wearing **tough** armor. Chopping weapons like axes and single edged swords and impaling weapons like picks tend to be **high crit** weapons.
+**High Crit.** These weapons deal unusually large amounts of damage on a critical hit due to their sharp blades or long spikes. Whenever you score a critical hit with this weapon maximize the base damage and then roll any extra crit damage dice normally. This feature is nullified by targets wearing **tough** armor. Chopping weapons like axes, single edged swords, and impaling weapons like picks tend to be **high crit** weapons.
 
 **Lunging.** Some one-handed weapons are long and light enough to be used as a reach weapon, but do less damage beyond 5'. When making a reach attack with a **lunging** weapon use the lower damage die listed in parentheses. You cannot use this feature while also using a **versatile** weapon in both hands. A **lunging** weapon cannot also be **heavy** or **two-handed**.
 
@@ -66,37 +66,43 @@ Weapons tend to fall into certain categories based on how they are best used. He
 
 **Set.** A weapon with this property is highly effective when properly used against charging opponents. When you use a readied action to Attack an opponent with this weapon that has moved at least 10' toward you, that attack has Advantage and if it hits treat the hit as a critical hit. Spear-like piercing weapons tend to have the **set** property.
 
-**Slow.** These weapons are slow to recover and are too heavy or cumbersome to use effectively as a reaction. An attack with a weapon with this property has Disadvantage on Opportunity Attacks. **Heavy** and **two-handed** weapons tend to be **slow**. A **slow** weapon cannot also be **balanced**.
+**Slow.** These weapons are slow to recover and are too heavy or cumbersome to use effectively as a reaction. An attack with a weapon with this property has Disadvantage on opportunity attacks. **Heavy** and **two-handed** weapons tend to be **slow**. A **slow** weapon cannot also be **balanced**.
 
 **Sneaky.** This weapon is especially dangerous when used to strike a distracted or unaware foe. If you hit with this weapon and had Advantage with the attack, treat the hit as a critical hit. It can also be used with a Rogue's Sneak Attack feature, if not already allowed. **Sneaky** weapons tend to be simple, small, silent, and easily concealable. 
 
-**Underwater.** A weapon with this property can be used underwater without Disadvantage(PHB pg. 198). **Underwater** weapons tend to be piercing and thrusting weapons.
+**Underwater.** A weapon with this property can be used underwater without Disadvantage (PHB pg. 198). **Underwater** weapons tend to be piercing and thrusting weapons.
 
 <div class='pageNumber'>2</div>
 <div class='footnote'>Armory Remix | New Weapon Properties</div>
 \page
 
-### New and Alternate Weapons
+### New Weapons
 
 The following is a selection of descriptions for new weapons and old ones with alternate names that helps to fill some of the gaps in the original weapons list. See *Appendix A* for their full stat listings.
 
-**Club.** A small light one-handed bludgeon which can include a **sap**, **truncheon**, or **baton**.
+**Club.** A small light one-handed bludgeon. A **sap**, **truncheon**, and **baton** all use the stats of a **club**.
 
 **Dagger.** A small light one-handed weapon meant for stabbing and cutting in close combat. Can also be called a **dirk**, **stiletto**, or **knife**.
 
-**Handaxe.** A light one-handed axe or chopping tool. Could also be called a **hatchet** or **throwing axe**.
+**Handaxe.** A light one-handed axe or chopping tool. Could also be called a **hatchet**, **adze**, or **throwing axe**.
 
-**Bastard Sword.** A double-edged sword with a wide crossguard and an extended pommel. Longer than a longsword but shorter than a greatsword. Sometimes known as a **hand-and-a-half sword** or a **claymore**.
+**Bastard Sword.** A double-edged sword with a wide crossguard and an extended pommel. Longer than a longsword but shorter than a greatsword. Sometimes known as a **hand-and-a-half sword**.
 
 **Bolas.** Two or three weights connected by cords that when spun and thrown entangle their target.
 
 **Broadsword.** A sword with wide blade with very little taper and a short pommel. The length is about midway between a shortsword and a longsword. A **falchion** is another version of this weapon.
 
-**Chain.** A long length of interlocking chains with a weight on each end.
+**Chain.** A long length of interlocking metal loops with a weight on each end.
 
 **Flail.** A larger and more dangerous version of the light flail able to be used in one or two hands. Sometimes called a **horseman's flail**.
 
+**Fullblade.** A rare and impractically massive sword with an oversized blade, about as long a greatsword, but wider. It has a counter-balanced pommel which allows only the exceptionally strong to wield it in one hand. Sometimes known as a **giant sword**.
+
 **Glaive.** A sword-like blade on the end of a long pole. Other examples include the **voulge** and **bardiche**.
+
+**Greataxe.** A large double-bladed axe meant to be wielding in both hands. Sometimes called a **two-handed axe**.
+
+**Greatsword.** A sword with a double-edge blade longer than a longsword intended to be used with both hands. Sometimes known as a **claymore**, **two-handed sword** or **zweihander**.
 
 **Halberd.** An axe-like blade, sometimes accompanied by a spike, on the end of a long pole. The **guisarme**, **fauchard**, and **bill-guisarme** all fall into this category as well.
 
@@ -138,10 +144,16 @@ The following is a selection of descriptions for new weapons and old ones with a
 
 **Throwing Knife.** A small sharp blade specially shaped and balanced for accurate throwing.
 
+**Rapier.** A one-handed sword with a long slender pointed blade and a basket-like hand guard intended for dueling. Alternately known as an **epee** or a **fencing sword**.
+
+**Waraxe.** An oversized one-handed axe, larger than a battleaxe, but smaller than a greataxe. The **dwarven axe** is another example.
+
 **Warpick.** A larger and more dangerous version of the pick able to be used in one or two hands. Sometimes called a **horseman's pick**.
 
+**Warspear.** A sturdy oversized spear with a heavy tip that can be used in one hand by the very strong. Also known as a **greatspear**.
+
 <div class='pageNumber'>3</div>
-<div class='footnote'>Armory Remix | New and Alternate Weapons</div>
+<div class='footnote'>Armory Remix | New Weapons</div>
 \page
 
 ### Customizing Weapons
@@ -206,11 +218,11 @@ Just as some weapons pose additional threats, the right kind of armor can neutra
 
 Following are a few new options for armor and shields. For a full listing of stats see *Appendix D*.
 
-**Banded Plate Mail.** Heavy armor made from overlapping horizontal plates of metal attached to a backing of chain mail and a padded undertunic. Also known as **banded plate**, **banded mail**, **laminar armor**, or simple **banded armor**.
+**Banded.** Heavy armor made from overlapping horizontal plates of metal attached to a padded leather undertunic. Also known as **banded plate**, **banded mail**, or **laminar armor**.
 
-**Brigandine.** An armored coat with small rigid plates sewn between layers of cloth which can be easily concealed. Grants more protection than other light armors, but is heavier and a bit more restrictive as a trade-off. Also known as a **coat of plates** or **jack of plates**
+**Breastplate, Half, Three-Quarter, and Full Plate.** These armors all are made of layers of interlocking plates covering various parts of the body. Breastplates just cover the vital areas of the torso. Half plate adds pauldrons and vambraces to the breastplate while three-quarter plate includes greaves and gorget. Full plate finally adds sabatons, guantlets, and helmet along with other pieces sheathing the entire body. It is possible to buy just a breastplate and then eventually add the other pieces until you make it a full suit of plate armor.
 
-**Half and Full Plate.** Layers of interlocking plate armor covering most or all of the body. Half plate usually consists of the breastplate, pauldrons and guantlets while full plate includes vambraces, greaves, arm and neck guards. You can buy a suit of half plate and then later add the other pieces to make a full suit of plate armor.
+**Brigandine.** An armored coat with small rigid plates sewn between layers of cloth. Grants more protection than other light armors, but is heavier and a bit more restrictive as a trade-off. Also known as a **coat of plates** or **jack of plates**
 
 **Large Shield.** A large heavy shield, sometimes as tall as 5', most often made of metal with a groove in the middle to help it stand upright when placed on the ground. Used on battlefields as a mobile piece of cover for archers. Also known as a **pavise**, **mantlet**, or **tower** shield.
 
@@ -218,7 +230,7 @@ Following are a few new options for armor and shields. For a full listing of sta
 
 **Small Shield.** A small round shield usually made of wood or leather and possibly with metal reinforcement. Sometimes known as a **target** or **buckler**.
 
-**Splinted Plate Mail.** Heavy armor made from vertical metal ribs, or splints, attached to a backing of chain mail. Also known as **splint mail**, **splinted plate** or simply **splint armor**.
+**Splint.** Heavy armor made from vertical metal ribs, or splints, attached to a backing of leather with chainmail covering the joints. Also known as **splint mail** or **splinted plate**.
 
 ### Customizing Armor and Shields
 
