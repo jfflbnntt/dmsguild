@@ -15,7 +15,7 @@ Wherever possible an effort was made to work within the framework of the existin
 > * New Armor Shield Properties
 > * New Armor and Shields
 > * Customizing Items
-> * Proficiency and Feat Updates
+> * Rule Updates
 > * Appendix A: Updated Weapon Table
 > * Appendix B: Weapons Grouped By Properties
 > * Appendix C: Updated Weapon Proficiencies Table
@@ -56,7 +56,7 @@ Weapons tend to fall into certain categories based on how they are best used. He
 
 **Lunging.** Some one-handed weapons are long and light enough to be used as a reach weapon, but do less damage beyond 5'. When making a reach attack with a **lunging** weapon use the lower damage die listed in parentheses. You cannot use this feature while also using a **versatile** weapon in both hands. A **lunging** weapon cannot also be **heavy** or **two-handed**.
 
-**Monk.** Weapons with this property count as Monk weapons and can be used with the Martial Arts feature (PHB pg.78) if not already included. **Monk** weapons tend to be simple weapons without the **heavy** or **two-handed** properties, although there are a few select martial weapons that are included as well.
+**Monk.** Weapons with this property count as Monk weapons that can be used with the Martial Arts feature (PHB pg.78). **Monk** weapons tend to be simple weapons without the **heavy** or **two-handed** properties, although there are a few select martial weapons that are included as well.
 
 **Oversized.** This weapon is larger and heavier than most **versatile** weapons and difficult to use properly without exceptional strength. If you do not meet minimum Strength requirement in the parentheses the **versatile** property and is replaced with the **two-handed** property instead.
 
@@ -258,4 +258,50 @@ On the other hand you might wish to run a low-tech campaign or equip your monste
 
 <div class='pageNumber'>5</div>
 <div class='footnote'>Armory Remix | Customizing Items</div>
+\page
+
+### Proficiency Updates
+ 
+#### Racial Proficiencies 
+
+The following changes should be made to racial proficiencies:
+
+**Dwarven Combat Training.** Add waraxe to the list.
+
+**Elf Weapon Training.** Add scimitar to the list.
+
+**Drow Weapon Training.** Add scourge to the list.
+
+#### Class Proficiencies
+
+The following changes should be made to class proficiencies:
+ 
+**Bard.** Gain access to light shields.
+
+**Cleric.** Gain access to light and medium shields.
+
+**Druid.** Gain access to light and medium shields (nonmetal), scythes, and longspears.
+
+**Monk.** Gain access to bolas and whips.
+
+**Ranger.** Gain access to light and medium shields.
+
+**Rogue.** Gain access to light shields.
+
+**Warlock.** Gain access to light shields.
+
+#### Armor and Shield Proficiencies
+
+In general the following changes apply:
+
+**Light Armor Proficiency.** Any feature that grants proficiency with light armor also grants proficiency with light shields.
+
+**Medium Armor Proficiency.** Any feature that grants proficiency with medium armor also grants proficiency with medium shields.
+
+**Heavy Armor Proficiency.** Any feature that grants proficiency with heavy armor also grants proficiency with heavy shields.
+
+### Feats
+
+<div class='pageNumber'>6</div>
+<div class='footnote'>Armory Remix | Rule Updates</div>
 \page
