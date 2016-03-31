@@ -20,8 +20,9 @@ Wherever possible an effort was made to work within the framework of the existin
 > * Appendix B: Martial Weapons
 > * Appendix C: Weapons by Property
 > * Appendix D: Armor and Shields
-> * Contact Info
 > * Legal Stuff
+> * Credits
+> * Contact Info
 > * Changelog
 
 ## Weapons
@@ -481,6 +482,28 @@ The following changes should be made to feats:
 <div class='footnote'>Armory Remix | Armor and Shields</div>
 \page
 
+### Legal Stuff
+
+DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampersand, and all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries.
+
+This work contains material that is copyright Wizards of the Coast and/or other authors. Such material is used with permission under the Community Content Agreement for Dungeon Masters Guild.
+
+All other original material in this work is copyright 2016 by Jeff Bennett and published under the Community Content Agreement for Dungeon Masters Guild.
+
+### Credits
+
+This product was formatted using [The Homebrewery](http://www.naturalcrit.com/homebrew)
+
+
+```
+```
+
+### Contact Info
+___
+**Email:** jfflbnntt@gmail.com
+
+> ### Changelog
+> * v1.0 Initial version
 
 <style>
 .phb table { 
