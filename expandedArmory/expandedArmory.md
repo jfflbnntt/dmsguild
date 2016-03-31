@@ -58,7 +58,7 @@ Weapons tend to fall into certain categories based on how they are best used. He
 
 **Monk.** Weapons with this property count as Monk weapons that can be used with the Martial Arts feature (PHB pg.78). **Monk** weapons tend to be simple weapons without the **heavy** or **two-handed** properties, although there are a few select martial weapons that are included as well.
 
-**Oversized.** This weapon is larger and heavier than most **versatile** weapons and difficult to use properly without exceptional strength. If you do not meet minimum Strength requirement in the parentheses the **versatile** property and is replaced with the **two-handed** property instead.
+**Oversized.** This weapon is larger and heavier than most **versatile** weapons and difficult to use properly without exceptional strength. If you do not meet minimum Strength requirement in the parentheses the **versatile** property and is replaced with the **two-handed** property instead and loses that **lunging** property if applicable.
 
 **Powerdraw.** Especially powerful bows made from reinforced, rare, or composite materials derive their damage from raw strength. When applied to a shortbow or longbow this property allows you to use your Strength modifier for attack and damage bonuses in place of Dexterity. The weapon cannot be used if the minimum Strength requirement in parentheses is not met.
 
@@ -150,7 +150,7 @@ The following is a selection of descriptions for new weapons and old ones with a
 
 **Warpick.** A larger and more dangerous version of the pick able to be used in one or two hands. Sometimes called a **horseman's pick**.
 
-**Warspear.** A sturdy oversized spear with a heavy tip that can be used in one hand by the very strong. Also known as a **greatspear**.
+**Warspear.** A sturdy oversized spear with a heavy tip that can be used in one hand by the very strong. Also known as a **greatspear** or a **heavy spear**.
 
 <div class='pageNumber'>3</div>
 <div class='footnote'>Armory Remix | New Weapons</div>
@@ -394,7 +394,7 @@ The following changes should be made to feats:
 | Waraxe | 25 gp | 1d10 slashing | 6 lb. | Heavy, high crit, oversized (Str 15), slow, versatile (1d12) |
 | Warhammer | 15 gp | 1d8 bludgeoning or piercing | 2 lb. | Brutal, versatile (1d10) |
 | Warpick | 5 gp | 1d8 piercing | 2 lb. | Brutal, high crit |
-| Warspear | 75 gp | 1d8 piercing | 7 lb. | Heavy, oversized (Str 17), reach, set, versatile (1d10) |
+| Warspear | 75 gp | 1d8 piercing | 7 lb. | Heavy, lunging (1d6), oversized (Str 17), set, versatile (1d10), underwater |
 | Whip | 2 gp | 1d4 slashing | 3 lb. | Finesse, flexible, grappling, monk, reach |
 
 ##### Martial Ranged Weapons
@@ -410,10 +410,46 @@ The following changes should be made to feats:
 <div class='footnote'>Armory Remix | Martial Weapons</div>
 \page
 
+# Appendix C: Weapons by Property
+
+| Property | Weapons |
+|:-|:-|
+|Ammunition| Blowgun, hand crossbow, heavy crossbow, light crossbow, longbow, shortbow, sling|
+|Balanced| Broadsword, longsword, rapier, shortsword, quarterstaff |
+|Brutal| Broadsword, greatclub, heavy pick, lucern hammer, mace, maul, morningstar, pick, trident, warhammer, warpick |
+|Feeble| Pitchfork, shovel |
+|Finesse| Dagger, rapier, scimitar, scourge, shortsword, whip |
+|Flexible| Chain, flail, heavy flail, light flail, scourge, whip |
+|Grappling| Bolas, chain, lasso, man catcher, net, whip |
+|Heavy| Chain, fullblade, glaive, greataxe, greatsword, halberd, heavy crossbow, heavy flail, heavy pick, longbow, lucern hammer, maul, pike, waraxe, warspear |
+|High Crit| Battleaxe, greataxe, halberd, heavy pick, khopesh, lance, pick, scimitar, sickle, waraxe, warpick |
+|Light| Club, dagger, hand crossbow, handaxe, light flail, light hammer, scimitar, scourge, shortsword, sickle, throwing knife |
+|Lunging| Javelin, quarterstaff, rapier, spear, trident, warspear |
+|Monk| Bolas, shortsword, whip |
+|Oversized| Bastard sword, fullblade, waraxe, warspear |
+|Reach| Chain, glaive, halberd, lance, longspear, lucern hammer, man catcher, pike, pitchfork, whip |
+|Set| Longspear, pike, pitchfork, spear, trident, warspear |
+|Slow| Chain, fullblade, greataxe, greatclub, halberd, heavy flail, heavy pick, lance, lucern hammer, maul, scythe, waraxe |
+|Sneaky| Club, dagger, throwing knife |
+|Special| Lance, net |
+|Thrown| Bolas, dagger, dart, handaxe, javelin, lasso, light hammer, net, spear, throwing knife, trident |
+|Two-handed| Chain, glaive, greataxe, greatclub, greatsword, halberd, heavy crossbow, heavy flail, heavy pick, light crossbow, longbow, longspear, lucern hammer, man catcher, maul, pike, pitchfork, scythe, shortbow |
+|Versatile| Bastard sword, battleaxe, flail, fullblade, longsword, quarterstaff, shovel, spear, trident, waraxe, warhammer, warspear |
+|Underwater| Dagger, dart, hand crossbow, javelin, light crossbow, longspear, man catcher, net, pike, pitchfork, shortsword, spear, trident, warspear |
+
+<div class='pageNumber'>8</div>
+<div class='footnote'>Armory Remix | Weapons by Property</div>
+\page
+
 <style>
 .phb table { 
   -webkit-column-span: all;
   column-span: all;
   -moz-column-span: all;
 }
+
+.phb table tbody td { padding: .3em; min-width: 50px; }
+
+.phb table thead th { padding: .3em; min-width: 50px; }
+
 </style>
