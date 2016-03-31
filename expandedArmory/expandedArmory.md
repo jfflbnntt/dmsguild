@@ -326,7 +326,7 @@ The following changes should be made to feats:
 ##### Appendix A: Updated Weapon Table
 ___
 | Name | Cost | Damage | Weight | Properties |
-|:------|:----:|:---------:|:--------:|:-----------|
+|:------|:----|:---------|:--------|:-----------|
 | *Simple Melee Weapons* |  |  |   |   |
 | Club | 1 sp | 1d4 bludgeoning | 2 lb. | Light, sneaky |
 | Dagger | 2 gp | 1d4 piercing or slashing | 1 lb. | Finesse, light, sneaky, thrown (20/60), underwater |
@@ -344,6 +344,14 @@ ___
 | Shovel | 5 sp | 1d4 bludgeoning or slashing | 3 lb. | Feeble, versatile (1d6) |
 | Sickle | 1 gp | 1d4 slashing | 2 lb. | Light, high crit |
 | Spear | 1 gp | 1d6 piercing| 3 lb. | lunging (1d4), set, thrown (20/60), underwater, versatile (1d8) |
+| *Simple Ranged Weapons* |  |  |  |  |
+| Dart | 5 cp | 1d4 piercing | 1/4 lb. | Thrown (40/120), underwater |
+| Lasso | 5 sp | - | - | Grappling, thrown (10/30) |
+| Light crossbow | 25 gp | 1d8 piercing | 5 lb. | Ammunition (80/320) loading, two-handed, underwater |
+| Net | 1 gp | - | 3 lb. | Grappling, special, thrown (5/15), underwater |
+| Shortbow | 25 gp | 1d6 piercing | 2 lb. | Ammunition (80/320), two-handed |
+| Sling | 1 sp | 1d4 bludgeoning | - | Ammunition (40/160) |
+| Throwing knife | 2 sp | 1d4 slashing | 1/8 lb. | Light, sneaky, thrown (30/90) |
 
 
 
