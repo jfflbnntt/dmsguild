@@ -2,17 +2,20 @@
 
 Each edition of Dungeons and Dragons has seen a tweaking of the weapon and armor tables. What has been presented in the 5th edition Player's Handbook is the most streamlined and simplified equipment lists yet. Gone are the days of weapons with specific bonuses againsts certain types of armor and damage dice that vary based on the size of the wielder or the target. No longer do we have to worry about keeping track of weapon critical threat ranges or critical damage multipliers or different rates of fire. Say good-bye to specific armor skill check penalties and weapon group proficiency bonuses. For the most part the game benefits from the refinement. However, after playing for awhile now I began to feel that there was something missing, that there wasn't quite enough variety or distintion between items, and a few glaring ommisions.
 
-In this document I present my take on expanding and improving upon the armor and weapon lists. In addition to including a selection of items from previous editions there are a few new weapon and armor properties detailed which add flavor to and create meaningful distinctions between items. I've also added suggestions on how to tweak items further using the new weapon and armor properties to create custom high quality or low quality items. 
+In this document I present my take on expanding and improving upon the armor and weapon lists. In addition to including a selection of items from previous editions there are a few new weapon and armor properties detailed which add flavor to and create meaningful distinctions between items. I've also added suggestions on how to tweak items further using the new weapon and armor properties to create custom high quality or low quality items. Since there are new options for weapons, armor, and shields I've updated the race and class proficincies to reflect the changes. Finally I've included a list of changes to existing feats that deal with armor, shields, and weapons and even added a couple new ideas.
 
 Wherever possible an effort was made to work within the framework of the existing ruleset and not to overburden players and DMs with arbitraty modifiers, new combat mechanics, or overshadow existing class features, racial abilities, or feats. All ideas presented here are optional and could be used independent of each other. For example, you might decide to use the new weapon and armor lists but ignore the new properties, or you might use only a few new properties and ignore others. Feel free to hack the system to your personal preferences and feedback is always welcome.
+
+```
+```
 
 > ### Contents
 > * New Weapon Properties
 > * New Weapons
-> * Customizing Weapons
 > * New Armor Shield Properties
 > * New Armor and Shields
-> * Customizing Armors
+> * Customizing Items
+> * Proficiency and Feat Updates
 > * Appendix A: Updated Weapon Table
 > * Appendix B: Weapons Grouped By Properties
 > * Appendix C: Updated Weapon Proficiencies Table
@@ -20,9 +23,6 @@ Wherever possible an effort was made to work within the framework of the existin
 > * Contact Info
 > * Legal Stuff
 > * Changelog
-
-```
-```
 
 ## Weapons
 
@@ -62,7 +62,7 @@ Weapons tend to fall into certain categories based on how they are best used. He
 
 **Powerdraw.** Especially powerful bows made from reinforced, rare, or composite materials derive their damage from raw strength. When applied to a shortbow or longbow this property allows you to use your Strength modifier for attack and damage bonuses in place of Dexterity. The weapon cannot be used if the minimum Strength requirement in parentheses is not met.
 
-**Reapeating.** When applied to a crossbow of any type this property replaces the loading property of that weapon when used with an appropriate magazine that still has ammunition in it. The size of the magazine supported is listed in parentheses. Reloading a magazine takes an action.
+**Reapeating.** When applied to a crossbow of any type this property replaces the loading property of that weapon when used with a magazine that still has ammunition in it. The typical magazine holds up to 6 bolts. Reloading a repeating crossbow takes an action. 
 
 **Set.** A weapon with this property is highly effective when properly used against charging opponents. When you use a readied action to Attack an opponent with this weapon that has moved at least 10' toward you, that attack has Advantage and if it hits treat the hit as a critical hit. Spear-like piercing weapons tend to have the **set** property.
 
@@ -156,44 +156,6 @@ The following is a selection of descriptions for new weapons and old ones with a
 <div class='footnote'>Armory Remix | New Weapons</div>
 \page
 
-### Customizing Weapons
-
-When creating your own weapons or customizing existing here are a few guidelines that will help to keep things balanced:
-
-* Simple weapons tend to do less damage and have fewer beneficial keywords than Martial weapons. 
-* Common tools and farming implements also can be used as Simple weapons.
-* Light weapons tend to do low damage since they can be used in the off-hand for a bonus attack.
-* Finesse weapons tend to do low damage as well since they can be used in conjunction with Sneak Attack.
-* Light and Finesse weapons should not also be Heavy.
-* Reach and Two-handed weapons tend to be Heavy.
-* Thrown weapons have a maximum range which is 3x its short range.
-* Ammunition weapons have a maximum range which is 4x its short range.
-
-#### High Quality Weapons
-
-In some cases it's okay to break the game balance guidelines above, especially when you want to create a unique and memorable item. High quality weapons are rare and valuable and their cost should reflect this. Some are expertly crafted and can be considered masterwork items, others are made of rare materials that grant them special properties. Avoid the temptation to add inherent attack or damage bonuses. Instead a high quality weapon can have one or more of the following benefits above and beyond the stats of its base item:
-
-* Add the **high crit** or **brutal** property
-* Add the **finesse** or **light** property or remove **heavy** property
-* Add the **balanced** property or remove the **slow** property
-* Add the **powerdraw** property to a shortbow or longbow or add the **repeating** property to a crossbow
-* Remove the **oversized** property
-* Reduce STR requirement for **brutal** or **oversized** weapons
-
-#### Low Quality Weapons
-
-On the other hand you might wish to create a low-tech campaign or equip your monsters with crude weaponry. Low quality weapons might be ancient and deteriorated, damaged in some way, poorly crafted, or made from primative or substandard materials. A low quality weapon can have one or more of the following drawbacks in addition to any from its base item:
-
-* Add the **feeble** property or remove either the **high crit** or **brutal** property
-* Add the **heavy** property or remove either the **light** or **finesse** property
-* Add the **slow** property or remove the **balanced** property
-* Add the **oversized** property if the weapon is **versatile**
-* Increase the **brutal** STR requirement for **brutal** or **oversized** weapons
-
-<div class='pageNumber'>4</div>
-<div class='footnote'>Armory Remix | Customizing Weapons</div>
-\page
-
 ## Armor and Shields
 
 The number of options available on the armor and shields list in the Player's Handbook might strike you as a bit boring and lacking in variety. Here I try to remedy that by offering some new types of armor and shields as well as some new special properties to make things a little more interesting.
@@ -202,7 +164,7 @@ The number of options available on the armor and shields list in the Player's Ha
 
 Just as some weapons pose additional threats, the right kind of armor can neutralize those threats. Likewise a shield is not only useful in deflecting blows in close combat, but a hefty shield when used properly can offer a much needed source of cover from explosions, magical blasts, and bursts of dragon's breath.
 
-**Covering.** Shields with the **covering** property can be treated as cover while prone and crouching behind it. Medium shields provide half-cover to one creature and large shields provide three-quarter cover to one creature or half-cover to two adjacent creatures. Small shields do not provide any cover. Take only the AC bonus from the shield or cover condition depending on how it's being used, but not both.
+**Covering.** Shields with the **covering** property can be treated as cover while prone and behind it. When used in this way medium shields provide half-cover and heavy shields provide three-quarter cover to the creature using it, assuming the shield is apropriately sized for the creature in question. Light shields do not provide any cover. Take only the AC bonus from the shield or cover condition depending on how it's being used, but not both.
 
 **Cumbersome.** Armor with this property weighs the wearer down and can slow movement. The wearer must meet the minimum STR requirement in the parenthese or have their base movement speed be reduced by 10' while wearing this armor.
 
@@ -210,9 +172,14 @@ Just as some weapons pose additional threats, the right kind of armor can neutra
 
 **Restrictive.** Armor with this property restricts the full range of motion, making it difficult to move quickly and quietly. The wearer has Disadvantage with stealth checks while wearing this armor.
 
+**Spiked.** Armor and shields with this property have been embellished with metal spikes or something equally dangerous for decoration and intimidation factor. A shield with spikes does 1d4 piercing damage instead of bludgeoning when used as a weapon or as part of a shove attack. A creature who grapples or is grappled by another creature in spiked armor takes 1d4 piercing damage from the spikes. Armor with spikes also gains the **restrictive** property if it doesn't already.
+
 **Tough.** This armor is reinforced around the vital areas making it harder to land deadly blows and allowing the wearer to ignore the **high crit** property of any weapons. Roll damage normally for a critical hit from any **high crit** weapons. Half plate, splint plate mail, and full plate are all considered **tough**.
 
-**Unwieldy.** Large shields are cumbersome and difficult to carry in one hand by all but the exceptionally strong. All melee attacks are made at Disadvantage while carrying a large shield unless the wielder meets the minimum STR requirement in parentheses. However a large shield can be set on the ground as an action and used as cover until picked up again with another action.
+**Unwieldy.** Heavy shields are bulky and cumbersome and make it difficult to fight while carrying. All attack rolls are made at Disadvantage while carrying a large shield. However, a heavy shield can be set on the ground as an action and used as cover until picked up again with another action.
+
+```
+```
 
 ### New Armor and Shields
 
@@ -224,38 +191,71 @@ Following are a few new options for armor and shields. For a full listing of sta
 
 **Brigandine.** An armored coat with small rigid plates sewn between layers of cloth. Grants more protection than other light armors, but is heavier and a bit more restrictive as a trade-off. Also known as a **coat of plates** or **jack of plates**
 
-**Large Shield.** A large heavy shield, sometimes as tall as 5', most often made of metal with a groove in the middle to help it stand upright when placed on the ground. Used on battlefields as a mobile piece of cover for archers. Also known as a **pavise**, **mantlet**, **body**, or **tower** shield.
+**Heavy Shield.** A very large and heavy shield, sometimes as tall as 5', most often made of metal with a groove in the middle to help it stand upright when placed on the ground. Used on battlefields as a mobile piece of cover for soldiers and especially archers. Anyone with the heavy armor proficiency can also use heavy shields. Also known as a **pavise**, **mantlet**, **body**, or **tower** shield.
 
-**Medium Shield.** A standard shield usually made of metal, or wood with metal reinforcement. Styles include **scutum**, **heater**, and **kite** shields.
+**Light Shield.** A small round shield usually made of wood or leather and possibly with metal rivets for reinforcement. Anyone with the light armor proficiency can use a light shield. Sometimes known as a **targe**, **target**, **round shield**, or **buckler**.
 
-**Small Shield.** A small round shield usually made of wood or leather and possibly with metal reinforcement. Sometimes known as a **target** or **buckler**.
+**Medium Shield.** A standard shield usually made of metal, or wood with metal reinforcement. Anyone with the medium armor proficiency can use medium shields. Examples include **scutum**, **heater**, and **kite** shields.
 
 **Splint.** Heavy armor made from vertical metal ribs, or splints, attached to a backing of leather with chainmail covering the joints. Also known as **splint mail** or **splinted plate**.
 
-### Customizing Armor and Shields
-
-As with weapons some shields and armor are a cut above the standard or sometimes sub-par. Here are some helpful hints when creating your own items.
-
-#### High Quality Armor and Shields
-
-These items are masterwork items, crafted of excellent skill, or made from rare and wonderful materials. High quality armor and shields are highly sought after and their cost should reflect this. Avoid the temptation to add inherent AC bonuses. Instead a high quality suit of armor or shield should grant one or more of the following benefits:
-
-* Add the **durable** or **tough** property
-* Remove the **restrictive**, **unwieldy**, or **cumbersome** property
-* Reduce the STR requirement for the **cumbersome** or **unwieldy** property
-* Reduce the weight of the armor or shield
-
-#### Low Quality Armor and Shields
-
-Sometimes armor is old and worn out or a shield is cracked. Maybe the armor is crafted of a non-standard material like bone, stone, or wood. Maybe a serving platter is being used as a makeshift shield. In any case, low quality shields and armor have one or more of the following drawbacks:
-
-* Remove the **durable** or **tough** property
-* Add the **restrictive**, **cumbersome**, or **unwieldy** property
-* Increase the STR requirement for the **cumbersome** or **unwieldy** property
-* Increase the weight of the armor or shield
-
-<div class='pageNumber'>5</div>
+<div class='pageNumber'>4</div>
 <div class='footnote'>Armory Remix | Armor and Shields</div>
 \page
 
+### Customizing Items
 
+When creating your own weapons and armor or customizing existing here are a few guidelines that will help to keep things balanced:
+
+* Simple weapons tend to do less damage and have fewer beneficial keywords than Martial weapons. 
+* Common tools and farming implements also can be used as Simple weapons.
+* Light weapons tend to do low damage since they can be used in the off-hand for a bonus attack.
+* Finesse weapons tend to do low damage as well since they can be used in conjunction with Sneak Attack.
+* Light and Finesse weapons should not also be Heavy.
+* Reach and Two-handed weapons tend to be Heavy.
+* Thrown weapons have a maximum range which is 3x its short range.
+* Ammunition weapons have a maximum range which is 4x its short range.
+* Heavy armor tends to be both restrictive and cumbersome.
+* Avoid the temptation to add inherent attack, damage, or AC bonuses.
+
+### High Quality Items
+
+In some cases it's okay to break the game balance guidelines above, especially when you want to create a unique and memorable item. High quality weapons are rare, valuable, and highly sought after so their cost should reflect this. These items are expertly crafted and can be considered masterwork items, others are made of rare and wonderful materials that grant them special properties. High quality items can have one or more of the following benefits above and beyond the stats of its base stats:
+
+#### Weapons
+* Add the **high crit** or **brutal** property
+* Add the **finesse** or **light** property or remove **heavy** property
+* Add the **balanced** property or remove the **slow** property
+* Add the **powerdraw** property to a shortbow or longbow or add the **repeating** property to a crossbow
+* Remove the **oversized** property
+* Reduce STR requirement for **brutal** or **oversized** weapons
+
+#### Armor or Shield
+* Add the **durable**, **tough**, or **spiked** property
+* Remove the **restrictive**, **unwieldy**, or **cumbersome** property
+* Reduce the STR requirement for the **cumbersome** property
+* Reduce the weight of the armor or shield
+
+```
+```
+
+### Low Quality Items
+
+On the other hand you might wish to run a low-tech campaign or equip your monsters with primative gear. Low quality items might be old and worn out, damaged in some way, poorly crafted, or made from primative or sub-standard materials such as bronze, bone, stone, or wood. In any case, low quality items have one or more of the following drawbacks:
+
+#### Weapon
+* Add the **feeble** property or remove either the **high crit** or **brutal** property
+* Add the **heavy** property or remove either the **light** or **finesse** property
+* Add the **slow** property or remove the **balanced** property
+* Add the **oversized** property if the weapon is **versatile**
+* Increase the **brutal** STR requirement for **brutal** or **oversized** weapons
+
+#### Armor or Shield
+* Remove the **durable**, **tough**, or **spiked** property
+* Add the **restrictive**, **cumbersome**, or **unwieldy** property
+* Increase the STR requirement for the **cumbersome** property
+* Increase the weight of the armor or shield
+
+<div class='pageNumber'>5</div>
+<div class='footnote'>Armory Remix | Customizing Items</div>
+\page
