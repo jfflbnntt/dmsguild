@@ -18,8 +18,7 @@ Wherever possible an effort was made to work within the framework of the existin
 > * Rule Updates
 > * Appendix A: Updated Weapon Table
 > * Appendix B: Weapons Grouped By Properties
-> * Appendix C: Updated Weapon Proficiencies Table
-> * Appendix D: Updated Armor and Shields Table
+> * Appendix C: Updated Armor and Shields Table
 > * Contact Info
 > * Legal Stuff
 > * Changelog
@@ -170,6 +169,8 @@ Just as some weapons pose additional threats, the right kind of armor can neutra
 
 **Durable.** This armor provides additional protection and cushioning against heavy hitting impacts from **brutal** weapons, effectively allowing the wearer to ignore that property. All damage from **brutal** weapons is rolled normally. Scale mail, banded plate mail, and full plate are all **durable**.
 
+**Obscuring.** This armor includes a helmet that partially obscures your vision and hearing. All Wisdom (Perception) checks are made at Disadvantage while wearing this armor. 
+
 **Restrictive.** Armor with this property restricts the full range of motion, making it difficult to move quickly and quietly. The wearer has Disadvantage with stealth checks while wearing this armor.
 
 **Spiked.** Armor and shields with this property have been embellished with metal spikes or something equally dangerous for decoration and intimidation factor. A shield with spikes does 1d4 piercing damage instead of bludgeoning when used as a weapon or as part of a shove attack. A creature who grapples or is grappled by another creature in spiked armor takes 1d4 piercing damage from the spikes. Armor with spikes also gains the **restrictive** property if it doesn't already.
@@ -183,11 +184,11 @@ Just as some weapons pose additional threats, the right kind of armor can neutra
 
 ### New Armor and Shields
 
-Following are a few new options for armor and shields. For a full listing of stats see *Appendix D*.
+Following are a few new options for armor and shields. For a full listing of stats see *Appendix C*.
 
 **Banded.** Heavy armor made from overlapping horizontal plates of metal attached to a padded leather undertunic. Also known as **banded plate**, **banded mail**, or **laminar armor**.
 
-**Breastplate, Half, Three-Quarter, and Full Plate.** These armors all are made of layers of interlocking plates covering various parts of the body. Breastplates just cover the vital areas of the torso. Half plate adds pauldrons and vambraces to the breastplate while three-quarter plate includes greaves and gorget. Full plate finally adds sabatons, guantlets, and helmet along with other pieces sheathing the entire body. It is possible to buy just a breastplate and then eventually add the other pieces until you make it a full suit of plate armor.
+**Breastplate, Half, Field, and Full Plate.** These armors all are made of layers of interlocking plates covering various parts of the body. Breastplates just cover the vital areas of the torso. Half plate adds pauldrons and vambraces to the breastplate while field plate includes greaves, gorget and half-helm. Full plate finally adds sabatons, guantlets, and a great helm along with other pieces sheathing the entire body. It is possible to start with a breastplate and then slowly add the other pieces until you make it a full suit of plate armor.
 
 **Brigandine.** An armored coat with small rigid plates sewn between layers of cloth. Grants more protection than other light armors, but is heavier and a bit more restrictive as a trade-off. Also known as a **coat of plates** or **jack of plates**
 
@@ -321,3 +322,28 @@ The following changes should be made to feats:
 <div class='pageNumber'>6</div>
 <div class='footnote'>Armory Remix | Rule Updates</div>
 \page
+
+##### Appendix A: Updated Weapon Table
+___
+| Name | Cost | Damage | Weight | Properties |
+|:------|:----:|:---------:|:--------:|:-----------|
+| *Simple Melee Weapons* |  |  |   |   |
+| Club | 1 sp | 1d4 bludgeoning | 2 lb. | Light, sneaky |
+| Dagger | 2 gp | 1d4 piercing or slashing | 1 lb. | Finesse, light, sneaky, thrown (20/60), underwater |
+| Greatclub | 2 sp | 1d8 bludgeoning | 10 lb. | Brutal, two-handed, slow |
+| Handaxe | 5 gp | 1d6 slashing | 2 lb. | Light, thrown (20/60) |
+| Javelin | 5 sp | 1d6 piercing | 2 lb. | Lunging (1d4), thrown (30/90), underwater |
+| Light flail | 3 gp | 1d4 bludgeoning | 2 lb. | Flexible, light |
+| Light hammer | 2 gp | 1d4 bludgeoning | 2 lb. | Light, thrown (20/60) |
+| Longspear | 5 gp | 1d6 piercing | 5 lb. | Set, two-handed, reach, underwater |
+| Mace | 5 gp | 1d6 bludgeoning | 4 lb. | Brutal |
+| Pick | 1 gp | 1d4 piercing | 2 lb. | Brutal, high crit |
+| Pitchfork | 2 sp | 1d6 piercing | 2 lb. | Feeble, set, two-handed, reach, underwater |
+| Quarterstaff | 2 sp | 1d6 bludgeoning | 4 lb. | Balanced, lunging (1d4), versatile (1d8) |
+| Scythe | 2 sp | 2d4 slashing | 5 lb. | slow, two-handed |
+| Shovel | 5 sp | 1d4 bludgeoning or slashing | 3 lb. | Feeble, versatile (1d6) |
+| Sickle | 1 gp | 1d4 slashing | 2 lb. | Light, high crit |
+| Spear | 1 gp | 1d6 piercing| 3 lb. | lunging (1d4), set, thrown (20/60), underwater, versatile (1d8) |
+
+
+
