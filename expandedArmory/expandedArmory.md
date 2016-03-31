@@ -2,7 +2,7 @@
 
 Each edition of Dungeons and Dragons has seen a tweaking of the weapon and armor tables. What has been presented in the 5th edition Player's Handbook is the most streamlined and simplified equipment lists yet. Gone are the days of weapons with specific bonuses againsts certain types of armor and damage dice that vary based on the size of the wielder or the target. No longer do we have to worry about keeping track of weapon critical threat ranges or critical damage multipliers or different rates of fire. Say good-bye to specific armor skill check penalties and weapon group proficiency bonuses. For the most part the game benefits from the refinement. However, after playing for awhile now I began to feel that there was something missing, that there wasn't quite enough variety or distintion between items, and a few glaring ommisions.
 
-In this document I present my take on expanding and improving upon the armor and weapon lists. In addition to including a selection of items from previous editions there are a few new weapon and armor properties detailed which add flavor to and create meaningful distinctions between items. I've also added suggestions on how to tweak items further using the new weapon and armor properties to create custom high quality or low quality items. Since there are new options for weapons, armor, and shields I've updated the race and class proficincies to reflect the changes. Finally I've included a list of changes to existing feats that deal with armor, shields, and weapons and even added a couple new ideas.
+In this document I present my take on expanding and improving upon the armor and weapon lists. In addition to including a selection of items from previous editions there are a few new weapon and armor properties detailed which add flavor to and create meaningful distinctions between items. I've also added suggestions on how to tweak items further using the new weapon and armor properties to create custom high quality or low quality items. Since there are new options for weapons, armor, and shields I've included a list of changes to racial and class proficincies and existing feats that deal with armor, shields, and weapons.
 
 Wherever possible an effort was made to work within the framework of the existing ruleset and not to overburden players and DMs with arbitraty modifiers, new combat mechanics, or overshadow existing class features, racial abilities, or feats. All ideas presented here are optional and could be used independent of each other. For example, you might decide to use the new weapon and armor lists but ignore the new properties, or you might use only a few new properties and ignore others. Feel free to hack the system to your personal preferences and feedback is always welcome.
 
@@ -176,7 +176,7 @@ Just as some weapons pose additional threats, the right kind of armor can neutra
 
 **Tough.** This armor is reinforced around the vital areas making it harder to land deadly blows and allowing the wearer to ignore the **high crit** property of any weapons. Roll damage normally for a critical hit from any **high crit** weapons. Half plate, splint plate mail, and full plate are all considered **tough**.
 
-**Unwieldy.** Heavy shields are bulky and cumbersome and make it difficult to fight while carrying. All attack rolls are made at Disadvantage while carrying a large shield. However, a heavy shield can be set on the ground as an action and used as cover until picked up again with another action.
+**Unwieldy.** Heavy shields are bulky and cumbersome and make it difficult to fight while carrying. All attack rolls are made at Disadvantage while carrying a large shield. 
 
 ```
 ```
@@ -191,7 +191,7 @@ Following are a few new options for armor and shields. For a full listing of sta
 
 **Brigandine.** An armored coat with small rigid plates sewn between layers of cloth. Grants more protection than other light armors, but is heavier and a bit more restrictive as a trade-off. Also known as a **coat of plates** or **jack of plates**
 
-**Heavy Shield.** A very large and heavy shield, sometimes as tall as 5', most often made of metal with a groove in the middle to help it stand upright when placed on the ground. Used on battlefields as a mobile piece of cover for soldiers and especially archers. Anyone with the heavy armor proficiency can also use heavy shields. Also known as a **pavise**, **mantlet**, **body**, or **tower** shield.
+**Heavy Shield.** A very large and heavy shield, sometimes as tall as 5', most often made of metal with a groove in the middle to help it stand upright when placed on the ground. A heavy shield can be set on the ground as an action and used as cover until picked up again with another action. Most often used on battlefields as a mobile piece of cover for soldiers and especially archers. Anyone with the heavy armor proficiency can also use heavy shields. Also known as a **pavise**, **mantlet**, **body**, or **tower** shield.
 
 **Light Shield.** A small round shield usually made of wood or leather and possibly with metal rivets for reinforcement. Anyone with the light armor proficiency can use a light shield. Sometimes known as a **targe**, **target**, **round shield**, or **buckler**.
 
@@ -260,7 +260,7 @@ On the other hand you might wish to run a low-tech campaign or equip your monste
 <div class='footnote'>Armory Remix | Customizing Items</div>
 \page
 
-### Proficiency Updates
+### Rule Updates
  
 #### Racial Proficiencies 
 
@@ -300,7 +300,23 @@ In general the following changes apply:
 
 **Heavy Armor Proficiency.** Any feature that grants proficiency with heavy armor also grants proficiency with heavy shields.
 
-### Feats
+#### Feats
+
+The following changes should be made to feats:
+
+**Crossbow Expert.** It now only takes a bonus action to reload a **repeating** crossbow.
+
+**Great Weapon Master.** Weapons with the **oversized** property count for the second benefit.
+
+**Heavily Armored.** Gain proficiency with heavy shields.
+
+**Lightly Armored.** Gain proficiency with light shields.
+
+**Moderately Armored.** Gain proficiency with medium shields.
+
+**Polearm Master.** Add lucern hammer, spear, longspear, and warspear to the list of weapons that work with this feat.
+
+**Shield Master.** You no longer suffer any drawbacks from the **unwieldy** property and can ignore it.
 
 <div class='pageNumber'>6</div>
 <div class='footnote'>Armory Remix | Rule Updates</div>
