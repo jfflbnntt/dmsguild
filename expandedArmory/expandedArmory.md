@@ -1,6 +1,14 @@
-# Armory Remix for D&D 5e
+<style>
+  .phb{ background : white;}
+  .phb img{ display : none;}
+  .phb hr+blockquote{background : white;}
+</style>
+
+# Armory Remix
 
 A *street thug with club in hand sneaks up on an unsuspecting mark knowing that one quick strike to the back of the head will render his victim unconscious. Students listen intently to their weapons master as she instructs them on the finer points of spear fighting and how a quick change in grip can extend their reach to strike opponents at a distance. A veteran soldier, standing in formation shoulder to shoulder to green recruits, grits his teeth as he sets his pike to recieve the front ranks of the charging orc horde. With a flick of the wrist a bounty hunter wraps her whip around the ankles of a fleeing bounty enabling her to claim the full reward for bringing him in alive. A dual-wielding swordsman's quick flashing blades deter his enemies from trying to slip past him, while nearby his lightly armored halfling companion easily dodges past the slow and clumsy strikes of an ogre's greatclub.*
+
+<div style='margin-top:20px'></div>
 
 The 5th edition Player's Handbook presents a very streamlined and simplified equipment list. It serves as a fine starting point for most campaigns, but it lacks a certain amount of variety. This rules supplement presents new weapons, armor, shields and related properties inspired by previous editions to add flavor, provide interesting choices, and create meaningful distinctions between items. In addition to new items and properties there are rules on how to tweak items further to create custom high quality or low quality items and a list of updates to rules regarding proficincies and feats that deal with armor, shields, and weapons.
 
@@ -8,8 +16,9 @@ The 5th edition Player's Handbook presents a very streamlined and simplified equ
 ```
 
 > ### Contents
-> * New Weapons
 > * New Weapon Properties
+> * New Weapons
+> * Table: Alternate Weapon Names
 > * Table: Simple Weapons
 > * Table: Martial Weapons
 > * Table: Weapons by Property
@@ -27,10 +36,11 @@ The 5th edition Player's Handbook presents a very streamlined and simplified equ
 <div class='footnote'>Armory Remix | Introduction</div>
 \page
 
+## Weapons
+
+Weapons fall into certain groups based on how they are best used. Heavy weapons are slow but punishing when they connect and small hidden weapons can be suprisingly deadly when the target is distracted or unaware. Light blades excel at quick strikes, while larger blades cut deeply. Whips and chains can wrap around obstacles or even be used with some skill to entangle targets. Spear-like thrusting weapons are best at repelling charges and for use in the water. Applying the following new weapon properties helps to reinforce these ideas.
+
 ### New Weapon Properties
-
-Weapons tend to fall into certain groups based on how they are best used. Heavy weapons are slow but punishing when they connect and small hidden weapons can be suprisingly deadly when the target is distracted or unaware. Light blades excel at quick strikes, while larger blades cut deeply. Whips and chains can wrap around obstacles or even be used with some skill to entangle targets. Spear-like thrusting weapons are best at repelling charges and for use in the water.  Applying the following new weapon properties helps to reinforce these ideas.
-
 
 **Balanced.** A weapon with this property is particularly well-balanced or suited to exploiting tactical openings. You have Advantage on any attacks made as a reaction when using this weapon. One-handed double-edged swords of short to medium length and quarterstaves tend to be more **balanced** than other types of weapons. A **balanced** weapon cannot also be **slow**.
 
@@ -76,92 +86,107 @@ Weapons tend to fall into certain groups based on how they are best used. Heavy 
 
 **Underwater.** A weapon with this property can be used underwater without Disadvantage (PHB pg. 198). **Underwater** weapons tend to be piercing and thrusting weapons.
 
+<div class='pageNumber'>2</div>
+<div class='footnote'>Armory Remix | New Weapon Properties</div>
+\page
 
 ### New Weapons
 
-The following is a selection of descriptions for new weapons and some old ones by alternate names.
-
-**Club.** Any small light one-handed bludgeon. A **sap**, **truncheon**, and **baton** all use the stats of a **club**.
-
-**Dagger.** Any small light one-handed weapon meant for stabbing and cutting in close combat. Can also be called a **dirk**, **stiletto**, or **knife**.
-
-**Handaxe.** Any light one-handed axe or chopping tool. Could also be called a **hatchet**, **adze**, or **throwing axe**.
-
-**Bastard Sword.** A double-edged sword with a wide crossguard and an extended pommel. Longer than a longsword but shorter than a greatsword. Sometimes known as a **hand-and-a-half sword**.
+**Bastard Sword.** A double-edged sword with a wide crossguard and an extended pommel. Longer than a longsword but shorter than a greatsword.
 
 **Bolas.** Two or three weights connected by cords that when spun and thrown entangle their target.
 
-**Broadsword.** A sword with wide blade with very little taper and a short pommel. The length is about midway between a shortsword and a longsword. A **falchion** is another version of this weapon.
+**Broadsword.** A sword with wide blade with very little taper and a one-handed pommel. The length is about midway between a shortsword and a longsword.
 
 **Chain.** A long length of interlocking metal loops with a weight on each end.
 
-**Flail.** A larger and more dangerous version of the light flail able to be used in one or two hands. Sometimes called a **horseman's flail**.
+**Fullblade.** A rare and impractically massive sword with an oversized blade, about as long a greatsword, but wider. It has a counter-balanced pommel which allows only the exceptionally strong to wield it in one hand.
 
-**Fullblade.** A rare and impractically massive sword with an oversized blade, about as long a greatsword, but wider. It has a counter-balanced pommel which allows only the exceptionally strong to wield it in one hand. Sometimes known as a **giant sword**.
+**Heavy Flail.** A larger and heavier version of the flail intended to be used with two hands.
 
-**Glaive.** A sword-like blade on the end of a long pole. Other examples include the **voulge** and **bardiche**.
-
-**Greataxe.** A large double-bladed axe meant to be wielding in both hands. Sometimes called a **two-handed axe**.
-
-**Greatsword.** A sword with a double-edge blade longer than a longsword intended to be used with both hands. Sometimes known as a **claymore**, **two-handed sword** or **zweihander**.
-
-**Halberd.** An axe-like blade, sometimes accompanied by a spike, on the end of a long pole. The **guisarme**, **fauchard**, and **bill-guisarme** all fall into this category as well.
-
-**Heavy Flail.** A larger and heavier version of the flail intended to be used with two hands. Sometimes known as a **footman's flail**.
-
-**Heavy pick.** A larger and heavier version of the warpick intended to be used with two hands. Sometimes known as a **footman's pick**.
+**Heavy pick.** A larger and heavier version of the warpick intended to be used with two hands.
 
 **Khopesh.** An exotic-looking axe-like sword with an outwardly curving blade.
 
-**Lasso.** A length of rope tied into a loop or noose that can be thrown around a target to restraint it. Also known as a **lariat**.
+**Lasso.** A length of rope tied into a loop or noose that can be thrown around a target to restraint it.
 
 **Light Flail.** Two short sections of wood or metal connected by a small chain or hinge. Originally intended as an agricultural tool for threshing grain.
 
 **Longspear.** Longer than a normal spear, reaching lengths of 8' to 10'.
 
-**Longsword.** A long slender double-edged blade with a crossguard and balanced pommel. Sometimes known as a **warsword**.
-
-**Lucern Hammer.** A hammer with a spike on the other side mounted on a long pole. Very similar to a **bec-de-corbin**.
+**Lucern Hammer.** A hammer with a spike on the other side mounted on a long pole.
 
 **Man Catcher.** A cage-like ring of inwardly pointing barbs mounted on the end of a long pole. Intended to be used to unhorse riders and capture targets rather than kill them.
 
 **Pick.** A small double-headed pick usually used for breaking up dirt or rocks.
 
-**Pike.** A long and reinforced spear with a crossguard near the top meant for impaling enemies on the end. The **ranseur**, **spetum**, **partisan**, and **military fork** also fall in this category.
-
 **Pitchfork.** Your standard pitchfork, two or more prongs on a long wooded handle.
-
-**Scimitar.** A light one-handed single-edged curved sword meant for chopping and cutting. Sometimes known as a **sabre** or **cutlass**.
 
 **Scourge.** A short lash with multiple thongs typically made of leather and usually used as a form of torture.
 
 **Scythe.** A sharp inwardly curved blade attached to a long wooden handle intended for shearing grain.
 
-**Shovel.** A digging tool with a metal head on a long wooden handle. A **hoe** or a **spade** are very similar.
-
-**Shortsword.** A light one-handed double-edged sword with a short blade meant for stabbing which includes the **gladius** and **viking sword**.
-
-**Trident.** A three pronged fork with barbes mounted on a handle long enough to be used in one or two hands. Can also be called a **harpoon**.
+**Shovel.** A digging tool with a metal head on a long wooden handle.
 
 **Throwing Knife.** A small sharp blade specially shaped and balanced for accurate throwing.
-
-**Rapier.** A one-handed sword with a long slender pointed blade and a basket-like hand guard intended for dueling. Alternately known as an **epee** or a **fencing sword**.
 
 **Waraxe.** An oversized one-handed axe, larger than a battleaxe, but smaller than a greataxe. The **dwarven axe** is another example.
 
 **Warpick.** A larger and more dangerous version of the pick able to be used in one or two hands. Sometimes called a **horseman's pick**.
 
-**Warspear.** A sturdy oversized spear with a heavy tip that can be used in one hand by the very strong. Also known as a **greatspear** or a **heavy spear**.
-<div class='pageNumber'>1</div>
-<div class='footnote'>Armory Remix | Introduction</div>
+**Warspear.** A sturdy oversized spear with a heavy tip that can be used in one hand by the very strong. 
+
+
+```
+```
+
+### Alternate Weapon Names
+For even more new weapon options choose from the following table. Alternative weapons use the same stats as the listed base weapon.
+
+<div style='margin-top:20px'></div>
+
+| Base Weapon | Alternate Names |
+|:-|:-|
+| Club | Baton, sap, truncheon |
+| Dagger | Dirk, knife, main-gauche, stiletto |
+| Handaxe | Adze, hatchet, throwing axe |
+| Bastard sword | Hand-and-a-half sword |
+| Broadsword | Falchion, tulwar |
+| Flail | Horseman's flail |
+| Fullblade | Giant sword |
+| Glaive | Bardiche, voulge | 
+| Greataxe | Two-handed axe |
+| Greatsword | Claymore, two-handed sword, zweihander |
+| Halberd | Bill-guisarme, fauchard, guisarme |
+| Heavy flail | Footman's flail |
+| Heavy pick | Footman's pick |
+| Lasso | Lariat |
+| Longsword | Warsword |
+| Lucern hammer | Bec-de-corbin |
+| Morningstar | Spiked club, warclub |
+| Pike | Military fork, partisan, ranseur, spetum |
+| Scimitar | Cutlass, sabre |
+| Scourge | Cat-o-nine-tails |
+| Shovel | Hoe, spade |
+| Shorsword | Gladius, viking sword | 
+| Sickle | Kukri, machete |
+| Trident | Harpoon |
+| Rapier | Fencing sword, foil |
+| Waraxe | Dwarven axe |
+| Warpick | Horseman's pick |
+| Warspear | Greatspear, heavy spear |
+
+<div class='pageNumber'>3</div>
+<div class='footnote'>Armory Remix | New Weapons</div>
 \page
 
 
-# Simple Weapons
 
-##### Simple Melee Weapons
+##### Simple Weapons
+___
 | Name | Cost | Damage | Weight | Properties |
 |:-|-:|:-:|:-:|:-|
+| || *Simple Melee Weapons*|||
 | Club | 1 sp | 1d4 bludgeoning | 2 lb. | Light, sneaky |
 | Dagger | 2 gp | 1d4 piercing or slashing | 1 lb. | Finesse, light, sneaky, thrown (20/60), underwater |
 | Greatclub | 2 sp | 1d8 bludgeoning | 10 lb. | Brutal, two-handed, slow |
@@ -178,10 +203,7 @@ The following is a selection of descriptions for new weapons and some old ones b
 | Shovel | 5 sp | 1d4 bludgeoning or slashing | 3 lb. | Feeble, versatile (1d6) |
 | Sickle | 1 gp | 1d4 slashing | 2 lb. | Light, high crit |
 | Spear | 1 gp | 1d6 piercing| 3 lb. | lunging (1d4), set, thrown (20/60), underwater, versatile (1d8) |
-
-##### Simple Ranged Weapons
-| Name | Cost | Damage | Weight | Properties |
-|:-|-:|:-:|:-:|:-|
+| ||*Simple Ranged Weapons*|||
 | Dart | 5 cp | 1d4 piercing | 1/4 lb. | Thrown (40/120), underwater |
 | Lasso | 5 sp | - | - | Grappling, thrown (10/30) |
 | Light crossbow | 25 gp | 1d8 piercing | 5 lb. | Ammunition (80/320) loading, two-handed, underwater |
@@ -190,21 +212,22 @@ The following is a selection of descriptions for new weapons and some old ones b
 | Sling | 1 sp | 1d4 bludgeoning | - | Ammunition (40/160) |
 | Throwing knife | 2 sp | 1d4 slashing | 1/8 lb. | Light, sneaky, thrown (30/90) |
 
-<div class='pageNumber'>2</div>
+<div class='pageNumber'>4</div>
 <div class='footnote'>Armory Remix | Simple Weapons</div>
 \page
 
-# Appendix B: Martial Weapons
 
-##### Martial Melee Weapons
+##### Martial Weapons
+___
 | Name | Cost | Damage | Weight | Properties |
 |:-|-:|:-:|:-:|:-|
+||| *Martial Melee Weapons* |||
 | Bastard sword | 50 gp | 1d10 slashing | 6 lb. | Oversized (Str 13), versatile (1d12) |
 | Battleaxe | 10 gp | 1d8 slashing | 5 lb. | High crit, versatile (1d10) |
 | Broadsword | 20 gp | 1d8 slashing | 3 lb. | Balanced, Brutal |
 | Chain | 10 gp | 2d4 bludgeoning | 18 lb. | Flexible, grappling, heavy, reach, slow, two-handed |
 | Flail | 10 gp | 1d6 bludgeoning | 4 lb. | Flexible, monk, versatile (1d8) |
-| Fullblade | 150 gp | 2d6 slashing | 10 lb. | Heavy, oversized (Str 19), slow, versatile (2d8) | 
+| Fullblade | 100 gp | 2d6 slashing | 10 lb. | Heavy, oversized (Str 19), slow, versatile (2d8) | 
 | Glaive | 20 gp | 1d10 slashing | 6 lb. | Heavy, reach, two-handed |
 | Greataxe | 30 gp | 1d12 slashing | 7 lb. | Heavy, high crit, slow, two-handed |
 | Greatsword | 50 gp | 2d6 slashing | 6 lb. | Heavy, two-handed |
@@ -229,48 +252,68 @@ The following is a selection of descriptions for new weapons and some old ones b
 | Warpick | 5 gp | 1d8 piercing | 2 lb. | Brutal, high crit |
 | Warspear | 75 gp | 1d8 piercing | 7 lb. | Heavy, lunging (1d6), oversized (Str 17), set, versatile (1d10), underwater |
 | Whip | 2 gp | 1d4 slashing | 3 lb. | Finesse, flexible, grappling, monk, reach |
-
-##### Martial Ranged Weapons
-| Name | Cost | Damage | Weight | Properties |
-|:-|-:|:-:|:-:|:-|
+||| *Martial Ranged Weapons* |||
 | Blowgun | 10 gp | 1 piercing | 1 lb. | Ammunition (25/100), loading |
 | Bolas | 1 gp | 1d4 bludgeoning | 1 lb. | Grappling, monk, thrown (20/60) |
 | Hand crossbow | 75 gp | 1d6 piercing | 3 lb. | Ammunition (30/120), light, loading, underwater |
 | Heavy crossbow | 50 gp | 1d10 piericing | 18 lb. | Ammunition (100/400), heavy, loading, two-handed, underwater |
 | Longbow | 50 gp | 1d8 piercing | 2 lb. | Ammunition (150/600), heavy, two-handed |
 
-<div class='pageNumber'>7</div>
+<div class='pageNumber'>5</div>
 <div class='footnote'>Armory Remix | Martial Weapons</div>
 \page
 
 
+##### Weapons by Property
+___
+| Property | Weapons |
+|:-|:-|
+|Ammunition| Blowgun, hand crossbow, heavy crossbow, light crossbow, longbow, shortbow, sling|
+|Balanced| Broadsword, longsword, rapier, shortsword, quarterstaff |
+|Brutal| Broadsword, greatclub, heavy pick, lucern hammer, mace, maul, morningstar, trident, warhammer, warpick |
+|Feeble| Pitchfork, shovel |
+|Finesse| Dagger, rapier, scimitar, scourge, shortsword, whip |
+|Flexible| Chain, flail, heavy flail, light flail, scourge, whip |
+|Grappling| Bolas, chain, lasso, man catcher, net, whip |
+|Heavy| Chain, fullblade, glaive, greataxe, greatsword, halberd, heavy crossbow, heavy flail, heavy pick, longbow, lucern hammer, maul, pike, waraxe, warspear |
+|High Crit| Battleaxe, greataxe, halberd, heavy pick, khopesh, lance, pick, scimitar, sickle, waraxe, warpick |
+|Light| Club, dagger, hand crossbow, handaxe, light flail, light hammer, scimitar, scourge, shortsword, sickle, throwing knife |
+|Lunging| Javelin, quarterstaff, rapier, spear, trident, warspear |
+|Monk| Bolas, flail, shortsword, whip |
+|Oversized| Bastard sword, fullblade, waraxe, warspear |
+|Reach| Chain, glaive, halberd, lance, longspear, lucern hammer, man catcher, pike, pitchfork, whip |
+|Set| Longspear, pike, pitchfork, spear, trident, warspear |
+|Slow| Chain, fullblade, greataxe, greatclub, halberd, heavy flail, heavy pick, lance, lucern hammer, maul, scythe, waraxe |
+|Sneaky| Club, dagger, throwing knife |
+|Special| Lance, net |
+|Thrown| Bolas, dagger, dart, handaxe, javelin, lasso, light hammer, net, spear, throwing knife, trident |
+|Two-handed| Chain, glaive, greataxe, greatclub, greatsword, halberd, heavy crossbow, heavy flail, heavy pick, light crossbow, longbow, longspear, lucern hammer, man catcher, maul, pike, pitchfork, scythe, shortbow |
+|Versatile| Bastard sword, battleaxe, flail, fullblade, longsword, quarterstaff, shovel, spear, trident, waraxe, warhammer, warspear |
+|Underwater| Dagger, dart, hand crossbow, javelin, light crossbow, longspear, man catcher, net, pike, pitchfork, shortsword, spear, trident, warspear |
 
-
-<div class='pageNumber'>3</div>
-<div class='footnote'>Armory Remix | New Weapons</div>
+<div class='pageNumber'>6</div>
+<div class='footnote'>Armory Remix | Weapons by Property</div>
 \page
 
 ## Armor and Shields
 
-The number of options available on the armor and shields list in the Player's Handbook might strike you as a bit boring and lacking in variety. Here I try to remedy that by offering some new types of armor and shields as well as some new special properties to make things a little more interesting.
+Just as some weapons pose new threats, the right kind of armor can neutralize those threats. Likewise a shield is not only useful in deflecting blows in close combat, but a sufficiently large shield when used properly can offer a much needed source of cover from explosions, magical blasts, and bursts of dragon's breath. The following are a few new properties along with new options for armor and shields with their own benefits and drawbacks.
 
 ### New Armor and Shield Properties
 
-Just as some weapons pose additional threats, the right kind of armor can neutralize those threats. Likewise a shield is not only useful in deflecting blows in close combat, but a hefty shield when used properly can offer a much needed source of cover from explosions, magical blasts, and bursts of dragon's breath.
-
-**Covering.** Shields with the **covering** property can be treated as cover while prone and behind it. When used in this way medium shields provide half-cover and heavy shields provide three-quarter cover to the creature using it, assuming the shield is apropriately sized for the creature in question. Light shields do not provide any cover. Take only the AC bonus from the shield or cover condition depending on how it's being used, but not both.
+**Covering.** Shields with the **covering** property can be treated as cover while crouching behind it. When prone medium shields provide half-cover and heavy shields provide three-quarter cover to the creature using it, assuming the shield is apropriately sized for the creature in question. Light shields do not provide any cover. Take only the AC bonus from the shield or cover condition depending on how it's being used, but not both.
 
 **Cumbersome.** Armor with this property weighs the wearer down and can slow movement. The wearer must meet the minimum STR requirement in the parenthese or have their base movement speed be reduced by 10' while wearing this armor.
 
-**Durable.** This armor provides additional protection and cushioning against heavy hitting impacts from **brutal** weapons, effectively allowing the wearer to ignore that property. All damage from **brutal** weapons is rolled normally. Scale mail, banded plate mail, and full plate are all **durable**.
+**Durable.** This armor provides additional protection and cushioning against heavy hitting impacts from **brutal** weapons, effectively allowing the wearer to ignore that property. All damage from **brutal** weapons is rolled normally.
 
-**Obscuring.** This armor includes a helmet that partially obscures your vision and hearing. All Wisdom (Perception) checks are made at Disadvantage while wearing this armor. 
+**Obscuring.** This armor includes a helmet that partially obscures your vision and hearing. All Wisdom (Perception) checks are made at Disadvantage while wearing this armor.
 
-**Restrictive.** Armor with this property restricts the full range of motion, making it difficult to move quickly and quietly. The wearer has Disadvantage with stealth checks while wearing this armor.
+**Restrictive.** Armor with this property restricts the full range of motion, making it difficult to move quickly and quietly. The wearer has Disadvantage with Dexterity (Stealth) checks while wearing this armor.
 
-**Spiked.** Armor and shields with this property have been embellished with metal spikes or something equally dangerous for decoration and intimidation factor. A shield with spikes does 1d4 piercing damage instead of bludgeoning when used as a weapon or as part of a shove attack. A creature who grapples or is grappled by another creature in spiked armor takes 1d4 piercing damage from the spikes. Armor with spikes also gains the **restrictive** property if it doesn't already.
+**Spiked.** Armor and shields with this property have been embellished with intimidating metal spikes or something equally dangerous. A shield with spikes does 1d4 piercing damage instead of bludgeoning when used as a weapon or as part of a shove attack. A creature who grapples or is grappled by another creature in spiked armor takes 1d4 piercing damage from the spikes. Armor with spikes also gains the **restrictive** property if it doesn't already.
 
-**Tough.** This armor is reinforced around the vital areas making it harder to land deadly blows and allowing the wearer to ignore the **high crit** property of any weapons. Roll damage normally for a critical hit from any **high crit** weapons. Half plate, splint plate mail, and full plate are all considered **tough**.
+**Tough.** This armor is reinforced and covers the vital areas better making it harder to land deadly blows and allowing the wearer to ignore the **high crit** property of any weapons. Roll damage normally for a critical hit from any **high crit** weapons.
 
 **Unwieldy.** Heavy shields are bulky and cumbersome and make it difficult to fight while carrying. All attack rolls are made at Disadvantage while carrying a large shield. 
 
@@ -279,13 +322,11 @@ Just as some weapons pose additional threats, the right kind of armor can neutra
 
 ### New Armor and Shields
 
-Following are a few new options for armor and shields. For a full listing of stats see *Appendix D*.
-
 **Banded.** Heavy armor made from overlapping horizontal plates of metal attached to a padded leather undertunic. Also known as **banded plate**, **banded mail**, or **laminar armor**.
 
-**Breastplate, Half, Field, and Full Plate.** These armors all are made of layers of interlocking plates covering various parts of the body. Breastplates just cover the vital areas of the torso. Half plate adds pauldrons and vambraces to the breastplate while field plate includes greaves, gorget and half-helm. Full plate finally adds sabatons, guantlets, and a great helm along with other pieces sheathing the entire body. It is possible to start with a breastplate and then slowly add the other pieces until you make it a full suit of plate armor.
-
 **Brigandine.** An armored coat with small rigid plates sewn between layers of cloth. Grants more protection than other light armors, but is heavier and a bit more restrictive as a trade-off. Also known as a **coat of plates** or **jack of plates**
+
+**Breastplate, Half Plate, Field Plate, and Full Plate.** These armors consists of interlocking plates covering various parts of the body and chainmail protecting the joints. Breastplates just cover the vital areas of the torso. Half plate adds pauldrons and vambraces while field plate includes greaves, gorget and half-helm. Full plate finally adds sabatons, guantlets, and a great helm along with other pieces sheathing the entire body. It is possible to start with a breastplate and then slowly add the other pieces until you make it a full suit of plate armor.
 
 **Heavy Shield.** A very large and heavy shield, sometimes as tall as 5', most often made of metal with a groove in the middle to help it stand upright when placed on the ground. A heavy shield can be set on the ground as an action and used as cover until picked up again with another action. Most often used on battlefields as a mobile piece of cover for soldiers and especially archers. Anyone with the heavy armor proficiency can also use heavy shields. Also known as a **pavise**, **mantlet**, **body**, or **tower** shield.
 
@@ -295,7 +336,39 @@ Following are a few new options for armor and shields. For a full listing of sta
 
 **Splint.** Heavy armor made from vertical metal ribs, or splints, attached to a backing of leather with chainmail covering the joints. Also known as **splint mail** or **splinted plate**.
 
-<div class='pageNumber'>4</div>
+<div class='pageNumber'>7</div>
+<div class='footnote'>Armory Remix | Armor and Shields</div>
+\page
+
+
+##### Armor and Shields
+___
+| Name | Cost | Armor Class (AC) | Weight | Properties |
+|:-|-:|:-:|:-:|:-|
+| *Light Armor* |||||
+| Padded | 5 gp | 11 + Dex modifier | 5 lb. | Restrictive |
+| Leather | 10 gp | 11 + Dex modifier | 10 lb. | |
+| Studded leather | 45 gp | 12 + Dex modifier | 13 lb. | |
+| Brigandine | 55 gp | 13 + Dex modifier | 35 lb. | Cumbersome (Str 11), restrictive |
+| *Medium Armor* |||||
+| Hide | 10 gp | 12 + Dex modifier (max 2) | 20 lb. | |
+| Chain shirt | 50 gp | 13 + Dex modifier (max 2) | 25 lb. | |
+| Breastplate | 400 gp | 14 + Dex modifier (max 2) | 30 lb. | Cumbersome (Str 11) |
+| Scale mail | 120 gp | 14 + Dex modifier (max 2) | 45 lb. | Cumbersome (Str 11), durable, restrictive |
+| Half plate | 750 gp | 15 + Dex modifier (max 2) | 50 lb. | Cumbersome (Str 11), restrictive, tough |
+| *Heavy Armor* |||||
+| Ring mail | 30 gp | 14 | 40 lb. | Cumbersome (Str 11), restrictive |
+| Chain mail | 75 gp | 15 | 50 lb. | Cumbersome (Str 12), restrictive |
+| Banded | 125 gp | 16 | 55 lb. | Cumbersome (Str 13), durable, restrictive |
+| Splint | 200 gp | 16 | 55 lb. | Cumbersome (Str 13), restrictive, tough |
+| Field plate | 1125 gp | 17 | 60 lb. | Cumbersome (Str 14), durable, obscuring, restrictive, tough |
+| Full plate | 1500 gp | 18 | 65 lb. | Cumbersome (Str 15), durable, obscuring, restrictive, tough |
+| *Shields* |||||
+| Light shield | 10 gp | +1 | 6 lb. | |   
+| Medium shield | 20 gp | +2 | 9 lb. | Covering |
+| Heavy shield | 45 gp | +3 | 12 lb. | Covering, unwieldy |
+
+<div class='pageNumber'>8</div>
 <div class='footnote'>Armory Remix | Armor and Shields</div>
 \page
 
@@ -352,7 +425,7 @@ On the other hand you might wish to run a low-tech campaign or equip your monste
 * Increase the STR requirement for the **cumbersome** property
 * Increase the weight of the armor or shield
 
-<div class='pageNumber'>5</div>
+<div class='pageNumber'>9</div>
 <div class='footnote'>Armory Remix | Customizing Items</div>
 \page
 
@@ -378,7 +451,7 @@ The following changes should be made to class proficiencies:
 
 **Druid.** Gain access to light and medium shields (nonmetal), scythes, and longspears.
 
-**Monk.** Gain access to bolas and whips.
+**Monk.** Gain access to bolas, flails, and whips.
 
 **Ranger.** Gain access to light and medium shields.
 
@@ -414,81 +487,9 @@ The following changes should be made to feats:
 
 **Shield Master.** You no longer suffer any drawbacks from the **unwieldy** property and can ignore it.
 
-<div class='pageNumber'>6</div>
-<div class='footnote'>Armory Remix | Rule Updates</div>
-\page
 
-
-# Appendix C: Weapons by Property
-
-| Property | Weapons |
-|:-|:-|
-|Ammunition| Blowgun, hand crossbow, heavy crossbow, light crossbow, longbow, shortbow, sling|
-|Balanced| Broadsword, longsword, rapier, shortsword, quarterstaff |
-|Brutal| Broadsword, greatclub, heavy pick, lucern hammer, mace, maul, morningstar, trident, warhammer, warpick |
-|Feeble| Pitchfork, shovel |
-|Finesse| Dagger, rapier, scimitar, scourge, shortsword, whip |
-|Flexible| Chain, flail, heavy flail, light flail, scourge, whip |
-|Grappling| Bolas, chain, lasso, man catcher, net, whip |
-|Heavy| Chain, fullblade, glaive, greataxe, greatsword, halberd, heavy crossbow, heavy flail, heavy pick, longbow, lucern hammer, maul, pike, waraxe, warspear |
-|High Crit| Battleaxe, greataxe, halberd, heavy pick, khopesh, lance, pick, scimitar, sickle, waraxe, warpick |
-|Light| Club, dagger, hand crossbow, handaxe, light flail, light hammer, scimitar, scourge, shortsword, sickle, throwing knife |
-|Lunging| Javelin, quarterstaff, rapier, spear, trident, warspear |
-|Monk| Bolas, flail, shortsword, whip |
-|Oversized| Bastard sword, fullblade, waraxe, warspear |
-|Reach| Chain, glaive, halberd, lance, longspear, lucern hammer, man catcher, pike, pitchfork, whip |
-|Set| Longspear, pike, pitchfork, spear, trident, warspear |
-|Slow| Chain, fullblade, greataxe, greatclub, halberd, heavy flail, heavy pick, lance, lucern hammer, maul, scythe, waraxe |
-|Sneaky| Club, dagger, throwing knife |
-|Special| Lance, net |
-|Thrown| Bolas, dagger, dart, handaxe, javelin, lasso, light hammer, net, spear, throwing knife, trident |
-|Two-handed| Chain, glaive, greataxe, greatclub, greatsword, halberd, heavy crossbow, heavy flail, heavy pick, light crossbow, longbow, longspear, lucern hammer, man catcher, maul, pike, pitchfork, scythe, shortbow |
-|Versatile| Bastard sword, battleaxe, flail, fullblade, longsword, quarterstaff, shovel, spear, trident, waraxe, warhammer, warspear |
-|Underwater| Dagger, dart, hand crossbow, javelin, light crossbow, longspear, man catcher, net, pike, pitchfork, shortsword, spear, trident, warspear |
-
-<div class='pageNumber'>8</div>
-<div class='footnote'>Armory Remix | Weapons by Property</div>
-\page
-
-# Appendix D: Armor and Shields
-
-##### Light Armor
-| Name | Cost | Armor Class (AC) | Weight | Properties |
-|:-|-:|:-:|:-:|:-|
-| Padded | 5 gp | 11 + Dex modifier | 5 lb. | Restrictive |
-| Leather | 10 gp | 11 + Dex modifier | 10 lb. | |
-| Studded leather | 45 gp | 12 + Dex modifier | 13 lb. | |
-| Brigandine | 55 gp | 13 + Dex modifier | 35 lb. | Cumbersome (Str 11), restrictive |
-
-##### Medium Armor
-| Name | Cost | Armor Class (AC) | Weight | Properties |
-|:-|-:|:-:|:-:|:-|
-| Hide | 10 gp | 12 + Dex modifier (max 2) | 20 lb. | |
-| Chain shirt | 50 gp | 13 + Dex modifier (max 2) | 25 lb. | |
-| Breastplate | 400 gp | 14 + Dex modifier (max 2) | 30 lb. | Cumbersome (Str 11) |
-| Scale mail | 120 gp | 14 + Dex modifier (max 2) | 45 lb. | Cumbersome (Str 11), durable, restrictive |
-| Half plate | 750 gp | 15 + Dex modifier (max 2) | 50 lb. | Cumbersome (Str 11), restrictive, tough |
-
-##### Heavy Armor
-| Name | Cost | Armor Class (AC) | Weight | Properties |
-|:-|-:|:-:|:-:|:-|
-| Ring mail | 30 gp | 14 | 40 lb. | Cumbersome (Str 11), restrictive |
-| Chain mail | 75 gp | 15 | 50 lb. | Cumbersome (Str 12), restrictive |
-| Banded | 125 gp | 16 | 55 lb. | Cumbersome (Str 13), durable, restrictive |
-| Splint | 200 gp | 16 | 55 lb. | Cumbersome (Str 13), restrictive, tough |
-| Field plate | 1125 gp | 17 | 60 lb. | Cumbersome (Str 14), durable, obscuring, restrictive, tough |
-| Full plate | 1500 gp | 18 | 65 lb. | Cumbersome (Str 15), durable, obscuring, restrictive, tough |
-
-##### Shields
-| Name | Cost | Armor Class (AC) | Weight | Properties |
-|:-|-:|:-:|:-:|:-|
-| Light shield | 10 gp | +1 | 6 lb. | |   
-| Medium shield | 20 gp | +2 | 9 lb. | Covering |
-| Heavy shield | 45 gp | +3 | 12 lb. | Covering, unwieldy |
-
-<div class='pageNumber'>9</div>
-<div class='footnote'>Armory Remix | Armor and Shields</div>
-\page
+```
+```
 
 ### Legal Stuff
 
@@ -500,28 +501,16 @@ All other original material in this work is copyright 2016 by Jeff Bennett and p
 
 ### Credits
 
-This product was formatted using [The Homebrewery](http://www.naturalcrit.com/homebrew)
+This product was formatted using [The Homebrewery](http://www.naturalcrit.com/homebrew) at *http://www.naturalcrit.com*
 
 
-```
-```
 
 ### Contact Info
 ___
-**Email:** jfflbnntt@gmail.com
+**Email:** purpleskullgames@gmail.com
 
 > ### Changelog
 > * v1.0 Initial version
 
-<style>
-.phb table { 
-  -webkit-column-span: all;
-  column-span: all;
-  -moz-column-span: all;
-}
-
-.phb table tbody td { padding: .3em; min-width: 50px; }
-
-.phb table thead th { padding: .3em; min-width: 50px; }
-
-</style>
+<div class='pageNumber'>10</div>
+<div class='footnote'>Armory Remix | Rule Updates</div>
