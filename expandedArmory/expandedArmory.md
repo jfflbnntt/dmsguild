@@ -1,12 +1,8 @@
-# D&D 5th Edition Armory Remix
+# Armory Remix for D&D 5e
 
-A *street thug with club in hand sneaks up on an unsuspecting mark knowing that one quick strike to the back of the head will render his victim unconscious. Students listen intently to the weapon master as she instructs them on the finer points of spear fighting and how a quick change in grip can extend their reach to strike opponents at a distance. A veteran soldier, standing in formation shoulder to shoulder to green recruits, grits his teeth as he sets his pike to recieve the front ranks of the charging orc horde. With a flick of the wrist a monk bounty hunter wraps her whip around the ankles of a fleeing bounty enabling her to claim the full reward for bringing them in alive. A dual-wielding swordsman's quick flashing blades deter his enemies from trying to slip past him, while nearby his lightly armored halfling companion easily dodges past the slow and clumsy strikes of an ogre's greatclub.*
+A *street thug with club in hand sneaks up on an unsuspecting mark knowing that one quick strike to the back of the head will render his victim unconscious. Students listen intently to their weapons master as she instructs them on the finer points of spear fighting and how a quick change in grip can extend their reach to strike opponents at a distance. A veteran soldier, standing in formation shoulder to shoulder to green recruits, grits his teeth as he sets his pike to recieve the front ranks of the charging orc horde. With a flick of the wrist a bounty hunter wraps her whip around the ankles of a fleeing bounty enabling her to claim the full reward for bringing him in alive. A dual-wielding swordsman's quick flashing blades deter his enemies from trying to slip past him, while nearby his lightly armored halfling companion easily dodges past the slow and clumsy strikes of an ogre's greatclub.*
 
-Something as simple as the choice of a favored weapon can have a major impact on the overall feel and flavor of a character. Certain weapons pair so frequently with certain archtypes that it is rarely questioned: Fierce warriors like to swing axes, while knights tend to favor swords, and simple minded brutes prefer heavy bludgeons. However when you look at the stats for these weapons there is no inherent reason why this might be. You might choose to equip your character with battleaxe, longsword, or warhammer but the choice is largely a colorful one and has no impact on the game, ignoring the unusual circumstance of damage type resistance that is. 
-
-The 5th edition Player's Handbook presents a very streamlined and simplified equipment list. It serves as a fine starting point for most campaigns, but it does lack a certain amount of variety. Perhaps you envisioned your fighter as a spear and shield type of soldier, but ultimately realized you'd be at a mechanical disadvantage by not choosing the superior longsword instead. Maybe you imagine an army of gnomes equiped with reach weapons only to discover that there are no reasonable items they can use effectively. You might have looked at the trident and wondered why it requires a martial proficiency when it has the same stats as a simple spear or asked yourself where some of your favorite weapons have gone like the broadsword, khopesh, or bec-de-corbin.
-
-This rules supplement presents new weapons, armor, shields and related properties inspired by previous editions which add flavor and create meaningful distinctions between items. Also there are rules on how to tweak items further to create custom high quality or low quality items. Finally, included are a list of updates to rules regarding proficincies and feats that deal with armor, shields, and weapons.
+The 5th edition Player's Handbook presents a very streamlined and simplified equipment list. It serves as a fine starting point for most campaigns, but it lacks a certain amount of variety. This rules supplement presents new weapons, armor, shields and related properties inspired by previous editions to add flavor, provide interesting choices, and create meaningful distinctions between items. In addition to new items and properties there are rules on how to tweak items further to create custom high quality or low quality items and a list of updates to rules regarding proficincies and feats that deal with armor, shields, and weapons.
 
 ```
 ```
@@ -27,10 +23,59 @@ This rules supplement presents new weapons, armor, shields and related propertie
 > * Contact Info
 > * Changelog
 
-
 <div class='pageNumber'>1</div>
 <div class='footnote'>Armory Remix | Introduction</div>
 \page
+
+### New Weapon Properties
+
+Weapons tend to fall into certain groups based on how they are best used. Heavy weapons are slow but punishing when they connect and small hidden weapons can be suprisingly deadly when the target is distracted or unaware. Light blades excel at quick strikes, while larger blades cut deeply. Whips and chains can wrap around obstacles or even be used with some skill to entangle targets. Spear-like thrusting weapons are best at repelling charges and for use in the water.  Applying the following new weapon properties helps to reinforce these ideas.
+
+
+**Balanced.** A weapon with this property is particularly well-balanced or suited to exploiting tactical openings. You have Advantage on any attacks made as a reaction when using this weapon. One-handed double-edged swords of short to medium length and quarterstaves tend to be more **balanced** than other types of weapons. A **balanced** weapon cannot also be **slow**.
+
+
+**Brutal.** These weapons rely on heavy mass or cruel spikes and barbs to deal higher than normal damage. If the result of any rolled weapon damage die is 1, reroll it and take the new result instead. This includes any additional weapon damage dice provided by a critical hit, but does not include sneak attack damage dice, additional damage dice provided by spells, or other sources. This benefit is lost against targets wearing **durable** armor. Impaling, crushing, and **heavy** weapons tend to also be **brutal**. A **brutal** weapon cannot also be **light**, **finesse**, or **feeble**.
+
+
+**Feeble.** A weapon with this property is weak, poorly crafted, or made of sub-standard materials like stone, bone, or bronze. In any case it deals less damage than other types of weapons. If the result of any weapon damage die is its max value, reroll it and take the new result. Agricultural tools, improvised weapons, ceremonial weapons, or old and damaged weapons tend to be **feeble**. A **feeble** weapon cannot also be **brutal**. 
+
+
+**Flexible.** A weapon with this property consists of multiple interlocking rigid parts or made entirely of a flexible material like rope or leather. Due to it's flexible nature it can neutralize the benefits of shields and cover. As long as the attacker can see the target in range an attack made with this weapon ignores any AC bonuses from shields, any benefits of half cover, and reduces three-quarter cover to half cover instead. Whips, chains, and flails are all **flexible** weapons.
+
+
+**Grappling.** These weapons are made from entangling cords, chains, nets, or have special hooks designed for grabbing and can be used to make a grappling attack instead of doing damage. Using a weapon in this way does not require you to have a free hand. You make a melee or ranged weapon attack roll in place of a STR (Athletics) check and in all other ways works the same as a normal grappling attack. To maintain a grapple with this weapon you must keep at least one hand on it. **Grappling** weapons tend to also be **flexible** and **monk** weapons, but aren't required to be either.
+
+
+**High Crit.** These weapons deal unusually large amounts of damage on a critical hit due to their sharp blades or long spikes. Whenever you score a critical hit with this weapon maximize the base damage and then roll any extra crit damage dice normally. This feature is nullified by targets wearing **tough** armor. Chopping weapons like axes, single edged swords, and impaling weapons like picks tend to be **high crit** weapons.
+
+
+**Lunging.** Some one-handed weapons are long and light enough to be used to sacrifice power to gain reach. When making a reach attack with a **lunging** weapon use the lower damage die listed in parentheses. You cannot use this feature while holding the weapon in both hands. A **lunging** weapon is typically not also **heavy** or **two-handed**.
+
+
+**Monk.** Weapons with this property count as Monk weapons that can be used with the Martial Arts feature (PHB pg.78). **Monk** weapons tend to be simple weapons without the **heavy** or **two-handed** properties, however there are a few select martial weapons that are specifically included.
+
+
+**Oversized.** This weapon is larger and heavier than other **versatile** weapons and difficult to use properly without exceptional strength. If you do not meet minimum Strength requirement in the parentheses it loses the **versatile** property and gains the **two-handed** property instead and cannot be used in one hand.
+
+
+**Powerdraw.** Especially powerful bows made from reinforced, rare, or composite materials derive their damage from the increased strength necessary to pull it. When applied to a shortbow or longbow this property allows you to use your Strength modifier for attack and damage bonuses in place of Dexterity. The weapon cannot be used if the minimum Strength requirement in parentheses is not met. **Powerdraw** bows are rare and valuable.
+
+
+**Reapeating.** When applied to a crossbow of any type this property replaces the loading property of that weapon when used with a magazine that still has ammunition in it. The typical magazine holds up to 6 bolts. Reloading a repeating crossbow takes an action. 
+
+
+**Set.** A weapon with this property is highly effective when properly used against charging opponents. When you use a readied action to attack a target  that has moved at least 15' toward you with this weapon that attack has Advantage and if it hits treat the hit as a critical hit. Spear-like piercing weapons tend to have the **set** property.
+
+
+**Slow.** These weapons are unbalanced, heavy, or cumbersome making them too slow to recover after swinging. Therefore any attack made as a reaction with this weapon has Disadvantage. **Heavy** and **two-handed** weapons tend to be **slow**. A **slow** weapon cannot also be **balanced**.
+
+
+**Sneaky.** This weapon is especially dangerous when used during a suprise strike. If you hit with this weapon and had Advantage with the attack, treat the hit as a critical hit. It can also be used with a Rogue's Sneak Attack feature, if not already allowed. **Sneaky** weapons tend to be simple, small, silent, and easily concealable. 
+
+
+**Underwater.** A weapon with this property can be used underwater without Disadvantage (PHB pg. 198). **Underwater** weapons tend to be piercing and thrusting weapons.
+
 
 ### New Weapons
 
@@ -126,7 +171,7 @@ The following is a selection of descriptions for new weapons and some old ones b
 | Light hammer | 2 gp | 1d4 bludgeoning | 2 lb. | Light, thrown (20/60) |
 | Longspear | 5 gp | 1d6 piercing | 5 lb. | Reach, set, two-handed, underwater |
 | Mace | 5 gp | 1d6 bludgeoning | 4 lb. | Brutal |
-| Pick | 1 gp | 1d4 piercing | 2 lb. | Brutal, high crit |
+| Pick | 1 gp | 1d4 piercing | 2 lb. | High crit |
 | Pitchfork | 2 sp | 1d6 piercing | 2 lb. | Feeble, reach, set, two-handed, underwater |
 | Quarterstaff | 2 sp | 1d6 bludgeoning | 4 lb. | Balanced, lunging (1d4), versatile (1d8) |
 | Scythe | 2 sp | 2d4 slashing | 5 lb. | slow, two-handed |
@@ -158,7 +203,7 @@ The following is a selection of descriptions for new weapons and some old ones b
 | Battleaxe | 10 gp | 1d8 slashing | 5 lb. | High crit, versatile (1d10) |
 | Broadsword | 20 gp | 1d8 slashing | 3 lb. | Balanced, Brutal |
 | Chain | 10 gp | 2d4 bludgeoning | 18 lb. | Flexible, grappling, heavy, reach, slow, two-handed |
-| Flail | 10 gp | 1d6 bludgeoning | 4 lb. | Flexible, versatile (1d8) |
+| Flail | 10 gp | 1d6 bludgeoning | 4 lb. | Flexible, monk, versatile (1d8) |
 | Fullblade | 150 gp | 2d6 slashing | 10 lb. | Heavy, oversized (Str 19), slow, versatile (2d8) | 
 | Glaive | 20 gp | 1d10 slashing | 6 lb. | Heavy, reach, two-handed |
 | Greataxe | 30 gp | 1d12 slashing | 7 lb. | Heavy, high crit, slow, two-handed |
@@ -198,39 +243,6 @@ The following is a selection of descriptions for new weapons and some old ones b
 <div class='footnote'>Armory Remix | Martial Weapons</div>
 \page
 
-### New Weapon Properties
-
-Weapons tend to fall into certain categories based on how they are best used. Heavy weapons are slow but punishing when they connect. Light blades excel at quick strikes, while larger blades cut deeply. Whips and chains can wrap around obstacles or even be used with some skill to entangle targets. Applying the following new weapon properties helps to reinforce these ideas. See *Appendix C* for a listing of weapons grouped by each property. 
-
-**Balanced.** A weapon with this property is particularly well-balanced or suited to exploiting tactical openings. You have Advantage on opportunity attacks using this weapon. Double-edged swords of short to medium length tend to be more **balanced** than other types of weapons. A **balanced** weapon cannot also be **slow**.
-
-**Brutal.** These weapons rely on heavy mass or cruel spikes and barbs to deal higher than normal damage. If the result of any rolled weapon damage die is 1, reroll it and take the new result instead. This includes any damage dice provided by a critical hit or martial arts feature, but does not include sneak attack damage dice or spell damage dice. This benefit is lost against targets wearing **durable** armor. Impaling, crushing, and **heavy** weapons tend to also be **brutal**. A **brutal** weapon cannot also be **light**, **finesse**, or **feeble**.
-
-**Feeble.** A weapon with this property is weak, brittle, crafted of sub-standard materials, or otherwise poorly made and deals less damage than usual. If the result of any weapon damage die is its max value, reroll it and take the new result. A **feeble** weapon cannot also be **brutal**. 
-
-**Flexible.** A weapon with this property consists of multiple interlocking parts or made entirely of a flexible material and can be used to neutralize the benefits of shields and cover. As long as the attacker can see the target an attack made with this weapon ignores AC bonuses from shields or half cover and treats three-quarter cover as only half cover. Whips, chains, and flails are all **flexible** weapons.
-
-**Grappling.** These weapons are made from entangling cords, chains, nets, or have special hooks designed for grabbing and can be used to make a grappling attack instead of doing damage. Using a weapon in this way does not require you to have a free hand and you make a melee or ranged weapon attack roll in place of a STR (Athletics) check, but otherwise works in the same way as a normal grappling Attack. **Grappling** weapons tend to also be **flexible** and **monk** weapons, but aren't required to be either.
-
-**High Crit.** These weapons deal unusually large amounts of damage on a critical hit due to their sharp blades or long spikes. Whenever you score a critical hit with this weapon maximize the base damage and then roll any extra crit damage dice normally. This feature is nullified by targets wearing **tough** armor. Chopping weapons like axes, single edged swords, and impaling weapons like picks tend to be **high crit** weapons.
-
-**Lunging.** Some one-handed weapons are long and light enough to be used as a reach weapon, but do less damage beyond 5'. When making a reach attack with a **lunging** weapon use the lower damage die listed in parentheses. You cannot use this feature while also using a **versatile** weapon in both hands. A **lunging** weapon cannot also be **heavy** or **two-handed**.
-
-**Monk.** Weapons with this property count as Monk weapons that can be used with the Martial Arts feature (PHB pg.78). **Monk** weapons tend to be simple weapons without the **heavy** or **two-handed** properties, although there are a few select martial weapons that are included as well.
-
-**Oversized.** This weapon is larger and heavier than most **versatile** weapons and difficult to use properly without exceptional strength. If you do not meet minimum Strength requirement in the parentheses the **versatile** property and is replaced with the **two-handed** property instead and loses that **lunging** property if applicable.
-
-**Powerdraw.** Especially powerful bows made from reinforced, rare, or composite materials derive their damage from raw strength. When applied to a shortbow or longbow this property allows you to use your Strength modifier for attack and damage bonuses in place of Dexterity. The weapon cannot be used if the minimum Strength requirement in parentheses is not met.
-
-**Reapeating.** When applied to a crossbow of any type this property replaces the loading property of that weapon when used with a magazine that still has ammunition in it. The typical magazine holds up to 6 bolts. Reloading a repeating crossbow takes an action. 
-
-**Set.** A weapon with this property is highly effective when properly used against charging opponents. When you use a readied action to Attack an opponent with this weapon that has moved at least 10' toward you, that attack has Advantage and if it hits treat the hit as a critical hit. Spear-like piercing weapons tend to have the **set** property.
-
-**Slow.** These weapons are slow to recover and are too heavy or cumbersome to use effectively as a reaction. An attack with a weapon with this property has Disadvantage on opportunity attacks. **Heavy** and **two-handed** weapons tend to be **slow**. A **slow** weapon cannot also be **balanced**.
-
-**Sneaky.** This weapon is especially dangerous when used to strike a distracted or unaware foe. If you hit with this weapon and had Advantage with the attack, treat the hit as a critical hit. It can also be used with a Rogue's Sneak Attack feature, if not already allowed. **Sneaky** weapons tend to be simple, small, silent, and easily concealable. 
-
-**Underwater.** A weapon with this property can be used underwater without Disadvantage (PHB pg. 198). **Underwater** weapons tend to be piercing and thrusting weapons.
 
 
 
@@ -413,7 +425,7 @@ The following changes should be made to feats:
 |:-|:-|
 |Ammunition| Blowgun, hand crossbow, heavy crossbow, light crossbow, longbow, shortbow, sling|
 |Balanced| Broadsword, longsword, rapier, shortsword, quarterstaff |
-|Brutal| Broadsword, greatclub, heavy pick, lucern hammer, mace, maul, morningstar, pick, trident, warhammer, warpick |
+|Brutal| Broadsword, greatclub, heavy pick, lucern hammer, mace, maul, morningstar, trident, warhammer, warpick |
 |Feeble| Pitchfork, shovel |
 |Finesse| Dagger, rapier, scimitar, scourge, shortsword, whip |
 |Flexible| Chain, flail, heavy flail, light flail, scourge, whip |
@@ -422,7 +434,7 @@ The following changes should be made to feats:
 |High Crit| Battleaxe, greataxe, halberd, heavy pick, khopesh, lance, pick, scimitar, sickle, waraxe, warpick |
 |Light| Club, dagger, hand crossbow, handaxe, light flail, light hammer, scimitar, scourge, shortsword, sickle, throwing knife |
 |Lunging| Javelin, quarterstaff, rapier, spear, trident, warspear |
-|Monk| Bolas, shortsword, whip |
+|Monk| Bolas, flail, shortsword, whip |
 |Oversized| Bastard sword, fullblade, waraxe, warspear |
 |Reach| Chain, glaive, halberd, lance, longspear, lucern hammer, man catcher, pike, pitchfork, whip |
 |Set| Longspear, pike, pitchfork, spear, trident, warspear |
