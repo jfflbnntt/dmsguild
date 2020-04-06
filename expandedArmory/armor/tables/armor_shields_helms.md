@@ -25,4 +25,4 @@ ___
 | *Helms*||||||
 | Light helm | Leather, padded cap, skullcap, kettle, pot | +1 with L armor | 2 gp | 1 lbs. | |							
 | Medium helm | Chain coif, skull, barbute | +1 with L/M armor | 8 gp | 5 lbs. | obstructing |
-|Heavy helm | Sallet, bascinet, bucket, great | +1 with H/M/L armor | 30 gp | 10 lbs. | obstructing |
+| Heavy helm | Sallet, bascinet, bucket, great | +1 with H/M/L armor | 30 gp | 10 lbs. | obstructing |
