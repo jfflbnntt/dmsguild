@@ -1,4 +1,4 @@
-### New Armor and Shields
+### Armor, Shield, and Helm Descriptions
 
 **Banded.** Heavy armor made from overlapping horizontal plates of metal attached to a padded leather undertunic. Also known as **banded plate**, **banded mail**, or **laminar armor**.
 
