@@ -1,4 +1,7 @@
 ##### Simple Melee Weapons
+
+Simple melee weapons are easily made or improvised from tools on hand. Simple weapons tend to do less damage and have fewer beneficial properties than martial weapons, but they also cost less and are easy to come by.
+
 ___
 | Name | Variants | Damage | Cost | Weight | Properties |
 |:-|:-|:-|-:|-:|:-|
