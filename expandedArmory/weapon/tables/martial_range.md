@@ -6,8 +6,8 @@ ___
 | Throwing knife | throwing star | 1d4 piercing | 1 gp | 0.5 lb. | light, sneaky (1d6), thrown (30/90) |
 | Blowgun | | 1 piercing | 10 gp | 1 lb. | ammunition (25/100), loading, sneaky (1d4) |
 | Hand crossbow | | 1d6 piercing | 75 gp | 3 lb. | ammunition (30/120), light, loading, underwater |
-| Long bow | | 1d8 piercing | 50 gp | 2 lb. | ammunition (150/600), heavy, two-handed |
-| Composite long bow | | 1d8 piercing | 100 gp | 3 lb. | ammunition (150/600), heavy, powerdraw, two-handed |
-| Heavy crossbow | | 1d10 piercing | 50 gp | 18 lb. | ammunition (100/400), heavy, loading, two-handed, underwater |
+| Long bow | war bow | 1d8 piercing | 50 gp | 2 lb. | ammunition (150/600), heavy, two-handed |
+| Recurve long bow | great bow, composite war bow | 1d8 piercing | 100 gp | 3 lb. | ammunition (150/600), heavy, powerdraw, two-handed |
+| Heavy crossbow | arbalest | 1d10 piercing | 50 gp | 18 lb. | ammunition (100/400), heavy, loading, two-handed, underwater |
 | Repeating heavy crossbow | | 1d10 piercing | 250 gp | 20 lb. | ammunition (100/400), heavy, repeating, two-handed, underwater |
 | Throwing knife | throwing star | 1d4 piercing | 1 gp | 0.5 lb. | light, sneaky (1d6), thrown (30/90) |
