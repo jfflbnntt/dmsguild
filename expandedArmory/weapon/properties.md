@@ -1,8 +1,10 @@
 ### Weapon Properties
 
+Weapons are distinquished by a set of properties that govern how they perform in battle. The following lists these properties and their effects, including new and existing ones from the PHB and how they interact with each other along with suggestions on how they should be applied to new or customized weapons.
+
 **Ammunition.** You can use a weapon that has the ammunition property to make a ranged Attack only if you have ammunition to fire from the weapon. Each time you Attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the Attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. If you use a weapon that has the ammunition property to make a melee Attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way.
 
-**Brace.** These weapons are more effective when braced and set against charging opponents. Any Readied Attack Action against an advancing opponent has Advantage. Brace weapons tend to be **two-handed** or **versatile** piercing weapons, like spears and pikes. Brace weapons can not also be **mounted**. A **brace** weapon should not also have the **slow** property.
+**Brace.** These weapons are more effective when braced and set against charging opponents. Any Readied Attack Action against an advancing opponent has Advantage. Brace weapons tend to be **two-handed** or **versatile** piercing weapons, like spears and pikes. Brace weapons should not also have the **slow** property.
 
 **Brutal.** These weapons create deep vicious wounds that tend to bleed. If the result of any rolled weapon damage die is 1, reroll it and take the new result instead. This includes any additional critical hit dice, but does not include dice provided by sneak attack, spells or other features. This property is negated by **hardened** armor. Axes and other curved slashing weapons tend to have the brutal property. 
 
@@ -26,6 +28,8 @@ Add 1 additional weapon damage die when rolling crit damage. This feature is neg
 **Lunging.** Some one-handed weapons are long and light enough to be used to sacrifice power to gain reach. When making a reach attack with a **lunging** weapon use the lower damage die listed in parentheses. You cannot use this feature while holding the weapon in both hands. A **lunging** weapon is typically not also **heavy**, **reach**, or **two-handed**.
 
 **Monk.** Weapons with this property count as Monk weapons that can be used with the Martial Arts feature. **Monk** weapons tend to be simple weapons without the **heavy** or **two-handed** properties, however there are a few select martial weapons that are specifically included.
+
+**Mounted.** Lances are most effective when used while mounted. You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted. Mounted weapons tend to also be **slow** and **reach** weapons.
 
 **Powerdraw.** Especially powerful bows made from reinforced, rare, or composite materials derive their damage from the increased strength necessary to pull it. When applied to a shortbow or longbow this property allows you to use your Strength modifier for damage rolls in place of Dexterity. **Powerdraw** bows are rare and valuable.
 

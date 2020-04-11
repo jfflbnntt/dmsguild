@@ -2,25 +2,26 @@
 ___
 | Property | Weapons |
 |:-|:-|
-|Ammunition| Blowgun, hand crossbow, heavy crossbow, light crossbow, longbow, shortbow, sling|
-|Balanced| Broadsword, longsword, rapier, shortsword, quarterstaff |
-|Brutal| Broadsword, greatclub, heavy pick, lucern hammer, mace, maul, morningstar, trident, warhammer, warpick |
-|Feeble| Pitchfork, shovel |
-|Finesse| Dagger, rapier, scimitar, scourge, shortsword, whip |
-|Flexible| Chain, flail, heavy flail, light flail, scourge, whip |
-|Grappling| Bolas, chain, lasso, man catcher, net, whip |
-|Heavy| Chain, fullblade, glaive, greataxe, greatsword, halberd, heavy crossbow, heavy flail, heavy pick, longbow, lucern hammer, maul, pike, waraxe, warspear |
-|High Crit| Battleaxe, greataxe, halberd, heavy pick, khopesh, lance, pick, scimitar, sickle, waraxe, warpick |
-|Light| Club, dagger, hand crossbow, handaxe, light flail, light hammer, scimitar, scourge, shortsword, sickle, throwing knife |
-|Lunging| Javelin, quarterstaff, rapier, spear, trident, warspear |
-|Monk| Bolas, flail, shortsword, whip |
-|Oversized| Bastard sword, fullblade, waraxe, warspear |
-|Reach| Chain, glaive, halberd, lance, longspear, lucern hammer, man catcher, pike, pitchfork, whip |
-|Set| Longspear, pike, pitchfork, spear, trident, warspear |
-|Slow| Chain, fullblade, greataxe, greatclub, halberd, heavy flail, heavy pick, lance, lucern hammer, maul, scythe, waraxe |
-|Sneaky| Club, dagger, throwing knife |
-|Special| Lance, net |
-|Thrown| Bolas, dagger, dart, handaxe, javelin, lasso, light hammer, net, spear, throwing knife, trident |
-|Two-handed| Chain, glaive, greataxe, greatclub, greatsword, halberd, heavy crossbow, heavy flail, heavy pick, light crossbow, longbow, longspear, lucern hammer, man catcher, maul, pike, pitchfork, scythe, shortbow |
-|Versatile| Bastard sword, battleaxe, flail, fullblade, longsword, quarterstaff, shovel, spear, trident, waraxe, warhammer, warspear |
-|Underwater| Dagger, dart, hand crossbow, javelin, light crossbow, longspear, man catcher, net, pike, pitchfork, shortsword, spear, trident, warspear |
+| Ammunition | blowgun, composite long bow, composite short bow, hand crossbow, heavy crossbow, light crossbow, long bow, short bow, sling, staff sling, repeating heavy crossbow, repeating light crossbow |
+| Brace | long spear, pike, pitchfork, spear, trident |
+| Brutal | battle axe, great axe, halberd, kama, scimitar, scythe, sickle |
+| Crushing | great club, great hammer, long hammer, mace, morning star, war hammer |
+| Finesse | dagger, kama, rapier, scimitar, scourge, short sword, whip |
+| Flexible | great flail, heavy flail, lasso, light flail, nanchaku, scourge, spiked chain, whip |
+| Grappling | bolas, lasso, man-catcher, net, spiked chain, whip |
+| Heavy | bastard sword, composite long bow, glaive, great axe, great flail, great hammer, great pick, great sword, halberd, heavy crossbow, long bow, long hammer, long pick, man-catcher, pike, repeating heavy crossbow, scythe, spiked chain |
+| High Crit | great pick, heavy lance, heavy pick, javelin, jousting lance, lance, light lance, light pick, long pick, long spear, pike, pitchfork, rapier, spear, trident |
+| Light | clawed gauntlet, club, dagger, gauntlet, hand axe, hand crossbow, kama, light hammer, light pick, nunchaku, punching dagger, scimitar, scourge, short sword, sickle, spiked gauntlet, throwing knife, unarmed strike |
+| Loading | blowgun, hand crossbow, heavy crossbow, light crossbow |
+| Lunging | javelin, pitchfork, quarter staff, spear, rapier, trident |
+| Monk | clawed gauntlet, club, dagger, gauntlet, hand axe, javelin, kama, lasso, light flail, light hammer, light pick, mace, nunchaku, punching, dagger, quarter staff, short sword, shovel, sickle, spear, spiked gauntlet, unarmed strike, whip |
+| Mounted | heavy lance, jousting lance, lance, light lance |
+| Reach | glaive, halberd, heavy lance, jousting lance, lance, lasso, light lance, long hammer, long pick, long spear, man-catcher, pike, spiked chain, whip |
+| Repeating | repeating heavy crossbow, repeating light crossbow |
+| Slow | battle axe, great axe, great club, great flail, great hammer, great pick, halberd, heavy flail, heavy lance, heavy pick, jousting lance, lance, light lance, light pick, long hammer, long pick, morning star, scythe, spiked chain, war hammer |
+| Sneaky | blowgun, club, dagger, dart, punching dagger, throwing knife |
+| Thrown | bolas, dagger, dart, hand axe, javelin, light hammer, net, spear, throwing knife, trident |
+| Two-handed | composite long bow, composite short bow, glaive, great axe, great club, great flail, great hammer, great pick, great sword, halberd, heavy crossbow, light crossbow, long bow, long hammer, long pick, long spear, man-catcher, pike, pitchfork, repeating heavy crossbow, repeating light crossbow, scythe, short bow, spiked chain |
+| Underwater | dagger, dart, hand crossbow, heavy crossbow, javelin, light crossbow, long spear, man-catcher, net, pike, pitchfork, punching dagger, repeating heavy crossbow, repeating light crossbow, short sword, spear, trident |
+| Versatile | bastard sword, battle axe, broad sword, heavy flail, heavy pick, long sword, quarter staff, shovel, spear, staff sling, trident, war hammer |
+| Weak | pitchfork, scythe, shovel, sickle |
