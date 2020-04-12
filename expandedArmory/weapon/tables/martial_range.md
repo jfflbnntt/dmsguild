@@ -1,6 +1,6 @@
 ##### Martial Range Weapons
 
-Martial range weapons require more training and practice than simple range weapons in order to use them effectively. Trained assassins use blowguns, throwing knives, and hand crossbows while military marksmen typically use long bows and heavy crossbows. Martial range weapons tend to have longer ranges and deal more damage than their simple range weapon counterparts.
+Martial range weapons require more training and practice than simple range weapons in order to use them effectively. Trained assassins use blowguns, throwing knives, and hand crossbows while military marksmen typically use long bows and heavy crossbows. Martial range weapons tend to have longer ranges and deal more damage than their simple range weapon counterparts, while costing more and being less common.
 
 ___
 | Name | Variants | Damage | Cost | Weight | Properties |

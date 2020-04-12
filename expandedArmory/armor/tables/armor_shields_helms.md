@@ -21,6 +21,6 @@ ___
 | Medium shield | Round, parma, kite, heater, teardrop | M | +2 | 10 gp | 6 lb. | covering |
 | Large shield | Tower, aspis, pavise, mantlet, body | H | +3 | 25 gp | 12 lb. | covering, encumbering (Str 11), oversized |
 | *Helms*||||||
-| Cap | Leather hood, padded cap, skullcap, kettle, pot | L | +1 with L armor | 2 gp | 1 lb. | |							
-| Half helm| Chain coif, skull, barbute | +1 with L/M armor | M | 8 gp | 5 lb. | occluding |
-| Full helm | Sallet, bascinet, bucket, great | +1 with H/M/L armor | H | 30 gp | 10 lb. | occluding |
+| Cap | Leather hood, padded cap, skullcap, kettle, pot | L | +1 with L armor | 2 gp | 1 lb. | occluding (1) |							
+| Half helm| Chain coif, skull, barbute | +1 with L/M armor | M | 8 gp | 5 lb. | occluding (2) |
+| Full helm | Sallet, bascinet, bucket, great | +1 with H/M/L armor | H | 30 gp | 10 lb. | occluding (3) |
