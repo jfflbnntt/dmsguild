@@ -10,6 +10,6 @@
 
 **Occluding.** Protective headgear often reduces periferal vision and dampens sounds. The wearer of helms with this property suffers a penalty on passive perception checks equal to the number in parentheses.
 
-**Oversized.** Heavy shields cannot be wielded by small creatures without two hands.
+**Oversized.** Heavy shields cannot be used while mounted and cannot be wielded by small creatures without two hands.
 
 **Spiked.** Armor and shields with this property have been embellished with intimidating metal spikes or something equally dangerous. A shield with spikes does 1d4 piercing damage instead of bludgeoning when used as a weapon or as part of a shove attack. A creature who grapples or is grappled by another creature in spiked armor takes 1d4 piercing damage from the spikes. Armor with spikes also gains the **hampering** property if it doesn't already.
