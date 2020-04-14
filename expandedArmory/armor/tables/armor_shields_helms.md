@@ -8,12 +8,12 @@ ___
 | Leather | Wicker | L | 11 + Dex modifier |  10 gp  | 10 lb. | |
 | Ring mail | Bone | L | 12 + Dex modifier | 45 gp | 13 lb. | encumbering (11) |
 | Hide | Gladiator | M | 12 + Dex modifier (max 2) | 10 gp |  20 lb. | encumbering (11) |
-| Chain shirt | Half chain, hauberk, lorica, bronze breastplate | M | 13 + Dex modifier (max 2) | 50 gp |  20 lb. | encumbering (11) |
+| Chain shirt | Half chain, hauberk, lorica | M | 13 + Dex modifier (max 2) | 50 gp |  20 lb. | encumbering (11) |
 | Scale mail | Coin | M | 14 + Dex modifier (max 2) | 50 gp | 45 lb. | encumbering (13), hampering |
 | Breastplate | Cuirass, Disc, Mirror | M | 14 + Dex modifier (max 2) | 400 gp |  20 lb. | encumbering (11) |
 | Half plate | Field plate | M | 15 + Dex modifier (max 2) | 750 gp | 40 lb. | encumbering (Str 13), hampering |
-| Brigandine | Coat of plates, bronze plate mail | H | 14 | 30 gp | 40 lb. | encumbering (Str 13), hampering |
-| Chain mail | Full chain, Tamati, kusari, bronze full plate | H | 15 | 75 gp | 55 lb. | encumbering (Str 13), hampering |
+| Brigandine | Coat of plates | H | 14 | 30 gp | 40 lb. | encumbering (Str 13), hampering |
+| Chain mail | Full chain, Tamati, kusari | H | 15 | 75 gp | 55 lb. | encumbering (Str 13), hampering |
 | Plate mail | Banded mail, splint mail, lamellar | H | 16 | 200 gp | 60 lb. | encumbering (Str 15), hampering |
 | Full plate | | H | 17 | 1500 gp | 65 lb. | encumbering (Str 15), hampering |
 | Heavy plate | | H | 18 | 7500 gp | 100 lb. | encumbering (Str 17), hampering |
