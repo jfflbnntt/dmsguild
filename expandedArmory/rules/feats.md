@@ -1,17 +1,13 @@
 #### Feats
 
-The following changes should be made to feats:
+**Crossbow Expert.** It only takes a bonus action to reload a **repeating** crossbow.
 
-**Crossbow Expert.** It now only takes a bonus action to reload a **repeating** crossbow.
+**Heavily Armored.** Gain proficiency with large shields and full helms.
 
-**Great Weapon Master.** Weapons with the **oversized** property count for the second benefit.
+**Lightly Armored.** Gain proficiency with small shields and caps.
 
-**Heavily Armored.** Gain proficiency with heavy shields.
+**Moderately Armored.** Gain proficiency with medium shields and half helms.
 
-**Lightly Armored.** Gain proficiency with light shields.
+**Polearm Master.** Add long hammer, long pick, long spear, pike, and spear to the list of weapons that work with this feat.
 
-**Moderately Armored.** Gain proficiency with medium shields.
-
-**Polearm Master.** Add lucern hammer, spear, longspear, and warspear to the list of weapons that work with this feat.
-
-**Shield Master.** You no longer suffer any drawbacks from the **unwieldy** property and can ignore it.
+**Shield Master.** You no longer suffer any drawbacks from the **oversized** property and can ignore it.
