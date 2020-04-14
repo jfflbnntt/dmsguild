@@ -2,7 +2,7 @@
 
 Armor, shields, and helms come in three categories related to the proficiency needed to use them effectively: Light, Medium, and Heavy. 
 
-Light armors are made of lightweight and flexible materials that cover the torso and arms. Medium and heavy armors tend to be made of more sturdy and heavier materials. Medium armor focuses on covering the torso and arms while heavy armor protects the entire body. Commoners rarely have any type of armor available, town guards and militia may be issued a suit of ring mail or a chain shirt, while professional soldiers typically wear chain mail.
+Light armors are made of lightweight and flexible materials that cover the torso and arms. Medium and heavy armors tend to be made of more sturdy and heavier materials. Medium armor focuses on covering the torso and arms while heavy armor protects the entire body. Heavy armor tends to be both restrictive and cumbersome. Commoners rarely have any type of armor available, town guards and militia may be issued a suit of ring mail or a chain shirt, while professional soldiers typically wear chain mail.
 
 **Padded.** Armor consisting of many thick layers of cloth and batting quilted together covering the chest and armes. It offers some protection while being cheap and easy to craft, however it's bulk somewhat hampers movement. Padded armor is more common than leather armor and just as protective. Common levies are often outfitted with this type of armor.
 
