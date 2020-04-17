@@ -1,6 +1,8 @@
-#### Optional Variant Rules
+#### Optional Rules
 
-Here are a few variant rules you can pick and choose from to spice up your games.
+Here are a few optional rules you can pick and choose from to spice up your games.
+
+**Attunements by Level.** A character can attune to a number of items equal to their current Proficiency modifier. This replaces the static value of 3 and slowly ramps up over the career of the character from 2 to 6. Artificer's Superior Attunement Feature grants a +1 to this value. 
 
 **Charging Attack.** When taking the Dash Action you can use a Bonus Action to make a single melee weapon attack or shove a creature at the end of your movement. If you use this variant rule then the **Charger** feat no longer requires a bonus action to make an attack. Use this rule if you want combat to feel more dynamic and fast paced.
 
