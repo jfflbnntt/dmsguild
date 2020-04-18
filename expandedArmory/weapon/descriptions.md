@@ -1,9 +1,12 @@
 ### Simple Melee Weapons
 
-Simple melee weapons are easily made or improvised from tools on hand. Commoners frequently have a access to a dagger, club, quarterstaff, or farming implements while militia and guards are often equipped with a mace or spear.
+Simple melee weapons are easily made or improvised from tools on hand. Commoners frequently have a access to a dagger, club, quarterstaff, or farming implements while militia and guards are often equipped with a mace or spear. Savage humanoids often wield clubs, great clubs, and javelins due their simple construction.
 
-**Club.** 
-**Dagger.**
+**Club.** A small one-handed bludgeon made of wood, bone, or even a leather stack filled with sand or rocks. Most improvised weapons can be considered clubs.
+
+**Dagger.** A small one-handed stabbing or slashing weapon that comes in a variety of shapes and styles. Traditional daggers have a flat and wide pointed blade while stilettos have a long and narrow blade. Knives generally have a single edged blade for slashing and cutting. Daggers can be wielded in either hand, thrown, and used in close combat making them a very useful backup or secondary weapon.
+
+
 **Great Club.**
 **Hand Axe.**
 **Javelin.**
