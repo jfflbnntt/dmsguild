@@ -17,4 +17,4 @@ ___
 | javelin | pilum | 1d6 piercing | 5 sp | 2 lb. | high crit, lunging (1d4), monk, thrown (30/90), underwater |
 | spear | pitchfork | 1d6 piercing | 2 gp | 3 lb. | brace, high crit, lunging (1d4), monk, thrown (20/60), underwater, versatile (1d8) |
 | long spear | boar spear, great spear, war spear | 2d4 piercing | 5 gp | 6 lb. | brace, high crit, reach, two-handed, underwater |
-| lasso | lariat | | 1 sp | 0.1 lb. | flexible, grappling, monk, reach |
+| lasso | lariat | | 1 sp | 0.1 lb. | flexible, grappling, reach, two-handed |
