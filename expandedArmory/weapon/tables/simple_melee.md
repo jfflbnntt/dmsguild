@@ -1,7 +1,3 @@
-##### Simple Melee Weapons
-
-Simple melee weapons are easily made or improvised from tools on hand. Commoners frequently have a access to a dagger, club, quarterstaff, or farming implements while militia and guards are often equipped with a mace or spear.
-
 ___
 | Name | Variants | Damage | Cost | Weight | Properties |
 |:-|:-|:-|-:|-:|:-|

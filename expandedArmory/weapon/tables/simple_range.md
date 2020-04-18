@@ -1,7 +1,3 @@
-##### Simple Range Weapons
-
-Simple range weapons are typically used for hunting but can be used in battle when needed. Commoners often own a sling or a short bow while militia and town guards are frequently equipped with light crossbows.
-
 ___
 | Name | Variants | Damage | Cost | Weight | Properties |
 |:-|:-|:-|-:|-:|:-|

@@ -1,5 +1,3 @@
-##### Armor, Shields, and Helms
-
 ___
 | Name | Variants | Proficiency | Armor Class (AC) | Cost | Weight | Properties |
 |:-|:-| :-: | :-:|-:|-:|:-|
