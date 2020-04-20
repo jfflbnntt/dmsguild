@@ -2,45 +2,41 @@
 
 Simple melee weapons are easily made or improvised from tools on hand. Commoners frequently have a access to a dagger, club, quarterstaff, or farming implements while militia and guards are often equipped with a mace or spear. Savage humanoids often wield clubs, great clubs, and javelins due their simple construction.
 
-**Club.** A small one-handed bludgeon made of wood, bone, or even a leather stack filled with sand or rocks. Most improvised weapons can be considered clubs.
+**Club.** A small one-handed bludgeon made of wood, bone, or even a leather stack filled with sand or rocks. Many improvised weapons can be considered clubs.
 
 **Dagger.** A small one-handed stabbing or slashing weapon that comes in a variety of shapes and styles. Traditional daggers have a flat and wide pointed blade while stilettos have a long and narrow blade. Knives generally have a single edged blade for slashing and cutting. Daggers can be wielded in either hand, thrown, and used in close combat making them a very useful backup or secondary weapon.
 
+**Great Club.** A two-handed club which can be made of wood, bone, stone, or even metal. Great clubs are often improvised from objects on hand an rarely crafted. Commonly used by brutish and savage humanoids.
 
-**Great Club.**
-**Hand Axe.**
-**Javelin.**
-**Lasso.**
-**Light Flail.**
-**Light Hammer.**
-**Light Pick.**
-**Long Spear.**
+**Hand Axe.** A small light-weight single-edged chopping axe. Useful as a tool, weapon, or thrown missile in a pinch. A common tool found in wooded areas.
+
+**Javelin.** A light spear primarily meant as a throwing weapon but can be used as a stabbing weapon as well. Cheap and easily fabricated, it is a common weapon among tribal humanoids and frequently issued to common foot soldiers as a skirmishing weapon.
+
+**Lasso.** A length of rope tied into a loop, slip knot, or noose that can be thrown around a target to restraint it. It takes two hands to properly control a lasso. It doesn't cause any damage directly but can be used to grapple, restrain, and possibly strangle a target.
+
+**Light Flail.** Two short sections of wood or metal connected by a small chain or hinge. Originally intended as a tool for threshing grain it can be used as a flexible bludgeoning weapon as well.
+
+**Light Hammer.** A one-handed hammer useful as a hand tool, a bludgeon, or a throwing weapon. A favorite skirmishing weapon among dwarves, gnomes, and other mining races.
+
+**Light Pick.** A small double-headed pick usually used for breaking up dirt or rocks.
+
+**Long Spear.** Longer than a normal spear, reaching lengths of 8' to 10'.
+
 **Mace.**
+
 **Quarter Staff.**
-**Scythe.**
-**Shovel.**
-**Sickle.**
-**Spear.**
-**Unarmed Strike.**
-
-
-**Light Flail.** Two short sections of wood or metal connected by a small chain or hinge. Originally intended as an agricultural tool for threshing grain.
-
-**Longspear.** Longer than a normal spear, reaching lengths of 8' to 10'.
-
-**Pick.** A small double-headed pick usually used for breaking up dirt or rocks.
-
-**Pitchfork.** Your standard pitchfork, two or more prongs on a long wooded handle.
-
-**Scourge.** A short lash with multiple thongs typically made of leather and usually used as a form of torture.
 
 **Scythe.** A sharp inwardly curved blade attached to a long wooden handle intended for shearing grain.
 
 **Shovel.** A digging tool with a metal head on a long wooden handle.
 
-**Throwing Knife.** A small sharp blade specially shaped and balanced for accurate throwing.
-**Lasso.** A length of rope tied into a loop or noose that can be thrown around a target to restraint it.
+**Sickle.**
 
+**Spear.**
+
+**Unarmed Strike.**
+
+**Pitchfork.** Your standard pitchfork, two or more prongs on a long wooded handle.
 
 
 ### Simple Range Weapons
@@ -117,6 +113,7 @@ Martial melee weapons are specialized to be wielded by trained warriors and sold
 **Rapier.**
 **Scimitar.**
 **Scourge.**
+**Scourge.** A short lash with multiple thongs typically made of leather and usually used as a form of torture.
 **Short Sword.**
 **Spiked Gauntlet.**
 **Trident.**
@@ -137,3 +134,4 @@ Martial range weapons require more training and practice than simple range weapo
 **Repeating Heavy Crossbow.**
 **Staff Sling.**
 **Throwing Knife.**
+**Throwing Knife.** A small sharp blade specially shaped and balanced for accurate throwing.
