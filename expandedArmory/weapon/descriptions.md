@@ -22,21 +22,19 @@ Simple melee weapons are easily made or improvised from tools on hand. Commoners
 
 **Long Spear.** Longer than a normal spear, reaching lengths of up to 8', and requiring two hands to wield effectively.
 
-**Mace.** A one-handed bludgeon specifically crafted as a weapon often having a heavy rounded or flanged head to increase the impact. Simple maces are issued to civil peace-keeping forces for protection and as a deterent.
+**Mace.** A one-handed bludgeon specifically crafted as a weapon often having a heavy rounded or flanged head to increase the impact. Simple maces are issued to civil peace-keeping forces for protection and as a symbol of authority.
 
 **Quarter Staff.** A rod of wood, or rarely metal, between four and six feet long, usually as tall as the wielder, that can be wielded as a weapon in one or two hands. A very common weapon among peasants, pilgrims, and monks for its versatility and simple craftsmanship.
 
-**Scythe.** A sharp inwardly curved blade attached to a long wooden handle intended for shearing grain.
+**Scythe.** A sharp inwardly curved blade attached to a long wooden handle primarily intended for shearing grasses and grain. Can only be properly wielded with two hands.
 
-**Shovel.** A digging tool with a metal head on a long wooden handle.
+**Shovel.** A digging tool with a flat metal blade on a long wooden handle.
 
-**Sickle.**
+**Sickle.** A small inwardly curved blade mounted on a short handle, basically a one-handed scythe and used in the collection of herbs and clearing of weeds. Similar to a machete, which has a single edged blade and used to chop away brush and debris. 
 
-**Spear.**
+**Spear.** Spears are basically a longer and sturdier version of a javelin which can also be wielded in onr or two hands and also thrown. Spears are the most common weapon used throughout humanoid history and still in frequent use. A pitchfork can be used as a spear if necessary.
 
-**Unarmed Strike.**
-
-**Pitchfork.** Your standard pitchfork, two or more prongs on a long wooded handle.
+**Unarmed Strike.** All humanoids can perform an unarmed strike as an Attack action. It can represent a punch, kick, knee, headbutt, tail slam, shoulder throw, or any other brawling move.
 
 
 ### Simple Range Weapons
