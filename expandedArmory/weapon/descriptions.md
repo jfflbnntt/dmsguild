@@ -6,11 +6,11 @@ Simple melee weapons are easily made or improvised from tools on hand. Commoners
 
 **Dagger.** A small one-handed stabbing or slashing weapon that comes in a variety of shapes and styles. Traditional daggers have a flat and wide pointed blade while stilettos have a long and narrow blade. Knives generally have a single edged blade for slashing and cutting. Daggers can be wielded in either hand, thrown, and used in close combat making them a very useful backup or secondary weapon.
 
-**Great Club.** A two-handed club which can be made of wood, bone, stone, or even metal. Great clubs are often improvised from objects on hand an rarely crafted. Commonly used by brutish and savage humanoids.
+**Great Club.** A two-handed club which can be made of wood, bone, stone, or even metal. Great clubs are often improvised from objects on hand, are rarely crafted, and commonly used by brutish humanoids.
 
-**Hand Axe.** A small light-weight single-edged chopping axe. Useful as a tool, weapon, or thrown missile in a pinch. A common tool found in wooded areas.
+**Hand Axe.** A small light-weight single-edged chopping axe. A common tool among settlers in forested climates it is also useful as a weapon or thrown missile in a pinch.
 
-**Javelin.** A light spear primarily meant as a throwing weapon but can be used as a stabbing weapon as well. Cheap and easily fabricated, it is a common weapon among tribal humanoids and frequently issued to common foot soldiers as a skirmishing weapon.
+**Javelin.** A light spear primarily meant as a throwing weapon but can be used as a stabbing weapon as well. Cheap and easily fabricated, it is a common weapon among tribal humanoids and frequently issued to foot soldiers as a skirmishing weapon.
 
 **Lasso.** A length of rope tied into a loop, slip knot, or noose that can be thrown around a target to restraint it. It takes two hands to properly control a lasso. It doesn't cause any damage directly but can be used to grapple, restrain, and possibly strangle a target.
 
@@ -18,13 +18,13 @@ Simple melee weapons are easily made or improvised from tools on hand. Commoners
 
 **Light Hammer.** A one-handed hammer useful as a hand tool, a bludgeon, or a throwing weapon. A favorite skirmishing weapon among dwarves, gnomes, and other mining races.
 
-**Light Pick.** A small double-headed pick usually used for breaking up dirt or rocks.
+**Light Pick.** A small one-handed pick usually used for breaking up dirt or rocks but also useful for piercing flesh.
 
-**Long Spear.** Longer than a normal spear, reaching lengths of 8' to 10'.
+**Long Spear.** Longer than a normal spear, reaching lengths of up to 8', and requiring two hands to wield effectively.
 
-**Mace.**
+**Mace.** A one-handed bludgeon specifically crafted as a weapon often having a heavy rounded or flanged head to increase the impact. Simple maces are issued to civil peace-keeping forces for protection and as a deterent.
 
-**Quarter Staff.**
+**Quarter Staff.** A rod of wood, or rarely metal, between four and six feet long, usually as tall as the wielder, that can be wielded as a weapon in one or two hands. A very common weapon among peasants, pilgrims, and monks for its versatility and simple craftsmanship.
 
 **Scythe.** A sharp inwardly curved blade attached to a long wooden handle intended for shearing grain.
 

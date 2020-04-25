@@ -2,7 +2,7 @@
 
 Armor, shields, and helms come in three categories related to the proficiency needed to use them effectively: Light, Medium, and Heavy. 
 
-Light armors are made of layers of cloth and leather while Medium and Heavy armors tend to use metal rings and plates. Light and Medium armors focus on protecting only the vital areas of the chest while heavy armors tend to be made of more sturdy and heavier materials. Medium armor focuses on covering only the vital areas while heavy armor protects the entire body. Heavy armor also tends to be both restrictive and cumbersome. Commoners rarely have any type of armor available, town guards and militia may be issued a suit of ring mail or a chain shirt, while professional soldiers typically wear chain mail.
+Light armors are made of layers of cloth and leather while Medium and Heavy armors tend to use metal rings and plates. Light and Medium armors focus on protecting only the vital areas while heavy armor protects the entire body. Heavy armor also tends to be both restrictive and cumbersome. Commoners rarely have any type of armor available, town guards and militia may be issued a suit of ring mail or a chain shirt, while professional soldiers typically wear chain mail.
 
 **Padded.** Armor consisting of many thick layers of cloth and batting quilted together covering the chest and armes. It offers some protection while being cheap and easy to craft, however it's bulk somewhat hampers movement. Padded armor is more common than leather armor and just as protective. Common levies are often outfitted with this type of armor.
 
@@ -35,11 +35,11 @@ Light armors are made of layers of cloth and leather while Medium and Heavy armo
 
 Shields come in a variety of shapes and sizes and can be made of leather, wood, metal, or other improvised materials. Medium shields are the most commonly used, offering decent protection without the drawbacks of larger shields. Intelligent creatures generally use shields on their own or in combination with armor.
 
-**Small Shield.** A small lightweight shield usually round and made of wood or leather and possibly with metal rim or boss for reinforcement. It covers up to 1/4 of the wielder. Anyone with the light armor proficiency can use a light shield. Sometimes known as a targe, target, leaf shield, or buckler. An improvised shield is usually only effective as a small shield.
+**Small Shield.** A small lightweight shield usually round and made of wood or leather and possibly with metal rim or boss for reinforcement. It covers up to one-quarter of the wielder and is sometimes known as a targe, target, leaf shield, or buckler. An improvised shield is usually only effective as a small shield. Anyone with the light armor proficiency can use a light shield.
 
-**Medium Shield.** A standard shield usually made of metal, or wood with metal reinforcement that covers up to 1/2 of the wielder. They often bear the heraldric arms of the wielder or the local lord. It is also the largest shield that can be effectively used while mounted. Anyone with the medium armor proficiency can use medium shields. Examples include heater, kite, parma, and teardrop shields.
+**Medium Shield.** A standard shield usually made of metal, or wood with metal reinforcement that covers up to one-half of the wielder. They often bear the heraldric arms of the wielder or the local lord. It is also the largest shield that can be effectively used while mounted. Anyone with the medium armor proficiency can use medium shields. Examples include heater, kite, parma, and teardrop shields.
 
-**Large Shield.** A very large and heavy shield covers up to 3/4 of the wielder and most frequently made of metal. It is frequently used on battlefields as a mobile piece of cover for archers or soldiers in a shield wall. Anyone with the heavy armor proficiency can also use heavy shields however small creatures must use two hands when using it. Comes in many varieties including aspis, pavise, body, or tower shields.
+**Large Shield.** A very large and heavy shield covers up to three-quarters of the wielder and most often made of metal. It is frequently used on battlefields as a mobile piece of cover for archers or soldiers in a shield wall. Anyone with the heavy armor proficiency can also use heavy shields however small creatures must use two hands when using it. Comes in many varieties including aspis, pavise, body, or tower shields.
 
 
 ### Helms

@@ -10,10 +10,10 @@ ___
 | great club | two-handed club | 1d8 bludgeoning | 2 sp | 10 lb. | crushing, slow, two-handed |
 | sickle | machete | 1d4 slashing | 1 gp | 2 lb. | brutal, light, monk |
 | hand axe | hatchet, throwing axe | 1d6 slashing | 5 gp | 2 lb. | light, monk, thrown (20/60) |
-| shovel | hoe, spade | 1d8 slashing | 5 sp | 2 lb. | two-handed |
+| shovel | spade | 1d8 slashing | 5 sp | 2 lb. | two-handed |
 | scythe | | 1d8 slashing | 2 gp | 10 lb. | brutal, heavy, slow, two-handed |
 | dagger | dirk, knife, stiletto | 1d4 piercing or slashing | 2 gp | 1 lb. | finesse, light, monk, sneaky (1d6), thrown (20/60), underwater |
-| light pick | horseman's pick | 1d6 piercing | 5 gp | 4 lb. | high crit, light, monk, slow |
+| light pick | hoe, horseman's pick | 1d6 piercing | 5 gp | 4 lb. | high crit, light, monk, slow |
 | javelin | pilum | 1d6 piercing | 5 sp | 2 lb. | high crit, lunging (1d4), monk, thrown (30/90), underwater |
 | spear | pitchfork | 1d6 piercing | 2 gp | 3 lb. | brace, high crit, lunging (1d4), monk, thrown (20/60), underwater, versatile (1d8) |
 | long spear | boar spear, great spear, war spear | 2d4 piercing | 5 gp | 6 lb. | brace, high crit, reach, two-handed, underwater |

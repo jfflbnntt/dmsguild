@@ -8,7 +8,7 @@
 
 **Hardened.** Armor made of rigid plates is reinforced and better covers vital areas providing improved protection against grevious wounds. The wearer effectively ignores the effects of weapon properties **brutal** and **high crit**.
 
-**Occluding.** Protective headgear often reduces periferal vision and dampens sounds. The wearer of helms with this property suffers a penalty on passive perception checks equal to the number in parentheses.
+**Occluding.** Protective headgear can reduce periferal vision and dampens sounds. The wearer of helms with this property suffers a penalty on passive perception checks equal to the number in parentheses.
 
 **Oversized.** Heavy shields cannot be used while mounted and cannot be wielded by small creatures without two hands.
 
