@@ -42,12 +42,20 @@ Simple melee weapons are easily made or improvised from tools on hand. Commoners
 Simple range weapons are typically used for hunting but can be used in battle when needed. Commoners often own a sling or a short bow while militia and town guards are frequently equipped with light crossbows.
 
 
-**Dart.**
-**Light Crossbow.**
+**Dart.** A dart is a small javelin specialized for throwing with fletching, a shorter shaft, and a wieghted head. It can also be used as ammunititon for the **dart thrower** which extends the range and power of the dart.
+
+**Dart Thrower.** A specialized tool for hurling **darts** further and harder than possible if thrown. Typically a length of wood roughly the length of the thrower's forearm with a notch at one end that hooks into the back of a dart. These are used by tribal humanoids that may not have access to bows or lack the strength to use other thrown weapons.
+
+**Light Crossbow.** A small mechanical bow mounted horizontally onto a wooden stock which fires bolts when a trigger is depressed. The bow must be reset and bolts must be loaded individually between shots. A wall manned with guards equipped with light crossbows is an effective deterent.
+
 **Net.**
+
 **Recurve Short Bow.**
+
 **Repeating Light Crossbow.**
+
 **Short Bow.**
+
 **Sling.**
 
 ### Martial Melee Weapons

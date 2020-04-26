@@ -2,7 +2,8 @@ ___
 | Name | Variants | Damage | Cost | Weight | Properties |
 |:-|:-|:-|-:|-:|:-|
 | sling | | 1d4 bludgeoning | 1 sp | 0.01 lb. | ammunition (40/160) |
-| dart | | 1d4 piercing | 5 cp | 0.25 lb. | sneaky (1d6), thrown (30/90), underwater |
+| dart | plumbata | 1d4 piercing | 5 cp | 0.25 lb. | finesse, thrown (30/90), underwater |
+| dart thrower | atlatl | 1d6 piercing | 5 sp | 1 lb. | ammunition (40/120), underwater |
 | short bow | self-bow, hunting bow | 1d6 piercing | 25 gp | 2 lb. | ammunition (80/320), two-handed |
 | recurve short bow | composite horn bow | 1d6 piercing | 50 gp | 2 lb. | ammunition (80/320), powerdraw, two-handed |
 | light crossbow | | 1d8 piercing | 25 gp | 5 lb. | ammunition (80/320), loading, two-handed, underwater |
