@@ -33,7 +33,7 @@ Add 1 additional weapon damage die when rolling crit damage. This feature is neg
 
 **Oversized.** Oversized weapons cannot be used while mounted. Heavy two-handed reach weapons tend to be oversized.
 
-**Powerdraw.** Especially powerful bows are constructed of reinforced, rare, or composite materials while others are recurved. These bows derive their damage from the increased strength necessary to pull it. When applied to a short bow or long bow this property allows you to use your Strength modifier for damage rolls in place of Dexterity. **Powerdraw** bows are rare and valuable.
+**Powerdraw.** Especially powerful bows are constructed of reinforced, rare, or composite materials while others are recurved. These bows derive their damage from the increased strength necessary to pull it. When applied to a short bow or long bow this property increases the range and allows you to use your Strength modifier for damage rolls in place of Dexterity. **Powerdraw** bows are rare and valuable.
 
 **Range.** A weapon that can be used to make a ranged Attack has a range in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon’s normal range in feet, and the second indicates the weapon’s long range. When attacking a target beyond normal range, you have Disadvantage on the Attack roll. You can’t Attack a target beyond the weapon’s long range.
 
