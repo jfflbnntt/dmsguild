@@ -31,7 +31,7 @@ Add 1 additional weapon damage die when rolling crit damage. This feature is neg
 
 **Mounted.** Lances are most effective when used while mounted. You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted. Mounted weapons tend to also be **slow** and **reach** weapons.
 
-**Oversized.** Oversized weapons cannot be used while mounted. Heavy two-handed reach weapons tend to be oversized.
+**Oversized.** Oversized weapons suffer Disadvantage on attack rolls when used while mounted. Heavy two-handed reach weapons tend to be oversized.
 
 **Powerdraw.** Especially powerful bows are constructed of reinforced, rare, or composite materials while others are recurved. These bows derive their damage from the increased strength necessary to pull it. When applied to a short bow or long bow this property increases the range and allows you to use your Strength modifier for damage rolls in place of Dexterity. **Powerdraw** bows are rare and valuable.
 

@@ -8,10 +8,16 @@ Below are updates and changes to Feats due to the new properties, armor, shields
 
 **Heavily Armored.** Gain proficiency with large shields and full helms.
 
+**Heavy Armor Master.** You can ignore the **encumbering** property on heavy armor.
+
 **Lightly Armored.** Gain proficiency with small shields and caps.
+
+**Medium Armor Master.** You can ignore the **encumbering** and **hampering** properties on medium armor.
 
 **Moderately Armored.** Gain proficiency with medium shields and half helms.
 
-**Polearm Master.** Add long hammer, long pick, long spear, pike, and spear to the list of weapons that work with this feat.
+**Polearm Master.** Add long hammer, long pick, long spear, pike, and spear to the list of weapons that work with this feat. You can also ignore the **oversized** property on reach weapons.
 
-**Shield Master.** You no longer suffer any drawbacks from the **oversized** property and can ignore it.
+**Sharpshooter.** You can ignore the **oversized** property on range weapons.
+
+**Shield Master.** You no longer suffer any drawbacks from the **oversized** or **encumbering** properties on shields and can ignore it.
