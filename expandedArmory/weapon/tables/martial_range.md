@@ -2,7 +2,7 @@ ___
 | Name | Variants | Damage | Cost | Weight | Properties |
 |:-|:-|:-|-:|-:|:-|
 | bolas | | 1d4 bludgeoning | 5 gp | 2 lb. | grappling, thrown (20/60) |
-| staff sling | 1d6 bludgeoning | 5 sp | 3 lb. | ammunition (80/320) |
+| staff sling | 1d6 bludgeoning | 5 sp | 3 lb. | ammunition (80/320), two-handed |
 | throwing knife | throwing star | 1d4 piercing | 1 gp | 0.5 lb. | light, sneaky (1d6), thrown (30/90) |
 | blowgun | | 1 piercing | 10 gp | 1 lb. | ammunition (25/100), loading, sneaky (1d4) |
 | dart thrower | atlatl | 1d6 piercing | 5 sp | 1 lb. | ammunition (40/120), underwater |
