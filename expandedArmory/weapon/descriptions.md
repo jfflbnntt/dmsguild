@@ -57,7 +57,7 @@ Martial melee weapons are specialized to be wielded by trained warriors and sold
 
 **Bastard Sword.** A double-edged sword with a wide crossguard and an extended pommel. Slightly longer than a long sword but not as large as a great sword, this is a fairly uncommon yet distinctive weapon. Also known as a claymore or hand-and-a-half sword.
 
-**Broad Sword.** A sword with wide blade with very little taper and a one-handed pommel. The length is about midway between a shortsword and a longsword.
+**Broad Sword.** A sword with wide blade with very little taper and a one-handed pommel. The length is about midway between a short sword and a long sword.
 
 **Great Sword.**
 
@@ -71,7 +71,7 @@ Martial melee weapons are specialized to be wielded by trained warriors and sold
 
 **Glaive.** A glaive is a sword-like blade mounted on a long pole. Other similar weapons include the bill and fauchard. One of the few reach weapons that is not also slow.
 
-**Heavy Flail and Great Flail.** A large flail meant to be used with two hands. Sometimes fashioned with multiple heads. A heavier version of the light flail, often fashioned with a spiked ball on the end of a long chain. Crafted specifically for battle and effective against opponents with shields.
+**Heavy Flail and Great Flail.** A heavy flail is crafted specifically for battle and to be effective against opponents with shields, often fashioned with one or more spiked balls on the end of a long chains. A great flail is even larger and meant to be used with two hands. Flails are a favored weapon among gnolls.
 
 **Heavy Pick and Great Pick.** A larger and heavier version of the pick able to be used in one or two hands. Sometimes called a **horseman's pick**.
 
