@@ -53,4 +53,4 @@ Add 1 additional weapon damage die when rolling crit damage. This feature is neg
 
 **Versatile.** This weapon can be used with one or two hands. A damage value in parentheses appears with the property, the damage when the weapon is used with two hands to make a melee Attack. Versatile weapons should not also be **two-handed** or **light**.
 
-**Weak.** A weapon with this property is feeble, poorly crafted, or made of sub-standard materials like stone, bone, or bronze. When you roll a 1 on an attack roll this weapon becomes broken, and suffers Disadvantage to any further attacks. If you roll another 1 on an attack roll with a broken weapon it is destroyed and unusable. Improvised, practice, ceremonial, low-quality, or old weapons do not stand up to abuse and are prone to breaking and tend to be **weak**.
+**Weak.** A weapon with this property is fragile, made of sub-standard materials, or worn with age. When you hit with an attack roll and deal max damage or get a critical hit this weapon becomes broken and unuseable. Improvised, practice, ceremonial, or ancient weapons do not stand up to abuse and tend to be **weak**.

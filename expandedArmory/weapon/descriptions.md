@@ -79,7 +79,7 @@ Martial melee weapons are specialized to be wielded by trained warriors and sold
 
 **Kama.**
 
-**Lance, Light Lance, Heavy Lance, and Jousting Lance.**
+**Lance, Light Lance, Heavy Lance, and Jousting Lance.** Lances are long one-handed spears meant to be used while mounted. 
 
 **Long Hammer.** A hammer with a spike on the other side mounted on a long pole.
 
