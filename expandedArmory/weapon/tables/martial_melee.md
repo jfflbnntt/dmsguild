@@ -29,7 +29,6 @@ ___
 | Heavy pick | Military pick, War pick | 1d8 piercing | 8 gp | 6 lb. | high crit, slow, versatile (1d10) |
 | Light lance | | 1d8 piercing | 10 gp | 6 lb. | high crit, mounted, reach, slow |
 | Rapier | Epee, Foil, Fencing sword | 1d8 piercing | 25 gp | 2 lb. | finesse, high crit, lunging (1d6) |
-| Trident | Harpoon | 1d8 piercing | 10 gp | 4 lb. | brace, high crit, lunging (1d6), thrown (20/60), underwater, versatile (1d10) |
 | Lance | | 1d10 piercing | 15 gp | 8 lb. | high crit, mounted, reach, slow |
 | Long pick | Bec de corbin, Guisarme, Hook | 1d10 piercing | 10 gp | 7 lb. | heavy, high crit, oversized, reach, slow, two-handed |
 | Pike | Partisan, Military fork, Ranseur, Spetum | 1d10 piercing | 10 gp | 9 lb. | brace, heavy, high crit, oversized, reach, two-handed, underwater |
