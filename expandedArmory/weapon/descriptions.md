@@ -77,29 +77,29 @@ Martial melee weapons are crafted specifically for battle and meant to be wielde
 
 **Man Catcher.** A cage-like ring of inwardly pointing barbs mounted on the end of a long pole. Intended to be used to unhorse riders and capture targets rather than kill them.
 
-**Morning Star.**
+**Morning Star.** Not to be confused with a ball and chain, a morningstar is a large mace studded with spikes or alternatively a large club with with nails or other sharpened protrusions projecting from it. It is a nasty weapon favored among brutes and bugbears.
 
 **Nunchaku.** A light flail-like weapon optimized for martial arts and duel wielding.
 
-**Pike.**
+**Pike.** A very long spear meant to be used with two-hands and in formation with other pikemen. Similar to pikes are other thrusting spear-like polearms including the partisan, ranseur, and spetum.
 
-**Pole Hammer.** A hammer with a spike on the other side mounted on a long pole.
+**Pole Hammer.** A long hammer-like polearm with a spike mounted on the tip. Sometimes known as a lucern hammer.
 
-**Punching Dagger.**
+**Punching Dagger.** A short bladed dagger with a T-shaped or H-shaped handle meant to be gripped in the fist with the blade protruding forward from the knuckles. It generally lacks a crossguard and cannot be thrown, trading versatility for increased force.
 
-**Rapier.**
+**Rapier.** A long thin bladed sword meant for fencing and thrusting, often carried as a symbol of prestige and favored among nobles. They often have elaborate crossguards or basket hilts to protect the wielder's hand.
 
-**Scimitar.**
+**Scimitar.** A short curved single-edged sword that makes for an effective weapon and all-purpose chopping tool. Popular among pirates.
 
 **Scourge.** A short whip with multiple thongs typically made of leather. The thongs are often tipped with knots or sharp metal tips in order to cause additional pain.
 
-**Short Sword.**
+**Short Sword.** A small straight sword with a double-edged blade but primarily meant for stabbing. It is often given to soldiers as a back-up weapon for close combat should they not be able to bring polearms to bear.
 
 **War Flail and Great Flail.** A war flail is a flail fashioned with one or more spiked balls on the end of a long chains specifically crafted for battle and is particularly effective against opponents with shields. A great flail is even larger and heavier and meant to be used with two hands. Flails are a favored weapon among gnolls.
 
-**War Hammer and Maul.**
+**War Hammer and Maul.** A battle hammer that can be used with one or two hands, fashioned with either two blunt ends or a blunt end balanced by a short spike. A maul or great hammer is even larger and heavier and can only be wielded in two-hands. Hammers are a favored weapon among the dwarves.
 
-**War Pick and Great Pick.** A war pick  larger and heavier version of the pick able to be used in one or two hands.
+**War Pick and Great Pick.** A war pick is meant for combat and able to be used in one or two hands. A great pick is larger and heavier and only able to be wielded in two hands.
 
 **Whip.** A long braided flexible leather cord attached to a stiff handle. Traditionally used to train animals or torture prisoners it can be useful as a weapon as well.
 

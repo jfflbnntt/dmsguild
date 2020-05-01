@@ -4,7 +4,7 @@ ___
 | Gauntlet | Brass knuckles, Cestus | 1d2 bludgeoning | 2 gp | 1 lb. | light, monk |
 | Nunchaku | | 1d4 bludgeoning | 6 gp | 1 lb. | flexible, light, monk |
 | Chain | Chain whip, Kusari-gama | 1d6 bludgeoning and slashing | 25 gp | 10 lb. | flexible, grappling, heavy, reach, slow, two-handed |
-| War flail | Military flail | 1d8 bludgeoning | 50 gp | 8 lb. | flexible, slow, versatile (1d10)
+| War flail | Ball and chain, Military flail | 1d8 bludgeoning | 50 gp | 8 lb. | flexible, slow, versatile (1d10)
 | War hammer | Military hammer | 1d8 bludgeoning | 15 gp | 6 lb. | crushing, slow, versatile (1d10) |
 | Morning star | Spiked mace | 2d4 bludgeoning and piercing | 15 gp | 8 lb. | crushing, slow |
 | Pole hammer | Lucerne hammer | 1d10 bludgeoning or piercing | 10 gp | 8 lb. | crushing, heavy, oversized, reach, slow, two-handed |
@@ -24,7 +24,7 @@ ___
 | Great sword | Zwiehander, Two-handed sword | 2d6 slashing | 50 gp | 8 lb. | heavy, two-handed |
 | Spiked gauntlet | | 1d4 piercing | 5 gp | 1 lb. | light, monk |
 | Jousting lance | | 1d6 piercing | 5 gp | 4 lb. | high crit, mounted, reach, slow |
-| Punching dagger | sai, siangham | 1d6 piercing | 5 gp | 1 lb. | light, monk, sneaky (1d8), underwater |
+| Punching dagger | Katar, Knuckle knife, Sai, Siangham | 1d6 piercing | 5 gp | 1 lb. | light, monk, sneaky (1d8), underwater |
 | Short sword | Gladius, Hanger, Small sword, Xiphos | 1d6 piercing | 10 gp | 2 lb. | finesse, light, monk, underwater |
 | Heavy pick | Military pick, War pick | 1d8 piercing | 8 gp | 6 lb. | high crit, slow, versatile (1d10) |
 | Light lance | | 1d8 piercing | 10 gp | 6 lb. | high crit, mounted, reach, slow |
