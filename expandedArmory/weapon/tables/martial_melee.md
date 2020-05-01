@@ -7,14 +7,14 @@ ___
 | Heavy flail | Footman's flail, Military flail, War flail | 1d8 bludgeoning | 50 gp | 8 lb. | flexible, slow, versatile (1d10)
 | War hammer | Military hammer, Footman's hammer | 1d8 bludgeoning | 15 gp | 6 lb. | crushing, slow, versatile (1d10) |
 | Morning star | Spiked mace | 2d4 bludgeoning and piercing | 15 gp | 8 lb. | crushing, slow |
-| Long hammer | Lucerne hammer | 1d10 bludgeoning or piercing | 10 gp | 8 lb. | crushing, heavy, oversized, reach, slow, two-handed |
+| Pole hammer | Lucerne hammer | 1d10 bludgeoning or piercing | 10 gp | 8 lb. | crushing, heavy, oversized, reach, slow, two-handed |
 | Great flail | Two-handed flail | 2d6 bludgeoning | 25 gp | 10 lb. | flexible, heavy, slow, two-handed |
 | Maul| Great hammer, Two-handed hammer | 2d6 bludgeoning | 20 gp | 10 lb. | crushing, heavy, slow, two-handed |
 | Clawed gauntlet | 1d4 slashing | 5 gp | 1 lb. | light, monk |
 | Whip | Bull-whip | 1d4 slashing | 2 gp | 3 lb. | finesse, flexible, grappling, monk, reach |
 | Broad sword | | 1d6 slashing | 10 gp | 4 lb. | versatile (2d4) |
 | Scimitar | Cutlass, Sabre, Falchion, Kukri | 1d6 slashing | 15 gp | 3 lb. | brutal, finesse, light |
-| Scourge | Lash | 1d6 slashing | 3 gp | 2 lb. | finesse, flexible, light |
+| Scourge | Cat-o-nine-tails, Lash | 1d6 slashing | 3 gp | 2 lb. | finesse, flexible, light |
 | Battle axe | Khopesh, Military cleaver, War axe | 1d8 slashing | 15 gp | 4 lb. | brutal, slow, versatile (1d10) |
 | Long sword | War sword | 1d8 slashing | 15 gp | 5 lb. | versatile (1d10) |
 | Bastard sword | Claymore | 2d4 slashing | 35 gp | 6 lb. | heavy, versatile (1d4+1d6) |
