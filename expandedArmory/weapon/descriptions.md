@@ -3,23 +3,23 @@
 Simple melee weapons are easily made or improvised from tools on hand. Commoners frequently have a access to a dagger, club, quarterstaff, or farming implements while militia and guards are often equipped with a mace or spear. Savage humanoids often wield clubs, great clubs, and javelins due their simple construction.
 
 
+**Axe.** A small light-weight single-edged chopping axe. A common tool among settlers in forested climates it is also useful as a weapon or thrown missile in a pinch.
+
 **Club and Great Club.** A bludgeon made of wood, bone, stone, or even a leather stack filled with sand or rocks. Clubs are rarely crafted and are often improvised from objects on hand. A regular club is a small one-handed weapons while a great club is a larger two-handed weapon. Clubs and great clubs are favored among brutish humanoids and less intelligent giants.
 
 **Dagger.** A small one-handed stabbing or slashing weapon that comes in a variety of shapes and styles. Traditional daggers have a flat and wide pointed blade while stilettos have a long and narrow blade. Knives generally have a single edged blade for slashing and cutting. Daggers can be wielded in either hand, thrown, and used in close combat making them a very useful backup or secondary weapon.
 
-**Hand Axe.** A small light-weight single-edged chopping axe. A common tool among settlers in forested climates it is also useful as a weapon or thrown missile in a pinch.
+**Flail.** Two short sections of wood or metal connected by a small chain or hinge. Originally intended as a tool for threshing grain it can be used as a flexible bludgeoning weapon as well.
+
+**Hammer.** A one-handed hammer useful as a hand tool, a bludgeon, or a throwing weapon. A favorite skirmishing weapon among dwarves, gnomes, and other mining races.
 
 **Javelin.** A short spear primarily meant as a throwing weapon but can be used as a one-handed stabbing weapon as well. Cheap and easily fabricated, it is a common weapon among tribal humanoids and frequently issued to foot soldiers as a skirmishing weapon.
 
 **Lasso.** A length of rope tied into a loop, slip knot, or noose that can be thrown around a target to restraint it. It takes two hands to properly control a lasso. It doesn't cause any damage directly but can be used to grapple, restrain, and possibly strangle a target.
 
-**Light Flail.** Two short sections of wood or metal connected by a small chain or hinge. Originally intended as a tool for threshing grain it can be used as a flexible bludgeoning weapon as well.
-
-**Light Hammer.** A one-handed hammer useful as a hand tool, a bludgeon, or a throwing weapon. A favorite skirmishing weapon among dwarves, gnomes, and other mining races.
-
-**Light Pick.** A small one-handed pick usually used for breaking up dirt or rocks but also useful for piercing flesh.
-
 **Mace.** A one-handed bludgeon specifically crafted as a weapon often having a heavy rounded or flanged head to increase the impact. Simple maces are issued to civil peace-keeping forces for protection and as a symbol of authority.
+
+**Pick.** A small one-handed pick usually used for breaking up dirt or rocks but also useful for piercing flesh.
 
 **Quarter Staff.** A rod of wood, or rarely metal, between four and six feet long, usually as tall as the wielder, that can be wielded as a weapon in one or two hands. A very common weapon among peasants, pilgrims, and monks for its versatility and simple craftsmanship.
 
@@ -52,38 +52,30 @@ Simple range weapons are typically used for hunting but can be used in battle wh
 
 ### Martial Melee Weapons
 
-Martial melee weapons are specialized to be wielded by trained warriors and soldiers. Common soldiers are typically outfitted with a polearm and a light one-handed weapon as a fallback, while commanders and elite soldiers tend to use versatile or great weapons. Martial melee weapons tend to do more damage and have more beneficial properties than their simple counterparts, yet the also cost more and aren't as readily available.
+Martial melee weapons are crafted specifically for battle and meant to be wielded by trained warriors and soldiers. Common soldiers are typically outfitted with a polearm and a light one-handed weapon as a fallback, while commanders and elite soldiers tend to use versatile or great weapons. Martial melee weapons tend to do more damage and have more beneficial properties than their simple counterparts, yet the also cost more and aren't as readily available.
 
 
 **Bastard Sword.** A double-edged sword with a wide crossguard and an extended pommel. Slightly longer than a long sword but not as large as a great sword, this is a fairly uncommon yet distinctive weapon. Also known as a claymore or hand-and-a-half sword.
 
-**Broad Sword.** A sword with wide blade with very little taper and a one-handed pommel. The length is about midway between a short sword and a long sword.
-
-**Great Sword.**
-
-**Long Sword.**
-
 **Battle Axe and Great Axe.** A battle axe is a long handled single-bladed axe that can be wielded in one or two hands. Similar weapons include military cleavers and the khopseh, which is an exotic-looking axe-like sword with an outwardly curving blade. A great axe is a heavier version of the battle axe, often doube-bladed, meant to be wielded in two-hands. Axes are a favored weapon among brutal humanoids like orcs that like to intimidate their opponents.
+
+**Broad Sword.** A sword with wide double-edged blade with very little taper and a short pommel. The length is about midway between a short sword and a long sword, reaching lengths up to 3'. It is often considered a pre-cursor to the long sword.
 
 **Chain.** A chain is a length of interlocking metal loops or bars and weighted on the ends. It can be used to whip, flail, or grapple opponents. Some chain weapons are spiked or have blades attached to the weighted ends.
 
-**Gauntlet, Clawed Gauntlet or Spiked Gauntlet.** A gauntlet is a heavy metal or weighted leather glove, usually worn as part of a suit of armor, that can add additonal impact to unarmed strikes. Gauntlets can be modified and outfitted with claws or spikes which can be used to cause additional slashing or piercing damage in hand-to-hand combat.
+**Gauntlet, Clawed Gauntlet, or Spiked Gauntlet.** A gauntlet is a metal or weighted leather glove, usually worn as part of a suit of armor, that can add additonal impact to unarmed strikes. Gauntlets can be modified to include claws or spikes which cause additional slashing or piercing damage in hand-to-hand combat.
 
-**Glaive.** A glaive is a sword-like blade mounted on a long pole. Other similar weapons include the bill and fauchard. One of the few reach weapons that is not also slow.
+**Glaive.** A glaive is a single-edged slashing blade mounted on a long pole. A glaive is one of the few reach weapons that is not also slow. Similar weapons include the bill and fauchard. 
 
-**Heavy Flail and Great Flail.** A heavy flail is crafted specifically for battle and to be effective against opponents with shields, often fashioned with one or more spiked balls on the end of a long chains. A great flail is even larger and meant to be used with two hands. Flails are a favored weapon among gnolls.
+**Guisarme.** A guisarme is an uncommon polearm featuring spikes, hooks, and pick-like projections primarly meant to puncture and pierce opponents. Another long pick type weapon is the bec de corbin which is similar to a pole hammer but has a longer spike or "beak".
 
-**Heavy Pick and Great Pick.** A larger and heavier version of the pick able to be used in one or two hands. Sometimes called a **horseman's pick**.
-
-**Halberd.**
+**Halberd.** A halberd is an axe-bladed polearm, which may also feature a sharply pointed spike on the end or a hooked blade opposite the axe-head. It is frequently wielded by palace guards or deployed against pike walls to hack and chop at the long weapons while safely out of reach.
 
 **Lance, Light Lance, Heavy Lance, and Jousting Lance.** Lances are long spears with a one-handed grip meant to be used while mounted. Due to their length and relatively light weight compared to the force generated by striking with a mounted charge all lances are prone to breakage and have the **weak** property. Due to this fact a backup weapon is usually necessary. Jousting lances are meant to be use in practice and sport, while true lances come in a variety of weights depending on the size and strength of the mount and rider. Lances are favored among cavaliers, paladins, and other knights.
 
-**Long Pick.**
+**Long Sword and Great Sword.** The long sword is the melee weapon to which all others weapons are compared. Long swords come in a variety of styles but all feature a 3' to 4' double-edged blade that sharpens to a point, a wide cross-guard, and an elongated grip with a weighted pommel for counter-balance. It balances speed, versatility, and lethality and is a favorite choice among adventurers and nobles. It is also one of the most common weapons to be enchanted. The great sword is a massive long sword meant to be weilded in two hands with blades that can reach up to 6' in length. They are typically wielded by heavily armored knights.
 
 **Man Catcher.** A cage-like ring of inwardly pointing barbs mounted on the end of a long pole. Intended to be used to unhorse riders and capture targets rather than kill them.
-
-**Maul.**
 
 **Morning Star.**
 
@@ -103,7 +95,11 @@ Martial melee weapons are specialized to be wielded by trained warriors and sold
 
 **Short Sword.**
 
-**War Hammer.**
+**War Flail and Great Flail.** A war flail is a flail fashioned with one or more spiked balls on the end of a long chains specifically crafted for battle and is particularly effective against opponents with shields. A great flail is even larger and heavier and meant to be used with two hands. Flails are a favored weapon among gnolls.
+
+**War Hammer and Maul.**
+
+**War Pick and Great Pick.** A war pick  larger and heavier version of the pick able to be used in one or two hands.
 
 **Whip.** A long braided flexible leather cord attached to a stiff handle. Traditionally used to train animals or torture prisoners it can be useful as a weapon as well.
 
