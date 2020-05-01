@@ -4,17 +4,17 @@ ___
 |:-|:-|
 | Ammunition | Blowgun, Dart thrower, Hand crossbow, Heavy crossbow, Light crossbow, Long bow, Recurve long bow, Recurve short bow, Short bow, Sling, Staff sling, Repeating heavy crossbow, Repeating light crossbow |
 | Brace | Long spear, Pike, Spear, Trident |
-| Brutal | Battle axe, Great axe, Halberd, Kama, Scimitar, Scythe, Sickle |
+| Brutal | Battle axe, Great axe, Halberd, Scimitar, Scythe, Sickle |
 | Crushing | Great club, Great hammer, Long hammer, Mace, Morning star, War hammer |
-| Finesse | Dagger, Dart, Kama, Rapier, Scimitar, Scourge, Short sword, Whip |
+| Finesse | Dagger, Dart, Rapier, Scimitar, Scourge, Short sword, Whip |
 | Flexible | Great flail, Heavy flail, Lasso, Light flail, Nanchaku, Scourge, Spiked chain, Whip |
 | Grappling | Bolas, Lasso, Man-catcher, Net, Spiked chain, Whip |
 | Heavy | Bastard sword, Glaive, Great axe, Great flail, Great hammer, Great pick, Great sword, Halberd, Heavy crossbow, Long bow, Long hammer, Long pick, Man-catcher, Pike, Recurve long bow, Repeating heavy crossbow, Scythe, Spiked chain |
 | High Crit | Great pick, Heavy lance, Heavy pick, Javelin, Jousting lance, Lance, Light lance, Light pick, Long pick, Long spear, Pike, Rapier, Spear, Trident |
-| Light | Clawed gauntlet, Club, Dagger, Gauntlet, Hand axe, Hand crossbow, Kama, Light hammer, Light pick, Nunchaku, Punching dagger, Scimitar, Scourge, Short sword, Sickle, Spiked gauntlet, Throwing knife, Unarmed strike |
+| Light | Clawed gauntlet, Club, Dagger, Gauntlet, Hand axe, Hand crossbow, Light hammer, Light pick, Nunchaku, Punching dagger, Scimitar, Scourge, Short sword, Sickle, Spiked gauntlet, Throwing knife, Unarmed strike |
 | Loading | Blowgun, Hand crossbow, Heavy crossbow, Light crossbow |
 | Lunging | Javelin, Quarter staff, Spear, Rapier, Trident |
-| Monk | Clawed gauntlet, Club, Dagger, Gauntlet, Hand axe, Javelin, Kama, Light flail, Light hammer, Light pick, Mace, Nunchaku, Punching dagger, Quarter staff, Short sword, Shovel, Sickle, Spear, Spiked gauntlet, Unarmed strike, Whip |
+| Monk | Clawed gauntlet, Club, Dagger, Gauntlet, Hand axe, Javelin, Light flail, Light hammer, Light pick, Mace, Nunchaku, Punching dagger, Quarter staff, Short sword, Shovel, Sickle, Spear, Spiked gauntlet, Unarmed strike, Whip |
 | Mounted | Heavy lance, Jousting lance, Lance, Light lance |
 | Oversized | Glaive, Halberd, Heavy crossbow, Long bow, Long hammer, Long pick, Man-catcher, Pike, Recurve long bow, Repeating heavy crossbow, Scythe |
 | Reach | Glaive, Halberd, Heavy lance, Jousting lance, Lance, Lasso, Light lance, Long hammer, Long pick, Long spear, Man-catcher, Pike, Spiked chain, Whip |

@@ -11,7 +11,6 @@ ___
 | Great flail | Two-handed flail | 2d6 bludgeoning | 25 gp | 10 lb. | flexible, heavy, slow, two-handed |
 | Maul| Great hammer, Two-handed hammer | 2d6 bludgeoning | 20 gp | 10 lb. | crushing, heavy, slow, two-handed |
 | Clawed gauntlet | 1d4 slashing | 5 gp | 1 lb. | light, monk |
-| Kama | | 1d4 slashing | 10 gp | 2 lb. | brutal, finesse, light, monk |
 | Whip | Bull-whip | 1d4 slashing | 2 gp | 3 lb. | finesse, flexible, grappling, monk, reach |
 | Broad sword | | 1d6 slashing | 10 gp | 4 lb. | versatile (2d4) |
 | Scimitar | Cutlass, Sabre, Falchion, Kukri | 1d6 slashing | 15 gp | 3 lb. | brutal, finesse, light |
@@ -24,16 +23,16 @@ ___
 | Great axe | Two-handed axe | 1d12 slashing | 30 gp | 7 lb. | brutal, heavy, slow, two-handed |
 | Great sword | Zwiehander, Two-handed sword | 2d6 slashing | 50 gp | 8 lb. | heavy, two-handed |
 | Spiked gauntlet | | 1d4 piercing | 5 gp | 1 lb. | light, monk |
-| Jousting lance | | 1d6 piercing | 20 gp | 20 lb. | high crit, mounted, reach, slow |
+| Jousting lance | | 1d6 piercing | 5 gp | 4 lb. | high crit, mounted, reach, slow |
 | Punching dagger | sai, siangham | 1d6 piercing | 5 gp | 1 lb. | light, monk, sneaky (1d8), underwater |
 | Short sword | Gladius | 1d6 piercing | 10 gp | 2 lb. | finesse, light, monk, underwater |
 | Heavy pick | Military pick, War pick | 1d8 piercing | 8 gp | 6 lb. | high crit, slow, versatile (1d10) |
-| Light lance | | 1d8 piercing | 6 gp | 5 lb. | high crit, mounted, reach, slow |
+| Light lance | | 1d8 piercing | 10 gp | 6 lb. | high crit, mounted, reach, slow |
 | Rapier | Epee, Foil, Fencing sword | 1d8 piercing | 25 gp | 2 lb. | finesse, high crit, lunging (1d6) |
 | Trident | Harpoon | 1d8 piercing | 10 gp | 4 lb. | brace, high crit, lunging (1d6), thrown (20/60), underwater, versatile (1d10) |
-| Lance | | 1d10 piercing | 10 gp | 10 lb. | high crit, mounted, reach, slow |
+| Lance | | 1d10 piercing | 15 gp | 8 lb. | high crit, mounted, reach, slow |
 | Long pick | Bec de corbin, Guisarme, Hook | 1d10 piercing | 10 gp | 7 lb. | heavy, high crit, oversized, reach, slow, two-handed |
 | Pike | Partisan, Military fork, Ranseur, Spetum | 1d10 piercing | 10 gp | 9 lb. | brace, heavy, high crit, oversized, reach, two-handed, underwater |
 | Great pick | Footman's pick | 1d12 piercing | 10 gp | 8 lb. | heavy, high crit, slow, two-handed |
-| Heavy lance | | 1d12 piercing | 15 gp | 6 lb. | high crit, mounted, reach, slow |
+| Heavy lance | | 1d12 piercing | 20 gp | 10 lb. | high crit, mounted, reach, slow |
 | Man-catcher | | 1d4 piercing | 30 gp | 8 lb. | grappling, heavy, oversized, reach, two-handed, underwater |

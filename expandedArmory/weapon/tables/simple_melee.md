@@ -8,7 +8,7 @@ ___
 | Mace | Baton, Truncheon | 1d6 bludgeoning | 5 gp | 3 lb. | crushing, monk |
 | Quarter staff | Single stick | 1d6 bludgeoning | 2 sp | 4 lb. | lunging (1d4), monk, versatile (1d8) |
 | Great club | Two-handed club | 1d8 bludgeoning | 2 sp | 10 lb. | crushing, slow, two-handed |
-| Sickle | Machete | 1d4 slashing | 1 gp | 2 lb. | brutal, light, monk |
+| Sickle | Machete, Kama | 1d4 slashing | 1 gp | 2 lb. | brutal, light, monk |
 | Hand axe | Hatchet, Throwing axe | 1d6 slashing | 5 gp | 2 lb. | light, monk, thrown (20/60) |
 | Shovel | Spade | 1d8 slashing | 5 sp | 2 lb. | slow, two-handed |
 | Scythe | | 1d8 slashing | 2 gp | 10 lb. | brutal, heavy, oversized, slow, two-handed |
