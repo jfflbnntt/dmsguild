@@ -1,4 +1,3 @@
-##### Weapons by Property
 ___
 | Property | Weapons |
 |:-|:-|

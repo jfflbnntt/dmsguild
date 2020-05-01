@@ -1,4 +1,4 @@
-### Legal Stuff
+## Legal Stuff
 
 DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampersand, and all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries.
 

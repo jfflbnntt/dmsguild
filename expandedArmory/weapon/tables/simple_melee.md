@@ -13,7 +13,7 @@ ___
 | Shovel | Spade | 1d8 slashing | 5 sp | 2 lb. | slow, two-handed |
 | Scythe | | 1d8 slashing | 2 gp | 10 lb. | brutal, heavy, oversized, slow, two-handed |
 | Dagger | Dirk, Knife, Stiletto | 1d4 piercing or slashing | 2 gp | 1 lb. | finesse, light, monk, sneaky (1d6), thrown (20/60), underwater |
-| Pick | Hoe, Light pick | 1d6 piercing | 5 gp | 4 lb. | high crit, light, monk, slow |
+| Pick | Adze, Hoe, Light pick | 1d6 piercing | 5 gp | 4 lb. | high crit, light, monk, slow |
 | Javelin | Pilum | 1d6 piercing | 5 sp | 2 lb. | high crit, lunging (1d4), monk, thrown (30/90), underwater |
 | Spear | Harpoon, Pitchfork, Trident | 1d6 piercing | 2 gp | 3 lb. | brace, high crit, lunging (1d4), monk, thrown (20/60), underwater, versatile (1d8) |
 | Long spear | Boar spear, Great spear, War spear | 2d4 piercing | 5 gp | 6 lb. | brace, high crit, reach, two-handed, underwater |

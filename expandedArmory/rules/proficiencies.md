@@ -1,4 +1,4 @@
-#### Armor and Shield Proficiencies
+### Armor and Shield Proficiencies
 
 **Light Armor Proficiency.** Any feature that grants proficiency with light armor also grants proficiency with small shields and caps.
 
@@ -6,16 +6,12 @@
 
 **Heavy Armor Proficiency.** Any feature that grants proficiency with heavy armor also grants proficiency with large shields full helms.
 
-#### Class Proficiencies
+### Class Proficiencies
  
 **Bard.** Gain proficiency in broad swords.
 
-**Druid.** Gain proficiency in scythes, staff slings, and long spears.
+**Druid.** Gain proficiency in scythes, and long spears.
 
-**Monk.** Gain proficiency in kamas, punching daggers, nunchakus, clawed gauntlets, gauntlets, spiked gauntlets, and whips.
+**Monk.** Gain proficiency in punching daggers, nunchakus, clawed gauntlets, gauntlets, spiked gauntlets, and whips.
 
 **Rogue.** Gain proficiency in broad swords.
-
-**Sorcerer.** Gain proficiency in staff slings.
-
-**Wizard.** Gain proficiency in staff slings.

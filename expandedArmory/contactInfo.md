@@ -1,3 +1,3 @@
-### Contact Info
+## Contact Info
 ___
 **Email:** purpleskullgames@gmail.com

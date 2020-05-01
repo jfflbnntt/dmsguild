@@ -1,4 +1,4 @@
-#### Feats
+### Feats
 
 Below are updates and changes to Feats due to the new properties, armor, shields, weapons, and optional rules presented in the material.
 
