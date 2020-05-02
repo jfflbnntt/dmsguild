@@ -29,25 +29,3 @@ Light armors are made of layers of cloth and leather while Medium and Heavy armo
 **Full Plate.** Full plate covers the entire body with interlocking shaped metal plates. It includes everything in a suit of half plate and adds guantlets, thigh guards, knee guards, greaves, and sabatons. Due to the cost only the most wealthy knights and nobles can afford to wear this type of armor.
 
 **Heavy Plate.** Heavy plate is a suit of full plate made of reinforced heavy metal plates that only the strongest of warriors can effectively fight in. This armor is extremely rare and valuable.
-
-
-### Shields
-
-Shields come in a variety of shapes and sizes and can be made of leather, wood, metal, or other improvised materials. Medium shields are the most commonly used, offering decent protection without the drawbacks of larger shields. Intelligent creatures generally use shields on their own or in combination with armor.
-
-**Small Shield.** A small lightweight shield usually round and made of wood or leather and possibly with metal rim or boss for reinforcement. It covers up to one-quarter of the wielder and is sometimes known as a targe, target, leaf shield, or buckler. An improvised shield is usually only effective as a small shield. Anyone with the light armor proficiency can use a light shield.
-
-**Medium Shield.** A standard shield usually made of metal, or wood with metal reinforcement that covers up to one-half of the wielder. They often bear the heraldric arms of the wielder or the local lord. It is also the largest shield that can be effectively used while mounted. Anyone with the medium armor proficiency can use medium shields. Examples include heater, kite, parma, and teardrop shields.
-
-**Large Shield.** A very large and heavy shield covers up to three-quarters of the wielder and most often made of metal. It is frequently used on battlefields as a mobile piece of cover for archers or soldiers in a shield wall. Anyone with the heavy armor proficiency can also use heavy shields however small creatures must use two hands when using it. Comes in many varieties including aspis, pavise, body, or tower shields.
-
-
-### Helms
-
-Helms offer protection only when combined with an appropriate set of armor. Helms cover progressively more of the head the heavier they while gradually reducing more visibility and muffling sounds. A helm can be donned or removed with an Action.
-
-**Cap.** Caps are lightweight helms that protect the crown and top of the head. They can be used by anyone with the light armor proficiency and can be added to any suit of light armor. Types of caps including stiff leather hoods, a thick padded cloth cap, a steel skullcap, or a kettle or pot helm issued to archers and town guards.
-
-**Half Helm.** Half helms balance protection and visibility. They cover more of the head, neck, ears, and face, often including eye and nose guards or chain mail fringe, while leaving the lower portion of the face exposed. Peripheral vision and hearing is noticeably obstructed while wearing these types of helms. Anyone with the medium armor proficiency can use a half helm when combined with a suit of medium or light armor. Examples include chain coifs, barbutes, conical helms, sallets, or even an oversized skull worn as a helmet. They are typically worn by officers of rank.
-
-**Full Helm.** A full helm covers the entire head and often interlocks with a gorget for neck protection. These helms are pierced with small eye slots and breathing holes and sometimes include a visor that can be lifted. Full helms can be used effectively by anyone with the heavy armor proficiency when combined with a suit of heavy, medium, or light armor. Full helms come in a variety of styles and are often augmented with horsehair mohawks, wings, antlers, and other heraldic decorations. Examples include bascinets, bucket helms, or great helms. They are typically only worn by nobles when riding into battle.

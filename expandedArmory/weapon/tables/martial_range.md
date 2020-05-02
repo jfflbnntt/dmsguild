@@ -1,4 +1,4 @@
-___
+##### Table: Martial Melee Weapons
 | Name | Variants | Damage | Cost | Weight | Properties |
 |:-|:-|:-|-:|-:|:-|
 | Bolas | | 1d4 bludgeoning | 5 gp | 2 lb. | grappling, thrown (20/60) |
