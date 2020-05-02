@@ -4,7 +4,7 @@ A *street thug with club in hand sneaks up on an unsuspecting mark knowing that 
 
 The 5th edition Player's Handbook presents a very streamlined and simplified equipment list. It serves as a fine starting point for most campaigns, but it lacks a certain amount of variety. This rules supplement presents new weapons, armor, shields and related properties inspired by previous editions to add flavor, provide interesting choices, and create meaningful distinctions between items. In addition to new items and properties there are rules on how to tweak items further to create custom high quality or low quality items and a list of updates to rules regarding proficincies and feats that deal with armor, shields, and weapons.
 
-> ### Contents
+> #### Contents
 > * Weapons
 > * Weapon Properties
 > * Table: Simple Melee Weapons
@@ -22,15 +22,18 @@ The 5th edition Player's Handbook presents a very streamlined and simplified equ
 > * Legal Stuff
 > * Credits
 > * Contact Info
-> * Changelog
+> * Changelo
+
+```
+```
 
 ## Weapons
 
-Weapons fall into certain groups based on how they are best used. Heavy weapons are slow but punishing when they connect and small hidden weapons can be suprisingly deadly when the target is distracted or unaware. Light blades excel at quick strikes, while larger blades cut deeply. Whips and chains can wrap around obstacles or even be used with some skill to entangle targets. Spear-like thrusting weapons are best at repelling charges and for use in the water. Applying the following new weapon properties helps to reinforce these ideas.
-
 ### Weapon Properties
 
-Weapons are distinquished by a set of properties that govern how they perform in battle. The following lists these properties and their effects, including new and existing ones from the PHB and how they interact with each other along with suggestions on how they should be applied to new or customized weapons.
+Weapons are distinquished by a set of properties that describe how they perform in battle. Large weapons are slow and unbalanced. Small hidden weapons can be suprisingly deadly in the right hands. Chopping blades cut deeply and heavy bludgeons deliver crushing blows. Whips and chains can wrap around obstacles or even be used with some skill to entangle targets. Spear-like thrusting weapons are best at repelling charges and for use in the water. 
+
+The following weapon properties and their effects reinforce these ideas.
 
 **Ammunition.** You can use a weapon that has the ammunition property to make a ranged Attack only if you have ammunition to fire from the weapon. Each time you Attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the Attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. If you use a weapon that has the ammunition property to make a melee Attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Ammunition weapons have a maximum range which is 4x its short range.
 
@@ -42,10 +45,44 @@ Weapons are distinquished by a set of properties that govern how they perform in
 
 **Finesse.** When making an Attack with a **finesse** weapon, you use your choice of your Strength or Dexterity modifier for the Attack and Damage Rolls. You must use the same modifier for both rolls. Finesse weapons tend to do less damage than non-finesse weapons because they can be used with Sneak Attack. Finesse weapons tend to not be **heavy**, **slow**, or **two-handed**. Finesse weapons tend to do low damage since they can be used in conjunction with Sneak Attack.
 
+\page 
+
 **Flexible.** A weapon with this property consists of multiple interlocking rigid parts or made entirely of a flexible material like rope or leather. Due to it's flexible nature it can neutralize the benefits of shields and cover. As long as the attacker can see the target in range an attack made with this weapon ignores up to +2 AC bonus granted by shields or cover. Whips, chains, and flails are all **flexible** weapons.
 
-**Grappling.** These weapons are made from entangling cords, chains, nets, or have special hooks designed for grabbing and can be used to make a grappling attack instead of doing damage. Using a weapon in this way does not require you to have a free hand. You make a melee or ranged weapon attack roll in place of a STR (Athletics) check and in all other ways works the same as a normal grappling attack. To maintain a grapple with this weapon you must keep at least one hand on it. **Grappling** weapons tend to also be **flexible** and **monk** weapons, but aren't required to be either.
+**Grappling.** These weapons are made from entangling cords, chains, nets, or have special hooks designed for grabbing and can be used to make a grappling attack instead of doing damage. Using a weapon in this way does not require you to have a free hand. You make a melee or ranged weapon attack roll in place of a STR (Athletics) check and in all other ways works the same as a normal grappling attack. To maintain a grapple with this weapon you must keep at least one hand on it. **Grappling** weapons tend to also be **flexible** weapons, but aren't required to be.
 
+<div class="wide">
+##### Weapons by Property
+| Property   | Weapons |
+|:----------:|:--------|
+| Ammunition | Blowgun, Dart thrower, Hand crossbow, Heavy crossbow, Light crossbow, Long bow, Recurve long bow, Recurve short bow, Short bow, Sling, Staff sling, Repeating heavy crossbow, Repeating light crossbow |
+| Brace      | Long spear, Pike, Spear |
+| Brutal     | Battle axe, Great axe, Halberd, Scimitar, Scythe, Sickle |
+| Crushing   | Great club, Great hammer, Mace, Morning star, Pole hammer, War hammer |
+| Finesse    | Dagger, Dart, Rapier, Scimitar, Scourge, Short sword, Whip |
+| Flexible   | Flail, Great flail, Heavy flail, Lasso, Nanchaku, Scourge, Spiked chain, Whip |
+| Grappling  | Bolas, Lasso, Man-catcher, Net, Spiked chain, Whip |
+| Heavy      | Bastard sword, Glaive, Great axe, Great flail, Great hammer, Great pick, Great sword, Guisarme, Halberd, Heavy crossbow, Long bow, Man-catcher, Pike, Pole hammer, Recurve long bow, Repeating heavy crossbow, Scythe, Spiked chain |
+| High Crit  | Great pick, Guisarme, Heavy lance, Heavy pick, Javelin, Jousting lance, Lance, Light lance, Long spear, Pick, Pike, Rapier, Spear |
+| Light      | Axe, Clawed gauntlet, Club, Dagger, Gauntlet, hammer, Hand crossbow, Nunchaku, Pick, Punching dagger, Scimitar, Scourge, Short sword, Sickle, Spiked gauntlet, Throwing knife, Unarmed strike |
+| Loading    | Blowgun, Hand crossbow, Heavy crossbow, Light crossbow |
+| Lunging    | Javelin, Quarter staff, Spear, Rapier |
+| Monk       | Axe, Clawed gauntlet, Club, Dagger, Flail, Gauntlet, Hammer, Javelin, Mace, Nunchaku, Pick, Punching dagger, Quarter staff, Short sword, Shovel, Sickle, Spear, Spiked gauntlet, Unarmed strike, Whip |
+| Mounted    | Heavy lance, Jousting lance, Lance, Light lance |
+| Oversized  | Glaive, Halberd, Heavy crossbow, Guisarme, Long bow, Man-catcher, Pike, Pole hammer, Recurve long bow, Repeating heavy crossbow, Scythe |
+| Reach      | Glaive, Guisarme, Halberd, Heavy lance, Jousting lance, Lance, Lasso, Light lance, Long spear, Man-catcher, Pike, Pole hammer, Spiked chain, Whip |
+| Repeating  | Repeating heavy crossbow, Repeating light crossbow |
+| Slow       | Battle axe, Great axe, Great club, Great flail, Great hammer, Great pick, Guisarme, Halberd, Heavy flail, Heavy lance, Heavy pick, Jousting lance, Lance, Light lance, Morning star, Pick, Pole hammer, Scythe, Shovel, Spiked chain, War hammer |
+| Sneaky     | Blowgun, Club, Dagger, Punching dagger, Throwing knife |
+| Thrown     | Axe, Bolas, Dagger, Dart, Hammer, Javelin, Net, Spear, Throwing knife |
+| Two-handed | Glaive, Great axe, Great club, Great flail, Great hammer, Great pick, Great sword, Guisarme, Halberd, Heavy crossbow, Lasso, Light crossbow, Long bow, Long spear, Man-catcher, Pike, Pole hammer, Recurve long bow, Recurve short bow, Repeating heavy crossbow, Repeating light crossbow, Scythe, Short bow, Shovel, Spiked chain, Staff sling |
+| Underwater | Dagger, Dart, Dart thrower, Hand crossbow, Heavy crossbow, Javelin, Light crossbow, Long spear, Man-catcher, Net, Pike, Punching dagger, Repeating heavy crossbow, Repeating light crossbow, Short sword, Spear |
+| Versatile  | Bastard sword, Battle axe, Broad sword, Heavy flail, Heavy pick, Long sword, Quarter staff, Spear, War hammer |
+| Weak       | Heavy lance, Jousting lance, Lance, Light lance |
+
+</div>
+
+\page
 **Heavy.** Small creatures have Disadvantage on Attack rolls with **heavy** weapons. A heavy weapon’s size and bulk make it too large for a small creature to use effectively. Heavy weapons tend to be **slow** and **two-handed**.
 
 **High Crit.** These weapons deal higher than normal damage on a critical hit due to cruel spikes or barbs that pierce armor and strike at vital organs.
@@ -85,6 +122,7 @@ Add 1 additional weapon damage die when rolling crit damage. This feature is neg
 
 **Weak.** A weapon with this property is fragile, made of sub-standard materials, or worn with age. When you hit with an attack roll and deal max damage or get a critical hit this weapon becomes broken and unuseable. Improvised, practice, ceremonial, or ancient weapons do not stand up to abuse and tend to be **weak**.
 
+\page
 ### Simple Melee Weapons
 
 Simple melee weapons are easily made or improvised from tools on hand. Commoners frequently have a access to a dagger, club, quarterstaff, or farming implements while militia and guards are often equipped with a mace or spear. Savage humanoids often wield clubs, great clubs, and javelins due their simple construction.
@@ -98,6 +136,7 @@ Simple melee weapons are easily made or improvised from tools on hand. Commoners
 
 **Flail.** Two short sections of wood or metal connected by a small chain or hinge. Originally intended as a tool for threshing grain it can be used as a flexible bludgeoning weapon as well.
 
+
 **Hammer.** A one-handed hammer useful as a hand tool, a bludgeon, or a throwing weapon. A favorite skirmishing weapon among dwarves, gnomes, and other mining races.
 
 **Javelin.** A short spear primarily meant as a throwing weapon but can be used as a one-handed stabbing weapon as well. Cheap and easily fabricated, it is a common weapon among tribal humanoids and frequently issued to foot soldiers as a skirmishing weapon.
@@ -108,11 +147,38 @@ Simple melee weapons are easily made or improvised from tools on hand. Commoners
 
 **Pick.** A small one-handed pick usually used for breaking up dirt or rocks but also useful for piercing flesh.
 
+<div class="wide classTable">
+##### Table: Simple Melee Weapons
+| Name           | Variants | Damage | Cost  | Weight  | Properties |
+|:---------------|:---------|:-------|:-----:|:-------:|:-----------|
+| Unarmed strike | | 1 bludgeoning | ─ | ─ | light, monk |
+| Club | Cudgel, Sap | 1d4 bludgeoning | 1 sp | 2 lb. | light, monk, sneaky (1d6) |
+| Hammer | Light hammer, Throwing hammer | 1d4 bludgeoning | 2 gp | 2 lb. | light, monk, thrown (20/60) |
+| Flail | Light flail | 1d6 bludgeoning | 5 gp | 2 lb. | flexible, monk |
+| Mace | Baton, Truncheon | 1d6 bludgeoning | 5 gp | 3 lb. | crushing, monk |
+| Quarter staff | Single stick | 1d6 bludgeoning | 2 sp | 4 lb. | lunging (1d4), monk, versatile (1d8) |
+| Great club | Two-handed club | 1d8 bludgeoning | 2 sp | 10 lb. | crushing, slow, two-handed |
+| Sickle | Billhook, Machete, Kama | 1d4 slashing | 1 gp | 2 lb. | brutal, light, monk |
+| Axe | Hand axe, Hatchet, Throwing axe | 1d6 slashing | 5 gp | 2 lb. | light, monk, thrown (20/60) |
+| Shovel | Spade | 1d8 slashing | 5 sp | 2 lb. | slow, two-handed |
+| Scythe | | 1d8 slashing | 2 gp | 10 lb. | brutal, heavy, oversized, slow, two-handed |
+| Dagger | Dirk, Knife, Stiletto | 1d4 piercing or slashing | 2 gp | 1 lb. | finesse, light, monk, sneaky (1d6), thrown (20/60), underwater |
+| Pick | Adze, Hoe, Light pick | 1d6 piercing | 5 gp | 4 lb. | high crit, light, monk, slow |
+| Javelin | Pilum | 1d6 piercing | 5 sp | 2 lb. | high crit, lunging (1d4), monk, thrown (30/90), underwater |
+| Spear | Harpoon, Pitchfork, Trident | 1d6 piercing | 2 gp | 3 lb. | brace, high crit, lunging (1d4), monk, thrown (20/60), underwater, versatile (1d8) |
+| Long spear | Boar spear, Great spear, War spear | 2d4 piercing | 5 gp | 6 lb. | brace, high crit, reach, two-handed, underwater |
+| Lasso | Lariat | ─ | 1 sp | 0.1 lb. | flexible, grappling, reach, two-handed |
+
+</div>
+
+\page
+
 **Quarter Staff.** A rod of wood, or rarely metal, between four and six feet long, usually as tall as the wielder, that can be wielded as a weapon in one or two hands. A very common weapon among peasants, pilgrims, and monks for its versatility and simple craftsmanship.
 
 **Scythe.** A sharp inwardly curved blade attached to a long wooden handle primarily intended for shearing grasses and grain. Can only be properly wielded with two hands.
 
 **Shovel.** A digging tool with a wide flat metal blade mounted on a four foot long wooden handle. Not an ideal weapon, but it can be useful as an improvised weapon.
+
 
 **Sickle.** A small inwardly curved blade mounted on a short handle, basically a one-handed scythe and used in the collection of herbs and clearing of weeds. Similar to a machete, which has a single edged blade and used to chop away brush and debris. 
 
@@ -120,7 +186,19 @@ Simple melee weapons are easily made or improvised from tools on hand. Commoners
 
 **Unarmed Strike.** All humanoids can perform an unarmed strike as an Attack action. It can represent a punch, kick, knee, headbutt, tail slam, shoulder throw, or any other brawling move.
 
+<div class="wide classTable">
+##### Table: Simple Range Weapons
+| Name | Variants | Damage | Cost | Weight | Properties |
+|:-----|:---------|:-------|:----:|:------:|:-----------|
+| Sling | | 1d4 bludgeoning | 1 sp | 0.01 lb. | ammunition (40/160) |
+| Dart | Plumbata | 1d4 piercing | 5 cp | 0.25 lb. | finesse, thrown (30/90), underwater |
+| Short bow | Self-bow, Hunting bow | 1d6 piercing | 25 gp | 2 lb. | ammunition (80/320), two-handed |
+| Recurve short bow | Composite horn bow | 1d6 piercing | 50 gp | 2 lb. | ammunition (100/400), powerdraw, two-handed |
+| Light crossbow | | 1d8 piercing | 25 gp | 5 lb. | ammunition (80/320), loading, two-handed, underwater |
+| Repeating light crossbow | | 1d8 piercing | 125 gp | 6 lb. | ammunition (80/320), repeating, two-handed, underwater |
+| Net | | | 1 gp | 3 lb. | grappling, thrown (5/15), underwater |
 
+</div>
 ### Simple Range Weapons
 
 Simple range weapons are typically used for hunting but can be used in battle when needed. Commoners often own a sling or a short bow while militia and town guards are frequently equipped with light crossbows.
@@ -137,10 +215,50 @@ Simple range weapons are typically used for hunting but can be used in battle wh
 **Sling.** A sling is a simple leather thong with a pouch use for hurling stones or metal bullets. It is a common weapon among shepherds and other common folk and can be easily stored in a pouch along with stones and bullets.
 
 
+\page
+<div class="wide classTable">
+##### Table: Martial Melee Weapons
+| Name | Variants | Damage | Cost | Weight | Properties |
+|:-----|:---------|:-------|:----:|:------:|:-----------|
+| Gauntlet | Brass knuckles, Cestus | 1d2 bludgeoning | 2 gp | 1 lb. | light, monk |
+| Nunchaku | | 1d4 bludgeoning | 6 gp | 1 lb. | flexible, light, monk |
+| Chain | Chain whip, Kusari-gama | 1d6 bludgeoning and slashing | 25 gp | 10 lb. | flexible, grappling, heavy, reach, slow, two-handed |
+| War flail | Ball and chain, Military flail | 1d8 bludgeoning | 50 gp | 8 lb. | flexible, slow, versatile (1d10)
+| War hammer | Military hammer | 1d8 bludgeoning | 15 gp | 6 lb. | crushing, slow, versatile (1d10) |
+| Morning star | Spiked mace | 2d4 bludgeoning and piercing | 15 gp | 8 lb. | crushing, slow |
+| Pole hammer | Lucerne hammer | 1d10 bludgeoning or piercing | 10 gp | 8 lb. | crushing, heavy, oversized, reach, slow, two-handed |
+| Great flail | Two-handed flail | 2d6 bludgeoning | 25 gp | 10 lb. | flexible, heavy, slow, two-handed |
+| Maul| Great hammer, Two-handed hammer | 2d6 bludgeoning | 20 gp | 10 lb. | crushing, heavy, slow, two-handed |
+| Clawed gauntlet | 1d4 slashing | 5 gp | 1 lb. | light, monk |
+| Whip | Bull-whip | 1d4 slashing | 2 gp | 3 lb. | finesse, flexible, grappling, monk, reach |
+| Broad sword | Arming sword, Jian, Viking sword| 1d6 slashing | 10 gp | 4 lb. | versatile (2d4) |
+| Scimitar | Cutlass, Dao, Falchion, Kopis, Kukri, Sabre, Tulwar | 1d6 slashing | 15 gp | 3 lb. | brutal, finesse, light |
+| Scourge | Cat-o-nine-tails, Lash | 1d6 slashing | 3 gp | 2 lb. | finesse, flexible, light |
+| Battle axe | Khopesh, Military cleaver, War axe | 1d8 slashing | 15 gp | 4 lb. | brutal, slow, versatile (1d10) |
+| Long sword | Katana, War sword | 1d8 slashing | 15 gp | 5 lb. | versatile (1d10) |
+| Bastard sword | Claymore | 2d4 slashing | 35 gp | 6 lb. | heavy, versatile (1d4+1d6) |
+| Glaive | Bill, Fauchard | 2d4 slashing | 10 gp | 8 lb. | heavy, oversized, reach, two-handed |
+| Halberd | Bardiche, Voulge, Poleaxe | 1d10 slashing or piercing | 10 gp | 15 lb. | brutal, heavy, oversized, reach, slow, two-handed |
+| Great axe | Two-handed axe | 1d12 slashing | 30 gp | 7 lb. | brutal, heavy, slow, two-handed |
+| Great sword | Zwiehander, Two-handed sword | 2d6 slashing | 50 gp | 8 lb. | heavy, two-handed |
+| Spiked gauntlet | | 1d4 piercing | 5 gp | 1 lb. | light, monk |
+| Jousting lance | | 1d6 piercing | 5 gp | 4 lb. | high crit, mounted, reach, slow |
+| Punching dagger | Katar, Knuckle knife, Sai, Siangham | 1d6 piercing | 5 gp | 1 lb. | light, monk, sneaky (1d8), underwater |
+| Short sword | Gladius, Hanger, Small sword, Xiphos | 1d6 piercing | 10 gp | 2 lb. | finesse, light, monk, underwater |
+| Heavy pick | Military pick, War pick | 1d8 piercing | 8 gp | 6 lb. | high crit, slow, versatile (1d10) |
+| Light lance | | 1d8 piercing | 10 gp | 6 lb. | high crit, mounted, reach, slow |
+| Rapier | Epee, Foil, Fencing sword | 1d8 piercing | 25 gp | 2 lb. | finesse, high crit, lunging (1d6) |
+| Guisarme | Bec de corbin | 1d10 piercing | 10 gp | 7 lb. | heavy, high crit, oversized, reach, slow, two-handed |
+| Lance | | 1d10 piercing | 15 gp | 8 lb. | high crit, mounted, reach, slow |
+| Pike | Partisan, Military fork, Ranseur, Spetum | 1d10 piercing | 10 gp | 9 lb. | brace, heavy, high crit, oversized, reach, two-handed, underwater |
+| Great pick | Heavy pick | 1d12 piercing | 10 gp | 8 lb. | heavy, high crit, slow, two-handed |
+| Heavy lance | | 1d12 piercing | 20 gp | 10 lb. | high crit, mounted, reach, slow |
+| Man-catcher | | 1d4 piercing | 30 gp | 8 lb. | grappling, heavy, oversized, reach, two-handed, underwater |
+</div>
+\page
 ### Martial Melee Weapons
 
 Martial melee weapons are crafted specifically for battle and meant to be wielded by trained warriors and soldiers. Common soldiers are typically outfitted with a polearm and a light one-handed weapon as a fallback, while commanders and elite soldiers tend to use versatile or great weapons. Martial melee weapons tend to do more damage and have more beneficial properties than their simple counterparts, yet the also cost more and aren't as readily available.
-
 
 **Bastard Sword.** A double-edged sword with a wide crossguard and an extended pommel. Slightly longer than a long sword but not as large as a great sword, this is a fairly uncommon yet distinctive weapon. Also known as a claymore or hand-and-a-half sword.
 
@@ -185,6 +303,7 @@ Martial melee weapons are crafted specifically for battle and meant to be wielde
 **War Flail and Great Flail.** A war flail is a flail fashioned with one or more spiked balls on the end of a long chains specifically crafted for battle and is particularly effective against opponents with shields. A great flail is even larger and heavier and meant to be used with two hands. Flails are a favored weapon among gnolls.
 
 **War Hammer and Maul.** A battle hammer that can be used with one or two hands, fashioned with either two blunt ends or a blunt end balanced by a short spike. A maul or great hammer is even larger and heavier and can only be wielded in two-hands. Hammers are a favored weapon among the dwarves.
+\page
 
 **War Pick and Great Pick.** A war pick is meant for combat and able to be used in one or two hands. A great pick is larger and heavier and only able to be wielded in two hands.
 

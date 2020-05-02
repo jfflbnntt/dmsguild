@@ -1,6 +1,8 @@
 ### Weapon Properties
 
-Weapons are distinquished by a set of properties that govern how they perform in battle. The following lists these properties and their effects, including new and existing ones from the PHB and how they interact with each other along with suggestions on how they should be applied to new or customized weapons.
+Weapons are distinquished by a set of properties that describe how they perform in battle. Large weapons are slow and unbalanced. Small hidden weapons can be suprisingly deadly in the right hands. Chopping blades cut deeply and heavy bludgeons deliver crushing blows. Whips and chains can wrap around obstacles or even be used with some skill to entangle targets. Spear-like thrusting weapons are best at repelling charges and for use in the water. 
+
+The following weapon properties and their effects reinforce these ideas.
 
 **Ammunition.** You can use a weapon that has the ammunition property to make a ranged Attack only if you have ammunition to fire from the weapon. Each time you Attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the Attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. If you use a weapon that has the ammunition property to make a melee Attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Ammunition weapons have a maximum range which is 4x its short range.
 
@@ -14,7 +16,7 @@ Weapons are distinquished by a set of properties that govern how they perform in
 
 **Flexible.** A weapon with this property consists of multiple interlocking rigid parts or made entirely of a flexible material like rope or leather. Due to it's flexible nature it can neutralize the benefits of shields and cover. As long as the attacker can see the target in range an attack made with this weapon ignores up to +2 AC bonus granted by shields or cover. Whips, chains, and flails are all **flexible** weapons.
 
-**Grappling.** These weapons are made from entangling cords, chains, nets, or have special hooks designed for grabbing and can be used to make a grappling attack instead of doing damage. Using a weapon in this way does not require you to have a free hand. You make a melee or ranged weapon attack roll in place of a STR (Athletics) check and in all other ways works the same as a normal grappling attack. To maintain a grapple with this weapon you must keep at least one hand on it. **Grappling** weapons tend to also be **flexible** and **monk** weapons, but aren't required to be either.
+**Grappling.** These weapons are made from entangling cords, chains, nets, or have special hooks designed for grabbing and can be used to make a grappling attack instead of doing damage. Using a weapon in this way does not require you to have a free hand. You make a melee or ranged weapon attack roll in place of a STR (Athletics) check and in all other ways works the same as a normal grappling attack. To maintain a grapple with this weapon you must keep at least one hand on it. **Grappling** weapons tend to also be **flexible** weapons, but aren't required to be.
 
 **Heavy.** Small creatures have Disadvantage on Attack rolls with **heavy** weapons. A heavy weapon’s size and bulk make it too large for a small creature to use effectively. Heavy weapons tend to be **slow** and **two-handed**.
 

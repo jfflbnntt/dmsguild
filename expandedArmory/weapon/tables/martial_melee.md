@@ -1,6 +1,6 @@
-___
+##### Table: Martial Melee Weapons
 | Name | Variants | Damage | Cost | Weight | Properties |
-|:-|:-|:-|-:|-:|:-|
+|:-----|:---------|:-------|:----:|:------:|:-----------|
 | Gauntlet | Brass knuckles, Cestus | 1d2 bludgeoning | 2 gp | 1 lb. | light, monk |
 | Nunchaku | | 1d4 bludgeoning | 6 gp | 1 lb. | flexible, light, monk |
 | Chain | Chain whip, Kusari-gama | 1d6 bludgeoning and slashing | 25 gp | 10 lb. | flexible, grappling, heavy, reach, slow, two-handed |
