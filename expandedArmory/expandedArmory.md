@@ -104,6 +104,9 @@ Add 1 additional weapon damage die when rolling crit damage. This feature is neg
 
 **Range.** A weapon that can be used to make a ranged Attack has a range in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon’s normal range in feet, and the second indicates the weapon’s long range. When attacking a target beyond normal range, you have Disadvantage on the Attack roll. You can’t Attack a target beyond the weapon’s long range.
 
+```
+```
+
 **Reach.** This weapon adds 5 feet to your reach when you Attack with it, as well as when determining your reach for Opportunity Attacks with it. Polearms, two-handed weapons, whips, and chains all tend to be reach weapons. Reach weapons also tend to be **heavy** and **slow**.
 
 **Reapeating.** When applied to a crossbow of any type this property replaces the loading property of that weapon when used with an appropriate magazine that still has ammunition in it. The typical magazine holds up to 6 bolts. Reloading a repeating crossbow takes an action. The Crossbow Expert Feat reduces the reload time to a Bonus Action.
@@ -136,7 +139,6 @@ Simple melee weapons are easily made or improvised from tools on hand. Commoners
 
 **Flail.** Two short sections of wood or metal connected by a small chain or hinge. Originally intended as a tool for threshing grain it can be used as a flexible bludgeoning weapon as well.
 
-
 **Hammer.** A one-handed hammer useful as a hand tool, a bludgeon, or a throwing weapon. A favorite skirmishing weapon among dwarves, gnomes, and other mining races.
 
 **Javelin.** A short spear primarily meant as a throwing weapon but can be used as a one-handed stabbing weapon as well. Cheap and easily fabricated, it is a common weapon among tribal humanoids and frequently issued to foot soldiers as a skirmishing weapon.
@@ -147,27 +149,30 @@ Simple melee weapons are easily made or improvised from tools on hand. Commoners
 
 **Pick.** A small one-handed pick usually used for breaking up dirt or rocks but also useful for piercing flesh.
 
+```
+```
+
 <div class="wide classTable">
 ##### Table: Simple Melee Weapons
 | Name           | Variants | Damage | Cost  | Weight  | Properties |
 |:---------------|:---------|:-------|:-----:|:-------:|:-----------|
+| Lasso | Lariat | ─ | 1 sp | 0.1 lb. | flexible, grappling, reach, two-handed |
 | Unarmed strike | | 1 bludgeoning | ─ | ─ | light, monk |
 | Club | Cudgel, Sap | 1d4 bludgeoning | 1 sp | 2 lb. | light, monk, sneaky (1d6) |
 | Hammer | Light hammer, Throwing hammer | 1d4 bludgeoning | 2 gp | 2 lb. | light, monk, thrown (20/60) |
+| Dagger | Dirk, Knife, Stiletto | 1d4 piercing or slashing | 2 gp | 1 lb. | finesse, light, monk, sneaky (1d6), thrown (20/60), underwater |
+| Sickle | Billhook, Machete, Kama | 1d4 slashing | 1 gp | 2 lb. | brutal, light, monk |
 | Flail | Light flail | 1d6 bludgeoning | 5 gp | 2 lb. | flexible, monk |
 | Mace | Baton, Truncheon | 1d6 bludgeoning | 5 gp | 3 lb. | crushing, monk |
 | Quarter staff | Single stick | 1d6 bludgeoning | 2 sp | 4 lb. | lunging (1d4), monk, versatile (1d8) |
-| Great club | Two-handed club | 1d8 bludgeoning | 2 sp | 10 lb. | crushing, slow, two-handed |
-| Sickle | Billhook, Machete, Kama | 1d4 slashing | 1 gp | 2 lb. | brutal, light, monk |
+| Javelin | Pilum | 1d6 piercing | 5 sp | 2 lb. | high crit, lunging (1d4), monk, thrown (30/90), underwater |
+| Pick | Adze, Hoe, Light pick | 1d6 piercing | 5 gp | 4 lb. | high crit, light, monk, slow |
+| Spear | Harpoon, Pitchfork, Trident | 1d6 piercing | 2 gp | 3 lb. | brace, high crit, lunging (1d4), monk, thrown (20/60), underwater, versatile (1d8) |
 | Axe | Hand axe, Hatchet, Throwing axe | 1d6 slashing | 5 gp | 2 lb. | light, monk, thrown (20/60) |
+| Great club | Two-handed club | 1d8 bludgeoning | 2 sp | 10 lb. | crushing, slow, two-handed |
 | Shovel | Spade | 1d8 slashing | 5 sp | 2 lb. | slow, two-handed |
 | Scythe | | 1d8 slashing | 2 gp | 10 lb. | brutal, heavy, oversized, slow, two-handed |
-| Dagger | Dirk, Knife, Stiletto | 1d4 piercing or slashing | 2 gp | 1 lb. | finesse, light, monk, sneaky (1d6), thrown (20/60), underwater |
-| Pick | Adze, Hoe, Light pick | 1d6 piercing | 5 gp | 4 lb. | high crit, light, monk, slow |
-| Javelin | Pilum | 1d6 piercing | 5 sp | 2 lb. | high crit, lunging (1d4), monk, thrown (30/90), underwater |
-| Spear | Harpoon, Pitchfork, Trident | 1d6 piercing | 2 gp | 3 lb. | brace, high crit, lunging (1d4), monk, thrown (20/60), underwater, versatile (1d8) |
 | Long spear | Boar spear, Great spear, War spear | 2d4 piercing | 5 gp | 6 lb. | brace, high crit, reach, two-handed, underwater |
-| Lasso | Lariat | ─ | 1 sp | 0.1 lb. | flexible, grappling, reach, two-handed |
 
 </div>
 
@@ -186,19 +191,6 @@ Simple melee weapons are easily made or improvised from tools on hand. Commoners
 
 **Unarmed Strike.** All humanoids can perform an unarmed strike as an Attack action. It can represent a punch, kick, knee, headbutt, tail slam, shoulder throw, or any other brawling move.
 
-<div class="wide classTable">
-##### Table: Simple Range Weapons
-| Name | Variants | Damage | Cost | Weight | Properties |
-|:-----|:---------|:-------|:----:|:------:|:-----------|
-| Sling | | 1d4 bludgeoning | 1 sp | 0.01 lb. | ammunition (40/160) |
-| Dart | Plumbata | 1d4 piercing | 5 cp | 0.25 lb. | finesse, thrown (30/90), underwater |
-| Short bow | Self-bow, Hunting bow | 1d6 piercing | 25 gp | 2 lb. | ammunition (80/320), two-handed |
-| Recurve short bow | Composite horn bow | 1d6 piercing | 50 gp | 2 lb. | ammunition (100/400), powerdraw, two-handed |
-| Light crossbow | | 1d8 piercing | 25 gp | 5 lb. | ammunition (80/320), loading, two-handed, underwater |
-| Repeating light crossbow | | 1d8 piercing | 125 gp | 6 lb. | ammunition (80/320), repeating, two-handed, underwater |
-| Net | | | 1 gp | 3 lb. | grappling, thrown (5/15), underwater |
-
-</div>
 ### Simple Range Weapons
 
 Simple range weapons are typically used for hunting but can be used in battle when needed. Commoners often own a sling or a short bow while militia and town guards are frequently equipped with light crossbows.
@@ -214,6 +206,21 @@ Simple range weapons are typically used for hunting but can be used in battle wh
 
 **Sling.** A sling is a simple leather thong with a pouch use for hurling stones or metal bullets. It is a common weapon among shepherds and other common folk and can be easily stored in a pouch along with stones and bullets.
 
+```
+```
+
+<div class="wide classTable">
+##### Table: Simple Range Weapons
+| Name | Variants | Damage | Cost | Weight | Properties |
+|:-----|:---------|:-------|:----:|:------:|:-----------|
+| Net | | ─ | 1 gp | 3 lb. | grappling, thrown (5/15), underwater |
+| Sling | | 1d4 bludgeoning | 1 sp | 0.01 lb. | ammunition (40/160) |
+| Dart | Plumbata | 1d4 piercing | 5 cp | 0.25 lb. | finesse, thrown (30/90), underwater |
+| Short bow | Self-bow, Hunting bow | 1d6 piercing | 25 gp | 2 lb. | ammunition (80/320), two-handed |
+| Recurve short bow | Composite horn bow | 1d6 piercing | 50 gp | 2 lb. | ammunition (100/400), powerdraw, two-handed |
+| Light crossbow | | 1d8 piercing | 25 gp | 5 lb. | ammunition (80/320), loading, two-handed, underwater |
+| Repeating light crossbow | | 1d8 piercing | 125 gp | 6 lb. | ammunition (80/320), repeating, two-handed, underwater |
+</div>
 
 \page
 <div class="wide classTable">
