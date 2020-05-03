@@ -5,7 +5,7 @@
 | Nunchaku | | 1d4 bludgeoning | 6 gp | 1 lb. | flexible, light, monk |
 | Man-catcher | | 1d4 piercing | 30 gp | 8 lb. | grappling, heavy, oversized, reach, two-handed, underwater |
 | Spiked gauntlet | | 1d4 piercing | 5 gp | 1 lb. | light, monk |
-| Clawed gauntlet | 1d4 slashing | 5 gp | 1 lb. | light, monk |
+| Clawed gauntlet | | 1d4 slashing | 5 gp | 1 lb. | light, monk |
 | Whip | Bull-whip | 1d4 slashing | 2 gp | 3 lb. | finesse, flexible, grappling, monk, reach |
 | Chain | Chain whip, Kusari-gama | 1d6 bludgeoning and slashing | 25 gp | 10 lb. | flexible, grappling, heavy, reach, slow, two-handed |
 | Punching dagger | Katar, Knuckle knife, Sai, Siangham | 1d6 piercing | 5 gp | 1 lb. | light, monk, sneaky (1d8), underwater |
