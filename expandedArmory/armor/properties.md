@@ -1,6 +1,6 @@
 ### Armor, Shield, and Helm Properties
 
-These are new properties for armor, shields, and helms. In some cases they replace existing table elements defined in the PHB.
+The following are a few new properties along with new options for armor and shields with their own benefits and drawbacks. These are new properties for armor, shields, and helms. In some cases they replace existing table elements defined in the PHB.
 
 **Covering.** You can use your Reaction to double the shield's AC bonus against a single ranged weapon or spell attack.
 
