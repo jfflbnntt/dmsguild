@@ -1,4 +1,4 @@
-# Armory Remix
+# Armory Remix 2.0
 
 A *street thug with club in hand sneaks up on an unsuspecting mark knowing that one quick strike to the back of the head will render his victim unconscious. Students listen intently to their weapons master as she instructs them on the finer points of spear fighting and how a quick change in grip can extend their reach to strike opponents at a distance. A veteran soldier, standing in formation shoulder to shoulder to green recruits, grits his teeth as he sets his pike to recieve the front ranks of the charging orc horde. With a flick of the wrist a bounty hunter wraps her whip around the ankles of a fleeing bounty enabling her to claim the full reward for bringing him in alive. A dual-wielding swordsman's quick flashing blades deter his enemies from trying to slip past him, while nearby his lightly armored halfling companion easily dodges past the slow and clumsy strikes of an ogre's greatclub.*
 
@@ -107,20 +107,20 @@ Add 1 additional weapon damage die when rolling crit damage. This feature is neg
 | Finesse    | Dagger, Dart, Rapier, Scimitar, Scourge, Short sword, Whip |
 | Flexible   | Flail, Great flail, Heavy flail, Lasso, Nanchaku, Scourge, Spiked chain, Whip |
 | Grappling  | Bolas, Lasso, Man-catcher, Net, Spiked chain, Whip |
-| Heavy      | Bastard sword, Glaive, Great axe, Great flail, Great hammer, Great pick, Great sword, Guisarme, Halberd, Heavy crossbow, Long bow, Man-catcher, Pike, Pole hammer, Recurve long bow, Repeating heavy crossbow, Scythe, Spiked chain |
-| High Crit  | Great pick, Guisarme, Heavy lance, Heavy pick, Javelin, Jousting lance, Lance, Light lance, Long spear, Pick, Pike, Rapier, Spear |
+| Heavy      | Bastard sword, Glaive, Great axe, Great flail, Great hammer, Great pick, Great sword, Halberd, Heavy crossbow, Long bow, Man-catcher, Pike, Pole hammer, Recurve long bow, Repeating heavy crossbow, Scythe, Spiked chain |
+| High Crit  | Great pick, Heavy lance, Heavy pick, Javelin, Jousting lance, Lance, Light lance, Long spear, Pick, Pike, Rapier, Spear |
 | Light      | Axe, Clawed gauntlet, Club, Dagger, Gauntlet, hammer, Hand crossbow, Nunchaku, Pick, Punching dagger, Scimitar, Scourge, Short sword, Sickle, Spiked gauntlet, Throwing knife, Unarmed strike |
 | Loading    | Blowgun, Hand crossbow, Heavy crossbow, Light crossbow |
 | Lunging    | Javelin, Quarter staff, Spear, Rapier |
 | Monk       | Axe, Clawed gauntlet, Club, Dagger, Flail, Gauntlet, Hammer, Javelin, Mace, Nunchaku, Pick, Punching dagger, Quarter staff, Short sword, Shovel, Sickle, Spear, Spiked gauntlet, Unarmed strike, Whip |
 | Mounted    | Heavy lance, Jousting lance, Lance, Light lance |
-| Oversized  | Glaive, Halberd, Heavy crossbow, Guisarme, Long bow, Man-catcher, Pike, Pole hammer, Recurve long bow, Repeating heavy crossbow, Scythe |
-| Reach      | Glaive, Guisarme, Halberd, Heavy lance, Jousting lance, Lance, Lasso, Light lance, Long spear, Man-catcher, Pike, Pole hammer, Spiked chain, Whip |
+| Oversized  | Glaive, Halberd, Heavy crossbow, Long bow, Man-catcher, Pike, Pole hammer, Recurve long bow, Repeating heavy crossbow, Scythe |
+| Reach      | Glaive, Halberd, Heavy lance, Jousting lance, Lance, Lasso, Light lance, Long spear, Man-catcher, Pike, Pole hammer, Spiked chain, Whip |
 | Repeating  | Repeating heavy crossbow, Repeating light crossbow |
-| Slow       | Battle axe, Great axe, Great club, Great flail, Great hammer, Great pick, Guisarme, Halberd, Heavy flail, Heavy lance, Heavy pick, Jousting lance, Lance, Light lance, Morning star, Pick, Pole hammer, Scythe, Shovel, Spiked chain, War hammer |
+| Slow       | Battle axe, Great axe, Great club, Great flail, Great hammer, Great pick, Halberd, Heavy flail, Heavy lance, Heavy pick, Jousting lance, Lance, Light lance, Morning star, Pick, Pole hammer, Scythe, Shovel, Spiked chain, War hammer |
 | Sneaky     | Blowgun, Club, Dagger, Punching dagger, Throwing knife |
 | Thrown     | Axe, Bolas, Dagger, Dart, Hammer, Javelin, Net, Spear, Throwing knife |
-| Two-handed | Glaive, Great axe, Great club, Great flail, Great hammer, Great pick, Great sword, Guisarme, Halberd, Heavy crossbow, Lasso, Light crossbow, Long bow, Long spear, Man-catcher, Pike, Pole hammer, Recurve long bow, Recurve short bow, Repeating heavy crossbow, Repeating light crossbow, Scythe, Short bow, Shovel, Spiked chain, Staff sling |
+| Two-handed | Glaive, Great axe, Great club, Great flail, Great hammer, Great pick, Great sword, Halberd, Heavy crossbow, Lasso, Light crossbow, Long bow, Long spear, Man-catcher, Pike, Pole hammer, Recurve long bow, Recurve short bow, Repeating heavy crossbow, Repeating light crossbow, Scythe, Short bow, Shovel, Spiked chain, Staff sling |
 | Underwater | Dagger, Dart, Dart thrower, Hand crossbow, Heavy crossbow, Javelin, Light crossbow, Long spear, Man-catcher, Net, Pike, Punching dagger, Repeating heavy crossbow, Repeating light crossbow, Short sword, Spear |
 | Versatile  | Bastard sword, Battle axe, Broad sword, Heavy flail, Heavy pick, Long sword, Quarter staff, Spear, War hammer |
 | Weak       | Heavy lance, Jousting lance, Lance, Light lance |
@@ -277,32 +277,51 @@ Martial melee weapons are crafted specifically for battle and meant to be wielde
 
 **Whip.** A long braided flexible leather cord attached to a stiff handle. Traditionally used to train animals or torture prisoners it can be useful as a weapon as well.
 
+<div class="wide classTable">
+##### Table: Light Martial Melee Weapons
+| Name | Variants | Damage | Cost | Weight | Properties |
+|:-----|:---------|:-------|:----:|:------:|:-----------|
+| Gauntlet | Brass knuckles, Cestus | 1d2 bludgeoning | 2 gp | 1 lb. | light, monk |
+| Nunchaku | | 1d4 bludgeoning | 6 gp | 1 lb. | flexible, light, monk |
+| Spiked gauntlet | | 1d4 piercing | 5 gp | 1 lb. | light, monk |
+| Clawed gauntlet | | 1d4 slashing | 5 gp | 1 lb. | light, monk |
+| Punching dagger | Katar, Knuckle knife, Sai, Siangham | 1d6 piercing | 5 gp | 1 lb. | light, monk, sneaky (1d8), underwater |
+| Short sword | Gladius, Hanger, Small sword, Xiphos | 1d6 piercing | 10 gp | 2 lb. | finesse, light, monk, underwater |
+| Scimitar | Cutlass, Dao, Falchion, Kopis, Kukri, Sabre, Tulwar | 1d6 slashing | 15 gp | 3 lb. | brutal, finesse, light |
+| Scourge | Cat-o-nine-tails, Lash | 1d6 slashing | 3 gp | 2 lb. | finesse, flexible, light | 
+
+</div>
+
 ```
 ```
+
+<div class="wide classTable">
+##### Table: Two-Handed Martial Melee Weapons
+| Name | Variants | Damage | Cost | Weight | Properties |
+|:-----|:---------|:-------|:----:|:------:|:-----------|
+| Man-catcher | | 1d4 piercing | 30 gp | 8 lb. | grappling, heavy, oversized, reach, two-handed, underwater |
+| Chain | Chain whip, Kusari-gama | 1d6 bludgeoning or slashing | 25 gp | 10 lb. | flexible, grappling, heavy, reach, slow, two-handed |
+| Glaive | Bill, Fauchard, Guisarme | 2d4 slashing | 10 gp | 8 lb. | heavy, oversized, reach, two-handed |
+| Pole hammer | Bec de corbin, Lucerne hammer,  | 1d10 bludgeoning or piercing | 10 gp | 8 lb. | crushing, heavy, oversized, reach, slow, two-handed |
+| Pike | Partisan, Military fork, Ranseur, Spetum | 1d10 piercing | 10 gp | 9 lb. | brace, heavy, high crit, oversized, reach, two-handed, underwater |
+| Halberd | Bardiche, Voulge, Poleaxe | 1d10 piercing or slashing | 10 gp | 15 lb. | brutal, heavy, oversized, reach, slow, two-handed |
+| Great flail | Two-handed flail | 1d12 bludgeoning | 25 gp | 10 lb. | flexible, heavy, slow, two-handed |
+| Great axe | Two-handed axe | 1d12 slashing | 30 gp | 7 lb. | brutal, heavy, slow, two-handed |
+| Great pick | Heavy pick | 2d6 piercing | 10 gp | 8 lb. | heavy, high crit, slow, two-handed |
+| Maul| Great hammer, Two-handed hammer | 2d6 bludgeoning | 20 gp | 10 lb. | crushing, heavy, slow, two-handed |
+| Great sword | Zwiehander, Two-handed sword | 2d6 slashing | 50 gp | 8 lb. | heavy, two-handed |
+
+</div>
+
+\page
 
 <div class="wide classTable">
 ##### Table: Martial Melee Weapons
 | Name | Variants | Damage | Cost | Weight | Properties |
 |:-----|:---------|:-------|:----:|:------:|:-----------|
-| Gauntlet | Brass knuckles, Cestus | 1d2 bludgeoning | 2 gp | 1 lb. | light, monk |
-| Nunchaku | | 1d4 bludgeoning | 6 gp | 1 lb. | flexible, light, monk |
-| Man-catcher | | 1d4 piercing | 30 gp | 8 lb. | grappling, heavy, oversized, reach, two-handed, underwater |
-| Spiked gauntlet | | 1d4 piercing | 5 gp | 1 lb. | light, monk |
-| Clawed gauntlet | | 1d4 slashing | 5 gp | 1 lb. | light, monk |
 | Whip | Bull-whip | 1d4 slashing | 2 gp | 3 lb. | finesse, flexible, grappling, monk, reach |
-| Chain | Chain whip, Kusari-gama | 1d6 bludgeoning and slashing | 25 gp | 10 lb. | flexible, grappling, heavy, reach, slow, two-handed |
-| Punching dagger | Katar, Knuckle knife, Sai, Siangham | 1d6 piercing | 5 gp | 1 lb. | light, monk, sneaky (1d8), underwater |
-| Short sword | Gladius, Hanger, Small sword, Xiphos | 1d6 piercing | 10 gp | 2 lb. | finesse, light, monk, underwater |
 | Jousting lance | | 1d6 piercing | 5 gp | 4 lb. | high crit, mounted, reach, slow |
 | Broad sword | Arming sword, Jian, Viking sword| 1d6 slashing | 10 gp | 4 lb. | versatile (2d4) |
-| Scimitar | Cutlass, Dao, Falchion, Kopis, Kukri, Sabre, Tulwar | 1d6 slashing | 15 gp | 3 lb. | brutal, finesse, light |
-| Scourge | Cat-o-nine-tails, Lash | 1d6 slashing | 3 gp | 2 lb. | finesse, flexible, light | 
-</div>
-\page
-<div class="wide classTable">
-##### Table: Martial Melee Weapons
-| Name | Variants | Damage | Cost | Weight | Properties |
-|:-----|:---------|:-------|:----:|:------:|:-----------|
 | War flail | Ball and chain, Military flail | 1d8 bludgeoning | 50 gp | 8 lb. | flexible, slow, versatile (1d10)
 | War hammer | Military hammer | 1d8 bludgeoning | 15 gp | 6 lb. | crushing, slow, versatile (1d10) |
 | Heavy pick | Military pick, War pick | 1d8 piercing | 8 gp | 6 lb. | high crit, slow, versatile (1d10) |
@@ -311,20 +330,15 @@ Martial melee weapons are crafted specifically for battle and meant to be wielde
 | Battle axe | Khopesh, Military cleaver, War axe | 1d8 slashing | 15 gp | 4 lb. | brutal, slow, versatile (1d10) |
 | Long sword | Katana, War sword | 1d8 slashing | 15 gp | 5 lb. | versatile (1d10) |
 | Morning star | Spiked mace | 2d4 bludgeoning and piercing | 15 gp | 8 lb. | crushing, slow |
-| Long spear | Boar spear, Great spear, War spear | 2d4 piercing | 5 gp | 6 lb. | brace, high crit, reach, two-handed, underwater |
 | Bastard sword | Claymore | 2d4 slashing | 35 gp | 6 lb. | heavy, versatile (1d4+1d6) |
-| Glaive | Bill, Fauchard, Guisarme | 2d4 slashing | 10 gp | 8 lb. | heavy, oversized, reach, two-handed |
-| Pole hammer | Bec de corbin, Lucerne hammer,  | 1d10 bludgeoning or piercing | 10 gp | 8 lb. | crushing, heavy, oversized, reach, slow, two-handed |
 | Lance | | 1d10 piercing | 15 gp | 8 lb. | high crit, mounted, reach, slow |
-| Pike | Partisan, Military fork, Ranseur, Spetum | 1d10 piercing | 10 gp | 9 lb. | brace, heavy, high crit, oversized, reach, two-handed, underwater |
-| Halberd | Bardiche, Voulge, Poleaxe | 1d10 piercing or slashing | 10 gp | 15 lb. | brutal, heavy, oversized, reach, slow, two-handed |
-| Great flail | Two-handed flail | 1d12 bludgeoning | 25 gp | 10 lb. | flexible, heavy, slow, two-handed |
 | Heavy lance | | 1d12 piercing | 20 gp | 10 lb. | high crit, mounted, reach, slow |
-| Great axe | Two-handed axe | 1d12 slashing | 30 gp | 7 lb. | brutal, heavy, slow, two-handed |
-| Great pick | Heavy pick | 2d6 piercing | 10 gp | 8 lb. | heavy, high crit, slow, two-handed |
-| Maul| Great hammer, Two-handed hammer | 2d6 bludgeoning | 20 gp | 10 lb. | crushing, heavy, slow, two-handed |
-| Great sword | Zwiehander, Two-handed sword | 2d6 slashing | 50 gp | 8 lb. | heavy, two-handed |
 </div>
+ 
+```
+```
+ 
+
 
 \page
 ### Martial Range Weapons
