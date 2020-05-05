@@ -193,6 +193,7 @@ Simple melee weapons are easily made or improvised from tools on hand. Commoners
 
 **Unarmed Strike.** All humanoids can perform an unarmed strike as an Attack action. It can represent a punch, kick, knee, headbutt, tail slam, shoulder throw, or any other brawling move.
 
+
 ### Simple Range Weapons
 
 Simple range weapons are typically used for hunting but can be used in battle when needed. Commoners often own a sling or a short bow while militia and town guards are frequently equipped with light crossbows.
@@ -518,9 +519,11 @@ Helms offer protection only when combined with an appropriate set of armor. Helm
 \page
 ## Customizing Items
 
+In some cases it's okay to break the game balance guidelines above, especially when you want to create a unique and memorable item. On the other hand you might wish to run a low-tech campaign or equip your NPCs with primative gear.
+
 ### High Quality Items
 
-In some cases it's okay to break the game balance guidelines above, especially when you want to create a unique and memorable item. High quality weapons and armor are rare, valuable, and highly sought after so their cost should reflect this. These items are expertly crafted and can be considered masterwork items, others are made of rare and wonderful materials that grant them special properties. High quality items can have one or more of the following benefits above and beyond the stats of its base stats:
+High quality weapons and armor are rare, valuable, and highly sought after so their cost should reflect this. These items are expertly crafted and can be considered masterwork items, others are made of rare and wonderful materials that grant them special properties. High quality items can have one or more of the following benefits above and beyond the stats of its base stats:
 
 #### Weapons
 
@@ -539,7 +542,7 @@ In some cases it's okay to break the game balance guidelines above, especially w
 
 ### Low Quality Items
 
-On the other hand you might wish to run a low-tech campaign or equip your NPCs with primative gear. Low quality items might be old and worn out, damaged in some way, poorly crafted, or made from primative or sub-standard materials. In any case, low quality items have one or more of the following drawbacks:
+Low quality items might be old and worn out, damaged in some way, poorly crafted, or made from primative or sub-standard materials. In any case, low quality items have one or more of the following drawbacks:
 
 #### Weapon
 
@@ -555,9 +558,13 @@ On the other hand you might wish to run a low-tech campaign or equip your NPCs w
 * Reduce the AC bonus or formula by 1 or more.
 * Increase the weight of the item and add or increase the STR requirement for the **encumbering** property.
 
+
+```
+```
+
 ## Rule Updates
  
-### Armor and Shield Proficiencies
+### Armor Proficiencies
 
 **Light Armor Proficiency.** Any feature that grants proficiency with light armor also grants proficiency with small shields and caps.
 
@@ -565,13 +572,13 @@ On the other hand you might wish to run a low-tech campaign or equip your NPCs w
 
 **Heavy Armor Proficiency.** Any feature that grants proficiency with heavy armor also grants proficiency with large shields full helms.
 
-### Class Proficiencies
+### Weapon Proficiencies
  
 **Bard.** Gain proficiency in broad swords.
 
 **Druid.** Gain proficiency in scythes, and long spears.
 
-**Monk.** Gain proficiency in punching daggers, nunchakus, clawed gauntlets, gauntlets, spiked gauntlets, and whips.
+**Monk.** Gain proficiency in punching daggers, nunchakus, gauntlets, spiked gauntlets, and whips.
 
 **Rogue.** Gain proficiency in broad swords.
 
@@ -600,6 +607,31 @@ Below are updates and changes to Feats due to the new properties, armor, shields
 **Sharpshooter.** You can ignore the **oversized** property on range weapons.
 
 **Shield Master.** You no longer suffer any drawbacks from the **oversized** or **encumbering** properties on shields and can ignore it.
+
+\page
+## Optional Rules
+
+Here are a few optional rules you can pick and choose from to invigorate your games.
+
+**Attunements by Level.** A character can attune to a number of items equal to their current Proficiency modifier. This replaces the static value of 3 and slowly ramps up over the career of the character from 2 to 6. Artificer's Superior Attunement Feature grants a +1 to this value. 
+
+**Charging Attack.** When taking the Dash Action you can use a Bonus Action to make a single melee weapon attack or shove a creature at the end of your movement. If you use this variant rule then the **Charger** feat no longer requires a bonus action to make an attack. Use this rule if you want combat to feel more dynamic and fast paced.
+
+**Close Combat.** While grappled a creature suffers Disadvantage with any weapon attack unless the weapon has the **light** property. Use this rule if you want to emphasize the difficulty of bringing large or heavy weapons to bear while having your movement hampered or encourage the use of the Grapple Action.
+
+**Drop Prone as a Reaction.** In response to being targeted by an attack you can see you can use your Reaction to drop Prone. This can be effective against range attacks. If being prone would grant full cover it instead grants three-quarter cover for the triggering attack.
+
+**Flanking.** A coordinated attack from flanking positions is tactially advantageous. Although the Help Action is always an option in combat if you are Flanking with an ally you may perform the Help Action as a Reaction instead and can be triggered by the allies Attack. Flanking is defined by the rules described in the DMG, page 251, but does not grant Advantage automatically. This is a good option to add if your table misses tactical maneuvering on the battle field, but feel like the option presented in the DMG is too powerful. 
+
+**Gain Exhaustion at 0 HP.** Each time a character is brought to 0 HP, assuming they are not killed outright, they gain a level of Exhaustion. This represents receiving a grievous wound that lingers even if they are brought back to 1 or more HP. Exhaustion levels accumulate as usual and it is possible to die from Exhaustion by being dropped to 0 HP too many times. Use this option if you feel like falling in combat doesn't have realistic consequences.
+
+**Improved Grappling.** You can attempt to pin a creature grappled by you by making a separate grapple attack. If you succeed, you and the creature are both restrained until the grapple ends. If you use this rule then the **Grappler** feat grants advantage on this check.
+
+**Recharge on a 20.** If a magic item with charges has a chance to be destroyed when the last charge is used then it also has a chance to recharge as well. When the last charge is used roll a d20. If the result is a 1 the item is destroyed as normal, however if the result is a 20 then the item immediately regains charges as if it had regained charges on the following dawn. This rule rewards the characters for taking a chance on that last charge when the stakes are high.
+
+**Taking Damage While Grappling.** When a creature that is grappling another target takes damage it must succeed on a Constitution Saving Throw or release the grapple. The DC is 10 or equal to the damage taken, whichever is greater, similar to a Concentration check. Creatures that have special attacks that cause the grappled condition may automatically succeed on this check subject to the DM's ruling.
+
+**Untrained Help.** If you attempt the Help Action with a skill in which you are not Proficient you must first succeed on a DC 10 check. If you are Proficient in the skill or performing the Help Action in combat with a weapon in in which you are Proficient you succeed on this check automatically. Use this rule if you want to characters to emphasize their trained skills.
 
 ## Legal Stuff
 

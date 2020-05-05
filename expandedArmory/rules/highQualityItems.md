@@ -1,6 +1,6 @@
 ### High Quality Items
 
-In some cases it's okay to break the game balance guidelines above, especially when you want to create a unique and memorable item. High quality weapons and armor are rare, valuable, and highly sought after so their cost should reflect this. These items are expertly crafted and can be considered masterwork items, others are made of rare and wonderful materials that grant them special properties. High quality items can have one or more of the following benefits above and beyond the stats of its base stats:
+High quality weapons and armor are rare, valuable, and highly sought after so their cost should reflect this. These items are expertly crafted and can be considered masterwork items, others are made of rare and wonderful materials that grant them special properties. High quality items can have one or more of the following benefits above and beyond the stats of its base stats:
 
 #### Weapons
 
