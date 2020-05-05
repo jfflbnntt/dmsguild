@@ -283,8 +283,7 @@ Martial melee weapons are crafted specifically for battle and meant to be wielde
 |:-----|:---------|:-------|:----:|:------:|:-----------|
 | Gauntlet | Brass knuckles, Cestus | 1d2 bludgeoning | 2 gp | 1 lb. | light, monk |
 | Nunchaku | | 1d4 bludgeoning | 6 gp | 1 lb. | flexible, light, monk |
-| Spiked gauntlet | | 1d4 piercing | 5 gp | 1 lb. | light, monk |
-| Clawed gauntlet | | 1d4 slashing | 5 gp | 1 lb. | light, monk |
+| Spiked gauntlet | Bagh nakh, Claws | 1d4 piercing or slashing | 5 gp | 1 lb. | light, monk |
 | Punching dagger | Katar, Knuckle knife, Sai, Siangham | 1d6 piercing | 5 gp | 1 lb. | light, monk, sneaky (1d8), underwater |
 | Short sword | Gladius, Hanger, Small sword, Xiphos | 1d6 piercing | 10 gp | 2 lb. | finesse, light, monk, underwater |
 | Scimitar | Cutlass, Dao, Falchion, Kopis, Kukri, Sabre, Tulwar | 1d6 slashing | 15 gp | 3 lb. | brutal, finesse, light |
@@ -299,7 +298,7 @@ Martial melee weapons are crafted specifically for battle and meant to be wielde
 ##### Table: Two-Handed Martial Melee Weapons
 | Name | Variants | Damage | Cost | Weight | Properties |
 |:-----|:---------|:-------|:----:|:------:|:-----------|
-| Man-catcher | | 1d4 piercing | 30 gp | 8 lb. | grappling, heavy, oversized, reach, two-handed, underwater |
+| Man catcher | Catchpole | 1d4 piercing | 30 gp | 8 lb. | grappling, heavy, oversized, reach, two-handed, underwater |
 | Chain | Chain whip, Kusari-gama | 1d6 bludgeoning or slashing | 25 gp | 10 lb. | flexible, grappling, heavy, reach, slow, two-handed |
 | Glaive | Bill, Fauchard, Guisarme | 2d4 slashing | 10 gp | 8 lb. | heavy, oversized, reach, two-handed |
 | Pole hammer | Bec de corbin, Lucerne hammer,  | 1d10 bludgeoning or piercing | 10 gp | 8 lb. | crushing, heavy, oversized, reach, slow, two-handed |
@@ -382,14 +381,17 @@ Martial range weapons require more training and practice than simple range weapo
 </div>
 
 \page
-## Armor and Shields
+## Armor
 
-Just as some weapons pose new threats, the right kind of armor can neutralize those threats. Likewise a shield is not only useful in deflecting blows in close combat, but a sufficiently large shield when used properly can offer a much needed source of cover from explosions, magical blasts, and bursts of dragon's breath. The following are a few new properties along with new options for armor and shields with their own benefits and drawbacks.
+Armor, shields, and helms come in three categories related to the proficiency needed to use them effectively: Light, Medium, and Heavy. 
 
+Light armors are made of layers of cloth and leather while medium and heavy armors tend to use metal rings and plates. Light and medium armors focus on protecting only the vital areas while heavy armor protects the entire body. Heavy armor also tends to be both restrictive and cumbersome. Commoners rarely have any type of armor available, town guards and militia may be issued a suit of ring mail or a chain shirt, while professional soldiers typically wear chain mail.
 
-### Armor, Shield, and Helm Properties
+### Armor Properties
 
-These are new properties for armor, shields, and helms. In some cases they replace existing table elements defined in the PHB.
+Just as some weapons pose unique threats, the right kind of armor can neutralize those threats. A helm paired with an appropriate suit of armor offers superior protection. A shield is not only useful in deflecting blows in close combat, but can be particularly effective against missiles attacks.
+
+The following are a few new properties along with new options for armor and shields with their own benefits and drawbacks. These are new properties for armor, shields, and helms. In some cases they replace existing table elements defined in the PHB.
 
 **Covering.** You can use your Reaction to double the shield's AC bonus against a single ranged weapon or spell attack.
 
@@ -405,50 +407,51 @@ These are new properties for armor, shields, and helms. In some cases they repla
 
 **Spiked.** Armor and shields with this property have been embellished with intimidating metal spikes or something equally dangerous. A shield with spikes does 1d4 piercing damage instead of bludgeoning when used as a weapon or as part of a shove attack. A creature who grapples or is grappled by another creature in spiked armor takes 1d4 piercing damage from the spikes. Armor with spikes also gains the **hampering** property if it doesn't already.
 
-
-### Armor
-
-Armor, shields, and helms come in three categories related to the proficiency needed to use them effectively: Light, Medium, and Heavy. 
-
-Light armors are made of layers of cloth and leather while Medium and Heavy armors tend to use metal rings and plates. Light and Medium armors focus on protecting only the vital areas while heavy armor protects the entire body. Heavy armor also tends to be both restrictive and cumbersome. Commoners rarely have any type of armor available, town guards and militia may be issued a suit of ring mail or a chain shirt, while professional soldiers typically wear chain mail.
-
-**Padded.** Armor consisting of many thick layers of cloth and batting quilted together covering the chest and armes. It offers some protection while being cheap and easy to craft, however it's bulk somewhat hampers movement. Padded armor is more common than leather armor and just as protective. Common levies are often outfitted with this type of armor.
+### Light Armor
 
 **Leather.** This armor is made of boiled or otherwise stiffened leather shaped and stitched together to cover the torso and shoulders and may include a skirt, or kilt to protect the thighs. It can be dyed various colors and ornamented in a variety of ways. It offers the same protection as padded armor while being slightly less bulky. Other materials like weaved and lacquered wicker can be made into armor just as effective as leather.
 
+**Padded.** Armor consisting of many thick layers of cloth and batting quilted together covering the chest and armes. It offers some protection while being cheap and easy to craft, however it's bulk somewhat hampers movement. Padded armor is more common than leather armor and just as protective. Common levies are often outfitted with this type of armor.
+
 **Ring Mail.** Ring mail is leather armor with a matrix of large metal rings attached to it. It offers better protect than regular leather armor, but is heavier and costs more. The rings can be made of a variety of metals or even be replaced with bone, stone, or other similar materials. Ring mail is more common in areas where full metal armors are harder to come by and it is favored by pirates over heavier armors.
 
-**Hide.** Hide armor typically consists of thick layers furs and hides, commonly worn by barbarian tribes, giants, and savage humanoids in areas where better materials are hard to come by. This armor can also represent piecemeal or patchwork armor of other types including the  sparse armor of gladiators which usually only includes a single spaulder and a wide leather belt.
-
-**Chain Shirt.** Chain mail is made of flexible mesh of small metal rings that protects only the torso and arms and might extend to the thighs. This is an incomplete suit of chain mail and is lighter and can be consealed beneath a tunic. Militia and town guards are often equipped with a simple chain hauberk.
-
-**Scale Mail.** Scale mail is armor that is made of overlapping metal scales, like those of a fish, attached to a leather backing that covers the torso and arms. Variants of scale armor are made entirely of small interlocking coins or discs, similar to ring mail. Scale armor is uniformly noisy.
+### Medium Armor
 
 **Breastplate.** Breastplates come in a variety of styles and ornamentation. They all consist of one or more large solid metal plates or discs covering the vital parts of the chest while leaving the arms and legs unprotected, sacrificing additonal protection while remaining relatively unencumbered. Breastplates form the basis of all other **hardened** plate armors that protect against **brutal** and **high crit** weapons. Breastplates are expensive and generally only worn by honor guards, knights, and other nobles.
 
+**Chain Shirt.** Chain mail is made of flexible mesh of small metal rings that protects only the torso and arms and might extend to the thighs. This is an incomplete suit of chain mail and is lighter and can be consealed beneath a tunic. Militia and town guards are often equipped with a simple chain hauberk.
+
 **Half Plate.** Half plate includes a breastplate, pauldrons, and vambraces to protect the arms all worn over a chain shirt to protect the joints. The increased protection comes with more encumbrance and less flexibility. Like breastplates only the wealthy and priviledged tend to be able to afford to wear half plate.
+
+**Hide.** Hide armor typically consists of thick layers furs and hides, commonly worn by barbarian tribes, giants, and savage humanoids in areas where better materials are hard to come by. This armor can also represent piecemeal or patchwork armor of other types including the  sparse armor of gladiators which usually only includes a single spaulder and a wide leather belt.
+
+**Scale Mail.** Scale mail is armor that is made of overlapping metal scales, like those of a fish, attached to a leather backing that covers the torso and arms. Variants of scale armor are made entirely of small interlocking coins or discs, similar to ring mail. Scale armor is uniformly noisy.
+
+### Heavy Armor
 
 **Brigandine.** Brigandine consists of a long knee-lengthed armored coat with small rigid plates stitched or riveted between layers of cloth, cinched at the waist by a sturdy leather belt. It is often mistaken for "studded" armor due to the metal rivets or "studs" that sometimes show through the cloth layer. It is the cheapest and lightest of the heavy armors and is also known as a coat of plates. It is a favored type of armor amongst mercenaries for its balance of protection and cost.
 
 **Chain Mail.** A full suit of small interlocking metal rings over a layer of padded armor to prevent chafing and to cushion the impact of blows. It includes chain gauntlets and leg coverings. Chain mail is the most common type of heavy armor and frequently used by professional soldiers.
 
-**Plate Mail.** Plate mail is comprised of interlocking metal plates with chain mail covering the joints all over a cushioning layer of fabric padding or leather. It includes gauntlets, spaulders, heavy boots, and leg coverings. Banded mail is made with horizontal layers of plate mail while splinted mail is arranged vertically.
-
 **Full Plate.** Full plate covers the entire body with interlocking shaped metal plates. It includes everything in a suit of half plate and adds guantlets, thigh guards, knee guards, greaves, and sabatons. Due to the cost only the most wealthy knights and nobles can afford to wear this type of armor.
 
 **Heavy Plate.** Heavy plate is a suit of full plate made of reinforced heavy metal plates that only the strongest of warriors can effectively fight in. This armor is extremely rare and valuable.
+
+**Plate Mail.** Plate mail is comprised of interlocking metal plates with chain mail covering the joints all over a cushioning layer of fabric padding or leather. It includes gauntlets, spaulders, heavy boots, and leg coverings. Banded mail is made with horizontal layers of plate mail while splinted mail is arranged vertically.
 
 
 ### Shields
 
 Shields come in a variety of shapes and sizes and can be made of leather, wood, metal, or other improvised materials. Medium shields are the most commonly used, offering decent protection without the drawbacks of larger shields. Intelligent creatures generally use shields on their own or in combination with armor.
 
-**Small Shield.** A small lightweight shield usually round and made of wood or leather and possibly with metal rim or boss for reinforcement. It covers up to one-quarter of the wielder and is sometimes known as a targe, target, leaf shield, or buckler. An improvised shield is usually only effective as a small shield. Anyone with the light armor proficiency can use a light shield.
+**Large Shield.** A very large and heavy shield covers up to three-quarters of the wielder and most often made of metal. It is frequently used on battlefields as a mobile piece of cover for archers or soldiers in a shield wall. Anyone with the heavy armor proficiency can also use heavy shields however small creatures must use two hands when using it. Comes in many varieties including aspis, pavise, body, or tower shields.
 
 **Medium Shield.** A standard shield usually made of metal, or wood with metal reinforcement that covers up to one-half of the wielder. They often bear the heraldric arms of the wielder or the local lord. It is also the largest shield that can be effectively used while mounted. Anyone with the medium armor proficiency can use medium shields. Examples include heater, kite, parma, and teardrop shields.
 
-**Large Shield.** A very large and heavy shield covers up to three-quarters of the wielder and most often made of metal. It is frequently used on battlefields as a mobile piece of cover for archers or soldiers in a shield wall. Anyone with the heavy armor proficiency can also use heavy shields however small creatures must use two hands when using it. Comes in many varieties including aspis, pavise, body, or tower shields.
+**Small Shield.** A small lightweight shield usually round and made of wood or leather and possibly with metal rim or boss for reinforcement. It covers up to one-quarter of the wielder and is sometimes known as a targe, target, leaf shield, or buckler. An improvised shield is usually only effective as a small shield. Anyone with the light armor proficiency can use a light shield.
 
+```
+```
 
 ### Helms
 
@@ -456,13 +459,12 @@ Helms offer protection only when combined with an appropriate set of armor. Helm
 
 **Cap.** Caps are lightweight helms that protect the crown and top of the head. They can be used by anyone with the light armor proficiency and can be added to any suit of light armor. Types of caps including stiff leather hoods, a thick padded cloth cap, a steel skullcap, or a kettle or pot helm issued to archers and town guards.
 
-**Half Helm.** Half helms balance protection and visibility. They cover more of the head, neck, ears, and face, often including eye and nose guards or chain mail fringe, while leaving the lower portion of the face exposed. Peripheral vision and hearing is noticeably obstructed while wearing these types of helms. Anyone with the medium armor proficiency can use a half helm when combined with a suit of medium or light armor. Examples include chain coifs, barbutes, conical helms, sallets, or even an oversized skull worn as a helmet. They are typically worn by officers of rank.
-
 **Full Helm.** A full helm covers the entire head and often interlocks with a gorget for neck protection. These helms are pierced with small eye slots and breathing holes and sometimes include a visor that can be lifted. Full helms can be used effectively by anyone with the heavy armor proficiency when combined with a suit of heavy, medium, or light armor. Full helms come in a variety of styles and are often augmented with horsehair mohawks, wings, antlers, and other heraldic decorations. Examples include bascinets, bucket helms, or great helms. They are typically only worn by nobles when riding into battle.
 
+**Half Helm.** Half helms balance protection and visibility. They cover more of the head, neck, ears, and face, often including eye and nose guards or chain mail fringe, while leaving the lower portion of the face exposed. Peripheral vision and hearing is noticeably obstructed while wearing these types of helms. Anyone with the medium armor proficiency can use a half helm when combined with a suit of medium or light armor. Examples include chain coifs, barbutes, conical helms, sallets, or even an oversized skull worn as a helmet. They are typically worn by officers of rank.
 
-##### Table: Armor and Shields
-___
+\page
+##### Table: Armor, Shields, and Helms
 | Name | Variants | Proficiency | Armor Class (AC) | Cost | Weight | Properties |
 |:-|:-| :-: | :-:|-:|-:|:-|
 | *Armor* ||||||
@@ -488,7 +490,7 @@ ___
 | Half helm| Chain coif, Barbute, Sallet, Skull | +1 with L/M armor | M | 8 gp | 5 lb. | occluding (2) |
 | Full helm | Bascinet, Bucket, Great helm | +1 with H/M/L armor | H | 30 gp | 10 lb. | occluding (3) |
 
-
+\page
 ## Customizing Items
 
 ### High Quality Items

@@ -1,4 +1,6 @@
-### Armor, Shield, and Helm Properties
+### Armor Properties
+
+Just as some weapons pose unique threats, the right kind of armor can neutralize those threats. A helm paired with an appropriate suit of armor offers superior protection. A shield is not only useful in deflecting blows in close combat, but can be particularly effective against missiles attacks.
 
 The following are a few new properties along with new options for armor and shields with their own benefits and drawbacks. These are new properties for armor, shields, and helms. In some cases they replace existing table elements defined in the PHB.
 
