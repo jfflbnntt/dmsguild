@@ -1,6 +1,6 @@
 ##### Table: Simple Melee Weapons
 | Name           | Variants | Damage | Cost  | Weight  | Properties |
-|:---------------|:---------|:-------|:-----:|:-------:|:-----------|
+|:---------------|:---------|:-------|------:|--------:|:-----------|
 | Lasso | Lariat | ─ | 1 sp | 0.1 lb. | flexible, grappling, reach, two-handed |
 | Unarmed strike | | 1 bludgeoning | ─ | ─ | light, monk |
 | Club | Cudgel, Sap | 1d4 bludgeoning | 1 sp | 2 lb. | light, monk, sneaky (1d6) |

@@ -1,6 +1,6 @@
 ##### Table: Light Martial Melee Weapons
 | Name | Variants | Damage | Cost | Weight | Properties |
-|:-----|:---------|:-------|:----:|:------:|:-----------|
+|:-----|:---------|:-------|-----:|-------:|:-----------|
 | Gauntlet | Brass knuckles, Cestus | 1d2 bludgeoning | 2 gp | 1 lb. | light, monk |
 | Nunchaku | | 1d4 bludgeoning | 6 gp | 1 lb. | flexible, light, monk |
 | Spiked gauntlet | Bagh nakh, Claws | 1d4 piercing or slashing | 5 gp | 1 lb. | light, monk |

@@ -99,7 +99,7 @@ Add 1 additional weapon damage die when rolling crit damage. This feature is neg
 <div class="wide">
 ##### Weapons by Property
 | Property   | Weapons |
-|:----------:|:--------|
+|:-----------|:--------|
 | Ammunition | Blowgun, Dart thrower, Hand crossbow, Heavy crossbow, Light crossbow, Long bow, Recurve long bow, Recurve short bow, Short bow, Sling, Staff sling, Repeating heavy crossbow, Repeating light crossbow |
 | Brace      | Long spear, Pike, Spear |
 | Brutal     | Battle axe, Great axe, Halberd, Scimitar, Scythe, Sickle |
@@ -157,7 +157,7 @@ Simple melee weapons are easily made or improvised from tools on hand. Commoners
 <div class="wide classTable">
 ##### Table: Simple Melee Weapons
 | Name           | Variants | Damage | Cost  | Weight  | Properties |
-|:---------------|:---------|:-------|:-----:|:-------:|:-----------|
+|:---------------|:---------|:-------|------:|--------:|:-----------|
 | Lasso | Lariat | ─ | 1 sp | 0.1 lb. | flexible, grappling, reach, two-handed |
 | Unarmed strike | | 1 bludgeoning | ─ | ─ | light, monk |
 | Club | Cudgel, Sap | 1d4 bludgeoning | 1 sp | 2 lb. | light, monk, sneaky (1d6) |
@@ -214,7 +214,7 @@ Simple range weapons are typically used for hunting but can be used in battle wh
 <div class="wide classTable">
 ##### Table: Simple Range Weapons
 | Name | Variants | Damage | Cost | Weight | Properties |
-|:-----|:---------|:-------|:----:|:------:|:-----------|
+|:-----|:---------|:-------|-----:|-------:|:-----------|
 | Net | | ─ | 1 gp | 3 lb. | grappling, thrown (5/15), underwater |
 | Sling | | 1d4 bludgeoning | 1 sp | 0.01 lb. | ammunition (40/160) |
 | Dart | Plumbata | 1d4 piercing | 5 cp | 0.25 lb. | finesse, thrown (30/90), underwater |
@@ -280,14 +280,14 @@ Martial melee weapons are crafted specifically for battle and meant to be wielde
 <div class="wide classTable">
 ##### Table: Light Martial Melee Weapons
 | Name | Variants | Damage | Cost | Weight | Properties |
-|:-----|:---------|:-------|:----:|:------:|:-----------|
+|:-----|:---------|:-------|-----:|-------:|:-----------|
 | Gauntlet | Brass knuckles, Cestus | 1d2 bludgeoning | 2 gp | 1 lb. | light, monk |
 | Nunchaku | | 1d4 bludgeoning | 6 gp | 1 lb. | flexible, light, monk |
 | Spiked gauntlet | Bagh nakh, Claws | 1d4 piercing or slashing | 5 gp | 1 lb. | light, monk |
 | Punching dagger | Katar, Knuckle knife, Sai, Siangham | 1d6 piercing | 5 gp | 1 lb. | light, monk, sneaky (1d8), underwater |
 | Short sword | Gladius, Hanger, Small sword, Xiphos | 1d6 piercing | 10 gp | 2 lb. | finesse, light, monk, underwater |
 | Scimitar | Cutlass, Dao, Falchion, Kopis, Kukri, Sabre, Tulwar | 1d6 slashing | 15 gp | 3 lb. | brutal, finesse, light |
-| Scourge | Cat-o-nine-tails, Lash | 1d6 slashing | 3 gp | 2 lb. | finesse, flexible, light | 
+| Scourge | Cat-o-nine-tails, Lash | 1d6 slashing | 3 gp | 2 lb. | finesse, flexible, light |
 
 </div>
 
@@ -297,7 +297,7 @@ Martial melee weapons are crafted specifically for battle and meant to be wielde
 <div class="wide classTable">
 ##### Table: Two-Handed Martial Melee Weapons
 | Name | Variants | Damage | Cost | Weight | Properties |
-|:-----|:---------|:-------|:----:|:------:|:-----------|
+|:-----|:---------|:-------|-----:|-------:|:-----------|
 | Man catcher | Catchpole | 1d4 piercing | 30 gp | 8 lb. | grappling, heavy, oversized, reach, two-handed, underwater |
 | Chain | Chain whip, Kusari-gama | 1d6 bludgeoning or slashing | 25 gp | 10 lb. | flexible, grappling, heavy, reach, slow, two-handed |
 | Glaive | Bill, Fauchard, Guisarme | 2d4 slashing | 10 gp | 8 lb. | heavy, oversized, reach, two-handed |
@@ -317,7 +317,7 @@ Martial melee weapons are crafted specifically for battle and meant to be wielde
 <div class="wide classTable">
 ##### Table: Martial Melee Weapons
 | Name | Variants | Damage | Cost | Weight | Properties |
-|:-----|:---------|:-------|:----:|:------:|:-----------|
+|:-----|:---------|:-------|-----:|-------:|:-----------|
 | Whip | Bull-whip | 1d4 slashing | 2 gp | 3 lb. | finesse, flexible, grappling, monk, reach |
 | Jousting lance | | 1d6 piercing | 5 gp | 4 lb. | high crit, mounted, reach, slow |
 | Broad sword | Arming sword, Jian, Viking sword| 1d6 slashing | 10 gp | 4 lb. | versatile (2d4) |
@@ -366,7 +366,7 @@ Martial range weapons require more training and practice than simple range weapo
 <div class="wide classTable">
 ##### Table: Martial Range Weapons
 | Name | Variants | Damage | Cost | Weight | Properties |
-|:-----|:---------|:-------|:----:|:------:|:-----------|
+|:-----|:---------|:-------|-----:|-------:|:-----------|
 | Blowgun | | 1 piercing | 10 gp | 1 lb. | ammunition (25/100), loading, sneaky (1d4) |
 | Bolas | | 1d4 bludgeoning | 5 gp | 2 lb. | grappling, thrown (20/60) |
 | Throwing knife | Throwing star | 1d4 piercing | 1 gp | 0.5 lb. | light, sneaky (1d6), thrown (30/90) |
@@ -407,6 +407,9 @@ The following are a few new properties along with new options for armor and shie
 
 **Spiked.** Armor and shields with this property have been embellished with intimidating metal spikes or something equally dangerous. A shield with spikes does 1d4 piercing damage instead of bludgeoning when used as a weapon or as part of a shove attack. A creature who grapples or is grappled by another creature in spiked armor takes 1d4 piercing damage from the spikes. Armor with spikes also gains the **hampering** property if it doesn't already.
 
+```
+```
+
 ### Light Armor
 
 **Leather.** This armor is made of boiled or otherwise stiffened leather shaped and stitched together to cover the torso and shoulders and may include a skirt, or kilt to protect the thighs. It can be dyed various colors and ornamented in a variety of ways. It offers the same protection as padded armor while being slightly less bulky. Other materials like weaved and lacquered wicker can be made into armor just as effective as leather.
@@ -427,6 +430,7 @@ The following are a few new properties along with new options for armor and shie
 
 **Scale Mail.** Scale mail is armor that is made of overlapping metal scales, like those of a fish, attached to a leather backing that covers the torso and arms. Variants of scale armor are made entirely of small interlocking coins or discs, similar to ring mail. Scale armor is uniformly noisy.
 
+\page
 ### Heavy Armor
 
 **Brigandine.** Brigandine consists of a long knee-lengthed armored coat with small rigid plates stitched or riveted between layers of cloth, cinched at the waist by a sturdy leather belt. It is often mistaken for "studded" armor due to the metal rivets or "studs" that sometimes show through the cloth layer. It is the cheapest and lightest of the heavy armors and is also known as a coat of plates. It is a favored type of armor amongst mercenaries for its balance of protection and cost.
@@ -464,32 +468,53 @@ Helms offer protection only when combined with an appropriate set of armor. Helm
 **Half Helm.** Half helms balance protection and visibility. They cover more of the head, neck, ears, and face, often including eye and nose guards or chain mail fringe, while leaving the lower portion of the face exposed. Peripheral vision and hearing is noticeably obstructed while wearing these types of helms. Anyone with the medium armor proficiency can use a half helm when combined with a suit of medium or light armor. Examples include chain coifs, barbutes, conical helms, sallets, or even an oversized skull worn as a helmet. They are typically worn by officers of rank.
 
 \page
-##### Table: Armor, Shields, and Helms
-| Name | Variants | Proficiency | Armor Class (AC) | Cost | Weight | Properties |
-|:-|:-| :-: | :-:|-:|-:|:-|
-| *Armor* ||||||
-| Padded | Gambeson | L | 11 + Dex modifier | 5 gp | 5 lb. | hampering |
-| Leather | Wicker | L | 11 + Dex modifier |  10 gp  | 10 lb. | |
-| Ring mail | Bone | L | 12 + Dex modifier | 45 gp | 13 lb. | encumbering (11) |
-| Hide | Gladiator | M | 12 + Dex modifier (max 2) | 10 gp |  20 lb. | encumbering (11) |
-| Chain shirt | Half chain, Hauberk, Lorica | M | 13 + Dex modifier (max 2) | 50 gp |  20 lb. | encumbering (11) |
-| Scale mail | Coin | M | 14 + Dex modifier (max 2) | 50 gp | 45 lb. | encumbering (13), hampering |
-| Breastplate | Cuirass, Disc, Mirror | M | 14 + Dex modifier (max 2) | 400 gp |  20 lb. | encumbering (11) |
-| Half plate | Field plate | M | 15 + Dex modifier (max 2) | 750 gp | 40 lb. | encumbering (Str 13), hampering |
-| Brigandine | Coat of plates | H | 14 | 30 gp | 40 lb. | encumbering (Str 13), hampering |
-| Chain mail | Full chain, Tamati, kusari | H | 15 | 75 gp | 55 lb. | encumbering (Str 13), hampering |
-| Plate mail | Banded mail, Splint mail, Lamellar | H | 16 | 200 gp | 60 lb. | encumbering (Str 15), hampering |
-| Full plate | | H | 17 | 1500 gp | 65 lb. | encumbering (Str 15), hampering |
-| Heavy plate | | H | 18 | 7500 gp | 100 lb. | encumbering (Str 17), hampering |
-| *Shields* ||||||
-| Small shield | Buckler, Leaf, Target | L | +1 | 5 gp | 3 lb. | covering |
-| Medium shield | Heater, Kite, Parma, Round, Teardrop | M | +2 | 10 gp | 6 lb. | covering |
-| Large shield | Aspis, Body, Pavise, Tower | H | +3 | 25 gp | 12 lb. | covering, encumbering (Str 11), oversized |
-| *Helms*||||||
-| Cap | Leather hood, Kettle or Pot helm, Padded cap, Skullcap | L | +1 with L armor | 2 gp | 1 lb. | occluding (1) |
-| Half helm| Chain coif, Barbute, Sallet, Skull | +1 with L/M armor | M | 8 gp | 5 lb. | occluding (2) |
-| Full helm | Bascinet, Bucket, Great helm | +1 with H/M/L armor | H | 30 gp | 10 lb. | occluding (3) |
+<div class="wide classTable">
+##### Table: Light Armor
+| Name | Variants | Armor Class (AC) | Cost | Weight | Properties |
+|:-----|:---------|:----------------:|-----:|-------:|:-----------|
+| Padded | Gambeson | 11 + Dex modifier | 5 gp | 5 lb. | hampering |
+| Leather | Wicker | 11 + Dex modifier |  10 gp  | 10 lb. | |
+| Ring mail | Bone | 12 + Dex modifier | 45 gp | 13 lb. | encumbering (11) |
 
+##### Table: Medium Armor
+| Name | Variants | Armor Class (AC) | Cost | Weight | Properties |
+|:-----|:---------|:----------------:|-----:|-------:|:-----------|
+| Hide | Gladiator | 12 + Dex modifier (max 2) | 10 gp |  20 lb. | encumbering (11) |
+| Chain shirt | Half chain, Hauberk, Lorica  | 13 + Dex modifier (max 2) | 50 gp |  20 lb. | encumbering (11) |
+| Scale mail | Coin | 14 + Dex modifier (max 2) | 50 gp | 45 lb. | encumbering (13), hampering |
+| Breastplate | Cuirass, Disc, Mirror | 14 + Dex modifier (max 2) | 400 gp |  20 lb. | encumbering (11) |
+| Half plate | Field plate | 15 + Dex modifier (max 2) | 750 gp | 40 lb. | encumbering (Str 13), hampering |
+
+##### Table: Heavy Armor
+| Name | Variants | Armor Class (AC) | Cost | Weight | Properties |
+|:-----|:---------|:----------------:|-----:|-------:|:-----------|
+| Brigandine | Coat of plates | 14 | 30 gp | 40 lb. | encumbering (Str 13), hampering |
+| Chain mail | Full chain, Tamati, kusari | 15 | 75 gp | 55 lb. | encumbering (Str 13), hampering |
+| Plate mail | Banded mail, Splint mail, Lamellar | 16 | 200 gp | 60 lb. | encumbering (Str 15), hampering |
+| Full plate | | 17 | 1500 gp | 65 lb. | encumbering (Str 15), hampering |
+| Heavy plate | | 18 | 7500 gp | 100 lb. | encumbering (Str 17), hampering |
+</div>
+
+```
+```
+
+<div class="wide classTable">
+##### Table: Shields
+| Name | Variants | Proficiency | Armor Class (AC) | Cost | Weight | Properties |
+|:-----|:---------|:-----------:|:----------------:|-----:|-------:|:-----------|
+| Small shield | Buckler, Leaf, Target | Light | +1 | 5 gp | 3 lb. | covering |
+| Medium shield | Heater, Kite, Parma, Round, Teardrop | Medium | +2 | 10 gp | 6 lb. | covering |
+| Large shield | Aspis, Body, Pavise, Tower | Heavy | +3 | 25 gp | 12 lb. | covering, encumbering (Str 11), oversized |
+
+##### Table: Helms
+| Name | Variants | Proficiency | Armor Class (AC) | Cost | Weight | Properties |
+|:-----|:---------|:-----------:|:----------------:|-----:|-------:|:-----------|
+| Cap | Leather hood, Kettle or Pot helm, Padded cap, Skullcap | Light | +1 with L armor | 2 gp | 1 lb. | occluding (1) |
+| Half helm| Chain coif, Barbute, Sallet, Skull | Medium | +1 with L/M armor | 8 gp | 5 lb. | occluding (2) |
+| Full helm | Bascinet, Bucket, Great helm | Heavy | +1 with H/M/L armor | 30 gp | 10 lb. | occluding (3) |
+
+
+</div>
 \page
 ## Customizing Items
 

@@ -1,6 +1,6 @@
 ##### Weapons by Property
 | Property   | Weapons |
-|:----------:|:--------|
+|:-----------|:--------|
 | Ammunition | Blowgun, Dart thrower, Hand crossbow, Heavy crossbow, Light crossbow, Long bow, Recurve long bow, Recurve short bow, Short bow, Sling, Staff sling, Repeating heavy crossbow, Repeating light crossbow |
 | Brace      | Long spear, Pike, Spear |
 | Brutal     | Battle axe, Great axe, Halberd, Scimitar, Scythe, Sickle |

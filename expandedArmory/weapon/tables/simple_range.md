@@ -1,6 +1,6 @@
 ##### Table: Simple Range Weapons
 | Name | Variants | Damage | Cost | Weight | Properties |
-|:-----|:---------|:-------|:----:|:------:|:-----------|
+|:-----|:---------|:-------|-----:|-------:|:-----------|
 | Net | | ─ | 1 gp | 3 lb. | grappling, thrown (5/15), underwater |
 | Sling | | 1d4 bludgeoning | 1 sp | 0.01 lb. | ammunition (40/160) |
 | Dart | Plumbata | 1d4 piercing | 5 cp | 0.25 lb. | finesse, thrown (30/90), underwater |

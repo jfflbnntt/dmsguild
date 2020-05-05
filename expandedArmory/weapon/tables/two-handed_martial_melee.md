@@ -1,6 +1,6 @@
 ##### Table: Two-Handed Martial Melee Weapons
 | Name | Variants | Damage | Cost | Weight | Properties |
-|:-----|:---------|:-------|:----:|:------:|:-----------|
+|:-----|:---------|:-------|-----:|-------:|:-----------|
 | Man catcher | Catchpole | 1d4 piercing | 30 gp | 8 lb. | grappling, heavy, oversized, reach, two-handed, underwater |
 | Chain | Chain whip, Kusari-gama | 1d6 bludgeoning or slashing | 25 gp | 10 lb. | flexible, grappling, heavy, reach, slow, two-handed |
 | Glaive | Bill, Fauchard, Guisarme | 2d4 slashing | 10 gp | 8 lb. | heavy, oversized, reach, two-handed |
