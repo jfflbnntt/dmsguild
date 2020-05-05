@@ -1,4 +1,4 @@
-## Optional Rules
+### Optional Rules
 
 Here are a few optional rules you can pick and choose from to invigorate your games.
 
