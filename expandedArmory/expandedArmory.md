@@ -86,12 +86,11 @@ The following weapon properties and their effects reinforce these ideas.
 
 <div></div>
 
-**High Crit.** These weapons deal higher than normal damage on a critical hit due to cruel spikes or barbs that pierce armor and strike at vital organs.
-Add 1 additional weapon damage die when rolling crit damage. This feature is negated by targets wearing **hardened** armor. Impaling weapons like picks tend to be **high crit** weapons. Impaling weapons like picks and spears tend to be **high crit**.
+**High Crit.** These weapons deal higher than normal damage on a critical hit due to cruel spikes or barbs that pierce armor and strike at vital organs. Add 1 additional weapon damage die when rolling crit damage. This feature is negated by targets wearing **hardened** armor. Impaling weapons like picks and spears tend to be **high crit**.
 
 <div></div>
 
-**Light.** A light weapon is small and easy to handle, making it ideal for use when fighting with two Weapons. Light weapons tend to do less damage to balance out that they can be used in the off-hand. Light weapons should not also be **heavy**, **two-handed**, or **slow**. Light weapons tend to often be **finesse** and **sneaky**. Light weapons tend to do low damage since they can be used in the off-hand for a bonus attack.
+**Light.** A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons. Light weapons should not also be **heavy**, **two-handed**, or **slow**. Light weapons tend to often be **finesse** and **sneaky**. Light weapons tend to do low damage since they can be used in the off-hand for a bonus attack.
 
 <div></div>
 
@@ -107,14 +106,14 @@ Add 1 additional weapon damage die when rolling crit damage. This feature is neg
 
 <div></div>
 
-**Mounted.** Lances are most effective when used while mounted. You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted. Mounted weapons tend to also be **slow** and **reach** weapons.
+**Mounted.** Mounted weapons are most effective when used while mounted. You have disadvantage when you use a mounted weapon to attack a target within 5 feet of you. Also, a mounted weapon requires two hands to wield when you aren't mounted. Mounted weapons tend to also be **slow** and **reach** weapons.
 
 ```
 ```
 
 <div></div>
 
-**Oversized.** Oversized weapons suffer Disadvantage on attack rolls when used while mounted. Heavy two-handed reach weapons tend to be oversized.
+**Oversized.** Oversized weapons suffer Disadvantage on attack rolls when used while mounted. Heavy two-handed reach weapons tend to be oversized. Oversized weapons should not also have the **mounted** property.
 
 <div></div>
 
@@ -192,7 +191,7 @@ Add 1 additional weapon damage die when rolling crit damage. This feature is neg
 | Two-handed | Glaive, Great axe, Great club, Great flail, Great hammer, Great pick, Great sword, Halberd, Heavy crossbow, Lasso, Light crossbow, Long bow, Long spear, Man-catcher, Pike, Pole hammer, Recurve long bow, Recurve short bow, Repeating heavy crossbow, Repeating light crossbow, Scythe, Short bow, Shovel, Spiked chain, Staff sling |
 | Underwater | Dagger, Dart, Dart thrower, Hand crossbow, Heavy crossbow, Javelin, Light crossbow, Long spear, Man-catcher, Net, Pike, Punching dagger, Repeating heavy crossbow, Repeating light crossbow, Short sword, Spear |
 | Versatile  | Bastard sword, Battle axe, Broad sword, Heavy flail, Heavy pick, Long sword, Quarter staff, Spear, War hammer |
-| Weak       | Heavy lance, Jousting lance, Lance, Light lance |
+| Weak       | Heavy lance, Jousting lance, Lance, Light lance, Long spear |
 
 </div>
 
@@ -262,7 +261,7 @@ Simple melee weapons are easily made or improvised from tools on hand. Commoners
 | Great club | Two-handed club | 1d8 bludgeoning | 2 sp | 10 lb. | crushing, slow, two-handed |
 | Shovel | Spade | 1d8 slashing | 5 sp | 2 lb. | slow, two-handed |
 | Scythe | | 1d8 slashing | 2 gp | 10 lb. | brutal, heavy, oversized, slow, two-handed |
-| Long spear | Boar spear, Great spear, War spear | 2d4 piercing | 5 gp | 6 lb. | brace, high crit, reach, two-handed, underwater |
+| Long spear | Boar spear, Great spear, War spear | 2d4 piercing | 5 gp | 6 lb. | brace, high crit, reach, two-handed, underwater, weak |
 
 </div>
 
@@ -286,7 +285,7 @@ Simple melee weapons are easily made or improvised from tools on hand. Commoners
 
 <div></div>
 
-**Spear and Long Spear.** Spears are one of the earliest weapons invented by intelligent humanoids and still in wide-spread use. Spears are basically a staff sharpened on one end, tipped with a sharpened metal spearhead, or fashion with a number of prongs in the case of a trident or pitchfork. Spears can be used in a variety of ways and are very effective when braced against a charge. A long spear is longer than a normal spear, reaching lengths of up to 8', and requiring two hands to wield effectively.
+**Spear and Long Spear.** Spears are one of the earliest weapons invented by intelligent humanoids and still in wide-spread use. Spears are basically a staff sharpened on one end, tipped with a sharpened metal spearhead, or fashion with a number of prongs in the case of a trident or pitchfork. Spears can be used in a variety of ways and are very effective when braced against a charge. A long spear is longer than a normal spear, reaching lengths of up to 8', and requiring two hands to wield effectively, but is **weak** and prone to breaking.
 
 <div></div>
 
@@ -938,5 +937,6 @@ This product was formatted using [The Homebrewery](http://www.naturalcrit.com/ho
 * v1.0 Initial version
 * v1.1 Copyright Update
 * v2.0 New properties, armor, shields, helms, weapons, and rules
+* v2.1 Update some property definitions, added weak to long spear
 
 <div class='pageNumber auto'></div>

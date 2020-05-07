@@ -24,4 +24,4 @@
 | Two-handed | Glaive, Great axe, Great club, Great flail, Great hammer, Great pick, Great sword, Halberd, Heavy crossbow, Lasso, Light crossbow, Long bow, Long spear, Man-catcher, Pike, Pole hammer, Recurve long bow, Recurve short bow, Repeating heavy crossbow, Repeating light crossbow, Scythe, Short bow, Shovel, Spiked chain, Staff sling |
 | Underwater | Dagger, Dart, Dart thrower, Hand crossbow, Heavy crossbow, Javelin, Light crossbow, Long spear, Man-catcher, Net, Pike, Punching dagger, Repeating heavy crossbow, Repeating light crossbow, Short sword, Spear |
 | Versatile  | Bastard sword, Battle axe, Broad sword, Heavy flail, Heavy pick, Long sword, Quarter staff, Spear, War hammer |
-| Weak       | Heavy lance, Jousting lance, Lance, Light lance |
+| Weak       | Heavy lance, Jousting lance, Lance, Light lance, Long spear |

@@ -20,10 +20,9 @@ The following weapon properties and their effects reinforce these ideas.
 
 **Heavy.** Small creatures have Disadvantage on Attack rolls with **heavy** weapons. A heavy weapon’s size and bulk make it too large for a small creature to use effectively. Heavy weapons tend to be **slow** and **two-handed**.
 
-**High Crit.** These weapons deal higher than normal damage on a critical hit due to cruel spikes or barbs that pierce armor and strike at vital organs.
-Add 1 additional weapon damage die when rolling crit damage. This feature is negated by targets wearing **hardened** armor. Impaling weapons like picks tend to be **high crit** weapons. Impaling weapons like picks and spears tend to be **high crit**.
+**High Crit.** These weapons deal higher than normal damage on a critical hit due to cruel spikes or barbs that pierce armor and strike at vital organs. Add 1 additional weapon damage die when rolling crit damage. This feature is negated by targets wearing **hardened** armor. Impaling weapons like picks and spears tend to be **high crit**.
 
-**Light.** A light weapon is small and easy to handle, making it ideal for use when fighting with two Weapons. Light weapons tend to do less damage to balance out that they can be used in the off-hand. Light weapons should not also be **heavy**, **two-handed**, or **slow**. Light weapons tend to often be **finesse** and **sneaky**. Light weapons tend to do low damage since they can be used in the off-hand for a bonus attack.
+**Light.** A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons. Light weapons should not also be **heavy**, **two-handed**, or **slow**. Light weapons tend to often be **finesse** and **sneaky**. Light weapons tend to do low damage since they can be used in the off-hand for a bonus attack.
 
 **Loading.** Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an Action, Bonus Action, or Reaction to fire it, regardless of the number of attacks you can normally make. A **loading** weapon should not also have the **repeating** property.
 
@@ -31,9 +30,9 @@ Add 1 additional weapon damage die when rolling crit damage. This feature is neg
 
 **Monk.** Weapons with this property count as Monk weapons that can be used with the Martial Arts feature. **Monk** weapons tend to be simple weapons without the **heavy** or **two-handed** properties, however there are a few select martial weapons that are specifically included.
 
-**Mounted.** Lances are most effective when used while mounted. You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted. Mounted weapons tend to also be **slow** and **reach** weapons.
+**Mounted.** Mounted weapons are most effective when used while mounted. You have disadvantage when you use a mounted weapon to attack a target within 5 feet of you. Also, a mounted weapon requires two hands to wield when you aren't mounted. Mounted weapons tend to also be **slow** and **reach** weapons.
 
-**Oversized.** Oversized weapons suffer Disadvantage on attack rolls when used while mounted. Heavy two-handed reach weapons tend to be oversized.
+**Oversized.** Oversized weapons suffer Disadvantage on attack rolls when used while mounted. Heavy two-handed reach weapons tend to be oversized. Oversized weapons should not also have the **mounted** property.
 
 **Powerdraw.** Especially powerful bows are constructed of reinforced, rare, or composite materials while others are recurved. These bows derive their damage from the increased strength necessary to pull it. When applied to a short bow or long bow this property increases the range and allows you to use your Strength modifier for damage rolls in place of Dexterity. **Powerdraw** bows are rare and valuable.
 
