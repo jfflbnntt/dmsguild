@@ -3,7 +3,6 @@
 |:-----|:---------|:-------|-----:|-------:|:-----------|
 | Spiked gauntlet | Bagh nakh, Claws | 1d4 piercing or slashing | 5 gp | 1 lb. | light, monk |
 | Whip | Bull-whip | 1d4 slashing | 2 gp | 3 lb. | finesse, flexible, grappling, monk, reach |
-| Chain | Chain whip, Kusari-gama | 1d6 bludgeoning or slashing | 25 gp | 10 lb. | flexible, grappling, heavy, reach, slow, two-handed |
 | Scimitar | Cutlass, Dao, Falchion, Kopis, Kukri, Sabre, Tulwar | 1d6 slashing | 15 gp | 3 lb. | brutal, finesse, light |
 | Scourge | Cat-o-nine-tails, Lash | 1d6 slashing | 3 gp | 2 lb. | finesse, flexible, light |
 | Broad sword | Arming sword, Jian, Viking sword| 1d6 slashing | 10 gp | 4 lb. | versatile (2d4) |

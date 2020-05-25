@@ -3,15 +3,15 @@
 |:-----|:---------|:----------------:|-----:|-------:|:-----------|
 | Padded | Gambeson | 11 + Dex modifier | 5 gp | 5 lb. | hampering |
 | Leather | Wicker | 11 + Dex modifier |  10 gp  | 10 lb. | |
-| Ring mail | Bone | 12 + Dex modifier | 45 gp | 13 lb. | encumbering (11) |
+| Ring mail | Studded leather | 12 + Dex modifier | 45 gp | 13 lb. | encumbering (11) |
 
 ##### Table: Medium Armor
 | Name | Variants | Armor Class (AC) | Cost | Weight | Properties |
 |:-----|:---------|:----------------:|-----:|-------:|:-----------|
-| Hide | Gladiator | 12 + Dex modifier (max 2) | 10 gp |  20 lb. | encumbering (11) |
-| Chain shirt | Half chain, Hauberk, Lorica  | 13 + Dex modifier (max 2) | 50 gp |  20 lb. | encumbering (11) |
-| Scale mail | Coin | 14 + Dex modifier (max 2) | 50 gp | 45 lb. | encumbering (13), hampering |
-| Breastplate | Cuirass, Disc, Mirror | 14 + Dex modifier (max 2) | 400 gp |  20 lb. | encumbering (11) |
+| Hide | Bone | 12 + Dex modifier (max 2) | 10 gp |  20 lb. | encumbering (11) |
+| Chain shirt | Half chain, Hauberk, Lorica hamata  | 13 + Dex modifier (max 2) | 50 gp |  20 lb. | encumbering (11) |
+| Scale mail | Coin, Lamellar, Lorica squamata | 14 + Dex modifier (max 2) | 50 gp | 45 lb. | encumbering (13), hampering |
+| Breastplate | Cuirass, Disc, Mirror, Lorica musculata | 14 + Dex modifier (max 2) | 400 gp |  20 lb. | encumbering (11) |
 | Half plate | Field plate | 15 + Dex modifier (max 2) | 750 gp | 40 lb. | encumbering (Str 13), hampering |
 
 ##### Table: Heavy Armor
@@ -19,7 +19,7 @@
 |:-----|:---------|:----------------:|-----:|-------:|:-----------|
 | Brigandine | Coat of plates | 14 | 30 gp | 40 lb. | encumbering (Str 13), hampering |
 | Chain mail | Full chain, Tamati, kusari | 15 | 75 gp | 55 lb. | encumbering (Str 13), hampering |
-| Plate mail | Banded mail, Splint mail, Lamellar | 16 | 200 gp | 60 lb. | encumbering (Str 15), hampering |
+| Plate mail | Banded mail, Splint mail, Lorica segmentata | 16 | 200 gp | 60 lb. | encumbering (Str 15), hampering |
 | Full plate | | 17 | 1500 gp | 65 lb. | encumbering (Str 15), hampering |
 | Heavy plate | | 18 | 7500 gp | 100 lb. | encumbering (Str 17), hampering |
 
