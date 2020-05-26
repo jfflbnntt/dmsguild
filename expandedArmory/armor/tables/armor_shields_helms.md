@@ -33,6 +33,6 @@
 ##### Table: Helms
 | Name | Variants | Proficiency | Armor Class (AC) | Cost | Weight | Properties |
 |:-----|:---------|:-----------:|:----------------:|-----:|-------:|:-----------|
-| Cap | Leather hood, Kettle or Pot helm, Padded cap, Skullcap | Light | +1 with L armor | 2 gp | 1 lb. | occluding (1) |
+| Cap | Kettle helm, Pot helm, Skullcap | Light | +1 with L armor | 2 gp | 1 lb. | occluding (1) |
 | Half helm| Chain coif, Barbute, Sallet, Skull | Medium | +1 with L/M armor | 8 gp | 5 lb. | occluding (2) |
 | Full helm | Bascinet, Bucket, Great helm | Heavy | +1 with H/M/L armor | 30 gp | 10 lb. | occluding (3) |
