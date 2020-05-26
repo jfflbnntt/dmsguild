@@ -1,7 +1,7 @@
 ##### Table: Martial Melee Weapons (Slashing)
 | Name | Variants | Damage | Cost | Weight | Properties |
 |:-----|:---------|:-------|-----:|-------:|:-----------|
-| Spiked gauntlet | Bagh nakh, Claws | 1d4 piercing or slashing | 5 gp | 1 lb. | light, monk |
+| Clawed gauntlet | Bagh nakh | 1d4 slashing | 5 gp | 1 lb. | light, monk |
 | Whip | Bull-whip | 1d4 slashing | 2 gp | 3 lb. | finesse, flexible, grappling, monk, reach |
 | Scimitar | Cutlass, Dao, Falchion, Kopis, Kukri, Sabre, Tulwar | 1d6 slashing | 15 gp | 3 lb. | brutal, finesse, light |
 | Scourge | Cat-o-nine-tails, Lash | 1d6 slashing | 3 gp | 2 lb. | finesse, flexible, light |

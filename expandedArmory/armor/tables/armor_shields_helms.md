@@ -18,7 +18,7 @@
 | Name | Variants | Armor Class (AC) | Cost | Weight | Properties |
 |:-----|:---------|:----------------:|-----:|-------:|:-----------|
 | Brigandine | Coat of plates | 14 | 30 gp | 40 lb. | encumbering (Str 13), hampering |
-| Chain mail | Full chain, Tamati, kusari | 15 | 75 gp | 55 lb. | encumbering (Str 13), hampering |
+| Chain mail | Full chain, Tamati, Kusari | 15 | 75 gp | 55 lb. | encumbering (Str 13), hampering |
 | Plate mail | Banded mail, Splint mail, Lorica segmentata | 16 | 200 gp | 60 lb. | encumbering (Str 15), hampering |
 | Full plate | | 17 | 1500 gp | 65 lb. | encumbering (Str 15), hampering |
 | Heavy plate | | 18 | 7500 gp | 100 lb. | encumbering (Str 17), hampering |
