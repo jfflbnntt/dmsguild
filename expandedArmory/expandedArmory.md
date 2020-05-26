@@ -9,7 +9,7 @@
 
 A *street thug with club in hand sneaks up on an unsuspecting mark knowing that one quick strike to the back of the head will render his victim unconscious. Students listen intently to their weapons master as she instructs them on the finer points of spear fighting and how a quick change in grip can extend their reach to strike opponents at a distance. A veteran soldier, standing in formation shoulder to shoulder to green recruits, grits his teeth as he sets his pike to recieve the front ranks of the charging orc horde. With a flick of the wrist a bounty hunter wraps her whip around the ankles of a fleeing bounty enabling her to claim the full reward for bringing him in alive. A dual-wielding swordsman's quick flashing blades deter his enemies from trying to slip past him, while nearby his lightly armored halfling companion easily dodges past the slow and clumsy strikes of an ogre's greatclub.*
 
-The 5th edition Player's Handbook presents a very streamlined and simplified equipment list. It serves as a fine starting point for most campaigns, but it lacks a certain amount of variety. This rules supplement presents new weapons, armor, shields and related properties inspired by previous editions to add flavor, provide interesting choices, and create meaningful distinctions between items. In addition to new items and properties there are rules on how to tweak items further to create custom high quality or low quality items and a list of updates to rules regarding proficincies and feats that deal with armor, shields, and weapons.
+The 5th edition Player's Handbook presents a very streamlined and simplified equipment list. It serves as a fine starting point for most campaigns, but it lacks a certain amount of variety. This rules supplement presents new weapons, armor, shields and related properties inspired by previous editions to add flavor, provide interesting choices, and create meaningful distinctions between items. In addition to new items and properties there are rules on how to tweak items further to create custom high-quality or low-quality items and a list of updates to rules regarding proficincies and feats that deal with armor, shields, and weapons.
 
 ## Weapons
 
@@ -40,8 +40,8 @@ The following weapon properties and their effects reinforce these ideas.
   - Shields
   - Helms
 - Customizing Items
-  - High Quality Items
-  - Low Quality Items
+  - High-quality Items
+  - Low-quality Items
 - Rule Updates
   - Armor Proficiencies
   - Weapon Proficiencies
@@ -86,7 +86,7 @@ The following weapon properties and their effects reinforce these ideas.
 
 <div></div>
 
-**High Crit.** These weapons deal higher than normal damage on a critical hit due to cruel spikes or barbs that pierce armor and strike at vital organs. Add 1 additional weapon damage die when rolling crit damage. This feature is negated by targets wearing **hardened** armor. Impaling weapons like picks and spears tend to be **high crit**.
+**High-crit.** These weapons deal higher than normal damage on a critical hit due to cruel spikes or barbs that pierce armor and strike at vital organs. Add 1 additional weapon damage die when rolling crit damage. This feature is negated by targets wearing **hardened** armor. Impaling weapons like picks and spears tend to be **high-crit**.
 
 <div></div>
 
@@ -176,7 +176,7 @@ The following weapon properties and their effects reinforce these ideas.
 | Flexible   | Flail, Great flail, Heavy flail, Lasso, Nanchaku, Scourge, Spiked chain, Whip |
 | Grappling  | Bolas, Lasso, Man-catcher, Net, Spiked chain, Whip |
 | Heavy      | Bastard sword, Glaive, Great axe, Great flail, Great hammer, Great pick, Great sword, Halberd, Heavy crossbow, Long bow, Man-catcher, Pike, Pole hammer, Recurve long bow, Repeating heavy crossbow, Scythe, Spiked chain |
-| High Crit  | Great pick, Heavy lance, Heavy pick, Javelin, Jousting lance, Lance, Light lance, Long spear, Pick, Pike, Rapier, Spear |
+| High-crit  | Great pick, Heavy lance, Heavy pick, Javelin, Jousting lance, Lance, Light lance, Long spear, Pick, Pike, Rapier, Spear |
 | Light      | Axe, Clawed gauntlet, Club, Dagger, Gauntlet, hammer, Hand crossbow, Nunchaku, Pick, Punching dagger, Scimitar, Scourge, Short sword, Sickle, Spiked gauntlet, Throwing knife, Unarmed strike |
 | Loading    | Blowgun, Hand crossbow, Heavy crossbow, Light crossbow |
 | Lunging    | Javelin, Quarter staff, Spear, Rapier |
@@ -254,14 +254,14 @@ Simple melee weapons are easily made or improvised from tools on hand. Commoners
 | Flail | Light flail | 1d6 bludgeoning | 5 gp | 2 lb. | flexible, monk |
 | Mace | Baton, Truncheon | 1d6 bludgeoning | 5 gp | 3 lb. | crushing, monk |
 | Quarter staff | Single stick | 1d6 bludgeoning | 2 sp | 4 lb. | lunging (1d4), monk, versatile (1d8) |
-| Javelin | Pilum | 1d6 piercing | 5 sp | 2 lb. | high crit, lunging (1d4), monk, thrown (30/90), underwater |
-| Pick | Adze, Hoe, Light pick | 1d6 piercing | 5 gp | 4 lb. | high crit, light, monk, slow |
-| Spear | Harpoon, Pitchfork, Trident | 1d6 piercing | 2 gp | 3 lb. | brace, high crit, lunging (1d4), monk, thrown (20/60), underwater, versatile (1d8) |
+| Javelin | Pilum | 1d6 piercing | 5 sp | 2 lb. | high-crit, lunging (1d4), monk, thrown (30/90), underwater |
+| Pick | Adze, Hoe, Light pick | 1d6 piercing | 5 gp | 4 lb. | high-crit, light, monk, slow |
+| Spear | Harpoon, Pitchfork, Trident | 1d6 piercing | 2 gp | 3 lb. | brace, high-crit, lunging (1d4), monk, thrown (20/60), underwater, versatile (1d8) |
 | Axe | Hand axe, Hatchet, Throwing axe | 1d6 slashing | 5 gp | 2 lb. | light, monk, thrown (20/60) |
 | Great club | Two-handed club | 1d8 bludgeoning | 2 sp | 10 lb. | crushing, slow, two-handed |
 | Shovel | Spade | 1d8 slashing | 5 sp | 2 lb. | slow, two-handed |
 | Scythe | | 1d8 slashing | 2 gp | 10 lb. | brutal, heavy, oversized, slow, two-handed |
-| Long spear | Boar spear, Great spear, War spear | 2d4 piercing | 5 gp | 6 lb. | brace, high crit, reach, two-handed, underwater, weak |
+| Long spear | Boar spear, Great spear, War spear | 2d4 piercing | 5 gp | 6 lb. | brace, high-crit, reach, two-handed, underwater, weak |
 
 </div>
 
@@ -446,7 +446,7 @@ Martial melee weapons are crafted specifically for battle and meant to be wielde
 | War hammer | Military hammer | 1d8 bludgeoning | 15 gp | 6 lb. | crushing, slow, versatile (1d10) |
 | Morning star | Spiked mace | 2d4 bludgeoning and piercing | 15 gp | 8 lb. | crushing, slow |
 | Pole hammer | Bec de corbin, Lucerne hammer,  | 1d10 bludgeoning / 1d8 piercing | 10 gp | 8 lb. | crushing, heavy, oversized, reach, slow, two-handed |
-| Pike | Partisan, Military fork, Ranseur, Spetum | 1d10 piercing | 10 gp | 9 lb. | brace, heavy, high crit, oversized, reach, two-handed, underwater |
+| Pike | Partisan, Military fork, Ranseur, Spetum | 1d10 piercing | 10 gp | 9 lb. | brace, heavy, high-crit, oversized, reach, two-handed, underwater |
 | Great flail | Two-handed flail | 1d12 bludgeoning | 25 gp | 10 lb. | flexible, heavy, slow, two-handed |
 | Maul| Great hammer, Two-handed hammer | 2d6 bludgeoning | 20 gp | 10 lb. | crushing, heavy, slow, two-handed |
 
@@ -464,15 +464,15 @@ Martial melee weapons are crafted specifically for battle and meant to be wielde
 | Man catcher | Catchpole | 1d4 piercing | 30 gp | 8 lb. | grappling, heavy, oversized, reach, two-handed, underwater |
 | Punching dagger | Katar, Knuckle knife, Sai, Siangham | 1d6 piercing | 5 gp | 1 lb. | light, monk, sneaky (1d8), underwater |
 | Short sword | Gladius, Hanger, Small sword, Xiphos | 1d6 piercing | 10 gp | 2 lb. | finesse, light, monk, underwater |
-| Jousting lance | | 1d6 piercing | 5 gp | 4 lb. | high crit, mounted, reach, slow |
-| War pick | Military pick | 1d8 piercing | 8 gp | 6 lb. | high crit, slow, versatile (1d10) |
-| Light lance | | 1d8 piercing | 10 gp | 6 lb. | high crit, mounted, reach, slow |
-| Rapier | Epee, Foil, Fencing sword | 1d8 piercing | 25 gp | 2 lb. | finesse, high crit, lunging (1d6) |
+| Jousting lance | | 1d6 piercing | 5 gp | 4 lb. | high-crit, mounted, reach, slow |
+| War pick | Military pick | 1d8 piercing | 8 gp | 6 lb. | high-crit, slow, versatile (1d10) |
+| Light lance | | 1d8 piercing | 10 gp | 6 lb. | high-crit, mounted, reach, slow |
+| Rapier | Epee, Foil, Fencing sword | 1d8 piercing | 25 gp | 2 lb. | finesse, high-crit, lunging (1d6) |
 | Morning star | Spiked mace | 2d4 bludgeoning and piercing | 15 gp | 8 lb. | crushing, slow |
-| Lance | | 1d10 piercing | 15 gp | 8 lb. | high crit, mounted, reach, slow |
-| Pike | Partisan, Military fork, Ranseur, Spetum | 1d10 piercing | 10 gp | 9 lb. | brace, heavy, high crit, oversized, reach, two-handed, underwater |
-| Heavy lance | | 1d12 piercing | 20 gp | 10 lb. | high crit, mounted, reach, slow |
-| Great pick | Heavy pick, Mattock | 2d6 piercing | 10 gp | 8 lb. | heavy, high crit, slow, two-handed |
+| Lance | | 1d10 piercing | 15 gp | 8 lb. | high-crit, mounted, reach, slow |
+| Pike | Partisan, Military fork, Ranseur, Spetum | 1d10 piercing | 10 gp | 9 lb. | brace, heavy, high-crit, oversized, reach, two-handed, underwater |
+| Heavy lance | | 1d12 piercing | 20 gp | 10 lb. | high-crit, mounted, reach, slow |
+| Great pick | Heavy pick, Mattock | 2d6 piercing | 10 gp | 8 lb. | heavy, high-crit, slow, two-handed |
 
 </div>
  
@@ -595,7 +595,7 @@ The following are a few new properties along with new options for armor and shie
 
 <div></div>
 
-**Hardened.** Armor made of rigid plates is reinforced and better covers vital areas providing improved protection against grevious wounds. The wearer effectively ignores the effects of weapon properties **brutal** and **high crit**.
+**Hardened.** Armor made of rigid plates is reinforced and better covers vital areas providing improved protection against grevious wounds. The wearer effectively ignores the effects of weapon properties **brutal** and **high-crit**.
 
 <div></div>
 
@@ -626,7 +626,7 @@ The following are a few new properties along with new options for armor and shie
 
 ### Medium Armor
 
-**Breastplate.** Breastplates come in a variety of styles and ornamentation. They all consist of one or more large solid metal plates or discs covering the vital parts of the chest while leaving the arms and legs unprotected, sacrificing additonal protection while remaining relatively unencumbered. Breastplates form the basis of all other **hardened** plate armors that protect against **brutal** and **high crit** weapons. Breastplates are expensive and generally only worn by honor guards, knights, and other nobles.
+**Breastplate.** Breastplates come in a variety of styles and ornamentation. They all consist of one or more large solid metal plates or discs covering the vital parts of the chest while leaving the arms and legs unprotected, sacrificing additonal protection while remaining relatively unencumbered. Breastplates form the basis of all other **hardened** plate armors that protect against **brutal** and **high-crit** weapons. Breastplates are expensive and generally only worn by honor guards, knights, and other nobles.
 
 <div></div>
 
@@ -760,13 +760,13 @@ Helms offer protection only when combined with an appropriate set of armor. Helm
 
 In some cases it's okay to break the game balance guidelines above, especially when you want to create a unique and memorable item. On the other hand you might wish to run a low-tech campaign or equip your NPCs with primative gear.
 
-### High Quality Items
+### High-quality Items
 
-High quality weapons and armor are rare, valuable, and highly sought after so their cost should reflect this. These items are expertly crafted and can be considered masterwork items, others are made of rare and wonderful materials that grant them special properties. High quality items can have one or more of the following benefits above and beyond the stats of its base stats:
+High-quality weapons and armor are rare, valuable, and highly sought after so their cost should reflect this. These items are expertly crafted and can be considered masterwork items, others are made of rare and wonderful materials that grant them special properties. High-quality items can have one or more of the following benefits above and beyond the stats of its base stats:
 
 #### Weapons
 
-* Add the **brutal**, **crushing**, or **high crit** property.
+* Add the **brutal**, **crushing**, or **high-crit** property.
 * Add the **finesse** or **light** property, or remove the **heavy** property.
 * Add the **powerdraw** property to a shortbow or longbow or add the **repeating** property to a crossbow
 * Remove the **slow** or **weak** property.
@@ -779,14 +779,14 @@ High quality weapons and armor are rare, valuable, and highly sought after so th
 * Reduce the weight of the item and reduce the STR requirement for the **encumbering** property, or remove it entirely.
 * Increase the AC bonus or formula by 1 or more.
 
-### Low Quality Items
+### Low-quality Items
 
-Low quality items might be old and worn out, damaged in some way, poorly crafted, or made from primative or sub-standard materials. In any case, low quality items have one or more of the following drawbacks:
+Low-quality items might be old and worn out, damaged in some way, poorly crafted, or made from primative or sub-standard materials. In any case, low-quality items have one or more of the following drawbacks:
 
 #### Weapon
 
 * Add the **heavy**, **slow**, **weak**, **two-handed**, **oversized**, or **loading** property.
-* Remove the **brutal**, **crushing**, **finesse**, **grappling**, **flexible**, **sneaky**, **high crit**, **reach**, **lunging**, **versatile**, **light**, **powerdraw** or **reapeating** property
+* Remove the **brutal**, **crushing**, **finesse**, **grappling**, **flexible**, **sneaky**, **high-crit**, **reach**, **lunging**, **versatile**, **light**, **powerdraw** or **reapeating** property
 * Reduce the damage by one or more step, i.e. 1d10 becomes 1d8, 1d8 becomes 1d6, etc.
 * Increase the weight of the item
 

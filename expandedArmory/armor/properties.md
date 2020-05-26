@@ -10,7 +10,7 @@ The following are a few new properties along with new options for armor and shie
 
 **Hampering.** Armor and shields with the this property is either bulky, restricts the full range of motion, cannot be disguised, or makes it difficult to move quickly and quietly. The wearer has Disadvantage with Dexterity (Stealth) checks while wearing this armor. This property replaces the Stealth Disadvantage column of the PHB armor table.
 
-**Hardened.** Armor made of rigid plates is reinforced and better covers vital areas providing improved protection against grevious wounds. The wearer effectively ignores the effects of weapon properties **brutal** and **high crit**.
+**Hardened.** Armor made of rigid plates is reinforced and better covers vital areas providing improved protection against grevious wounds. The wearer effectively ignores the effects of weapon properties **brutal** and **high-crit**.
 
 **Occluding.** Protective headgear can reduce periferal vision and dampens sounds. The wearer of helms with this property suffers a penalty on passive perception checks equal to the number in parentheses.
 

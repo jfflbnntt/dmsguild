@@ -20,7 +20,7 @@ The following weapon properties and their effects reinforce these ideas.
 
 **Heavy.** Small creatures have Disadvantage on Attack rolls with **heavy** weapons. A heavy weapon’s size and bulk make it too large for a small creature to use effectively. Heavy weapons tend to be **slow** and **two-handed**.
 
-**High Crit.** These weapons deal higher than normal damage on a critical hit due to cruel spikes or barbs that pierce armor and strike at vital organs. Add 1 additional weapon damage die when rolling crit damage. This feature is negated by targets wearing **hardened** armor. Impaling weapons like picks and spears tend to be **high crit**.
+**High-crit.** These weapons deal higher than normal damage on a critical hit due to cruel spikes or barbs that pierce armor and strike at vital organs. Add 1 additional weapon damage die when rolling crit damage. This feature is negated by targets wearing **hardened** armor. Impaling weapons like picks and spears tend to be **high-crit**.
 
 **Light.** A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons. Light weapons should not also be **heavy**, **two-handed**, or **slow**. Light weapons tend to often be **finesse** and **sneaky**. Light weapons tend to do low damage since they can be used in the off-hand for a bonus attack.
 

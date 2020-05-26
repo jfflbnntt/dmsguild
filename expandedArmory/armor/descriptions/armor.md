@@ -8,7 +8,7 @@
 
 ### Medium Armor
 
-**Breastplate.** Breastplates come in a variety of styles and ornamentation. They all consist of one or more large solid metal plates or discs covering the vital parts of the chest while leaving the arms and legs unprotected, sacrificing additonal protection while remaining relatively unencumbered. Breastplates form the basis of all other **hardened** plate armors that protect against **brutal** and **high crit** weapons. Breastplates are expensive and generally only worn by honor guards, knights, and other nobles.
+**Breastplate.** Breastplates come in a variety of styles and ornamentation. They all consist of one or more large solid metal plates or discs covering the vital parts of the chest while leaving the arms and legs unprotected, sacrificing additonal protection while remaining relatively unencumbered. Breastplates form the basis of all other **hardened** plate armors that protect against **brutal** and **high-crit** weapons. Breastplates are expensive and generally only worn by honor guards, knights, and other nobles.
 
 **Chain Shirt.** Chain mail is made of flexible mesh of small metal rings that protects only the torso and arms and might extend to the thighs. This is an incomplete suit of chain mail and is lighter and can be consealed beneath a tunic. Militia and town guards are often equipped with a simple chain hauberk.
 
