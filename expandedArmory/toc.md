@@ -1,4 +1,4 @@
-> ##### Table Of Contents
+> ##### Table of Contents
 - Weapons
   - Weapon Properties
   - Simple Melee Weapons
@@ -13,8 +13,8 @@
   - Shields
   - Helms
 - Customizing Items
-  - High Quality Items
-  - Low Quality Items
+  - High-quality Items
+  - Low-quality Items
 - Rule Updates
   - Armor Proficiencies
   - Weapon Proficiencies
@@ -24,3 +24,4 @@
   - Legal Stuff
   - Credits
   - Contact Info
+  
