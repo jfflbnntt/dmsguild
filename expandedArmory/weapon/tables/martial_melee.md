@@ -11,7 +11,7 @@
 | Rapier | Epee, Foil, Fencing sword | 1d8 piercing | 25 gp | 2 lb. | finesse, high-crit, lunging (1d6) |
 | Battle axe | Khopesh, Military cleaver, War axe | 1d8 slashing | 15 gp | 4 lb. | brutal, slow, versatile (1d10) |
 | Long sword | Katana, War sword | 1d8 slashing | 15 gp | 5 lb. | versatile (1d10) |
-| Morning star | Spiked mace | 2d4 bludgeoning and piercing | 15 gp | 8 lb. | crushing, slow |
+| Morning star | Spiked mace | 1d4 bludgeoning and 1d4 piercing | 15 gp | 8 lb. | crushing, slow |
 | Bastard sword | Claymore | 2d4 slashing | 35 gp | 6 lb. | heavy, versatile (1d4+1d6) |
 | Lance | | 1d10 piercing | 15 gp | 8 lb. | high-crit, mounted, reach, slow |
 | Heavy lance | | 1d12 piercing | 20 gp | 10 lb. | high-crit, mounted, reach, slow
