@@ -11,9 +11,9 @@ Martial range weapons require more training and practice than simple range weapo
 
 **Hand Crossbow or Repeating Hand Crossbow.** A small light one-handed version of a crossbow that fires small bolts. One of the few ranged weapons that can be used in an off-hand. A repeating hand crossbow has been modified to use a magazine which removes the **loading** property. Hand crossbows are a favored weapon among Drow.
 
-**Heavy Crossbow.** A heavier version of a crossbow equipped with a stirrup or hand crank to make loading easier. Due to the force required to draw the bow it is unlikely to find a repeating heavy crossbow. Heavy crossbows are **oversized** and are difficult to use while mounted.
+**Heavy Crossbow.** A heavier version of a crossbow equipped with a stirrup or hand crank to make loading easier. Due to the force required to draw the bow it is unlikely to find a repeating heavy crossbow. Heavy crossbows are **heavy** and are difficult to use while mounted.
 
-**Long Bow or Recurve Long Bow.** A tall bow that takes significant training and practice to use effectively. Long bows can also be recurved or made of composite materials to increase their range and power even more. Long bows are **oversized** and are difficult to use while mounted.
+**Long Bow or Recurve Long Bow.** A tall bow that takes significant training and practice to use effectively. Long bows can also be recurved or made of composite materials to increase their range and power even more. Long bows are **heavy** and are difficult to use while mounted.
 
 **Staff Sling.** A sling mounted on a short staff which is used as a fulcrum to hurl stones and bullets much farther and faster than normally possible. The staff portion of the weapon can also be used in melee as a two-handed bludgeoning weapon if necessary.
 

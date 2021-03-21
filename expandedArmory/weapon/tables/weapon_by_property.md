@@ -15,7 +15,6 @@
 | Lunging    | Javelin, Quarter staff, Spear, Rapier |
 | Monk       | Axe, Clawed gauntlet, Club, Dagger, Flail, Gauntlet, Hammer, Javelin, Mace, Nunchaku, Pick, Punching dagger, Quarter staff, Short sword, Shovel, Sickle, Spear, Spiked gauntlet, Unarmed strike, Whip |
 | Mounted    | Heavy lance, Jousting lance, Lance, Light lance |
-| Oversized  | Glaive, Halberd, Heavy crossbow, Long bow, Man-catcher, Pike, Pole hammer, Recurve long bow, Repeating heavy crossbow, Scythe |
 | Reach      | Glaive, Halberd, Heavy lance, Jousting lance, Lance, Lasso, Light lance, Long spear, Man-catcher, Pike, Pole hammer, Spiked chain, Whip |
 | Repeating  | Repeating heavy crossbow, Repeating light crossbow |
 | Slow       | Battle axe, Great axe, Great club, Great flail, Great hammer, Great pick, Halberd, Heavy flail, Heavy lance, Jousting lance, Lance, Light lance, Morning star, Pick, Pole hammer, Scythe, Shovel, Spiked chain, War hammer, War pick |

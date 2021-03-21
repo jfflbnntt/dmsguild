@@ -8,6 +8,6 @@
 | Dart thrower | Atlatl | 1d6 piercing | 5 sp | 1 lb. | ammunition (40/120), underwater |
 | Hand crossbow | | 1d6 piercing | 75 gp | 3 lb. | ammunition (30/120), light, loading, underwater |
 | Repeating hand crossbow | | 1d6 piercing | 375 gp | 5 lb. | ammunition (30/120), light, loading, repeating, underwater |
-| Long bow | War bow | 1d8 piercing | 50 gp | 2 lb. | ammunition (150/600), heavy, oversized, two-handed |
-| Recurve long bow | Great bow, Composite war bow | 1d8 piercing | 100 gp | 3 lb. | ammunition (200/800), heavy, oversized, powerdraw, two-handed |
-| Heavy crossbow | Arbalest | 1d10 piercing | 50 gp | 18 lb. | ammunition (100/400), heavy, loading, oversized, two-handed, underwater |
+| Long bow | War bow | 1d8 piercing | 50 gp | 2 lb. | ammunition (150/600), heavy, two-handed |
+| Recurve long bow | Great bow, Composite war bow | 1d8 piercing | 100 gp | 3 lb. | ammunition (200/800), heavy, powerdraw, two-handed |
+| Heavy crossbow | Arbalest | 1d10 piercing | 50 gp | 18 lb. | ammunition (100/400), heavy, loading, two-handed, underwater |

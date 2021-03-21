@@ -18,8 +18,8 @@ Below are updates and changes to Feats due to the new properties, armor, shields
 
 **Moderately Armored.** Gain proficiency with medium shields and half helms.
 
-**Polearm Master.** Add pole hammer, guisarme, long spear, pike, and spear to the list of weapons that work with this feat. You can also ignore the **oversized** property on reach weapons.
+**Polearm Master.** Add pole hammer, guisarme, long spear, pike, and spear to the list of weapons that work with this feat. You can also ignore the **heavy** property on reach weapons.
 
-**Sharpshooter.** You can ignore the **oversized** property on range weapons.
+**Sharpshooter.** You can ignore the **heavy** property on range weapons.
 
 **Shield Master.** You no longer suffer any drawbacks from the **oversized** or **encumbering** properties on shields and can ignore it.
