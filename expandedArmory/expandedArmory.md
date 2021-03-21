@@ -1,4 +1,4 @@
-# Armory Remix 2.2
+# Armory Remix v2.2
 
 A *street thug with club in hand sneaks up on an unsuspecting mark knowing that one quick strike to the back of the head will render his victim unconscious. Students listen intently to their weapons master as she instructs them on the finer points of spear fighting and how a quick change in grip can extend their reach to strike opponents at a distance. A veteran soldier, standing in formation shoulder to shoulder to green recruits, grits his teeth as he sets his pike to recieve the front ranks of the charging orc horde. With a flick of the wrist a bounty hunter wraps her whip around the ankles of a fleeing bounty enabling her to claim the full reward for bringing him in alive. A dual-wielding swordsman's quick flashing blades deter his enemies from trying to slip past him, while nearby his lightly armored halfling companion easily dodges past the slow and clumsy strikes of an ogre's greatclub.*
 
@@ -885,11 +885,23 @@ Below are updates and changes to Proficiencies and Feats necessary due to the pr
 
 <div></div>
 
+**Better Inspiration.** You can use your Inspiration to reroll a d20 roll you just made. If the original roll had Advantage or Disadvantage the reroll also has Advantage or Disadvantage. You may also spend your Inspiration on behalf of another character.
+
+<div></div>
+
 **Charging Attack.** When taking the Dash Action you can use a Bonus Action to make a single melee weapon attack or shove a creature at the end of your movement. If you use this variant rule then the **Charger** feat no longer requires a bonus action to make an attack. Use this rule if you want combat to feel more dynamic and fast paced.
 
 <div></div>
 
 **Close Combat.** While grappled a creature suffers Disadvantage with any weapon attack unless the weapon has the **light** property. Use this rule if you want to emphasize the difficulty of bringing large or heavy weapons to bear while having your movement hampered or encourage the use of the Grapple Action.
+
+<div></div>
+
+**Deflect Adjacent Missiles.** Monks can use their Deflect Missiles ability if one of their allies is the target and within 5'. If they do not successfully block all the damage, any remaining damage is split evenly between the monk and the ally they were trying to protect.
+
+<div></div>
+
+**Delaying Initiative.** On the first round of combat after initiative has been determined and before you have taken your first turn you may choose to lower your initiative to any lower value after which this becomes your new initiative until a new initiative is called for.
 
 <div></div>
 
@@ -899,9 +911,15 @@ Below are updates and changes to Proficiencies and Feats necessary due to the pr
 
 **Flanking.** A coordinated attack from flanking positions is tactially advantageous. Although the Help Action is always an option in combat if you are Flanking with an ally you may perform the Help Action as a Reaction instead and can be triggered by the allies Attack. Flanking is defined by the rules described in the DMG, page 251, but does not grant Advantage automatically. This is a good option to add if your table misses tactical maneuvering on the battle field, but feel like the option presented in the DMG is too powerful. 
 
-<div></div>
+<div class='pageNumber auto'></div>
+
+\page
 
 **Gain Exhaustion at 0 HP.** Each time a character is brought to 0 HP, assuming they are not killed outright, they gain a level of Exhaustion. This represents receiving a grievous wound that lingers even if they are brought back to 1 or more HP. Exhaustion levels accumulate as usual and it is possible to die from Exhaustion by being dropped to 0 HP too many times. Use this option if you feel like falling in combat doesn't have realistic consequences.
+
+<div></div>
+
+**Healer’s Kit Use and Spending Hit Dice.** In order to recover Hit Points by spending any number of Hit Dice during a Short Rest one charge of a Healer’s Kit must be spent on the character spending the Hit Dice. This represents using bandages, salves, and such to treat wounds. This restriction only applies to Hit Dice and not to features like Second Wind or any other sources of Healing
 
 <div></div>
 
@@ -911,9 +929,7 @@ Below are updates and changes to Proficiencies and Feats necessary due to the pr
 
 **Recharge on a 20.** If a magic item with charges has a chance to be destroyed when the last charge is used then it also has a chance to recharge as well. When the last charge is used roll a d20. If the result is a 1 the item is destroyed as normal, however if the result is a 20 then the item immediately regains charges as if it had regained charges on the following dawn. This rule rewards the characters for taking a chance on that last charge when the stakes are high.
 
-<div class='pageNumber auto'></div>
-
-\page
+<div></div>
 
 **Taking Damage While Grappling.** When a creature that is grappling another target takes damage it must succeed on a Constitution Saving Throw or release the grapple. The DC is 10 or equal to the damage taken, whichever is greater, similar to a Concentration check. Creatures that have special attacks that cause the grappled condition may automatically succeed on this check subject to the DM's ruling.
 
@@ -958,6 +974,6 @@ This product was formatted using [The Homebrewery](http://www.naturalcrit.com/ho
 * v1.1 Copyright Update
 * v2.0 New properties, armor, shields, helms, weapons, and rules
 * v2.1 Update some property definitions, added weak to long spear
-* v2.2 Add weapon by damage type tables, better hyphenage, merge oversized and heavy weapon properties, include hardened proprety in armor tables, various minor updates, fixes, and adjustments
+* v2.2 Add weapon by damage type tables, better hyphenage, merge oversized and heavy weapon properties, include hardened proprety in armor tables, more optional rules, various minor updates, fixes, and adjustments
 
 <div class='pageNumber auto'></div>
