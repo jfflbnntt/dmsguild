@@ -1,12 +1,8 @@
 ### Armor Properties
 
-Just as some weapons pose unique threats, the right kind of armor can neutralize those threats. A helm paired with an appropriate suit of armor offers superior protection. A shield is not only useful in deflecting blows in close combat, but can be particularly effective against missiles attacks.
-
-The following are a few new properties along with new options for armor and shields with their own benefits and drawbacks. These are new properties for armor, shields, and helms. In some cases they replace existing table elements defined in the PHB.
-
 **Covering.** You can use your Reaction to double the shield's AC bonus against a single ranged weapon or spell attack.
 
-**Encumbering.** Wearing armor or weilding a shield without the required strength increases your Encumbrance rating by 1 level. This property replaces the STR requirement listed in the PHB armor table.
+**Encumbering.** Wearing armor or wielding a shield without the required strength increases your Encumbrance rating by 1 level. This property replaces the STR requirement listed in the PHB armor table.
 
 **Hampering.** Armor and shields with the this property is either bulky, restricts the full range of motion, cannot be disguised, or makes it difficult to move quickly and quietly. The wearer has Disadvantage with Dexterity (Stealth) checks while wearing this armor. This property replaces the Stealth Disadvantage column of the PHB armor table.
 
