@@ -58,6 +58,7 @@ The following weapon properties and their effects reinforce these ideas. Several
 
 **Brace.** These weapons are more effective when braced and set against charging opponents. If you are proficient with this weapon, Readied Attack Actions against an advancing opponent have Advantage. Brace weapons tend to be **two-handed** or **versatile** piercing weapons, like spears and pikes. Brace weapons should not also have the **slow** property.
 
+<div></div>
 
 **Brutal.** These weapons create deep vicious wounds that tend to bleed. If you are proficient with this weapon and the result of any rolled weapon damage die is 1, reroll it and take the new result instead. This includes any additional critical hit dice, but does not include dice provided by sneak attack, spells or other features. This property is negated by **hardened** armor. Axes and other curved slashing weapons tend to have the brutal property. 
 
@@ -565,9 +566,12 @@ Armor, shields, and helms come in three categories related to the proficiency ne
 Light armors are made of layers of cloth and leather while medium and heavy armors tend to use metal rings and plates. Light and medium armors focus on protecting only the vital areas while heavy armor protects the entire body. Heavy armor also tends to be both restrictive and cumbersome. Commoners rarely have any type of armor available, town guards and militia may be issued a suit of ring mail or a chain shirt, while professional soldiers typically wear chain mail.
 
 ### Armor Properties
+
 <div style='margin-top:20px'></div>
 
 Just as some weapons pose unique threats, the right kind of armor can neutralize those threats. A helm paired with an appropriate suit of armor offers superior protection. A shield is not only useful in deflecting blows in close combat, but can be particularly effective against missiles attacks.
+
+<div></div>
 
 The following are a few new properties along with new options for armor and shields with their own benefits and drawbacks. These are new properties for armor, shields, and helms. In some cases they replace existing table elements defined in the PHB.
 
@@ -603,6 +607,7 @@ The following are a few new properties along with new options for armor and shie
 ```
 
 ### Light Armor
+
 <div style='margin-top:20px'></div>
 
 **Leather.** This armor is made of boiled or otherwise stiffened leather shaped and stitched together to cover the torso and shoulders and may include a skirt, or kilt to protect the thighs. It can be dyed various colors and ornamented in a variety of ways. It offers the same protection as padded armor while being slightly less bulky. Other materials like weaved and lacquered wicker can be made into armor just as effective as leather.
@@ -616,6 +621,7 @@ The following are a few new properties along with new options for armor and shie
 **Ring Mail.** Ring mail is leather armor with a matrix of large metal rings attached to it. It offers better protect than regular leather armor, but is heavier and costs more. The rings can be made of a variety of metals or even be replaced with bone, stone, or other similar materials. Ring mail is more common in areas where full metal armors are harder to come by and it is favored by pirates over heavier armors.
 
 ### Medium Armor
+
 <div style='margin-top:20px'></div>
 
 **Breastplate.** Breastplates come in a variety of styles and ornamentation. They all consist of one or more large solid metal plates or discs covering the vital parts of the chest while leaving the arms and legs unprotected, sacrificing additonal protection while remaining relatively unencumbered. Breastplates form the basis of all other **hardened** plate armors that protect against **brutal** and **high-crit** weapons. Breastplates are expensive and generally only worn by honor guards, knights, and other nobles.
@@ -632,14 +638,14 @@ The following are a few new properties along with new options for armor and shie
 
 **Hide.** Hide armor typically consists of thick layers furs and hides, commonly worn by barbarian tribes, giants, and savage humanoids in areas where better materials are hard to come by. This armor can also represent piecemeal or patchwork armor of other types including the  sparse armor of gladiators which usually only includes a single spaulder and a wide leather belt.
 
-<div></div>
-
-**Scale Mail.** Scale mail is armor that is made of overlapping metal scales, like those of a fish, attached to a leather backing that covers the torso and arms. Variants of scale armor are made entirely of small interlocking coins or discs, similar to ring mail. Scale armor is uniformly noisy.
-
 <div class='pageNumber auto'></div>
 
 \page
+
+**Scale Mail.** Scale mail is armor that is made of overlapping metal scales, like those of a fish, attached to a leather backing that covers the torso and arms. Variants of scale armor are made entirely of small interlocking coins or discs, similar to ring mail. Scale armor is uniformly noisy.
+
 ### Heavy Armor
+
 <div style='margin-top:20px'></div>
 
 **Brigandine.** Brigandine consists of a long knee-lengthed armored coat with small rigid plates stitched or riveted between layers of cloth, cinched at the waist by a sturdy leather belt. It is often mistaken for "studded" armor due to the metal rivets or "studs" that sometimes show through the cloth layer. It is the cheapest and lightest of the heavy armors and is also known as a coat of plates. It is a favored type of armor amongst mercenaries for its balance of protection and cost.
@@ -662,6 +668,7 @@ The following are a few new properties along with new options for armor and shie
 
 
 ### Shields
+
 <div style='margin-top:20px'></div>
 
 Shields come in a variety of shapes and sizes and can be made of leather, wood, metal, or other improvised materials. Medium shields are the most commonly used, offering decent protection without the drawbacks of larger shields. Intelligent creatures generally use shields on their own or in combination with armor.
@@ -680,6 +687,7 @@ Shields come in a variety of shapes and sizes and can be made of leather, wood, 
 
 
 ### Helms
+
 <div style='margin-top:20px'></div>
 
 Helms offer protection only when combined with an appropriate set of armor. Helms cover progressively more of the head the heavier they while gradually reducing more visibility and muffling sounds. A helm can be donned or removed with an Action.
@@ -750,6 +758,7 @@ Helms offer protection only when combined with an appropriate set of armor. Helm
 In some cases it's okay to break the game balance guidelines above, especially when you want to create a unique and memorable item. On the other hand you might wish to run a low-tech campaign or equip your NPCs with primative gear.
 
 ### High-quality Items
+
 <div style='margin-top:20px'></div>
 
 High-quality weapons and armor are rare, valuable, and highly sought after so their cost should reflect this. These items are expertly crafted and can be considered masterwork items, others are made of rare and wonderful materials that grant them special properties. High-quality items can have one or more of the following benefits above and beyond the stats of its base stats:
@@ -773,6 +782,7 @@ High-quality weapons and armor are rare, valuable, and highly sought after so th
 ```
 
 ### Low-quality Items
+
 <div style='margin-top:20px'></div>
 
 On the other hand you might wish to run a low-tech campaign or equip your NPCs with primative gear. Low-quality items might be old and worn out, damaged in some way, poorly crafted, or made from primative or sub-standard materials. In any case, low-quality items have one or more of the following drawbacks:
