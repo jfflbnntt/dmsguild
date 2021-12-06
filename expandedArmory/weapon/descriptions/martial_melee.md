@@ -2,9 +2,6 @@
 
 Martial melee weapons are crafted specifically for battle and meant to be wielded by trained warriors and soldiers. Common soldiers are typically outfitted with a polearm and a light one-handed weapon as a fallback, while commanders and elite soldiers tend to use versatile or great weapons. Martial melee weapons tend to do more damage and have more beneficial properties than their simple counterparts, yet the also cost more and aren't as readily available.
 
-
-**Bastard Sword.** A double-edged sword with a wide crossguard and an extended pommel. Slightly longer than a long sword but not as large as a great sword, this is a fairly uncommon yet distinctive weapon. Also known as a claymore or hand-and-a-half sword.
-
 **Battle Axe and Great Axe.** A battle axe is a long handled single-bladed axe that can be wielded in one or two hands. Similar weapons include military cleavers and the khopseh, which is an exotic-looking axe-like sword with an outwardly curving blade. A great axe is a heavier version of the battle axe, often doube-bladed, meant to be wielded in two-hands. Axes are a favored weapon among brutal humanoids like orcs that like to intimidate their opponents.
 
 **Broad Sword.** A sword with wide double-edged blade with very little taper and a short pommel. The length is about midway between a short sword and a long sword, reaching lengths up to 3'. It is often considered a pre-cursor to the long sword.

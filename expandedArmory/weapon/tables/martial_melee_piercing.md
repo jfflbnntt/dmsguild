@@ -11,6 +11,6 @@
 | Rapier | Epee, Foil, Fencing sword | 1d8 piercing | 25 gp | 2 lb. | finesse, high-crit, lunging (1d6) |
 | Morning star | Spiked mace | 1d4 bludgeoning and 1d4 piercing | 15 gp | 8 lb. | crushing, slow |
 | Lance | | 1d10 piercing | 15 gp | 8 lb. | high-crit, mounted, reach, slow |
-| Pike | Partisan, Military fork, Ranseur, Spetum | 1d10 piercing | 10 gp | 9 lb. | brace, heavy, high-crit, reach, two-handed, underwater |
+| Pike | Partisan, Military fork, Ranseur, Spetum | 1d10 piercing | 10 gp | 9 lb. | bracing, heavy, high-crit, reach, two-handed, underwater |
 | Heavy lance | | 1d12 piercing | 20 gp | 10 lb. | high-crit, mounted, reach, slow |
 | Great pick | Heavy pick, Mattock | 2d6 piercing | 10 gp | 8 lb. | heavy, high-crit, slow, two-handed |

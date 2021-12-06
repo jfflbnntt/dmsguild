@@ -4,7 +4,7 @@ High-quality weapons and armor are rare, valuable, and highly sought after so th
 
 #### Weapons
 
-* Add the **brutal**, **crushing**, or **high-crit** property.
+* Add the **brutal**, **staggering**, or **high-crit** property.
 * Add the **finesse** or **light** property, or remove the **heavy** property.
 * Add the **powerdraw** property to a shortbow or longbow or add the **repeating** property to a crossbow
 * Remove the **slow** or **weak** property.
@@ -13,6 +13,6 @@ High-quality weapons and armor are rare, valuable, and highly sought after so th
 #### Armor, Shield, or Helm
 
 * Add the **covering**, **hardened** or **spiked** property.
-* Remove the **hampering**, **occluding**, or **oversized** property.
-* Reduce the weight of the item and reduce the STR requirement for the **encumbering** property, or remove it entirely.
-* Increase the AC bonus or formula by 1 or more.
+* Remove the **restricting**, **occluding**, or **oversized** property.
+* Reduce the weight of the item and reduce the STR requirement for the **cumbersome** property, or remove it entirely.
+* Increase the AC bonus or formula by 1.

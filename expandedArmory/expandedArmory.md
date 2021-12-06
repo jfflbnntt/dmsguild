@@ -1,4 +1,4 @@
-# Armory Remix v2.2
+# Armory Remix v2.3
 
 A *street thug with club in hand sneaks up on an unsuspecting mark knowing that one quick strike to the back of the head will render his victim unconscious. Students listen intently to their weapons master as she instructs them on the finer points of spear fighting and how a quick change in grip can extend their reach to strike opponents at a distance. A veteran soldier, standing in formation shoulder to shoulder to green recruits, grits his teeth as he sets his pike to recieve the front ranks of the charging orc horde. With a flick of the wrist a bounty hunter wraps her whip around the ankles of a fleeing bounty enabling her to claim the full reward for bringing him in alive. A dual-wielding swordsman's quick flashing blades deter his enemies from trying to slip past him, while nearby his lightly armored halfling companion easily dodges past the slow and clumsy strikes of an ogre's greatclub.*
 
@@ -39,7 +39,7 @@ The 5th edition Player's Handbook presents a very streamlined and simplified equ
 
 ## Weapons
 
-Weapons are distinquished by a set of properties that describe how they perform in battle. Large weapons are slow and unbalanced. Small hidden weapons can be suprisingly deadly in the right hands. Chopping blades cut deeply and heavy bludgeons deliver crushing blows. Whips and chains can wrap around obstacles or even be used with some skill to entangle targets. Spear-like thrusting weapons are best at repelling charges and for use in the water. 
+Weapons are distinquished by a set of properties that describe how they perform in battle. Large weapons are slow and unbalanced. Small hidden weapons can be suprisingly deadly in the right hands. Chopping blades cut deeply and heavy bludgeons deliver staggering blows. Whips and chains can wrap around obstacles or even be used with some skill to entangle targets. Spear-like thrusting weapons are best at repelling charges and for use in the water. 
 
 The following weapon properties and their effects reinforce these ideas. Several of the weapon properties require proficiency in the weapon in order to gain their benefits. In some cases they replace existing table elements defined in the PHB.
 
@@ -47,13 +47,12 @@ The following weapon properties and their effects reinforce these ideas. Several
 
 ### Weapon Properties
 ___
+
 * **Ammunition.** You can use a weapon that has the ammunition property to make a ranged Attack only if you have ammunition to fire from the weapon. Each time you Attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the Attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. If you use a weapon that has the ammunition property to make a melee Attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Ammunition weapons have a maximum range which is 4x its short range.
 
-* **Brace.** These weapons are more effective when braced and set against charging opponents. If you are proficient with this weapon, Readied Attack Actions against an advancing opponent have Advantage. Brace weapons tend to be **two-handed** or **versatile** piercing weapons, like spears and pikes. Brace weapons should not also have the **slow** property.
+* **Bracing.** These weapons are more effective when braced and set against charging opponents. If you are proficient with this weapon, Readied Attack Actions against an advancing opponent have Advantage. Brace weapons tend to be **two-handed** or **versatile** piercing weapons, like spears and pikes. Brace weapons should not also have the **slow** property.
 
-* **Brutal.** These weapons create deep vicious wounds that tend to bleed. If you are proficient with this weapon and the result of any rolled weapon damage die is 1, reroll it and take the new result instead. This includes any additional critical hit dice, but does not include dice provided by sneak attack, spells or other features. This property is negated by **hardened** armor. Axes and other curved slashing weapons tend to have the brutal property. 
-
-* **Crushing.** These weapons rely on heavy mass to deliver staggering blows. If you are proficient with this weapon, Critical hits Shove the target using 8 + STR modifier as the DC. Crushing weapons tend to be bludgeoning, **heavy**, or **slow**. Crushing weapons can not also be **light** or **finesse**.
+* **Brutal.** These weapons create deep vicious wounds that tend to bleed. If you are proficient with this weapon treat any 1 rolled on a weapon damage die as a 2. This includes any additional critical hit dice and dice provided by sneak attack, but does not include dice provided by spells or other features. This property is negated by **hardened** armor. Axes and other curved slashing weapons tend to have the brutal property.
 
 * **Finesse.** When making an Attack with a **finesse** weapon, you use your choice of your Strength or Dexterity modifier for the Attack and Damage Rolls. You must use the same modifier for both rolls. Finesse weapons tend to do less damage than non-finesse weapons because they can be used with Sneak Attack. Finesse weapons tend to not be **heavy**, **slow**, or **two-handed**. Finesse weapons tend to do low damage since they can be used in conjunction with Sneak Attack.
 
@@ -69,12 +68,12 @@ ___
 
 * **Loading.** Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an Action, Bonus Action, or Reaction to fire it, regardless of the number of attacks you can normally make. A **loading** weapon should not also have the **repeating** property.
 
+* **Lunging.** Some one-handed weapons are long and light enough to be used to sacrifice power to gain reach. When making a reach attack with a **lunging** weapon use the lower damage die listed in parentheses. You cannot use this feature while holding the weapon in both hands or if you are not proficient with this weapon. A **lunging** weapon is typically not also **heavy**, **reach**, or **two-handed**.
 
 <div class='pageNumber auto'></div>
 
 \page
 ___
-* **Lunging.** Some one-handed weapons are long and light enough to be used to sacrifice power to gain reach. When making a reach attack with a **lunging** weapon use the lower damage die listed in parentheses. You cannot use this feature while holding the weapon in both hands or if you are not proficient with this weapon. A **lunging** weapon is typically not also **heavy**, **reach**, or **two-handed**.
 
 * **Monk.** Weapons with this property count as Monk weapons that can be used with the Martial Arts feature. **Monk** weapons tend to be simple weapons without the **heavy** or **two-handed** properties, however there are a few select martial weapons that are specifically included.
 
@@ -92,6 +91,8 @@ ___
 
 * **Sneaky.** This weapon is especially dangerous when used to strike a distracted or unaware foe. If you hit with this weapon and had Advantage with the attack, use the higher damage die listed. It can also be used with a Rogue's Sneak Attack feature, if not already allowed. **Sneaky** weapons tend to be simple, small, silent, and easily concealable. They also tend to be low damaging. A sneaky weapon should not also have the **heavy**, **two-handed**, or **versatile** properties.
 
+* **Staggering.** These weapons rely on heavy mass to deliver staggering blows. If you are proficient with this weapon and get a critical hit on a creature, that creature cannot take reactions until the beginning of their next turn. Staggering weapons tend to be bludgeoning, **heavy**, or **slow**. Staggering weapons can not also be **light** or **finesse**.
+
 * **Thrown.** If a weapon has the thrown property, you can throw the weapon to make a ranged Attack. If the weapon is a melee weapon, you use the same ability modifier for that Attack roll and damage roll that you would use for a melee Attack with the weapon. For example, if you throw a hand axe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property. Thrown weapons are usually not **two-handed**, **heavy**, or **slow**. Thrown weapons have a maximum range which is 3x its short range.
 
 * **Two-Handed.** This weapon requires two hands when you Attack with it. Weapons with the **two-handed** property tend to be **reach**, **slow** or **heavy**. Two-handed weapons should not be **light**, **finesse**, **lunging**, **monk**, or **versatile**.
@@ -106,13 +107,13 @@ ___
 
 \page
 <div class="wide" style="margin-top:40px;">
+  
 ##### Weapons by Property
 | Property   | Weapons |
 |:-----------|:--------|
 | Ammunition | Blowgun, Dart thrower, Hand crossbow, Heavy crossbow, Light crossbow, Long bow, Recurve long bow, Recurve short bow, Short bow, Sling, Staff sling, Repeating heavy crossbow, Repeating light crossbow |
-| Brace      | Long spear, Pike, Spear |
+| Bracing    | Long spear, Pike, Spear |
 | Brutal     | Battle axe, Great axe, Halberd, Scimitar, Scythe, Sickle |
-| Crushing   | Great club, Great hammer, Mace, Morning star, Pole hammer, War hammer |
 | Finesse    | Dagger, Dart, Rapier, Scimitar, Scourge, Short sword, Whip |
 | Flexible   | Flail, Great flail, Heavy flail, Lasso, Nanchaku, Scourge, Spiked chain, Whip |
 | Grappling  | Bolas, Lasso, Man-catcher, Net, Spiked chain, Whip |
@@ -127,11 +128,13 @@ ___
 | Repeating  | Repeating heavy crossbow, Repeating light crossbow |
 | Slow       | Battle axe, Great axe, Great club, Great flail, Great hammer, Great pick, Halberd, Heavy flail, Heavy lance, Jousting lance, Lance, Light lance, Morning star, Pick, Pole hammer, Scythe, Shovel, Spiked chain, War hammer, War pick |
 | Sneaky     | Blowgun, Club, Dagger, Punching dagger, Throwing knife |
+| Staggering   | Great club, Great hammer, Mace, Morning star, Pole hammer, War hammer |
 | Thrown     | Axe, Bolas, Dagger, Dart, Hammer, Javelin, Net, Spear, Throwing knife |
 | Two-handed | Glaive, Great axe, Great club, Great flail, Great hammer, Great pick, Great sword, Halberd, Heavy crossbow, Lasso, Light crossbow, Long bow, Long spear, Man-catcher, Pike, Pole hammer, Recurve long bow, Recurve short bow, Repeating heavy crossbow, Repeating light crossbow, Scythe, Short bow, Shovel, Spiked chain, Staff sling |
 | Underwater | Dagger, Dart, Dart thrower, Hand crossbow, Heavy crossbow, Javelin, Light crossbow, Long spear, Man-catcher, Net, Pike, Punching dagger, Repeating heavy crossbow, Repeating light crossbow, Short sword, Spear |
-| Versatile  | Bastard sword, Battle axe, Broad sword, Heavy flail, Long sword, Quarter staff, Spear, War hammer, War pick |
+| Versatile  | Battle axe, Broad sword, Heavy flail, Long sword, Quarter staff, Spear, War hammer, War pick |
 | Weak       | Heavy lance, Jousting lance, Lance, Light lance, Long spear |
+
 
 </div>
 
@@ -192,22 +195,20 @@ ___
 | Quarter staff | Single stick | 1d6 bludgeoning | 2 sp | 4 lb. | lunging (1d4), monk, versatile (1d8) |
 | Javelin | Pilum | 1d6 piercing | 5 sp | 2 lb. | high-crit, lunging (1d4), monk, thrown (30/90), underwater |
 | Pick | Adze, Hoe, Light pick | 1d6 piercing | 5 gp | 4 lb. | high-crit, light, monk, slow |
-| Spear | Harpoon, Pitchfork, Trident | 1d6 piercing | 2 gp | 3 lb. | brace, high-crit, lunging (1d4), monk, thrown (20/60), underwater, versatile (1d8) |
+| Spear | Harpoon, Pitchfork, Trident | 1d6 piercing | 2 gp | 3 lb. | bracing, high-crit, lunging (1d4), monk, thrown (20/60), underwater, versatile (1d8) |
 | Axe | Hand axe, Hatchet, Throwing axe | 1d6 slashing | 5 gp | 2 lb. | light, monk, thrown (20/60) |
 | Great club | Two-handed club | 1d8 bludgeoning | 2 sp | 10 lb. | crushing, slow, two-handed |
 | Shovel | Spade | 1d8 slashing | 5 sp | 2 lb. | slow, two-handed |
 | Scythe | | 1d8 slashing | 2 gp | 10 lb. | brutal, heavy, slow, two-handed |
-| Long spear | Boar spear, Great spear, War spear | 2d4 piercing | 5 gp | 6 lb. | brace, high-crit, reach, two-handed, underwater, weak |
+| Long spear | Boar spear, Great spear, War spear | 2d4 piercing | 5 gp | 6 lb. | bracing, high-crit, reach, two-handed, underwater, weak |
 
 </div>
 
-<div class='pageNumber auto'></div>
-
-\page
 ### Simple Range Weapons
 
 Simple range weapons are typically used for hunting but can be used in battle when needed. Commoners often own a sling or a short bow while militia and town guards are frequently equipped with light crossbows.
 ___
+
 * **Dart.** A dart is a small specialized throwing weapon, similar to an arrow, with a short shaft, fletching, and a weighted head. It can also be used as ammunititon for the **dart thrower** which extends the range and power of the dart.
 
 * **Light Crossbow and Repeating Light Crossbow.** A small mechanical bow mounted horizontally onto a wooden stock which fires bolts when a trigger is depressed. The bow must be reset and bolts must be loaded individually between shots. A wall manned with guards equipped with light crossbows is an effective deterent. A **repeating** light crossbow has been modified to use a magazine of bolts which replaces the need to load after every shot.
@@ -218,8 +219,7 @@ ___
 
 * **Sling.** A sling is a simple leather thong with a pouch use for hurling stones or metal bullets. It is a common weapon among shepherds and other common folk and can be easily stored in a pouch along with stones and bullets.
 
-```
-```
+\page
 
 <div class="wide classTable" style="margin-top:40px;">
 ##### Table: Simple Range Weapons
@@ -234,14 +234,11 @@ ___
 | Repeating light crossbow | | 1d8 piercing | 125 gp | 6 lb. | ammunition (80/320), repeating, two-handed, underwater |
 </div>
 
-<div class='pageNumber auto'></div>
-\page
 ### Martial Melee Weapons
 
 Martial melee weapons are crafted specifically for battle and meant to be wielded by trained warriors and soldiers. Common soldiers are typically outfitted with a polearm and a light one-handed weapon as a fallback, while commanders and elite soldiers tend to use versatile or great weapons. Martial melee weapons tend to do more damage and have more beneficial properties than their simple counterparts, yet the also cost more and aren't as readily available.
 
 ___
-* **Bastard Sword.** A double-edged sword with a wide crossguard and an extended pommel. Slightly longer than a long sword but not as large as a great sword, this is a fairly uncommon yet distinctive weapon. Also known as a claymore or hand-and-a-half sword.
 
 * **Battle Axe and Great Axe.** A battle axe is a long handled single-bladed axe that can be wielded in one or two hands. Similar weapons include military cleavers and the khopseh, which is an exotic-looking axe-like sword with an outwardly curving blade. A great axe is a heavier version of the battle axe, often doube-bladed, meant to be wielded in two-hands. Axes are a favored weapon among brutal humanoids like orcs that like to intimidate their opponents.
 
@@ -259,6 +256,10 @@ ___
 
 * **Long Sword and Great Sword.** The long sword is the melee weapon to which all others weapons are compared. Long swords come in a variety of styles but all feature a 3' to 4' double-edged blade that sharpens to a point, a wide cross-guard, and an elongated grip with a weighted pommel for counter-balance. It balances speed, versatility, and lethality and is a favorite choice among adventurers and nobles. It is also one of the most common weapons to be enchanted. The great sword is a massive long sword meant to be weilded in two hands with blades that can reach up to 6' in length. They are typically wielded by heavily armored knights.
 
+<div class='pageNumber auto'></div>
+\page
+___
+
 * **Man Catcher.** A collar-like ring of inwardly pointing barbs mounted on the end of a long pole. Intended to be used to unhorse riders and capture targets rather than kill them.
 
 * **Morning Star.** Not to be confused with a ball and chain, a morningstar is a large mace studded with spikes or alternatively a large club with with nails or other sharpened protrusions projecting from it. It is a nasty weapon favored among brutes and bugbears.
@@ -275,9 +276,6 @@ ___
 
 * **Scimitar.** A short curved single-edged sword that makes for an effective weapon and all-purpose chopping tool. Popular among pirates.
 
-<div class='pageNumber auto'></div>
-\page
-___
 * **Scourge.** A short whip with multiple thongs typically made of leather. The thongs are often tipped with knots or sharp metal tips in order to cause additional pain.
 
 * **Short Sword.** A small straight sword with a double-edged blade but primarily meant for stabbing. It is often given to soldiers as a back-up weapon for close combat should they not be able to bring polearms to bear.
@@ -289,10 +287,6 @@ ___
 * **War Pick and Great Pick.** A war pick is meant for combat and able to be used in one or two hands. A great pick is larger and heavier and only able to be wielded in two hands.
 
 * **Whip.** A long braided flexible leather cord attached to a stiff handle. Traditionally used to train animals or torture prisoners it can be useful as a weapon as well.
-
-
-```
-```
 
 <div class="wide classTable" style="margin-top:40px;">
 ##### Table: Martial Melee Weapons (Bludgeoning)
@@ -329,7 +323,7 @@ ___
 | Rapier | Epee, Foil, Fencing sword | 1d8 piercing | 25 gp | 2 lb. | finesse, high-crit, lunging (1d6) |
 | Morning star | Spiked mace | 1d4 bludgeoning and 1d4 piercing | 15 gp | 8 lb. | crushing, slow |
 | Lance | | 1d10 piercing | 15 gp | 8 lb. | high-crit, mounted, reach, slow |
-| Pike | Partisan, Military fork, Ranseur, Spetum | 1d10 piercing | 10 gp | 9 lb. | brace, heavy, high-crit, reach, two-handed, underwater |
+| Pike | Partisan, Military fork, Ranseur, Spetum | 1d10 piercing | 10 gp | 9 lb. | bracing, heavy, high-crit, reach, two-handed, underwater |
 | Heavy lance | | 1d12 piercing | 20 gp | 10 lb. | high-crit, mounted, reach, slow |
 | Great pick | Heavy pick, Mattock | 2d6 piercing | 10 gp | 8 lb. | heavy, high-crit, slow, two-handed |
 
@@ -352,12 +346,11 @@ ___
 | Scourge | Cat-o-nine-tails, Lash | 1d6 slashing | 3 gp | 2 lb. | finesse, flexible, light |
 | Broad sword | Arming sword, Jian, Viking sword| 1d6 slashing | 10 gp | 4 lb. | versatile (2d4) |
 | Battle axe | Khopesh, Military cleaver, War axe | 1d8 slashing | 15 gp | 4 lb. | brutal, slow, versatile (1d10) |
-| Long sword | Katana, War sword | 1d8 slashing | 15 gp | 5 lb. | versatile (1d10) |
-| Bastard sword | Claymore | 2d4 slashing | 35 gp | 6 lb. | heavy, versatile (1d4+1d6) |
+| Long sword | Bastard sword, Katana, War sword | 1d8 slashing | 15 gp | 5 lb. | versatile (1d10) |
 | Glaive | Bill, Fauchard, Guisarme | 2d4 slashing | 10 gp | 8 lb. | heavy, reach, two-handed |
 | Halberd | Bardiche, Voulge, Poleaxe | 1d10 slashing or 1d8 piercing | 10 gp | 15 lb. | brutal, heavy, reach, slow, two-handed |
 | Great axe | Two-handed axe | 1d12 slashing | 30 gp | 7 lb. | brutal, heavy, slow, two-handed |
-| Great sword | Zwiehander, Two-handed sword | 2d6 slashing | 50 gp | 8 lb. | heavy, two-handed |
+| Great sword | Claymore, Two-handed sword, Zwiehander | 2d6 slashing | 50 gp | 8 lb. | heavy, two-handed |
 
 </div>
 
@@ -369,6 +362,7 @@ ___
 Martial range weapons require more training and practice than simple range weapons in order to use them effectively. Trained assassins use blowguns, throwing knives, and hand crossbows while military marksmen typically use long bows and heavy crossbows. Martial range weapons tend to have longer ranges and deal more damage than their simple range weapon counterparts, while costing more and being less common.
 
 ___
+
 * **Blowgun.** A long hollow tube with a mouth piece meant for firing small darts, often poisoned. A favored weapon among jungle tribes and assassins.
 
 * **Bolas.** Two or three weights connected by cords that when spun and thrown entangle their target.
@@ -412,22 +406,20 @@ ___
 
 Armor, shields, and helms come in three categories related to the proficiency needed to use them effectively: Light, Medium, and Heavy. 
 
-Light armors are made of layers of cloth and leather while medium and heavy armors tend to use metal rings and plates. Light and medium armors focus on protecting only the vital areas while heavy armor protects the entire body. Heavy armor also tends to be both restrictive and cumbersome. Commoners rarely have any type of armor available, town guards and militia may be issued a suit of ring mail or a chain shirt, while professional soldiers typically wear chain mail.
+Light armors are made of layers of cloth and leather while medium and heavy armors tend to use metal rings and plates. Light and medium armors focus on protecting only the vital areas while heavy armor protects the entire body. Heavy armor also tends to be both restrictive and cumbersome. Commoners rarely have anything more than a gambeson, town guards and militia may be issued a suit of ring mail or a chain shirt, while professional soldiers typically wear brigandine or a full suit of chain mail.
+
+Just as some weapons pose unique threats, the right kind of armor can neutralize those threats at the cost of increased encumbrance and reduced mobility. A helm paired with an appropriate suit of armor offers superior protection while limiting perception. A shield is not only useful in deflecting blows in close combat, but can be particularly effective against missiles attacks.
+
+The following are a few new properties along with new options for armor and shields with their own benefits and drawbacks. These are new properties for armor, shields, and helms. In some cases they replace existing table elements defined in the PHB.
 
 <div style='margin-top:20px'></div>
 
 ### Armor Properties
-
-Just as some weapons pose unique threats, the right kind of armor can neutralize those threats. A helm paired with an appropriate suit of armor offers superior protection. A shield is not only useful in deflecting blows in close combat, but can be particularly effective against missiles attacks.
-
-The following are a few new properties along with new options for armor and shields with their own benefits and drawbacks. These are new properties for armor, shields, and helms. In some cases they replace existing table elements defined in the PHB.
-
 ___
+
 * **Covering.** You can use your Reaction to double the shield's AC bonus against a single ranged weapon or spell attack.
 
-* **Encumbering.** Wearing armor or weilding a shield without the required strength increases your Encumbrance rating by 1 level. This property replaces the STR requirement listed in the PHB armor table.
-
-* **Hampering.** Armor and shields with the this property is either bulky, restricts the full range of motion, cannot be disguised, or makes it difficult to move quickly and quietly. The wearer has Disadvantage with Dexterity (Stealth) checks while wearing this armor. This property replaces the Stealth Disadvantage column of the PHB armor table.
+* **Cumbersome.** Wearing armor without the required strength reduces your movement speed by 5 feet. This reduced speed is in addition to any due to endurance. This property replaces the STR requirement listed in the PHB armor table.
 
 * **Hardened.** Armor made of rigid plates is reinforced and better covers vital areas providing improved protection against grevious wounds. The wearer effectively ignores the effects of weapon properties **brutal** and **high-crit**.
 
@@ -435,17 +427,18 @@ ___
 
 * **Oversized.** Oversized shields cannot be used while mounted and cannot be wielded by small creatures without two hands.
 
-* **Spiked.** Armor and shields with this property have been embellished with intimidating metal spikes or something equally dangerous. A shield with spikes does 1d4 piercing damage instead of bludgeoning when used as a weapon or as part of a shove attack. A creature who grapples or is grappled by another creature in spiked armor takes 1d4 piercing damage from the spikes. Armor with spikes also gains the **hampering** property if it doesn't already.
+* **Restricting.** Armor with the this property is bulky and restricts the full range of motion. It cannot be easily disguised and makes it difficult to move quickly and quietly. The wearer has Disadvantage with Dexterity (Stealth) checks and Strength (Athletics) checks relating to swimming, climbing, and jumping while wearing this armor. This property replaces the Stealth Disadvantage column of the PHB armor table.
 
+* **Spiked.** Armor and shields with this property have been embellished with intimidating metal spikes or something equally dangerous. A shield with spikes does 1d4 piercing damage instead of bludgeoning when used as a weapon or as part of a shove attack. A creature who grapples or is grappled by another creature in spiked armor takes 1d4 piercing damage from the spikes. Armor with spikes also gains the **hampering** property if it doesn't already.
 
 <div style='margin-top:20px'></div>
 
 ### Light Armor
-
 ___
-* **Leather.** This armor is made of boiled or otherwise stiffened leather shaped and stitched together to cover the torso and shoulders and may include a skirt, or kilt to protect the thighs. It can be dyed various colors and ornamented in a variety of ways. It offers the same protection as padded armor while being slightly less bulky. Other materials like weaved and lacquered wicker can be made into armor just as effective as leather.
 
-* **Padded.** Armor consisting of many thick layers of cloth and batting quilted together covering the chest and armes. It offers some protection while being cheap and easy to craft, however it's bulk somewhat hampers movement. Padded armor is more common than leather armor and just as protective. Common levies are often outfitted with this type of armor.
+* **Gambeson.** Armor consisting of many thick layers of cloth and batting quilted together covering the chest and armes. It offers some protection while being cheap and easy to craft. Gambeson armor is more common than leather armor and is often worn under heavier armors for comfort and added protection. Common levies are typically outfitted with this type of armor.
+
+* **Leather.** This armor is made of pieces of thick but pliable leather shaped and stitched together to cover the torso and shoulders and may include a skirt, or kilt to protect the thighs. It can be dyed various colors and ornamented in a variety of ways. It offers the same protection as a gambeson while being slightly less bulky and more expensive. Other materials like weaved and lacquered wicker can be made into armor just as effective as leather.
 
 * **Ring Mail.** Ring mail is leather armor with a matrix of large metal rings attached to it. It offers better protect than regular leather armor, but is heavier and costs more. The rings can be made of a variety of metals or even be replaced with bone, stone, or other similar materials. Ring mail is more common in areas where full metal armors are harder to come by and it is favored by pirates over heavier armors.
 
@@ -454,34 +447,44 @@ ___
 ### Medium Armor
 
 ___
-* **Breastplate.** Breastplates come in a variety of styles and ornamentation. They all consist of one or more large solid metal plates or discs covering the vital parts of the chest while leaving the arms and legs unprotected, sacrificing additonal protection while remaining relatively unencumbered. Breastplates form the basis of all other **hardened** plate armors that protect against **brutal** and **high-crit** weapons. Breastplates are expensive and generally only worn by honor guards, knights, and other nobles.
 
-* **Chain Shirt.** Chain mail is made of flexible mesh of small metal rings that protects only the torso and arms and might extend to the thighs. This is an incomplete suit of chain mail and is lighter and can be consealed beneath a tunic. Militia and town guards are often equipped with a simple chain hauberk.
+* **Breastplate.** Breastplates come in a variety of styles and ornamentation. They all consist of one or more large solid metal plates or discs covering the vital parts of the chest while leaving the arms and legs unprotected, sacrificing additonal protection while remaining relatively unencumbered. Breastplates form the basis of all other **hardened** plate armors. Breastplates are expensive and generally only worn by honor guards, knights, and other nobles.
 
-* **Half Plate.** Half plate includes a breastplate, pauldrons, and vambraces to protect the arms all worn over a chain shirt to protect the joints. The increased protection comes with more encumbrance and less flexibility. Like breastplates only the wealthy and priviledged tend to be able to afford to wear half plate.
+* **Chain Shirt.** Chain mail is made of flexible mesh of small metal rings. A chain shirt protects only the torso and upper arms and might extend to the thighs, but is lighter than a full suit of chain mail and is can be concealed beneath a tunic. Militia and town guards are often equipped with a simple chain byrnie.
 
-* **Hide.** Hide armor typically consists of thick layers furs and hides, commonly worn by barbarian tribes, giants, and savage humanoids in areas where better materials are hard to come by. This armor can also represent piecemeal or patchwork armor of other types including the  sparse armor of gladiators which usually only includes a single spaulder and a wide leather belt.
+
+
 
 <div class='pageNumber auto'></div>
 
 \page
 ___
-* **Scale Mail.** Scale mail is armor that is made of overlapping metal scales, like those of a fish, attached to a leather backing that covers the torso and arms. Variants of scale armor are made entirely of small interlocking coins or discs, similar to ring mail. Scale armor is uniformly noisy.
+
+* **Half Plate.** Half plate includes a metal breastplate, sometimes paired with pauldrons, worn over a chain shirt to protect the joints. Only the wealthy and priviledged can afford to wear half plate. Like breastplates is has the **hardened** property. The increased protection comes with more encumbrance and less flexibility, hence the **hampering** property.
+
+* **Hide.** Hide armor typically consists of thick layers furs and hides, hard chitin, or boiled and stiffened leathers, commonly worn by barbarian tribes, giants, and savage humanoids in areas where better materials are hard to come by. This armor can also represent piecemeal or patchwork armor of other types including the sparse armor of gladiators which usually only includes a single spaulder and a wide leather belt.
+
+* **Scale Mail.** Scale mail is armor that is made of overlapping metal scales, like those of a fish, attached to a leather backing that covers the torso and arms. Variants of scale armor are made entirely of small interlocking coins or discs, similar to ring mail. Scale armor is uniformly bulky and noisy.
 
 <div style='margin-top:20px'></div>
 
 ### Heavy Armor
 
 ___
-* **Brigandine.** Brigandine consists of a long knee-lengthed armored coat with small rigid plates stitched or riveted between layers of cloth, cinched at the waist by a sturdy leather belt. It is often mistaken for "studded" armor due to the metal rivets or "studs" that sometimes show through the cloth layer. It is the cheapest and lightest of the heavy armors and is also known as a coat of plates. It is a favored type of armor amongst mercenaries for its balance of protection and cost.
 
-* **Chain Mail.** A full suit of small interlocking metal rings over a layer of padded armor to prevent chafing and to cushion the impact of blows. It includes chain gauntlets and leg coverings. Chain mail is the most common type of heavy armor and frequently used by professional soldiers.
+* **Brigandine.** Brigandine consists of a long knee-lengthed armored coat with small rigid plates stitched or riveted between layers of cloth, cinched at the waist by a sturdy leather belt. It is often mistaken for "studded" armor due to the metal rivets or "studs" that sometimes show through the cloth layer. It is the cheapest and lightest of the heavy armors. It is a favored type of armor amongst mercenaries and amateur adventurers for its balance of protection and cost.
+
+* **Full Chain.** A full suit of small interlocking metal rings worn over a gambeson to prevent chafing and to cushion the impact of blows. It includes chain gauntlets and leg coverings. Chain mail is the most common type of heavy armor and frequently used by professional soldiers.
 
 * **Full Plate.** Full plate covers the entire body with interlocking shaped metal plates. It includes everything in a suit of half plate and adds guantlets, thigh guards, knee guards, greaves, and sabatons. Due to the cost only the most wealthy knights and nobles can afford to wear this type of armor.
 
 * **Heavy Plate.** Heavy plate is a suit of full plate made of reinforced heavy metal plates that only the strongest of warriors can effectively fight in. This armor is extremely rare and valuable.
 
-* **Plate Mail.** Plate mail is comprised of interlocking metal plates with chain mail covering the joints all over a cushioning layer of fabric padding or leather. It includes gauntlets, spaulders, heavy boots, and leg coverings. Banded mail is made with horizontal layers of plate mail while splinted mail is arranged vertically.
+* **Plate Mail.** Plate mail is comprised of interlocking metal plates with chain mail covering the joints all over a gambeson. It includes gauntlets, spaulders, heavy boots, and leg coverings.
+
+
+```
+```
 
 <div style='margin-top:20px'></div>
 
@@ -503,6 +506,7 @@ ___
 Helms offer protection only when combined with an appropriate set of armor. Helms cover progressively more of the head the heavier they while gradually reducing more visibility and muffling sounds. A helm can be donned or removed with an Action.
 
 ___
+
 * **Cap.** Caps are lightweight helms that protect the crown and top of the head. They can be used by anyone with the light armor proficiency and can be added to any suit of light armor. Types of caps including stiff leather hoods, a thick padded cloth cap, a steel skullcap, or a kettle or pot helm issued to archers and town guards.
 
 * **Full Helm.** A full helm covers the entire head and often interlocks with a gorget for neck protection. These helms are pierced with small eye slots and breathing holes and sometimes include a visor that can be lifted. Full helms can be used effectively by anyone with the heavy armor proficiency when combined with a suit of heavy, medium, or light armor. Full helms come in a variety of styles and are often augmented with horsehair mohawks, wings, antlers, and other heraldic decorations. Examples include bascinets, bucket helms, or great helms. They are typically only worn by nobles when riding into battle.
@@ -746,5 +750,6 @@ This product was formatted using [The Homebrewery](http://www.naturalcrit.com/ho
 * v2.0 New properties, armor, shields, helms, weapons, and rules
 * v2.1 Update some property definitions, added weak to long spear
 * v2.2 Add weapon by damage type tables, better hyphenage, merge oversized and heavy weapon properties, include hardened proprety in armor tables, more optional rules, various minor updates, fixes, and adjustments
+* v2.3 Renamed propeties Bracing, Cumbersome, Restricting, Staggering. Removed Bastard Sword. Simplify some descriptions. Add Light Armor Master feat. Add new optional rules.
 
 <div class='pageNumber auto'></div>

@@ -6,15 +6,17 @@ Below are updates and changes to Feats due to the new properties, armor, shields
 
 **Crossbow Expert.** It takes a Bonus Action rather than an Action to reload a **repeating** crossbow.
 
-**Grappler.** If you use the **Improved Grappling** optional rule then this feat grants Advantage on checks to pin a grappled target. 
+**Grappler.** If you use the **Improved Grappling** optional rule then this feat grants Advantage on checks to restrain a grappled target. 
 
 **Heavily Armored.** Gain proficiency with large shields and full helms.
 
-**Heavy Armor Master.** You can ignore the **encumbering** property on heavy armor.
+**Heavy Armor Master.** You can ignore the **encumbering** and **hampering** properties on heavy armor and the **occluding** property of full helms.
+
+**Light Armor Master.** Gain +1 to AC when wearing light armor. You can also ignore the **occluding** propoerty on caps.
 
 **Lightly Armored.** Gain proficiency with small shields and caps.
 
-**Medium Armor Master.** You can ignore the **encumbering** and **hampering** properties on medium armor.
+**Medium Armor Master.** You can ignore the **encumbering** and **hampering** properties on medium armor and the **occluding** property of half helms.
 
 **Moderately Armored.** Gain proficiency with medium shields and half helms.
 
@@ -22,4 +24,4 @@ Below are updates and changes to Feats due to the new properties, armor, shields
 
 **Sharpshooter.** You can ignore the **heavy** property on range weapons.
 
-**Shield Master.** You no longer suffer any drawbacks from the **oversized** or **encumbering** properties on shields and can ignore it.
+**Shield Master.** You no longer suffer any drawbacks from the **oversized** properties on shields and can ignore it.
