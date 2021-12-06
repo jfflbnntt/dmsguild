@@ -24,4 +24,3 @@
   - Legal Stuff
   - Credits
   - Contact Info
-  
