@@ -4,8 +4,8 @@ A *street thug with club in hand sneaks up on an unsuspecting mark knowing that 
 
 The 5th edition Player's Handbook presents a very streamlined and simplified equipment list. It serves as a fine starting point for most campaigns, but it lacks a certain amount of variety. This rules supplement presents new weapons, armor, shields and related properties inspired by previous editions to add flavor, provide interesting choices, and create meaningful distinctions between items. In addition to new items and properties there are rules on how to tweak items further to create custom high-quality or low-quality items and a list of updates to rules regarding proficincies and feats that deal with armor, shields, and weapons.
 
-```
-```
+<div style='margin-top:20px'></div>
+
 > ##### Table of Contents
 - Weapons
   - Weapon Properties
@@ -32,11 +32,7 @@ The 5th edition Player's Handbook presents a very streamlined and simplified equ
   - Legal Stuff
   - Credits
   - Contact Info
-
-<div class='pageNumber auto'></div>
-
-\page 
-
+  
 ## Weapons
 
 Weapons are distinquished by a set of properties that describe how they perform in battle. Large weapons are slow and unbalanced. Small hidden weapons can be suprisingly deadly in the right hands. Chopping blades cut deeply and heavy bludgeons deliver staggering blows. Whips and chains can wrap around obstacles or even be used with some skill to entangle targets. Spear-like thrusting weapons are best at repelling charges and for use in the water. 
@@ -55,6 +51,12 @@ ___
 * **Brutal.** These weapons create deep vicious wounds that tend to bleed. If you are proficient with this weapon treat any 1 rolled on a weapon damage die as a 2. This includes any additional critical hit dice and dice provided by sneak attack, but does not include dice provided by spells or other features. This property is negated by **hardened** armor. Axes and other curved slashing weapons tend to have the brutal property.
 
 * **Finesse.** When making an Attack with a **finesse** weapon, you use your choice of your Strength or Dexterity modifier for the Attack and Damage Rolls. You must use the same modifier for both rolls. Finesse weapons tend to do less damage than non-finesse weapons because they can be used with Sneak Attack. Finesse weapons tend to not be **heavy**, **slow**, or **two-handed**. Finesse weapons tend to do low damage since they can be used in conjunction with Sneak Attack.
+  
+<div class='pageNumber auto'></div>
+
+\page 
+
+___
 
 * **Flexible.** A weapon with this property consists of multiple interlocking rigid parts or made entirely of a flexible material like rope or leather. Due to it's flexible nature it can neutralize the benefits of shields and cover. As long as the attacker is proficient with the weapon and can see the target in range an attack made with this weapon ignores up to +2 AC bonus granted by shields or cover. Whips, chains, and flails are all **flexible** weapons.
 
@@ -69,11 +71,6 @@ ___
 * **Loading.** Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an Action, Bonus Action, or Reaction to fire it, regardless of the number of attacks you can normally make. A **loading** weapon should not also have the **repeating** property.
 
 * **Lunging.** Some one-handed weapons are long and light enough to be used to sacrifice power to gain reach. When making a reach attack with a **lunging** weapon use the lower damage die listed in parentheses. You cannot use this feature while holding the weapon in both hands or if you are not proficient with this weapon. A **lunging** weapon is typically not also **heavy**, **reach**, or **two-handed**.
-
-<div class='pageNumber auto'></div>
-
-\page
-___
 
 * **Monk.** Weapons with this property count as Monk weapons that can be used with the Martial Arts feature. **Monk** weapons tend to be simple weapons without the **heavy** or **two-handed** properties, however there are a few select martial weapons that are specifically included.
 
@@ -93,6 +90,11 @@ ___
 
 * **Staggering.** These weapons rely on heavy mass to deliver staggering blows. If you are proficient with this weapon and get a critical hit on a creature, that creature cannot take reactions until the beginning of their next turn. Staggering weapons tend to be bludgeoning, **heavy**, or **slow**. Staggering weapons can not also be **light** or **finesse**.
 
+<div class='pageNumber auto'></div>
+
+\page
+___
+
 * **Thrown.** If a weapon has the thrown property, you can throw the weapon to make a ranged Attack. If the weapon is a melee weapon, you use the same ability modifier for that Attack roll and damage roll that you would use for a melee Attack with the weapon. For example, if you throw a hand axe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property. Thrown weapons are usually not **two-handed**, **heavy**, or **slow**. Thrown weapons have a maximum range which is 3x its short range.
 
 * **Two-Handed.** This weapon requires two hands when you Attack with it. Weapons with the **two-handed** property tend to be **reach**, **slow** or **heavy**. Two-handed weapons should not be **light**, **finesse**, **lunging**, **monk**, or **versatile**.
@@ -103,10 +105,8 @@ ___
 
 * **Weak.** A weapon with this property is fragile, made of sub-standard materials, or worn with age. When you hit with an attack roll and deal max damage or get a critical hit this weapon becomes broken and unuseable. Improvised, practice, ceremonial, or ancient weapons do not stand up to abuse and tend to be **weak**.
 
-<div class='pageNumber auto'></div>
 
-\page
-<div class="wide" style="margin-top:40px;">
+<div class="wide" style="margin-top:20px;">
   
 ##### Weapons by Property
 | Property   | Weapons |
@@ -182,27 +182,31 @@ ___
 
 <div class="wide classTable">
 ##### Table: Simple Melee Weapons
-| Name           | Variants | Damage | Cost  | Weight  | Properties |
-|:---------------|:---------|:-------|------:|--------:|:-----------|
-| Lasso | Lariat | ─ | 1 sp | 0.1 lb. | flexible, grappling, reach, two-handed |
-| Unarmed strike | | 1 bludgeoning | ─ | ─ | light, monk |
-| Club | Cudgel, Sap | 1d4 bludgeoning | 1 sp | 2 lb. | light, monk, sneaky (1d6) |
-| Hammer | Light hammer, Throwing hammer | 1d4 bludgeoning | 2 gp | 2 lb. | light, monk, thrown (20/60) |
-| Dagger | Dirk, Knife, Stiletto | 1d4 piercing or slashing | 2 gp | 1 lb. | finesse, light, monk, sneaky (1d6), thrown (20/60), underwater |
-| Sickle | Billhook, Machete, Kama | 1d4 slashing | 1 gp | 2 lb. | brutal, light, monk |
-| Flail | Light flail | 1d6 bludgeoning | 5 gp | 2 lb. | flexible, monk |
-| Mace | Baton, Truncheon | 1d6 bludgeoning | 5 gp | 3 lb. | crushing, monk |
-| Quarter staff | Single stick | 1d6 bludgeoning | 2 sp | 4 lb. | lunging (1d4), monk, versatile (1d8) |
-| Javelin | Pilum | 1d6 piercing | 5 sp | 2 lb. | high-crit, lunging (1d4), monk, thrown (30/90), underwater |
-| Pick | Adze, Hoe, Light pick | 1d6 piercing | 5 gp | 4 lb. | high-crit, light, monk, slow |
-| Spear | Harpoon, Pitchfork, Trident | 1d6 piercing | 2 gp | 3 lb. | bracing, high-crit, lunging (1d4), monk, thrown (20/60), underwater, versatile (1d8) |
-| Axe | Hand axe, Hatchet, Throwing axe | 1d6 slashing | 5 gp | 2 lb. | light, monk, thrown (20/60) |
-| Great club | Two-handed club | 1d8 bludgeoning | 2 sp | 10 lb. | crushing, slow, two-handed |
-| Shovel | Spade | 1d8 slashing | 5 sp | 2 lb. | slow, two-handed |
-| Scythe | | 1d8 slashing | 2 gp | 10 lb. | brutal, heavy, slow, two-handed |
-| Long spear | Boar spear, Great spear, War spear | 2d4 piercing | 5 gp | 6 lb. | bracing, high-crit, reach, two-handed, underwater, weak |
+| Name           | Damage | Cost  | Weight  | Properties | Variants |
+|:---------------|:-------|------:|--------:|:-----------|:---------|
+| Lasso | ─ | 1 sp | 0.1 lb. | flexible, grappling, reach, two-handed | Lariat |
+| Unarmed strike | 1 bludgeoning | ─ | ─ | light, monk | |
+| Club | 1d4 bludgeoning | 1 sp | 2 lb. | light, monk, sneaky (1d6) | Cudgel, Sap |
+| Hammer | 1d4 bludgeoning | 2 gp | 2 lb. | light, monk, thrown (20/60) | Light hammer, Throwing hammer |
+| Dagger | 1d4 piercing or slashing | 2 gp | 1 lb. | finesse, light, monk, sneaky (1d6), thrown (20/60), underwater | Dirk, Knife, Stiletto |
+| Sickle | 1d4 slashing | 1 gp | 2 lb. | brutal, light, monk | Billhook, Machete, Kama |
+| Flail | 1d6 bludgeoning | 5 gp | 2 lb. | flexible, monk | Light flail |
+| Mace | 1d6 bludgeoning | 5 gp | 3 lb. | crushing, monk | Baton, Truncheon |
+| Quarter staff | 1d6 bludgeoning | 2 sp | 4 lb. | lunging (1d4), monk, versatile (1d8) | Single stick |
+| Javelin | 1d6 piercing | 5 sp | 2 lb. | high-crit, lunging (1d4), monk, thrown (30/90), underwater | Pilum |
+| Pick | 1d6 piercing | 5 gp | 4 lb. | high-crit, light, monk, slow | Adze, Hoe, Light pick |
+| Spear | 1d6 piercing | 2 gp | 3 lb. | bracing, high-crit, lunging (1d4), monk, thrown (20/60), underwater, versatile (1d8) | Harpoon, Pitchfork, Trident |
+| Axe | 1d6 slashing | 5 gp | 2 lb. | light, monk, thrown (20/60) | Hand axe, Hatchet, Throwing axe |
+| Great club | 1d8 bludgeoning | 2 sp | 10 lb. | crushing, slow, two-handed | Two-handed club |
+| Shovel | 1d8 slashing | 5 sp | 2 lb. | slow, two-handed | Spade |
+| Scythe | 1d8 slashing | 2 gp | 10 lb. | brutal, heavy, slow, two-handed | |
+| Long spear | 2d4 piercing | 5 gp | 6 lb. | bracing, high-crit, reach, two-handed, underwater, weak | Boar spear, Great spear, War spear |
 
 </div>
+
+<div class='pageNumber auto'></div>
+
+\page
 
 ### Simple Range Weapons
 
@@ -219,20 +223,23 @@ ___
 
 * **Sling.** A sling is a simple leather thong with a pouch use for hurling stones or metal bullets. It is a common weapon among shepherds and other common folk and can be easily stored in a pouch along with stones and bullets.
 
-\page
-
 <div class="wide classTable" style="margin-top:40px;">
 ##### Table: Simple Range Weapons
-| Name | Variants | Damage | Cost | Weight | Properties |
-|:-----|:---------|:-------|-----:|-------:|:-----------|
-| Net | | ─ | 1 gp | 3 lb. | grappling, thrown (5/15), underwater |
-| Sling | | 1d4 bludgeoning | 1 sp | 0.01 lb. | ammunition (40/160) |
-| Dart | Plumbata | 1d4 piercing | 5 cp | 0.25 lb. | finesse, thrown (30/90), underwater |
-| Short bow | Self-bow, Hunting bow | 1d6 piercing | 25 gp | 2 lb. | ammunition (80/320), two-handed |
-| Recurve short bow | Composite horn bow | 1d6 piercing | 50 gp | 2 lb. | ammunition (100/400), powerdraw, two-handed |
-| Light crossbow | | 1d8 piercing | 25 gp | 5 lb. | ammunition (80/320), loading, two-handed, underwater |
-| Repeating light crossbow | | 1d8 piercing | 125 gp | 6 lb. | ammunition (80/320), repeating, two-handed, underwater |
+| Name | Damage | Cost | Weight | Properties | Variants |
+|:-----|:-------|-----:|-------:|:-----------|:---------|
+| Net | ─ | 1 gp | 3 lb. | grappling, thrown (5/15), underwater | |
+| Sling | 1d4 bludgeoning | 1 sp | 0.01 lb. | ammunition (40/160) | |
+| Dart | 1d4 piercing | 5 cp | 0.25 lb. | finesse, thrown (30/90), underwater | Plumbata |
+| Short bow | 1d6 piercing | 25 gp | 2 lb. | ammunition (80/320), two-handed | Self-bow, Hunting bow |
+| Recurve short bow | 1d6 piercing | 50 gp | 2 lb. | ammunition (100/400), powerdraw, two-handed | Composite horn bow |
+| Light crossbow | 1d8 piercing | 25 gp | 5 lb. | ammunition (80/320), loading, two-handed, underwater | |
+| Repeating light crossbow | 1d8 piercing | 125 gp | 6 lb. | ammunition (80/320), repeating, two-handed, underwater | | |
+
 </div>
+
+<div class='pageNumber auto'></div>
+
+\page
 
 ### Martial Melee Weapons
 
@@ -256,10 +263,6 @@ ___
 
 * **Long Sword and Great Sword.** The long sword is the melee weapon to which all others weapons are compared. Long swords come in a variety of styles but all feature a 3' to 4' double-edged blade that sharpens to a point, a wide cross-guard, and an elongated grip with a weighted pommel for counter-balance. It balances speed, versatility, and lethality and is a favorite choice among adventurers and nobles. It is also one of the most common weapons to be enchanted. The great sword is a massive long sword meant to be weilded in two hands with blades that can reach up to 6' in length. They are typically wielded by heavily armored knights.
 
-<div class='pageNumber auto'></div>
-\page
-___
-
 * **Man Catcher.** A collar-like ring of inwardly pointing barbs mounted on the end of a long pole. Intended to be used to unhorse riders and capture targets rather than kill them.
 
 * **Morning Star.** Not to be confused with a ball and chain, a morningstar is a large mace studded with spikes or alternatively a large club with with nails or other sharpened protrusions projecting from it. It is a nasty weapon favored among brutes and bugbears.
@@ -280,6 +283,11 @@ ___
 
 * **Short Sword.** A small straight sword with a double-edged blade but primarily meant for stabbing. It is often given to soldiers as a back-up weapon for close combat should they not be able to bring polearms to bear.
 
+<div class='pageNumber auto'></div>
+
+\page
+___
+
 * **War Flail and Great Flail.** A war flail is a flail fashioned with one or more spiked balls on the end of a long chains specifically crafted for battle and is particularly effective against opponents with shields. A great flail is even larger and heavier and meant to be used with two hands. Flails are a favored weapon among gnolls.
 
 * **War Hammer and Maul.** A battle hammer that can be used with one or two hands, fashioned with either two blunt ends or a blunt end balanced by a short spike. A maul or great hammer is even larger and heavier and can only be wielded in two-hands. Hammers are a favored weapon among the dwarves.
@@ -290,18 +298,18 @@ ___
 
 <div class="wide classTable" style="margin-top:40px;">
 ##### Table: Martial Melee Weapons (Bludgeoning)
-| Name | Variants | Damage | Cost | Weight | Properties |
-|:-----|:---------|:-------|-----:|-------:|:-----------|
-| Gauntlet | Brass knuckles, Cestus | 1d2 bludgeoning | 2 gp | 1 lb. | light, monk |
-| Nunchaku | | 1d4 bludgeoning | 6 gp | 1 lb. | flexible, light, monk |
-| Chain | Chain whip, Kusari-gama | 1d6 bludgeoning or 1d4 slashing | 25 gp | 10 lb. | flexible, grappling, heavy, reach, slow, two-handed |
-| War flail | Ball and chain, Military flail | 1d8 bludgeoning | 50 gp | 8 lb. | flexible, slow, versatile (1d10)
-| War hammer | Military hammer | 1d8 bludgeoning | 15 gp | 6 lb. | crushing, slow, versatile (1d10) |
-| Morning star | Spiked mace | 1d4 bludgeoning and 1d4 piercing | 15 gp | 8 lb. | crushing, slow |
-| Pole hammer | Bec de corbin, Lucerne hammer,  | 1d10 bludgeoning or 1d8 piercing | 10 gp | 8 lb. | crushing, heavy, reach, slow, two-handed |
-| Pike | Partisan, Military fork, Ranseur, Spetum | 1d10 piercing | 10 gp | 9 lb. | brace, heavy, high-crit, reach, two-handed, underwater |
-| Great flail | Two-handed flail | 1d12 bludgeoning | 25 gp | 10 lb. | flexible, heavy, slow, two-handed |
-| Maul| Great hammer, Two-handed hammer | 2d6 bludgeoning | 20 gp | 10 lb. | crushing, heavy, slow, two-handed |
+| Name | Damage | Cost | Weight | Properties | Variants |
+|:-----|:-------|-----:|-------:|:-----------|:---------|
+| Gauntlet | 1d2 bludgeoning | 2 gp | 1 lb. | light, monk | Brass knuckles, Cestus |
+| Nunchaku | 1d4 bludgeoning | 6 gp | 1 lb. | flexible, light, monk | |
+| Chain | 1d6 bludgeoning or 1d4 slashing | 25 gp | 10 lb. | flexible, grappling, heavy, reach, slow, two-handed | Chain whip, Kusari-gama |
+| War flail | 1d8 bludgeoning | 50 gp | 8 lb. | flexible, slow, versatile (1d10) | Ball and chain, Military flail |
+| War hammer | 1d8 bludgeoning | 15 gp | 6 lb. | crushing, slow, versatile (1d10) | Military hammer |
+| Morning star | 1d4 bludgeoning and 1d4 piercing | 15 gp | 8 lb. | crushing, slow | Spiked mace |
+| Pole hammer | 1d10 bludgeoning or 1d8 piercing | 10 gp | 8 lb. | crushing, heavy, reach, slow, two-handed | Bec de corbin, Lucerne hammer |
+| Pike | 1d10 piercing | 10 gp | 9 lb. | brace, heavy, high-crit, reach, two-handed, underwater | Partisan, Military fork, Ranseur, Spetum |
+| Great flail | 1d12 bludgeoning | 25 gp | 10 lb. | flexible, heavy, slow, two-handed | Two-handed flail |
+| Maul | 2d6 bludgeoning | 20 gp | 10 lb. | crushing, heavy, slow, two-handed | Great hammer, Two-handed hammer |
 
 </div>
 
@@ -311,21 +319,21 @@ ___
 
 <div class="wide classTable">
 ##### Table: Martial Melee Weapons (Piercing)
-| Name | Variants | Damage | Cost | Weight | Properties |
-|:-----|:---------|:-------|-----:|-------:|:-----------|
-| Spiked gauntlet | | 1d4 piercing | 5 gp | 1 lb. | light, monk |
-| Man catcher | Catchpole | 1d4 piercing | 30 gp | 8 lb. | grappling, heavy, reach, two-handed, underwater |
-| Punching dagger | Katar, Knuckle knife, Sai, Siangham | 1d6 piercing | 5 gp | 1 lb. | light, monk, sneaky (1d8), underwater |
-| Short sword | Gladius, Hanger, Small sword, Xiphos | 1d6 piercing | 10 gp | 2 lb. | finesse, light, monk, underwater |
-| Jousting lance | | 1d6 piercing | 5 gp | 4 lb. | high-crit, mounted, reach, slow |
-| War pick | Military pick | 1d8 piercing | 8 gp | 6 lb. | high-crit, slow, versatile (1d10) |
-| Light lance | | 1d8 piercing | 10 gp | 6 lb. | high-crit, mounted, reach, slow |
-| Rapier | Epee, Foil, Fencing sword | 1d8 piercing | 25 gp | 2 lb. | finesse, high-crit, lunging (1d6) |
-| Morning star | Spiked mace | 1d4 bludgeoning and 1d4 piercing | 15 gp | 8 lb. | crushing, slow |
-| Lance | | 1d10 piercing | 15 gp | 8 lb. | high-crit, mounted, reach, slow |
-| Pike | Partisan, Military fork, Ranseur, Spetum | 1d10 piercing | 10 gp | 9 lb. | bracing, heavy, high-crit, reach, two-handed, underwater |
-| Heavy lance | | 1d12 piercing | 20 gp | 10 lb. | high-crit, mounted, reach, slow |
-| Great pick | Heavy pick, Mattock | 2d6 piercing | 10 gp | 8 lb. | heavy, high-crit, slow, two-handed |
+| Name | Damage | Cost | Weight | Properties | Variants |
+|:-----|:-------|-----:|-------:|:-----------|:---------|
+| Spiked gauntlet | 1d4 piercing | 5 gp | 1 lb. | light, monk | |
+| Man catcher | 1d4 piercing | 30 gp | 8 lb. | grappling, heavy, reach, two-handed, underwater | Catchpole |
+| Punching dagger | 1d6 piercing | 5 gp | 1 lb. | light, monk, sneaky (1d8), underwater | Katar, Knuckle knife, Sai, Siangham |
+| Short sword | 1d6 piercing | 10 gp | 2 lb. | finesse, light, monk, underwater | Gladius, Hanger, Small sword, Xiphos |
+| Jousting lance | 1d6 piercing | 5 gp | 4 lb. | high-crit, mounted, reach, slow | |
+| War pick | 1d8 piercing | 8 gp | 6 lb. | high-crit, slow, versatile (1d10) | Military pick |
+| Light lance | 1d8 piercing | 10 gp | 6 lb. | high-crit, mounted, reach, slow | |
+| Rapier | 1d8 piercing | 25 gp | 2 lb. | finesse, high-crit, lunging (1d6) | Epee, Foil, Fencing sword |
+| Morning star | 1d4 bludgeoning and 1d4 piercing | 15 gp | 8 lb. | crushing, slow | Spiked mace |
+| Lance | 1d10 piercing | 15 gp | 8 lb. | high-crit, mounted, reach, slow | |
+| Pike | 1d10 piercing | 10 gp | 9 lb. | bracing, heavy, high-crit, reach, two-handed, underwater | Partisan, Military fork, Ranseur, Spetum |
+| Heavy lance | 1d12 piercing | 20 gp | 10 lb. | high-crit, mounted, reach, slow | |
+| Great pick | 2d6 piercing | 10 gp | 8 lb. | heavy, high-crit, slow, two-handed | Heavy pick, Mattock |
 
 </div>
  
@@ -338,19 +346,19 @@ ___
 
 <div class="wide classTable">
 ##### Table: Martial Melee Weapons (Slashing)
-| Name | Variants | Damage | Cost | Weight | Properties |
-|:-----|:---------|:-------|-----:|-------:|:-----------|
-| Clawed gauntlet | Bagh nakh | 1d4 slashing | 5 gp | 1 lb. | light, monk |
-| Whip | Bull-whip | 1d4 slashing | 2 gp | 3 lb. | finesse, flexible, grappling, monk, reach |
-| Scimitar | Cutlass, Dao, Falchion, Kopis, Kukri, Sabre, Tulwar | 1d6 slashing | 15 gp | 3 lb. | brutal, finesse, light |
-| Scourge | Cat-o-nine-tails, Lash | 1d6 slashing | 3 gp | 2 lb. | finesse, flexible, light |
-| Broad sword | Arming sword, Jian, Viking sword| 1d6 slashing | 10 gp | 4 lb. | versatile (2d4) |
-| Battle axe | Khopesh, Military cleaver, War axe | 1d8 slashing | 15 gp | 4 lb. | brutal, slow, versatile (1d10) |
-| Long sword | Bastard sword, Katana, War sword | 1d8 slashing | 15 gp | 5 lb. | versatile (1d10) |
-| Glaive | Bill, Fauchard, Guisarme | 2d4 slashing | 10 gp | 8 lb. | heavy, reach, two-handed |
-| Halberd | Bardiche, Voulge, Poleaxe | 1d10 slashing or 1d8 piercing | 10 gp | 15 lb. | brutal, heavy, reach, slow, two-handed |
-| Great axe | Two-handed axe | 1d12 slashing | 30 gp | 7 lb. | brutal, heavy, slow, two-handed |
-| Great sword | Claymore, Two-handed sword, Zwiehander | 2d6 slashing | 50 gp | 8 lb. | heavy, two-handed |
+| Name | Damage | Cost | Weight | Properties | Variants |
+|:-----|:-------|-----:|-------:|:-----------|:---------|
+| Clawed gauntlet | 1d4 slashing | 5 gp | 1 lb. | light, monk | Bagh nakh |
+| Whip | 1d4 slashing | 2 gp | 3 lb. | finesse, flexible, grappling, monk, reach | Bull-whip |
+| Scimitar | 1d6 slashing | 15 gp | 3 lb. | brutal, finesse, light | Cutlass, Dao, Falchion, Kopis, Kukri, Sabre, Tulwar |
+| Scourge | 1d6 slashing | 3 gp | 2 lb. | finesse, flexible, light | Cat-o-nine-tails, Lash |
+| Broad sword | 1d6 slashing | 10 gp | 4 lb. | versatile (2d4) | Arming sword, Jian, Viking sword |
+| Battle axe | 1d8 slashing | 15 gp | 4 lb. | brutal, slow, versatile (1d10) | Khopesh, Military cleaver, War axe |
+| Long sword | 1d8 slashing | 15 gp | 5 lb. | versatile (1d10) | Bastard sword, Katana, War sword |
+| Glaive | 2d4 slashing | 10 gp | 8 lb. | heavy, reach, two-handed | Bill, Fauchard, Guisarme |
+| Halberd | 1d10 slashing or 1d8 piercing | 10 gp | 15 lb. | brutal, heavy, reach, slow, two-handed | Bardiche, Voulge, Poleaxe |
+| Great axe | 1d12 slashing | 30 gp | 7 lb. | brutal, heavy, slow, two-handed | Two-handed axe |
+| Great sword | 2d6 slashing | 50 gp | 8 lb. | heavy, two-handed | Claymore, Two-handed sword, Zwiehander |
 
 </div>
 
@@ -384,18 +392,19 @@ ___
 
 <div class="wide classTable">
 ##### Table: Martial Range Weapons
-| Name | Variants | Damage | Cost | Weight | Properties |
-|:-----|:---------|:-------|-----:|-------:|:-----------|
-| Blowgun | | 1 piercing | 10 gp | 1 lb. | ammunition (25/100), loading, sneaky (1d4) |
-| Bolas | | 1d4 bludgeoning | 5 gp | 2 lb. | grappling, thrown (20/60) |
-| Throwing knife | Throwing star | 1d4 piercing | 1 gp | 0.5 lb. | light, sneaky (1d6), thrown (30/90) |
-| Staff sling | | 1d6 bludgeoning | 5 sp | 3 lb. | ammunition (80/320), two-handed |
-| Dart thrower | Atlatl | 1d6 piercing | 5 sp | 1 lb. | ammunition (40/120), underwater |
-| Hand crossbow | | 1d6 piercing | 75 gp | 3 lb. | ammunition (30/120), light, loading, underwater |
-| Repeating hand crossbow | | 1d6 piercing | 375 gp | 5 lb. | ammunition (30/120), light, loading, repeating, underwater |
-| Long bow | War bow | 1d8 piercing | 50 gp | 2 lb. | ammunition (150/600), heavy, two-handed |
-| Recurve long bow | Great bow, Composite war bow | 1d8 piercing | 100 gp | 3 lb. | ammunition (200/800), heavy, powerdraw, two-handed |
-| Heavy crossbow | Arbalest | 1d10 piercing | 50 gp | 18 lb. | ammunition (100/400), heavy, loading, two-handed, underwater |
+| Name | Damage | Cost | Weight | Properties | Variants |
+|:-----|:-------|-----:|-------:|:-----------|:---------|
+| Blowgun | 1 piercing | 10 gp | 1 lb. | ammunition (25/100), loading, sneaky (1d4) | |
+| Bolas | 1d4 bludgeoning | 5 gp | 2 lb. | grappling, thrown (20/60) | |
+| Throwing knife | 1d4 piercing | 1 gp | 0.5 lb. | light, sneaky (1d6), thrown (30/90) | Throwing star |
+| Staff sling | 1d6 bludgeoning | 5 sp | 3 lb. | ammunition (80/320), two-handed | |
+| Dart thrower | 1d6 piercing | 5 sp | 1 lb. | ammunition (40/120), underwater | Atlatl |
+| Hand crossbow | 1d6 piercing | 75 gp | 3 lb. | ammunition (30/120), light, loading, underwater | |
+| Repeating hand crossbow | 1d6 piercing | 375 gp | 5 lb. | ammunition (30/120), light, loading, repeating, underwater | |
+| Long bow | 1d8 piercing | 50 gp | 2 lb. | ammunition (150/600), heavy, two-handed | War bow |
+| Recurve long bow | 1d8 piercing | 100 gp | 3 lb. | ammunition (200/800), heavy, powerdraw, two-handed | Great bow, Composite war bow |
+| Heavy crossbow | 1d10 piercing | 50 gp | 18 lb. | ammunition (100/400), heavy, loading, two-handed, underwater | Arbalest |
+
 
 </div>
 
@@ -412,37 +421,37 @@ Just as some weapons pose unique threats, the right kind of armor can neutralize
 
 The following are a few new properties along with new options for armor and shields with their own benefits and drawbacks. These are new properties for armor, shields, and helms. In some cases they replace existing table elements defined in the PHB.
 
-<div style='margin-top:20px'></div>
+<div style='margin-top:10px'></div>
 
 ### Armor Properties
 ___
 
-* **Covering.** You can use your Reaction to double the shield's AC bonus against a single ranged weapon or spell attack.
+* **Covering.** You can use your Reaction to double the shield's AC bonus against a single ranged weapon or spell attack. This property can be used in conjunction with the **Shield Master** feat.
 
-* **Cumbersome.** Wearing armor without the required strength reduces your movement speed by 5 feet. This reduced speed is in addition to any due to endurance. This property replaces the STR requirement listed in the PHB armor table.
+* **Cumbersome.** Wearing armor without the required strength reduces your movement speed by 5 feet. This reduced speed is in addition to any due to encumbrance. This property replaces the STR requirement listed in the PHB armor table.
 
-* **Hardened.** Armor made of rigid plates is reinforced and better covers vital areas providing improved protection against grevious wounds. The wearer effectively ignores the effects of weapon properties **brutal** and **high-crit**.
+* **Hardened.** Armor made of rigid plates is reinforced and better covers vital areas providing improved protection against grevious wounds. The wearer effectively ignores the effects of weapon properties **brutal**, **high-crit**, and **staggering**.
 
 * **Occluding.** Protective headgear can reduce periferal vision and dampens sounds. The wearer of helms with this property suffers a penalty on passive perception checks equal to the number in parentheses.
 
 * **Oversized.** Oversized shields cannot be used while mounted and cannot be wielded by small creatures without two hands.
 
-* **Restricting.** Armor with the this property is bulky and restricts the full range of motion. It cannot be easily disguised and makes it difficult to move quickly and quietly. The wearer has Disadvantage with Dexterity (Stealth) checks and Strength (Athletics) checks relating to swimming, climbing, and jumping while wearing this armor. This property replaces the Stealth Disadvantage column of the PHB armor table.
+* **Restricting.** Armor with the this property is bulky and restricts the full range of motion. It cannot be easily disguised and makes it difficult to move quickly and quietly. The wearer has Disadvantage with Dexterity (Stealth) checks, Dexterity (Acrobatics) checks, and Strength (Athletics) checks relating to swimming, climbing, and jumping while wearing this armor. This property replaces the Stealth Disadvantage column of the PHB armor table.
 
 * **Spiked.** Armor and shields with this property have been embellished with intimidating metal spikes or something equally dangerous. A shield with spikes does 1d4 piercing damage instead of bludgeoning when used as a weapon or as part of a shove attack. A creature who grapples or is grappled by another creature in spiked armor takes 1d4 piercing damage from the spikes. Armor with spikes also gains the **hampering** property if it doesn't already.
 
-<div style='margin-top:20px'></div>
+<div style='margin-top:10px'></div>
 
 ### Light Armor
 ___
 
-* **Gambeson.** Armor consisting of many thick layers of cloth and batting quilted together covering the chest and armes. It offers some protection while being cheap and easy to craft. Gambeson armor is more common than leather armor and is often worn under heavier armors for comfort and added protection. Common levies are typically outfitted with this type of armor.
+* **Gambeson.** Armor consisting of many thick layers of cloth and batting quilted together covering the chest and arms. It offers some protection while being cheap and easy to craft. Gambeson armor is more common than leather armor and is often worn under heavier armors for comfort and added protection. Common levies are typically outfitted with this type of armor.
 
 * **Leather.** This armor is made of pieces of thick but pliable leather shaped and stitched together to cover the torso and shoulders and may include a skirt, or kilt to protect the thighs. It can be dyed various colors and ornamented in a variety of ways. It offers the same protection as a gambeson while being slightly less bulky and more expensive. Other materials like weaved and lacquered wicker can be made into armor just as effective as leather.
 
-* **Ring Mail.** Ring mail is leather armor with a matrix of large metal rings attached to it. It offers better protect than regular leather armor, but is heavier and costs more. The rings can be made of a variety of metals or even be replaced with bone, stone, or other similar materials. Ring mail is more common in areas where full metal armors are harder to come by and it is favored by pirates over heavier armors.
+* **Ring Mail.** Ring mail is leather armor with a matrix of large metal rings attached to it. It offers better protect than regular leather armor, but is heavier and costs more. The rings can be made of a variety of metals or even be replaced with bone, stone, or other similar materials. Ring mail is more common in areas where full metal armors are harder to come by and it is favored by pirates in lieu heavier armors.
 
-<div style='margin-top:20px'></div>
+<div style='margin-top:10px'></div>
 
 ### Medium Armor
 
@@ -452,66 +461,58 @@ ___
 
 * **Chain Shirt.** Chain mail is made of flexible mesh of small metal rings. A chain shirt protects only the torso and upper arms and might extend to the thighs, but is lighter than a full suit of chain mail and is can be concealed beneath a tunic. Militia and town guards are often equipped with a simple chain byrnie.
 
-
-
+* **Half Plate.** Half plate includes a breastplate paired with metal shoulder and arm plates, often worn over a chain shirt to protect the joints. Only the wealthy and priviledged can afford to wear half plate. Like breastplates is has the **hardened** property. The increased protection comes with more encumbrance and less flexibility, represented by the **cumbersome** and **restricting** properties.
 
 <div class='pageNumber auto'></div>
 
 \page
 ___
 
-* **Half Plate.** Half plate includes a metal breastplate, sometimes paired with pauldrons, worn over a chain shirt to protect the joints. Only the wealthy and priviledged can afford to wear half plate. Like breastplates is has the **hardened** property. The increased protection comes with more encumbrance and less flexibility, hence the **hampering** property.
+* **Hide.** Hide armor typically consists of thick layers furs and hides, hard chitin, or boiled and stiffened leathers. It is an armor commonly worn by barbarian tribes, giants, and savage humanoids in areas where better materials are hard to come by. This armor can also represent piecemeal or patchwork armor of other types including the sparse armor of gladiators which usually only includes a single spaulder and a wide leather belt.
 
-* **Hide.** Hide armor typically consists of thick layers furs and hides, hard chitin, or boiled and stiffened leathers, commonly worn by barbarian tribes, giants, and savage humanoids in areas where better materials are hard to come by. This armor can also represent piecemeal or patchwork armor of other types including the sparse armor of gladiators which usually only includes a single spaulder and a wide leather belt.
+* **Scale Mail.** Scale mail is armor that is made of overlapping metal scales, like those of a fish, attached to a leather backing that covers the torso and arms. Variants of scale armor are made entirely of small interlocking coins or discs, similar to ring mail. Scale armor is flexibile to a degree, but bulky and noisy, making it **cumbersome** and **restrictive**.
 
-* **Scale Mail.** Scale mail is armor that is made of overlapping metal scales, like those of a fish, attached to a leather backing that covers the torso and arms. Variants of scale armor are made entirely of small interlocking coins or discs, similar to ring mail. Scale armor is uniformly bulky and noisy.
-
-<div style='margin-top:20px'></div>
+<div style='margin-top:10px'></div>
 
 ### Heavy Armor
 
 ___
 
-* **Brigandine.** Brigandine consists of a long knee-lengthed armored coat with small rigid plates stitched or riveted between layers of cloth, cinched at the waist by a sturdy leather belt. It is often mistaken for "studded" armor due to the metal rivets or "studs" that sometimes show through the cloth layer. It is the cheapest and lightest of the heavy armors. It is a favored type of armor amongst mercenaries and amateur adventurers for its balance of protection and cost.
+* **Brigandine.** Brigandine consists of a long knee-lengthed armored coat with small rigid plates stitched or riveted between layers of cloth and cinched at the waist by a sturdy leather belt. It is often mistaken for "studded" armor due to the metal rivets or "studs" that sometimes show through the cloth layer. It is the cheapest and lightest of the heavy armors. It is a favored type of armor amongst mercenaries and amateur adventurers for its balance of protection and cost.
 
-* **Full Chain.** A full suit of small interlocking metal rings worn over a gambeson to prevent chafing and to cushion the impact of blows. It includes chain gauntlets and leg coverings. Chain mail is the most common type of heavy armor and frequently used by professional soldiers.
+* **Full Chain.** A full suit of chain mail covers the entire body and is worn over a gambeson to prevent chafing and to cushion the impact of blows. It includes chain gauntlets and leg coverings. The weight of the chain tends to hang on the shoulders and is not well distributed, making it uncomfortable to wear for extended periods of time. Chain mail is the most common type of heavy armor and frequently used by professional soldiers.
 
-* **Full Plate.** Full plate covers the entire body with interlocking shaped metal plates. It includes everything in a suit of half plate and adds guantlets, thigh guards, knee guards, greaves, and sabatons. Due to the cost only the most wealthy knights and nobles can afford to wear this type of armor.
+* **Full Plate.** Full plate covers the entire body with interlocking shaped metal plates held in place with leather buckles and straps. It includes everything in a suit of half plate and adds guantlets, thigh guards, knee guards, greaves, and sabatons. Due to the cost only the most wealthy knights and nobles can afford to wear this type of armor.
 
 * **Heavy Plate.** Heavy plate is a suit of full plate made of reinforced heavy metal plates that only the strongest of warriors can effectively fight in. This armor is extremely rare and valuable.
 
-* **Plate Mail.** Plate mail is comprised of interlocking metal plates with chain mail covering the joints all over a gambeson. It includes gauntlets, spaulders, heavy boots, and leg coverings.
+* **Plate Mail.** Plate mail comprises of layered metal plates, similar to scale but larger, backed by chain mail all worn over a gambeson. It includes gauntlets, spaulders, heavy boots, and leg coverings.
 
-
-```
-```
-
-<div style='margin-top:20px'></div>
+<div style='margin-top:10px'></div>
 
 ### Shields
 
-Shields come in a variety of shapes and sizes and can be made of leather, wood, metal, or other improvised materials. Medium shields are the most commonly used, offering decent protection without the drawbacks of larger shields. Intelligent creatures generally use shields on their own or in combination with armor.
-
+Shields come in a variety of shapes and sizes and can be made of leather, wood, metal, or other improvised materials. They can sometimes include a reinforced rim and metal boss for added durability. Medium shields are the most commonly used, offering decent protection without the drawbacks of larger shields. Intelligent creatures generally use shields on their own or in combination with armor.
 ___
-* **Large Shield.** A very large and heavy shield covers up to three-quarters of the wielder and most often made of metal. It is frequently used on battlefields as a mobile piece of cover for archers or soldiers in a shield wall. Anyone with the heavy armor proficiency can also use heavy shields however small creatures must use two hands when using it. Comes in many varieties including aspis, pavise, body, or tower shields.
 
-* **Medium Shield.** A standard shield usually made of metal, or wood with metal reinforcement that covers up to one-half of the wielder. They often bear the heraldric arms of the wielder or the local lord. It is also the largest shield that can be effectively used while mounted. Anyone with the medium armor proficiency can use medium shields. Examples include heater, kite, parma, and teardrop shields.
+* **Small Shield.** A small lightweight shield usually round and held extended from the body by one hand. An improvised shield is usually only effective as a small shield. Anyone with the light armor proficiency can use small shields.
 
-* **Small Shield.** A small lightweight shield usually round and made of wood or leather and possibly with metal rim or boss for reinforcement. It covers up to one-quarter of the wielder and is sometimes known as a targe, target, leaf shield, or buckler. An improvised shield is usually only effective as a small shield. Anyone with the light armor proficiency can use a light shield.
+* **Medium Shield.** A standard sized shield that is typically held close to the body with the off-hand and further supported by straps on the upper arm or shoulders. They often bear the heraldric arms of the wielder or a local lord. It is also the largest shield that can be effectively used while mounted. Anyone with the medium armor proficiency can use medium shields.
 
-<div style='margin-top:20px'></div>
+* **Large Shield.** A tall shield that is strapped to the forearm and supported by resting the bottom on the ground when not moving. It is frequently used on battlefields as a mobile piece of cover for archers or soldiers in a shield wall. Anyone with the heavy armor proficiency can also use large shields, however due to the **oversized** property it cannot be used while mounted and small creatures must use two hands when wielding it.
+
+<div style='margin-top:10px'></div>
 
 ### Helms
 
-Helms offer protection only when combined with an appropriate set of armor. Helms cover progressively more of the head the heavier they while gradually reducing more visibility and muffling sounds. A helm can be donned or removed with an Action.
-
+Helms offer protection only when worn with an appropriate set of armor. Helms cover progressively more of the head and face the heavier they are while gradually reducing visibility and muffling sounds.
 ___
 
-* **Cap.** Caps are lightweight helms that protect the crown and top of the head. They can be used by anyone with the light armor proficiency and can be added to any suit of light armor. Types of caps including stiff leather hoods, a thick padded cloth cap, a steel skullcap, or a kettle or pot helm issued to archers and town guards.
+* **Cap.** Caps are lightweight helms that protect the crown and top of the head. They can be used by anyone with the light armor proficiency and can be added to any suit of light armor. Donning or removing a cap counts as interacting with an object and can be performed as part of movement. Caps are commonly issued to archers and low ranking foot soldiers.
 
-* **Full Helm.** A full helm covers the entire head and often interlocks with a gorget for neck protection. These helms are pierced with small eye slots and breathing holes and sometimes include a visor that can be lifted. Full helms can be used effectively by anyone with the heavy armor proficiency when combined with a suit of heavy, medium, or light armor. Full helms come in a variety of styles and are often augmented with horsehair mohawks, wings, antlers, and other heraldic decorations. Examples include bascinets, bucket helms, or great helms. They are typically only worn by nobles when riding into battle.
+* **Half Helm.** Half helms balance protection and visibility. They cover more of the head, neck, ears, and face, often including eye and nose guards or chain mail fringe, while leaving the lower portion of the face exposed. Peripheral vision and hearing is noticeably obstructed while wearing these types of helms. Anyone with the medium armor proficiency can use a half helm when combined with a suit of medium armor. It takes an Action to don or remove a half helm since they are secured in place by a chin strap. They are typically worn by warriors of significant rank.
 
-* **Half Helm.** Half helms balance protection and visibility. They cover more of the head, neck, ears, and face, often including eye and nose guards or chain mail fringe, while leaving the lower portion of the face exposed. Peripheral vision and hearing is noticeably obstructed while wearing these types of helms. Anyone with the medium armor proficiency can use a half helm when combined with a suit of medium or light armor. Examples include chain coifs, barbutes, conical helms, sallets, or even an oversized skull worn as a helmet. They are typically worn by officers of rank.
+* **Full Helm.** A full helm covers the entire head and often interlocks with a gorget for neck protection. These helms are pierced with small eye slots and breathing holes and sometimes include a visor. Donning or removing a full helm requires an action, but a visor can be raised or lowered as part of movement. When the visor is raised the helm acts as a half helm for purposes of AC and **occluding**. Full helms can be used effectively by anyone with the heavy armor proficiency when combined with a suit of heavy armor. Full helms come in a variety of styles and are often augmented with horsehair mohawks, wings, antlers, and other heraldic decorations. They are typically only worn by warlords and battle commanders.
 
 <div class='pageNumber auto'></div>
 
@@ -519,43 +520,44 @@ ___
 
 <div class="wide classTable">
 ##### Table: Light Armor
-| Name | Variants | Armor Class (AC) | Cost | Weight | Properties |
-|:-----|:---------|:----------------:|-----:|-------:|:-----------|
-| Padded | Gambeson | 11 + Dex modifier | 5 gp | 8 lb. | hampering |
-| Leather | Wicker | 11 + Dex modifier |  10 gp  | 10 lb. | |
-| Ring mail | Studded leather | 12 + Dex modifier | 45 gp | 13 lb. | |
+| Name | Armor Class (AC) | Cost | Weight | Properties | Variants |
+|:-----|:----------------:|-----:|-------:|:-----------|:---------|
+| Gambeson | 11 + Dex modifier | 5 gp | 10 lb. | | Padded |
+| Leather | 11 + Dex modifier |  10 gp  | 5 lb. | | Wicker |
+| Ring mail | 12 + Dex modifier | 35 gp | 15 lb. | | Bone |
 
 ##### Table: Medium Armor
-| Name | Variants | Armor Class (AC) | Cost | Weight | Properties |
-|:-----|:---------|:----------------:|-----:|-------:|:-----------|
-| Hide | Bone | 12 + Dex modifier (max 2) | 10 gp |  12 lb. | |
-| Chain shirt | Half chain, Hauberk, Lorica hamata  | 13 + Dex modifier (max 2) | 50 gp |  20 lb. | encumbering (11) |
-| Scale mail | Coin, Lamellar, Lorica squamata | 14 + Dex modifier (max 2) | 50 gp | 45 lb. | encumbering (13), hampering |
-| Breastplate | Cuirass, Disc, Mirror, Lorica musculata | 14 + Dex modifier (max 2) | 400 gp |  20 lb. | encumbering (11), hardened |
-| Half plate | Field plate | 15 + Dex modifier (max 2) | 750 gp | 40 lb. | encumbering (Str 13), hampering, hardened |
+| Name | Armor Class (AC) | Cost | Weight | Properties | Variants |
+|:-----|:----------------:|-----:|-------:|:-----------|:---------|
+| Hide | 12 + Dex modifier (max 2) | 15 gp |  15 lb. | | Boiled leather, Piecemeal, Chitin |
+| Chain shirt | 13 + Dex modifier (max 2) | 30 gp |  20 lb. | | Coat of mail, Byrnie, Hauberk, Lorica hamata |
+| Scale mail | 14 + Dex modifier (max 2) | 50 gp | 45 lb. | restricting | Coin, Lamellar, Lorica squamata |
+| Breastplate | 14 + Dex modifier (max 2) | 400 gp |  30 lb. | hardened | Cuirass, Disc, Mirror, Lorica musculata |
+| Half plate | 15 + Dex modifier (max 2) | 750 gp | 40 lb. | cumbersome (Str 11), restricting, hardened | Field plate, Bronze plate |
 
 ##### Table: Heavy Armor
-| Name | Variants | Armor Class (AC) | Cost | Weight | Properties |
-|:-----|:---------|:----------------:|-----:|-------:|:-----------|
-| Brigandine | Coat of plates | 14 | 30 gp | 40 lb. | encumbering (Str 13), hampering |
-| Chain mail | Full chain, Tamati, Kusari | 15 | 75 gp | 55 lb. | encumbering (Str 14), hampering |
-| Plate mail | Banded mail, Splint mail, Lorica segmentata | 16 | 200 gp | 60 lb. | encumbering (Str 15), hampering |
-| Full plate | | 17 | 1500 gp | 65 lb. | encumbering (Str 15), hampering, hardened |
-| Heavy plate | | 18 | 7500 gp | 85 lb. | encumbering (Str 17), hampering, hardened |
+| Name | Armor Class (AC) | Cost | Weight | Properties | Variants |
+|:-----|:----------------:|-----:|-------:|:-----------|:---------|
+| Brigandine | 15 | 45 gp | 40 lb. | cumbersome (Str 11) | Coat of plates, Splint mail, Studded armor |
+| Full chain | 16 | 75 gp | 60 lb. | cumbersome (Str 13), restricting | Suit of chain mail, Tamati, Kusari |
+| Plate mail | 16 | 200 gp | 55 lb. | cumbersome (Str 13), restricting, hardened | Banded mail, Lorica segmentata |
+| Full plate | 17 | 1500 gp | 65 lb. | cumbersome (Str 15), restricting, hardened | Full harness, Knightly plate |
+| Heavy plate | 18 | 4000 gp | 85 lb. | cumbersome (Str 17), restricting, hardened | Stone plate |
 
 ##### Table: Shields
-| Name | Variants | Proficiency | Armor Class (AC) | Cost | Weight | Properties |
-|:-----|:---------|:-----------:|:----------------:|-----:|-------:|:-----------|
-| Small shield | Buckler, Leaf, Target | Light | +1 | 5 gp | 3 lb. | covering |
-| Medium shield | Heater, Kite, Parma, Round, Teardrop | Medium | +2 | 10 gp | 6 lb. | covering |
-| Large shield | Aspis, Body, Pavise, Tower | Heavy | +3 | 25 gp | 12 lb. | covering, oversized |
+| Name | Proficiency | Armor Class (AC) | Cost | Weight | Properties | Variants |
+|:-----|:-----------:|:----------------:|-----:|-------:|:-----------|:---------|
+| Small shield | Light | +1 | 5 gp | 3 lb. | covering | Buckler, Leaf, Pelte, Target |
+| Medium shield | Medium | +2 | 10 gp | 6 lb. | covering | Heater, Kite, Parma, Round, Teardrop |
+| Large shield | Heavy | +3 | 25 gp | 12 lb. | covering, oversized | Aspis, Body, Pavise, Tower |
 
 ##### Table: Helms
-| Name | Variants | Proficiency | Armor Class (AC) | Cost | Weight | Properties |
-|:-----|:---------|:-----------:|:----------------:|-----:|-------:|:-----------|
-| Cap | Kettle helm, Pot helm, Skullcap | Light | +1 with L armor | 2 gp | 1 lb. | occluding (1) |
-| Half helm| Chain coif, Barbute, Sallet, Skull | Medium | +1 with L/M armor | 8 gp | 2 lb. | occluding (2) |
-| Full helm | Bascinet, Bucket, Great helm | Heavy | +1 with H/M/L armor | 30 gp | 4 lb. | occluding (4) |
+| Name | Proficiency | Armor Class (AC) | Cost | Weight | Properties | Variants |
+|:-----|:-----------:|:----------------:|-----:|-------:|:-----------|:---------|
+| Cap | Light | +1 with L armor | 2 gp | 1 lb. | occluding (1) | Kettle helm, Leather hood, Padded cap, Pot helm, Skullcap |
+| Half helm | Medium | +1 with M armor | 8 gp | 2 lb. | occluding (2) | Chain coif, Barbute, Sallet, Skull |
+| Full helm | Heavy | +1 with H armor | 30 gp | 4 lb. | occluding (4) | Bascinet, Bucket, Great helm |
+
 
 </div>
 
@@ -576,7 +578,7 @@ High-quality weapons and armor are rare, valuable, and highly sought after so th
 
 #### Weapons
 
-* Add the **brutal**, **crushing**, or **high-crit** property.
+* Add the **brutal**, **staggering**, or **high-crit** property.
 * Add the **finesse** or **light** property, or remove the **heavy** property.
 * Add the **powerdraw** property to a shortbow or longbow or add the **repeating** property to a crossbow
 * Remove the **slow** or **weak** property.
@@ -587,9 +589,9 @@ High-quality weapons and armor are rare, valuable, and highly sought after so th
 #### Armor, Shield, or Helm
 
 * Add the **covering**, **hardened** or **spiked** property.
-* Remove the **hampering**, **occluding**, or **oversized** property.
-* Reduce the weight of the item and reduce the STR requirement for the **encumbering** property, or remove it entirely.
-* Increase the AC bonus or formula by 1 or more.
+* Remove the **restricting**, **occluding**, or **oversized** property.
+* Reduce the weight of the item and reduce the STR requirement for the **cumbersome** property, or remove it entirely.
+* Increase the AC bonus or formula by 1.
 
 ```
 ```
@@ -603,7 +605,7 @@ On the other hand you might wish to run a low-tech campaign or equip your NPCs w
 #### Weapon
 
 * Add the **heavy**, **slow**, **weak**, **two-handed**, or **loading** property.
-* Remove the **brutal**, **crushing**, **finesse**, **grappling**, **flexible**, **sneaky**, **high-crit**, **reach**, **lunging**, **versatile**, **light**, **powerdraw** or **reapeating** property
+* Remove the **brutal**, **staggering**, **finesse**, **grappling**, **flexible**, **sneaky**, **high-crit**, **reach**, **lunging**, **versatile**, **light**, **powerdraw** or **reapeating** property
 * Reduce the damage by one or more step, i.e. 1d10 becomes 1d8, 1d8 becomes 1d6, etc.
 * Increase the weight of the item
 
@@ -612,9 +614,9 @@ On the other hand you might wish to run a low-tech campaign or equip your NPCs w
 #### Armor, Shield, Helm
 
 * Remove the **covering**, **hardened**, or **spiked** property.
-* Add the **hampering**, **occluding**, or **oversized** property.
+* Add the **restricting**, **occluding**, or **oversized** property.
 * Reduce the AC bonus or formula by 1 or more.
-* Increase the weight of the item and add or increase the STR requirement for the **encumbering** property.
+* Increase the weight of the item and add or increase the STR requirement for the **cumbersome** property.
 
 <div class='pageNumber auto'></div>
 
@@ -628,6 +630,7 @@ Below are updates and changes to Proficiencies and Feats necessary due to the pr
 
 ### Armor Proficiencies
 ___
+
 * **Light Armor Proficiency.** Any feature that grants proficiency with light armor also grants proficiency with small shields and caps.
 
 * **Medium Armor Proficiency.** Any feature that grants proficiency with medium armor also grants proficiency with medium shields and half helms.
@@ -637,8 +640,8 @@ ___
 <div style='margin-top:20px'></div>
 
 ### Weapon Proficiencies
-
 ___
+
 * **Bard.** Gain proficiency in broad swords.
 
 * **Druid.** Gain proficiency in scythes, and long spears.
@@ -650,21 +653,23 @@ ___
 <div style='margin-top:20px'></div>
 
 ### Feats
-
 ___
+
 * **Charger.** If you use the **Charging Attack** optional rule then this feat grants you a free attack at the end of your Dash and does not require a Bonus Action.
 
 * **Crossbow Expert.** It takes a Bonus Action rather than an Action to reload a **repeating** crossbow.
 
-* **Grappler.** If you use the **Improved Grappling** optional rule then this feat grants Advantage on checks to pin a grappled target. 
+* **Grappler.** If you use the **Improved Grappling** optional rule then this feat grants Advantage on checks to restrain a grappled target. 
 
 * **Heavily Armored.** Gain proficiency with large shields and full helms.
 
-* **Heavy Armor Master.** You can ignore the **encumbering** property on heavy armor.
+* **Heavy Armor Master.** You can ignore the **cumbersome** and **restricting** properties on heavy armor and the **occluding** property of full helms.
+
+* **Light Armor Master.** Gain +1 to AC when wearing light armor. You can also ignore the **occluding** property on caps.
 
 * **Lightly Armored.** Gain proficiency with small shields and caps.
 
-* **Medium Armor Master.** You can ignore the **encumbering** and **hampering** properties on medium armor.
+* **Medium Armor Master.** You can ignore the **cumbersome** and **restricting** properties on medium armor and the **occluding** property of half helms.
 
 * **Moderately Armored.** Gain proficiency with medium shields and half helms.
 
@@ -672,45 +677,50 @@ ___
 
 * **Sharpshooter.** You can ignore the **heavy** property on range weapons.
 
-* **Shield Master.** You no longer suffer any drawbacks from the **oversized** or **encumbering** properties on shields and can ignore it.
+* **Shield Master.** You no longer suffer any drawbacks from the **oversized** properties on shields and can ignore it.
+
 
 <div style='margin-top:20px'></div>
 
 ### Optional Rules
-
 ___
+
 * **Attunements by Level.** A character can attune to a number of items equal to their current Proficiency modifier. This replaces the static value of 3 and slowly ramps up over the career of the character from 2 to 6. Artificer's Superior Attunement Feature grants a +1 to this value. 
 
-* **Better Inspiration.** You can use your Inspiration to reroll a d20 roll you just made. If the original roll had Advantage or Disadvantage the reroll also has Advantage or Disadvantage. You may also spend your Inspiration on behalf of another character.
+* **Awesome Points.** This replaces Inspiration. All characters receive 1 Awesome Point at the beginning of a session. Characters can be awarded more Awesome Points during play at the discretion of the DM. Actions that might merit an award include but are not limited to: portrayal of traits, bonds, ideals, flaws, and alignment, clever ideas, enjoyable storytelling, etc. There is no upper limit to the number of Awesome Points a character can have and they do not go away until used. You can use your Awesome Points to reroll a d20 roll you just made. If the original roll had Advantage or Disadvantage the reroll also has Advantage or Disadvantage. You may also spend your Awesome Point on behalf of an ally.
 
-* **Charging Attack.** When taking the Dash Action you can use a Bonus Action to make a single melee weapon attack or shove a creature at the end of your movement. If you use this variant rule then the **Charger** feat no longer requires a bonus action to make an attack. Use this rule if you want combat to feel more dynamic and fast paced.
+* **Charging Attack.** On the same turn when taking the Dash Action you can use a Bonus Action to make a single melee weapon attack or shove a creature at the end of your movement. If you use this variant rule and have the **Charger** feat you can make this attack or shove as a free action. Use this rule if you want combat to feel more dynamic and fast paced.
 
-* **Close Combat.** While grappled a creature suffers Disadvantage with any weapon attack unless the weapon has the **light** property. Use this rule if you want to emphasize the difficulty of bringing large or heavy weapons to bear while having your movement hampered or encourage the use of the Grapple Action.
+* **Close Combat.** While grappled a creature suffers Disadvantage with any weapon attack unless the weapon is natural or has the **light** property. Use this rule if you want to emphasize the difficulty of bringing large or heavy weapons to bear while having your movement hampered or encourage the use of the Grapple Action.
 
-* **Deflect Adjacent Missiles.** Monks can use their Deflect Missiles ability if one of their allies is the target and within 5'. If they do not successfully block all the damage, any remaining damage is split evenly between the monk and the ally they were trying to protect.
+* **Deflect Adjacent Missiles.** Monks can use their Deflect Missiles ability if one of their allies is the target and within 5'. If they do not successfully block all the damage, any remaining damage is taken by the monk.
 
 * **Delaying Initiative.** On the first round of combat after initiative has been determined and before you have taken your first turn you may choose to lower your initiative to any lower value after which this becomes your new initiative until a new initiative is called for.
+
+<div class='pageNumber auto'></div>
+
+\page
+___
 
 * **Drop Prone as a Reaction.** In response to being targeted by an attack you can see you can use your Reaction to drop Prone. This can be effective against range attacks. If being prone would grant full cover it instead grants three-quarter cover for the triggering attack.
 
 * **Flanking.** A coordinated attack from flanking positions is tactially advantageous. Although the Help Action is always an option in combat if you are Flanking with an ally you may perform the Help Action as a Reaction instead and can be triggered by the allies Attack. Flanking is defined by the rules described in the DMG, page 251, but does not grant Advantage automatically. This is a good option to add if your table misses tactical maneuvering on the battle field, but feel like the option presented in the DMG is too powerful. 
 
-<div class='pageNumber auto'></div>
-
-\page
-
-___
 * **Gain Exhaustion at 0 HP.** Each time a character is brought to 0 HP, assuming they are not killed outright, they gain a level of Exhaustion. This represents receiving a grievous wound that lingers even if they are brought back to 1 or more HP. Exhaustion levels accumulate as usual and it is possible to die from Exhaustion by being dropped to 0 HP too many times. Use this option if you feel like falling in combat doesn't have realistic consequences.
 
 * **Healer’s Kit Use and Spending Hit Dice.** In order to recover Hit Points by spending any number of Hit Dice during a Short Rest one charge of a Healer’s Kit must be spent on the character spending the Hit Dice. This represents using bandages, salves, and such to treat wounds. This restriction only applies to Hit Dice and not to features like Second Wind or any other sources of Healing
 
-* **Improved Grappling.** You can attempt to pin a creature grappled by you by making a separate grapple attack. If you succeed, you and the creature are both restrained until the grapple ends. If you use this rule then the **Grappler** feat grants advantage on this check.
+* **Improved Grappling.** While you have a creature grappled if you succeed on another grapple attack against the same target you and the creature are both restrained until the grapple ends. The **Grappler** feat grants advantage on this second grapple check. Anything that causes the grappled condition to end also ends the restrained condition.
 
 * **Recharge on a 20.** If a magic item with charges has a chance to be destroyed when the last charge is used then it also has a chance to recharge as well. When the last charge is used roll a d20. If the result is a 1 the item is destroyed as normal, however if the result is a 20 then the item immediately regains charges as if it had regained charges on the following dawn. This rule rewards the characters for taking a chance on that last charge when the stakes are high.
 
-* **Taking Damage While Grappling.** When a creature that is grappling another target takes damage it must succeed on a Constitution Saving Throw or release the grapple. The DC is 10 or equal to the damage taken, whichever is greater, similar to a Concentration check. Creatures that have special attacks that cause the grappled condition may automatically succeed on this check subject to the DM's ruling.
+* **Reduce Falling Damage.** While not incapacitated a character can reduce falling distance by making an Athletics or Acrobatics check and subtracting the result from the distance fallen. For example: a character falling 30 feet and rolls a 12 Athletics check is treated as only falling 18 feet and therefore takes only 1D6 bludgeoning damage from the fall. If the falling distance is reduced to less than 10 feet then the character takes no damage and is not prone.
 
-* **Untrained Help.** If you attempt the Help Action with a skill in which you are not Proficient you must first succeed on a DC 10 check. If you are Proficient in the skill or performing the Help Action in combat with a weapon in in which you are Proficient you succeed on this check automatically. Use this rule if you want to characters to emphasize their trained skills.
+* **Skill Checks as a Reaction.** Several skills can be used as a reaction to a specific cause. For example knowledge skills (Arcana, Nature, Religion, History) can be used as a reaction to identify something when first encountered, i.e. a creature as it attacks or spell as it is being cast. Perception can be used as a reaction to pinpoint a hidden creature’s location when it moves. Acrobatics can be used as a reaction to taking falling damage from being pushed or otherwise forcefully moved.
+
+* **Taking Damage While Grappling.** When a creature that is grappling another target takes damage it must succeed on a Constitution Saving Throw or release the grapple. The DC is 10 or equal to the damage taken, whichever is greater, identical to a concentration check for maintaining a spell. Creatures that have special attacks that cause the grappled condition may automatically succeed on this check subject to the DM's ruling.
+
+* **Untrained Help.** If you attempt the Help Action you must succeed at a DC/AC 10 check unless you are already proficient with the skill or weapon with which you are attempting to use. If you fail the check you grant disadvantage instead of advantage. Use this rule if you want to characters to emphasize their trained skills and want to avoid "piling on".
 
 
 <div class='pageNumber auto'></div>
@@ -751,5 +761,4 @@ This product was formatted using [The Homebrewery](http://www.naturalcrit.com/ho
 * v2.1 Update some property definitions, added weak to long spear
 * v2.2 Add weapon by damage type tables, better hyphenage, merge oversized and heavy weapon properties, include hardened proprety in armor tables, more optional rules, various minor updates, fixes, and adjustments
 * v2.3 Renamed propeties Bracing, Cumbersome, Restricting, Staggering. Removed Bastard Sword. Simplify some descriptions. Add Light Armor Master feat. Add new optional rules.
-
 <div class='pageNumber auto'></div>

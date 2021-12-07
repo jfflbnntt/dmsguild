@@ -1,27 +1,26 @@
 ### Feats
+___
 
-Below are updates and changes to Feats due to the new properties, armor, shields, weapons, and optional rules presented in the material.
+* **Charger.** If you use the **Charging Attack** optional rule then this feat grants you a free attack at the end of your Dash and does not require a Bonus Action.
 
-**Charger.** If you use the **Charging Attack** optional rule then this feat grants you a free attack at the end of your Dash and does not require a Bonus Action.
+* **Crossbow Expert.** It takes a Bonus Action rather than an Action to reload a **repeating** crossbow.
 
-**Crossbow Expert.** It takes a Bonus Action rather than an Action to reload a **repeating** crossbow.
+* **Grappler.** If you use the **Improved Grappling** optional rule then this feat grants Advantage on checks to restrain a grappled target. 
 
-**Grappler.** If you use the **Improved Grappling** optional rule then this feat grants Advantage on checks to restrain a grappled target. 
+* **Heavily Armored.** Gain proficiency with large shields and full helms.
 
-**Heavily Armored.** Gain proficiency with large shields and full helms.
+* **Heavy Armor Master.** You can ignore the **cumbersome** and **restricting** properties on heavy armor and the **occluding** property of full helms.
 
-**Heavy Armor Master.** You can ignore the **encumbering** and **hampering** properties on heavy armor and the **occluding** property of full helms.
+* **Light Armor Master.** Gain +1 to AC when wearing light armor. You can also ignore the **occluding** property on caps.
 
-**Light Armor Master.** Gain +1 to AC when wearing light armor. You can also ignore the **occluding** propoerty on caps.
+* **Lightly Armored.** Gain proficiency with small shields and caps.
 
-**Lightly Armored.** Gain proficiency with small shields and caps.
+* **Medium Armor Master.** You can ignore the **cumbersome** and **restricting** properties on medium armor and the **occluding** property of half helms.
 
-**Medium Armor Master.** You can ignore the **encumbering** and **hampering** properties on medium armor and the **occluding** property of half helms.
+* **Moderately Armored.** Gain proficiency with medium shields and half helms.
 
-**Moderately Armored.** Gain proficiency with medium shields and half helms.
+* **Polearm Master.** Add pole hammer, guisarme, long spear, pike, and spear to the list of weapons that work with this feat. You can also ignore the **heavy** property on reach weapons.
 
-**Polearm Master.** Add pole hammer, guisarme, long spear, pike, and spear to the list of weapons that work with this feat. You can also ignore the **heavy** property on reach weapons.
+* **Sharpshooter.** You can ignore the **heavy** property on range weapons.
 
-**Sharpshooter.** You can ignore the **heavy** property on range weapons.
-
-**Shield Master.** You no longer suffer any drawbacks from the **oversized** properties on shields and can ignore it.
+* **Shield Master.** You no longer suffer any drawbacks from the **oversized** properties on shields and can ignore it.
