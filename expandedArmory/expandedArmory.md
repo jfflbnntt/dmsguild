@@ -84,7 +84,7 @@ ___
 
 * **Reapeating.** When applied to a crossbow of any type this property replaces the loading property of that weapon when used with an appropriate magazine that still has ammunition in it. The typical magazine holds up to 6 bolts. Reloading a repeating crossbow takes an action. The Crossbow Expert Feat reduces the reload time to a Bonus Action.
 
-* **Slow.** These weapons are unbalanced, heavy, or too awkward to use quickly. Therefore any attack made as a Reaction with this weapon has Disadvantage. This includes opportunity attacks and readied attacks. Large **crushing**, **heavy** and **two-handed** weapons tend to be **slow**. A **slow** weapon should not have the **brace** property.
+* **Slow.** These weapons are unbalanced, heavy, or too awkward to use quickly. Therefore any attack made as a Reaction with this weapon has Disadvantage. This includes opportunity attacks and readied attacks. Large **staggering**, **heavy** and **two-handed** weapons tend to be **slow**. A **slow** weapon should not have the **brace** property.
 
 * **Sneaky.** This weapon is especially dangerous when used to strike a distracted or unaware foe. If you hit with this weapon and had Advantage with the attack, use the higher damage die listed. It can also be used with a Rogue's Sneak Attack feature, if not already allowed. **Sneaky** weapons tend to be simple, small, silent, and easily concealable. They also tend to be low damaging. A sneaky weapon should not also have the **heavy**, **two-handed**, or **versatile** properties.
 
@@ -191,13 +191,13 @@ ___
 | Dagger | 1d4 piercing or slashing | 2 gp | 1 lb. | finesse, light, monk, sneaky (1d6), thrown (20/60), underwater | Dirk, Knife, Stiletto |
 | Sickle | 1d4 slashing | 1 gp | 2 lb. | brutal, light, monk | Billhook, Machete, Kama |
 | Flail | 1d6 bludgeoning | 5 gp | 2 lb. | flexible, monk | Light flail |
-| Mace | 1d6 bludgeoning | 5 gp | 3 lb. | crushing, monk | Baton, Truncheon |
+| Mace | 1d6 bludgeoning | 5 gp | 3 lb. | monk, staggering | Baton, Truncheon |
 | Quarter staff | 1d6 bludgeoning | 2 sp | 4 lb. | lunging (1d4), monk, versatile (1d8) | Single stick |
 | Javelin | 1d6 piercing | 5 sp | 2 lb. | high-crit, lunging (1d4), monk, thrown (30/90), underwater | Pilum |
 | Pick | 1d6 piercing | 5 gp | 4 lb. | high-crit, light, monk, slow | Adze, Hoe, Light pick |
 | Spear | 1d6 piercing | 2 gp | 3 lb. | bracing, high-crit, lunging (1d4), monk, thrown (20/60), underwater, versatile (1d8) | Harpoon, Pitchfork, Trident |
 | Axe | 1d6 slashing | 5 gp | 2 lb. | light, monk, thrown (20/60) | Hand axe, Hatchet, Throwing axe |
-| Great club | 1d8 bludgeoning | 2 sp | 10 lb. | crushing, slow, two-handed | Two-handed club |
+| Great club | 1d8 bludgeoning | 2 sp | 10 lb. | slow, staggerubg, two-handed | Two-handed club |
 | Shovel | 1d8 slashing | 5 sp | 2 lb. | slow, two-handed | Spade |
 | Scythe | 1d8 slashing | 2 gp | 10 lb. | brutal, heavy, slow, two-handed | |
 | Long spear | 2d4 piercing | 5 gp | 6 lb. | bracing, high-crit, reach, two-handed, underwater, weak | Boar spear, Great spear, War spear |
@@ -304,12 +304,12 @@ ___
 | Nunchaku | 1d4 bludgeoning | 6 gp | 1 lb. | flexible, light, monk | |
 | Chain | 1d6 bludgeoning or 1d4 slashing | 25 gp | 10 lb. | flexible, grappling, heavy, reach, slow, two-handed | Chain whip, Kusari-gama |
 | War flail | 1d8 bludgeoning | 50 gp | 8 lb. | flexible, slow, versatile (1d10) | Ball and chain, Military flail |
-| War hammer | 1d8 bludgeoning | 15 gp | 6 lb. | crushing, slow, versatile (1d10) | Military hammer |
-| Morning star | 1d4 bludgeoning and 1d4 piercing | 15 gp | 8 lb. | crushing, slow | Spiked mace |
-| Pole hammer | 1d10 bludgeoning or 1d8 piercing | 10 gp | 8 lb. | crushing, heavy, reach, slow, two-handed | Bec de corbin, Lucerne hammer |
+| War hammer | 1d8 bludgeoning | 15 gp | 6 lb. | slow, staggering, versatile (1d10) | Military hammer |
+| Morning star | 1d4 bludgeoning and 1d4 piercing | 15 gp | 8 lb. | slow, staggering | Spiked mace |
+| Pole hammer | 1d10 bludgeoning or 1d8 piercing | 10 gp | 8 lb. | heavy, reach, slow, staggering, two-handed | Bec de corbin, Lucerne hammer |
 | Pike | 1d10 piercing | 10 gp | 9 lb. | brace, heavy, high-crit, reach, two-handed, underwater | Partisan, Military fork, Ranseur, Spetum |
 | Great flail | 1d12 bludgeoning | 25 gp | 10 lb. | flexible, heavy, slow, two-handed | Two-handed flail |
-| Maul | 2d6 bludgeoning | 20 gp | 10 lb. | crushing, heavy, slow, two-handed | Great hammer, Two-handed hammer |
+| Maul | 2d6 bludgeoning | 20 gp | 10 lb. | heavy, slow, staggering, two-handed | Great hammer, Two-handed hammer |
 
 </div>
 
@@ -329,7 +329,7 @@ ___
 | War pick | 1d8 piercing | 8 gp | 6 lb. | high-crit, slow, versatile (1d10) | Military pick |
 | Light lance | 1d8 piercing | 10 gp | 6 lb. | high-crit, mounted, reach, slow | |
 | Rapier | 1d8 piercing | 25 gp | 2 lb. | finesse, high-crit, lunging (1d6) | Epee, Foil, Fencing sword |
-| Morning star | 1d4 bludgeoning and 1d4 piercing | 15 gp | 8 lb. | crushing, slow | Spiked mace |
+| Morning star | 1d4 bludgeoning and 1d4 piercing | 15 gp | 8 lb. | slow, staggering | Spiked mace |
 | Lance | 1d10 piercing | 15 gp | 8 lb. | high-crit, mounted, reach, slow | |
 | Pike | 1d10 piercing | 10 gp | 9 lb. | bracing, heavy, high-crit, reach, two-handed, underwater | Partisan, Military fork, Ranseur, Spetum |
 | Heavy lance | 1d12 piercing | 20 gp | 10 lb. | high-crit, mounted, reach, slow | |
@@ -438,7 +438,7 @@ ___
 
 * **Restricting.** Armor with the this property is bulky and restricts the full range of motion. It cannot be easily disguised and makes it difficult to move quickly and quietly. The wearer has Disadvantage with Dexterity (Stealth) checks, Dexterity (Acrobatics) checks, and Strength (Athletics) checks relating to swimming, climbing, and jumping while wearing this armor. This property replaces the Stealth Disadvantage column of the PHB armor table.
 
-* **Spiked.** Armor and shields with this property have been embellished with intimidating metal spikes or something equally dangerous. A shield with spikes does 1d4 piercing damage instead of bludgeoning when used as a weapon or as part of a shove attack. A creature who grapples or is grappled by another creature in spiked armor takes 1d4 piercing damage from the spikes. Armor with spikes also gains the **hampering** property if it doesn't already.
+* **Spiked.** Armor and shields with this property have been embellished with intimidating metal spikes or something equally dangerous. A shield with spikes does 1d4 piercing damage instead of bludgeoning when used as a weapon or as part of a shove attack. A creature who grapples or is grappled by another creature in spiked armor takes 1d4 piercing damage from the spikes. Armor with spikes also gains the **restricting** property if it doesn't already.
 
 <div style='margin-top:10px'></div>
 
