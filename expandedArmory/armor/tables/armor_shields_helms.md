@@ -1,25 +1,25 @@
 ##### Table: Light Armor
 | Name | Variants | Armor Class (AC) | Cost | Weight | Properties |
 |:-----|:---------|:----------------:|-----:|-------:|:-----------|
-| Gambeson | Passeed | 11 + Dex modifier | 5 gp | 10 lb. | |
+| Gambeson | Padded | 11 + Dex modifier | 5 gp | 10 lb. | |
 | Leather | Wicker | 11 + Dex modifier |  10 gp  | 5 lb. | |
-| Ring mail | Bone | 12 + Dex modifier | 35 gp | 15 lb. | |
+| Ring mail | Bone | 12 + Dex modifier | 35 gp | 15 lb. | ||
 
 ##### Table: Medium Armor
 | Name | Variants | Armor Class (AC) | Cost | Weight | Properties |
 |:-----|:---------|:----------------:|-----:|-------:|:-----------|
 | Hide | Boiled leather, Piecemeal, Chitin | 12 + Dex modifier (max 2) | 15 gp |  15 lb. | |
 | Chain shirt | Coat of mail, Byrnie, Hauberk, Lorica hamata | 13 + Dex modifier (max 2) | 30 gp |  20 lb. | |
-| Scale mail | Coin, Lamellar, Lorica squamata | 14 + Dex modifier (max 2) | 50 gp | 45 lb. | cumbersome (11), restricting |
+| Scale mail | Coin, Lamellar, Lorica squamata | 14 + Dex modifier (max 2) | 50 gp | 45 lb. | restricting |
 | Breastplate | Cuirass, Disc, Mirror, Lorica musculata | 14 + Dex modifier (max 2) | 400 gp |  30 lb. | hardened |
 | Half plate | Field plate, Bronze plate | 15 + Dex modifier (max 2) | 750 gp | 40 lb. | cumbersome (Str 11), restricting, hardened |
 
 ##### Table: Heavy Armor
 | Name | Variants | Armor Class (AC) | Cost | Weight | Properties |
 |:-----|:---------|:----------------:|-----:|-------:|:-----------|
-| Brigandine | Coat of plates, Splint mail, Studded armor | 15 | 45 gp | 40 lb. | cumbersome (Str 11), restricting |
+| Brigandine | Coat of plates, Splint mail, Studded armor | 15 | 45 gp | 40 lb. | cumbersome (Str 11) |
 | Full chain | Suit of chain mail, Tamati, Kusari | 16 | 75 gp | 60 lb. | cumbersome (Str 13), restricting |
-| Plate mail | Banded mail, Lorica segmentata | 16 | 200 gp | 55 lb. | cumbersome (Str 15), restricting |
+| Plate mail | Banded mail, Lorica segmentata | 16 | 200 gp | 55 lb. | cumbersome (Str 13), restricting, hardened |
 | Full plate | Full harness, Knightly plate | 17 | 1500 gp | 65 lb. | cumbersome (Str 15), restricting, hardened |
 | Heavy plate | Stone plate | 18 | 4000 gp | 85 lb. | cumbersome (Str 17), restricting, hardened |
 
