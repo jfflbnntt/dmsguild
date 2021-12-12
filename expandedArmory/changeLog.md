@@ -4,4 +4,4 @@
 * v2.0 New properties, armor, shields, helms, weapons, and rules
 * v2.1 Update some property definitions, added weak to long spear
 * v2.2 Add weapon by damage type tables, better hyphenage, merge oversized and heavy weapon properties, include hardened proprety in armor tables, more optional rules, various minor updates, fixes, and adjustments
-* v2.3 Renamed propeties Bracing, Cumbersome, Restricting, Staggering. Removed Bastard Sword. Simplify some descriptions. Add Light Armor Master feat. Add new optional rules.
+* v2.3 Renamed properties: Bracing, Cumbersome, Restricting, Staggering. Updated some weapons. Simplify some descriptions. Add Light Armor Master feat. Add new optional rules.
