@@ -402,7 +402,8 @@ ___
 | Repeating hand crossbow | 1d6 piercing | 375 gp | 5 lb. | ammunition (30/120), light, loading, repeating, underwater | |
 | Long bow | 1d8 piercing | 50 gp | 2 lb. | ammunition (150/600), heavy, two-handed | War bow |
 | Recurve long bow | 1d8 piercing | 100 gp | 3 lb. | ammunition (200/800), heavy, powerdraw, two-handed | Great bow, Composite war bow |
-| Heavy crossbow | 1d10 piercing | 50 gp | 18 lb. | ammunition (100/400), heavy, loading, two-handed, underwater | Arbalest |
+| Medium crossbow | 1d10 piercing | 50 gp | 9 lb. | ammunition (100/400), loading, two-handed, underwater | |
+| Heavy crossbow | 1d12 piercing | 75 gp | 18 lb. | ammunition (120/480), heavy, loading, two-handed, underwater | Arbalest |
 
 
 </div>
