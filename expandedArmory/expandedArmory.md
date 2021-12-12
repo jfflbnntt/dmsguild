@@ -117,7 +117,7 @@ ___
 | Finesse    | Dagger, Dart, Rapier, Scimitar, Scourge, Short sword, Whip |
 | Flexible   | Flail, Great flail, Heavy flail, Lasso, Nanchaku, Scourge, Spiked chain, Whip |
 | Grappling  | Bolas, Lasso, Man-catcher, Net, Spiked chain, Whip |
-| Heavy      | Bastard sword, Glaive, Great axe, Great flail, Great hammer, Great pick, Great sword, Halberd, Heavy crossbow, Long bow, Man-catcher, Pike, Pole hammer, Recurve long bow, Repeating heavy crossbow, Scythe, Spiked chain |
+| Heavy      | Glaive, Great axe, Great flail, Great hammer, Great pick, Great sword, Halberd, Heavy crossbow, Long bow, Man-catcher, Pike, Pole hammer, Recurve long bow, Repeating heavy crossbow, Scythe, Spiked chain |
 | High-crit  | Great pick, Heavy lance, Javelin, Jousting lance, Lance, Light lance, Long spear, Pick, Pike, Rapier, Spear, War pick |
 | Light      | Axe, Clawed gauntlet, Club, Dagger, Gauntlet, hammer, Hand crossbow, Nunchaku, Pick, Punching dagger, Scimitar, Scourge, Short sword, Sickle, Spiked gauntlet, Throwing knife, Unarmed strike |
 | Loading    | Blowgun, Hand crossbow, Heavy crossbow, Light crossbow |
