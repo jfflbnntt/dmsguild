@@ -10,7 +10,7 @@
 | Flail | 1d6 bludgeoning | 5 gp | 2 lb. | flexible, monk | Light flail |
 | Mace | 1d6 bludgeoning | 5 gp | 3 lb. | monk, staggering | Baton, Truncheon |
 | Quarter staff | 1d6 bludgeoning | 2 sp | 4 lb. | lunging (1d4), monk, versatile (1d8) | Single stick |
-| Javelin | 1d6 piercing | 5 sp | 2 lb. | high-crit, lunging (1d4), monk, thrown (30/90), underwater | Pilum |
+| Javelin | 1d6 piercing | 5 sp | 2 lb. | high-crit, monk, thrown (30/90), underwater | Pilum |
 | Pick | 1d6 piercing | 5 gp | 4 lb. | high-crit, light, monk, slow | Adze, Hoe, Light pick |
 | Spear | 1d6 piercing | 2 gp | 3 lb. | bracing, high-crit, lunging (1d4), monk, thrown (20/60), underwater, versatile (1d8) | Harpoon, Pitchfork, Trident |
 | Axe | 1d6 slashing | 5 gp | 2 lb. | light, monk, thrown (20/60) | Hand axe, Hatchet, Throwing axe |
