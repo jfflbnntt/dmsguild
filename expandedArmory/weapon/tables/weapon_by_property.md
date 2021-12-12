@@ -2,7 +2,7 @@
 | Property   | Weapons |
 |:-----------|:--------|
 | Ammunition | Blowgun, Bows, Dart thrower, Crossbows, Recurve bows, Repeating crossbows, Sling, Staff sling |
-| Bracing    | Long spear, Pike, Spear |
+| Bracing    | Pike, Spears |
 | Brutal     | Battle axe, Great axe, Halberd, Scimitar, Scythe, Sickle |
 | Finesse    | Dagger, Dart, Rapier, Scimitar, Scourge, Short sword, Whip |
 | Flexible   | Flails, Lasso, Nanchaku, Scourge, Spiked chain, Whip |
