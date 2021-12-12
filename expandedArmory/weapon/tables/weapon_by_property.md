@@ -11,7 +11,7 @@
 | High-crit  | Great pick, Heavy lance, Javelin, Jousting lance, Lance, Light lance, Long spear, Pick, Pike, Rapier, Spear, War pick |
 | Light      | Axe, Clawed gauntlet, Club, Dagger, Gauntlet, hammer, Hand crossbow, Nunchaku, Pick, Punching dagger, Scimitar, Scourge, Short sword, Sickle, Spiked gauntlet, Throwing knife, Unarmed strike |
 | Loading    | Blowgun, Hand crossbow, Heavy crossbow, Light crossbow |
-| Lunging    | Javelin, Quarter staff, Spear, Rapier |
+| Lunging    | Quarter staff, Spear, Rapier |
 | Monk       | Axe, Clawed gauntlet, Club, Dagger, Flail, Gauntlet, Hammer, Javelin, Mace, Nunchaku, Pick, Punching dagger, Quarter staff, Short sword, Shovel, Sickle, Spear, Spiked gauntlet, Unarmed strike, Whip |
 | Mounted    | Heavy lance, Jousting lance, Lance, Light lance |
 | Reach      | Glaive, Halberd, Heavy lance, Jousting lance, Lance, Lasso, Light lance, Long spear, Man-catcher, Pike, Pole hammer, Spiked chain, Whip |
