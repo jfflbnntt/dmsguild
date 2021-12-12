@@ -121,7 +121,7 @@ ___
 | High-crit  | Great pick, Heavy lance, Javelin, Jousting lance, Lance, Light lance, Long spear, Pick, Pike, Rapier, Spear, War pick |
 | Light      | Axe, Clawed gauntlet, Club, Dagger, Gauntlet, hammer, Hand crossbow, Nunchaku, Pick, Punching dagger, Scimitar, Scourge, Short sword, Sickle, Spiked gauntlet, Throwing knife, Unarmed strike |
 | Loading    | Blowgun, Hand crossbow, Heavy crossbow, Light crossbow |
-| Lunging    | Javelin, Quarter staff, Spear, Rapier |
+| Lunging    | Quarter staff, Spear, Rapier |
 | Monk       | Axe, Clawed gauntlet, Club, Dagger, Flail, Gauntlet, Hammer, Javelin, Mace, Nunchaku, Pick, Punching dagger, Quarter staff, Short sword, Shovel, Sickle, Spear, Spiked gauntlet, Unarmed strike, Whip |
 | Mounted    | Heavy lance, Jousting lance, Lance, Light lance |
 | Reach      | Glaive, Halberd, Heavy lance, Jousting lance, Lance, Lasso, Light lance, Long spear, Man-catcher, Pike, Pole hammer, Spiked chain, Whip |
@@ -193,7 +193,7 @@ ___
 | Flail | 1d6 bludgeoning | 5 gp | 2 lb. | flexible, monk | Light flail |
 | Mace | 1d6 bludgeoning | 5 gp | 3 lb. | monk, staggering | Baton, Truncheon |
 | Quarter staff | 1d6 bludgeoning | 2 sp | 4 lb. | lunging (1d4), monk, versatile (1d8) | Single stick |
-| Javelin | 1d6 piercing | 5 sp | 2 lb. | high-crit, lunging (1d4), monk, thrown (30/90), underwater | Pilum |
+| Javelin | 1d6 piercing | 5 sp | 2 lb. | high-crit, monk, thrown (30/90), underwater | Pilum |
 | Pick | 1d6 piercing | 5 gp | 4 lb. | high-crit, light, monk, slow | Adze, Hoe, Light pick |
 | Spear | 1d6 piercing | 2 gp | 3 lb. | bracing, high-crit, lunging (1d4), monk, thrown (20/60), underwater, versatile (1d8) | Harpoon, Pitchfork, Trident |
 | Axe | 1d6 slashing | 5 gp | 2 lb. | light, monk, thrown (20/60) | Hand axe, Hatchet, Throwing axe |
