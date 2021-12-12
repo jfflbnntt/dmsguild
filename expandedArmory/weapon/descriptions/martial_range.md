@@ -1,6 +1,6 @@
 ### Martial Range Weapons
 
-Martial range weapons require more training and practice than simple range weapons in order to use them effectively. Trained assassins use blowguns, throwing knives, and hand crossbows while military marksmen typically use long bows and heavy crossbows. Martial range weapons tend to have longer ranges and deal more damage than their simple range weapon counterparts, while costing more and being less common.
+Martial range weapons require more training and practice than simple range weapons in order to use them effectively. Trained assassins use blowguns, throwing knives, and hand crossbows while military marksmen typically use long bows, medium crossbows, and heavy crossbows. Martial range weapons tend to have longer ranges and deal more damage than their simple range weapon counterparts, while costing more and being less common.
 
 
 **Blowgun.** A long hollow tube with a mouth piece meant for firing small darts, often poisoned. A favored weapon among jungle tribes and assassins.
@@ -14,6 +14,8 @@ Martial range weapons require more training and practice than simple range weapo
 **Heavy Crossbow.** A heavier version of a crossbow equipped with a stirrup or hand crank to make loading easier. Due to the force required to draw the bow it is unlikely to find a repeating heavy crossbow. Heavy crossbows are **heavy** and are difficult to use while mounted.
 
 **Long Bow or Recurve Long Bow.** A tall bow that takes significant training and practice to use effectively. Long bows can also be recurved or made of composite materials to increase their range and power even more. Long bows are **heavy** and are difficult to use while mounted.
+
+**Medium Crossbow.** A powerful martial crossbow that can be used from horseback.
 
 **Staff Sling.** A sling mounted on a short staff which is used as a fulcrum to hurl stones and bullets much farther and faster than normally possible. The staff portion of the weapon can also be used in melee as a two-handed bludgeoning weapon if necessary.
 
