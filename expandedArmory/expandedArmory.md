@@ -82,7 +82,7 @@ ___
 
 * **Reach.** This weapon adds 5 feet to your reach when you Attack with it, as well as when determining your reach for Opportunity Attacks with it. Polearms, two-handed weapons, whips, and chains all tend to be reach weapons. Reach weapons also tend to be **heavy** and **slow**.
 
-* **Reapeating.** When applied to a crossbow of any type this property replaces the loading property of that weapon when used with an appropriate magazine that still has ammunition in it. The typical magazine holds up to 6 bolts. Reloading a repeating crossbow takes an action. The Crossbow Expert Feat reduces the reload time to a Bonus Action.
+* **Repeating.** When applied to a crossbow of any type this property replaces the loading property of that weapon when used with an appropriate magazine that still has ammunition in it. The typical magazine holds up to 6 bolts. Reloading a repeating crossbow takes an action. The Crossbow Expert Feat reduces the reload time to a Bonus Action.
 
 * **Slow.** These weapons are unbalanced, heavy, or too awkward to use quickly. Therefore any attack made as a Reaction with this weapon has Disadvantage. This includes opportunity attacks and readied attacks. Large **staggering**, **heavy** and **two-handed** weapons tend to be **slow**. A **slow** weapon should not have the **brace** property.
 
