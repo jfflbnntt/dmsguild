@@ -197,7 +197,7 @@ ___
 | Pick | 1d6 piercing | 5 gp | 4 lb. | high-crit, light, monk, slow | Adze, Hoe, Light pick |
 | Spear | 1d6 piercing | 2 gp | 3 lb. | bracing, high-crit, lunging (1d4), monk, thrown (20/60), underwater, versatile (1d8) | Harpoon, Pitchfork, Trident |
 | Axe | 1d6 slashing | 5 gp | 2 lb. | light, monk, thrown (20/60) | Hand axe, Hatchet, Throwing axe |
-| Great club | 1d8 bludgeoning | 2 sp | 10 lb. | slow, staggerubg, two-handed | Two-handed club |
+| Great club | 1d8 bludgeoning | 2 sp | 10 lb. | slow, staggering, two-handed | Two-handed club |
 | Shovel | 1d8 slashing | 5 sp | 2 lb. | slow, two-handed | Spade |
 | Scythe | 1d8 slashing | 2 gp | 10 lb. | brutal, heavy, slow, two-handed | |
 | Long spear | 2d4 piercing | 5 gp | 6 lb. | bracing, high-crit, reach, two-handed, underwater, weak | Boar spear, Great spear, War spear |
