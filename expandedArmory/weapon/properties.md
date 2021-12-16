@@ -3,7 +3,7 @@ ___
 
 * **Ammunition.** You can use a weapon that has the ammunition property to make a ranged Attack only if you have ammunition to fire from the weapon. Each time you Attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the Attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. If you use a weapon that has the ammunition property to make a melee Attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Ammunition weapons have a maximum range which is 4x its short range.
 
-* **Bracing.** These weapons are more effective when braced and set against charging opponents. If you are proficient with this weapon, Readied Attack Actions against an advancing opponent have Advantage. Brace weapons tend to be **two-handed** or **versatile** piercing weapons, like spears and pikes. Bracing weapons should not also have the **slow** property.
+* **Bracing.** These weapons are most effective when braced and set against charging opponents or while on a charging mount. If you are proficient with this weapon Readied Attack Actions against an advancing opponent and Charge attacks have Advantage. These weapons can also be couched in one hand while mounted, ignoring the **two-handed** property if present. Bracing weapons tend to be **two-handed** or **versatile** piercing weapons, like spears and pikes. Bracing weapons should not also have the **slow** property.
 
 * **Brutal.** These weapons create deep vicious wounds that tend to bleed. If you are proficient with this weapon treat any 1 rolled on a weapon damage die as a 2. This includes any additional critical hit dice and dice provided by sneak attack, but does not include dice provided by spells or other features. This property is negated by **hardened** armor. Axes and other curved slashing weapons tend to have the brutal property. 
 
@@ -13,7 +13,7 @@ ___
 
 * **Grappling.** These weapons are made from entangling cords, chains, nets, or have special hooks designed for grabbing and can be used to make a grappling attack instead of doing damage, if you are proficient. Using a weapon in this way does not require you to have a free hand. You can make a melee or ranged weapon attack roll in place of a STR (Athletics) check and in all other ways works the same as a normal grappling attack. To maintain a grapple with this weapon you must keep at least one hand on it. **Grappling** weapons tend to also be **flexible** weapons, but aren't required to be.
 
-* **Heavy.** A heavy weapon’s size and bulk make difficult to wield for small creatures and for all creatures while mounted. A small creature or mounted creature has Disadvantage on Attack rolls with **heavy** weapons. Heavy weapons tend to be **slow** and **two-handed** and should not also have the **mounted** property.
+* **Heavy.** A heavy weapon’s size and bulk make difficult to wield for small creatures and for all creatures while mounted. A small creature or mounted creature has Disadvantage on Attack rolls with **heavy** weapons. Heavy weapons tend to be **slow** and **two-handed**.
 
 * **High-crit.** These weapons deal higher than normal damage on a critical hit due to cruel spikes or barbs that pierce armor and strike at vital organs. If you are proficient with this weapon and get a critical hit, any weapon damage die that is a max value (i.e. 6 on a d6) can be rolled again and added to the total damage. These additional dice are not rolled again even if they result in a max value. This feature is negated by targets wearing **hardened** armor. Impaling weapons like picks and spears tend to be **high-crit**.
 
@@ -24,8 +24,6 @@ ___
 * **Lunging.** Some one-handed weapons are long and light enough to be used to sacrifice power to gain reach. When making a reach attack with a **lunging** weapon use the lower damage die listed in parentheses. You cannot use this feature while holding the weapon in both hands or if you are not proficient with this weapon. A **lunging** weapon is typically not also **heavy**, **reach**, or **two-handed**.
 
 * **Monk.** Weapons with this property count as Monk weapons that can be used with the Martial Arts feature. **Monk** weapons tend to be simple weapons without the **heavy** or **two-handed** properties, however there are a few select martial weapons that are specifically included.
-
-* **Mounted.** Mounted weapons are most effective when used while mounted. You have disadvantage when you use a mounted weapon to attack a target within 5 feet of you. Also, a mounted weapon requires two hands to wield when you aren't mounted. Mounted weapons tend to be piercing, **slow**, and **reach** weapons.
 
 * **Powerdraw.** Especially powerful bows are constructed of reinforced, rare, or composite materials while others are recurved. These bows derive their damage from the increased strength necessary to pull it. When applied to a short bow or long bow this property increases the range and allows you to use your Strength modifier for damage rolls in place of Dexterity. **Powerdraw** bows are rare and valuable.
 

@@ -1,16 +1,32 @@
 ##### Table: Martial Melee Weapons
 | Name | Variants | Damage | Cost | Weight | Properties |
 |:-----|:---------|:-------|-----:|-------:|:-----------|
-| Whip | Bull-whip | 1d4 slashing | 2 gp | 3 lb. | finesse, flexible, grappling, monk, reach |
-| Jousting lance | | 1d6 piercing | 5 gp | 4 lb. | high-crit, mounted, reach, slow |
-| Broad sword | Arming sword, Jian, Viking sword| 1d6 slashing | 10 gp | 4 lb. | versatile (2d4) |
-| War flail | Ball and chain, Military flail | 1d8 bludgeoning | 50 gp | 8 lb. | flexible, slow, versatile (1d10)
-| War hammer | Military hammer | 1d8 bludgeoning | 15 gp | 6 lb. | crushing, slow, versatile (1d10) |
-| War pick | Military pick | 1d8 piercing | 8 gp | 6 lb. | high-crit, slow, versatile (1d10) |
-| Light lance | | 1d8 piercing | 10 gp | 6 lb. | high-crit, mounted, reach, slow |
-| Rapier | Epee, Foil, Fencing sword | 1d8 piercing | 25 gp | 2 lb. | finesse, high-crit, lunging (1d6) |
-| Battle axe | Khopesh, Military cleaver, War axe | 1d8 slashing | 15 gp | 4 lb. | brutal, slow, versatile (1d10) |
-| Long sword | Bastard sword, Katana, War sword | 1d8 slashing | 15 gp | 5 lb. | versatile (1d10) |
-| Morning star | Spiked mace | 1d4 bludgeoning and 1d4 piercing | 15 gp | 8 lb. | crushing, slow |
-| Lance | | 1d10 piercing | 15 gp | 8 lb. | high-crit, mounted, reach, slow |
-| Heavy lance | | 1d12 piercing | 20 gp | 10 lb. | high-crit, mounted, reach, slow |
+| gauntlet                 | 1d2 bludgeoning                  | 2       | 1 lb.      | light, monk                                                                          | brass knuckles, cestus                       |
+| nunchaku                 | 1d4 bludgeoning                  | 6       | 1 lb.      | flexible, light, monk                                                                |                                              |
+| spiked gauntlet          | 1d4 piercing                     | 5       | 1 lb.      | light, monk                                                                          |                                              |
+| man-catcher              | 1d4 piercing                     | 30      | 8 lb.      | grappling, heavy, reach, two-handed, underwater                                      |                                              |
+| whip                     | 1d4 slashing                     | 2       | 3 lb.      | finesse, flexible, grappling, monk, reach                                            | bull-whip                                    |
+| clawed gauntlet          | 1d4 slashing                     | 5       | 1 lb.      | light, monk                                                                          | Bagh nakh                                    |
+| chain whip               | 1d6 bludgeoning or 1d4 slashing  | 25      | 10 lb.     | flexible, grappling, heavy, reach, slow, two-handed                                  | kusari-gama, spiked chain                    |
+| punching dagger          | 1d6 piercing                     | 5       | 1 lb.      | light, monk, sneaky (1d8), underwater                                                | katar, knuckle knife, sai, siangham          |
+| short sword              | 1d6 piercing                     | 10      | 2 lb.      | finesse, light, monk, underwater                                                     | gladius, hanger, small sword, xiphos         |
+| scimitar                 | 1d6 slashing                     | 15      | 3 lb.      | brutal, finesse, light                                                               | cutlass, dao, sabre, falchion, kukri, tulwar |
+| scourge                  | 1d6 slashing                     | 3       | 2 lb.      | finesse, flexible, light                                                             | cat-o-nine-tails, lash                       |
+| broad sword              | 1d6 slashing                     | 10      | 4 lb.      | versatile (2d4)                                                                      | arming sword, viking sword, jian             |
+| war flail                | 1d8 bludgeoning                  | 50      | 8 lb.      | flexible, slow, versatile (1d10)                                                     | ball and chain, military flail               |
+| war hammer               | 1d8 bludgeoning                  | 15      | 6 lb.      | slow, staggering, versatile (1d10)                                                   | military hammer                              |
+| war pick                 | 1d8 piercing                     | 8       | 6 lb.      | high crit, slow, versatile (1d10)                                                    | military pick                                |
+| rapier                   | 1d8 piercing                     | 25      | 2 lb.      | finesse, high crit, lunging (1d6)                                                    | epee, foil, fencing sword                    |
+| battle axe               | 1d8 slashing                     | 15      | 4 lb.      | brutal, slow, versatile (1d10)                                                       | war axe, khopesh, military cleaver           |
+| long sword               | 1d8 slashing                     | 15      | 5 lb.      | versatile (1d10)                                                                     | war sword, bastard sword, katana             |
+| morning star             | 1d4 bludgeoning and 1d4 piercing | 15      | 8 lb.      | slow, staggering                                                                     | spiked mace                                  |
+| glaive                   | 2d4 slashing                     | 10      | 8 lb.      | heavy, reach, two-handed                                                             | bill, fauchard, guisarme                     |
+| pole hammer              | 1d10 bludgeoning or 1d8 piercing | 10      | 8 lb.      | heavy, reach, slow, staggering, two-handed                                           | bec de corbin, lucerne hammer                |
+| lance                    | 1d10 piercing                    | 15      | 8 lb.      | bracing, high crit, reach, two-handed, underwater, weak                              | great spear, heavy lance                     |
+| pike                     | 1d10 piercing                    | 10      | 9 lb.      | bracing, heavy, high crit, reach, two-handed, underwater                             | partisan, military fork, ranseur, spetum     |
+| halberd                  | 1d10 slashing or 1d8 piercing    | 10      | 15 lb.     | brutal, heavy, reach, slow, two-handed                                               | bardiche, poleaxe, voulge                    |
+| great flail              | 1d12 bludgeoning                 | 25      | 10 lb.     | flexible, heavy, slow, two-handed                                                    | two-handed flail                             |
+| great axe                | 1d12 slashing                    | 30      | 7 lb.      | brutal, heavy, slow, two-handed                                                      | two-handed axe                               |
+| maul                     | 2d6 bludgeoning                  | 20      | 10 lb.     | heavy, slow, staggering, two-handed                                                  | great hammer, two-handed hammer              |
+| great pick               | 2d6 piercing                     | 10      | 8 lb.      | heavy, high crit, slow, two-handed                                                   | heavy pick, mattock                          |
+| great sword              | 2d6 slashing                     | 50      | 8 lb.      | heavy, two-handed                                                                    | zwiehander, two-handed sword, claymore       |
