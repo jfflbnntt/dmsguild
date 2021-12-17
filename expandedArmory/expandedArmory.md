@@ -1,4 +1,4 @@
-# Armory Remix v2.3
+# Armory Remix v2.4
 
 A *street thug with club in hand sneaks up on an unsuspecting mark knowing that one quick strike to the back of the head will render his victim unconscious. Students listen intently to their weapons master as she instructs them on the finer points of spear fighting and how a quick change in grip can extend their reach to strike opponents at a distance. A veteran soldier, standing in formation shoulder to shoulder to green recruits, grits his teeth as he sets his pike to recieve the front ranks of the charging orc horde. With a flick of the wrist a bounty hunter wraps her whip around the ankles of a fleeing bounty enabling her to claim the full reward for bringing him in alive. A dual-wielding swordsman's quick flashing blades deter his enemies from trying to slip past him, while nearby his lightly armored halfling companion easily dodges past the slow and clumsy strikes of an ogre's greatclub.*
 
@@ -46,23 +46,23 @@ ___
 
 * **Ammunition.** You can use a weapon that has the ammunition property to make a ranged Attack only if you have ammunition to fire from the weapon. Each time you Attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the Attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. If you use a weapon that has the ammunition property to make a melee Attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way. Ammunition weapons have a maximum range which is 4x its short range.
 
-* **Bracing.** These weapons are more effective when braced and set against charging opponents. If you are proficient with this weapon, Readied Attack Actions against an advancing opponent have Advantage. Brace weapons tend to be **two-handed** or **versatile** piercing weapons, like spears and pikes. Brace weapons should not also have the **slow** property.
+* **Bracing.** These weapons are most effective when braced and set against charging opponents or while on a charging mount. If you are proficient with this weapon Readied Attack Actions against an advancing opponent and Charge attacks have Advantage. These weapons can also be couched in one hand while mounted, ignoring the **two-handed** property if present. Bracing weapons tend to be **two-handed** or **versatile** piercing weapons, like spears and pikes. Bracing weapons should not also have the **slow** property.
 
 * **Brutal.** These weapons create deep vicious wounds that tend to bleed. If you are proficient with this weapon treat any 1 rolled on a weapon damage die as a 2. This includes any additional critical hit dice and dice provided by sneak attack, but does not include dice provided by spells or other features. This property is negated by **hardened** armor. Axes and other curved slashing weapons tend to have the brutal property.
 
-* **Finesse.** When making an Attack with a **finesse** weapon, you use your choice of your Strength or Dexterity modifier for the Attack and Damage Rolls. You must use the same modifier for both rolls. Finesse weapons tend to do less damage than non-finesse weapons because they can be used with Sneak Attack. Finesse weapons tend to not be **heavy**, **slow**, or **two-handed**. Finesse weapons tend to do low damage since they can be used in conjunction with Sneak Attack.
-  
 <div class='pageNumber auto'></div>
 
 \page 
 
 ___
 
+* **Finesse.** When making an Attack with a **finesse** weapon, you use your choice of your Strength or Dexterity modifier for the Attack and Damage Rolls. You must use the same modifier for both rolls. Finesse weapons tend to do less damage than non-finesse weapons because they can be used with Sneak Attack. Finesse weapons tend to not be **heavy**, **slow**, or **two-handed**. Finesse weapons tend to do low damage since they can be used in conjunction with Sneak Attack.
+
 * **Flexible.** A weapon with this property consists of multiple interlocking rigid parts or made entirely of a flexible material like rope or leather. Due to it's flexible nature it can neutralize the benefits of shields and cover. As long as the attacker is proficient with the weapon and can see the target in range an attack made with this weapon ignores up to +2 AC bonus granted by shields or cover. Whips, chains, and flails are all **flexible** weapons.
 
 * **Grappling.** These weapons are made from entangling cords, chains, nets, or have special hooks designed for grabbing and can be used to make a grappling attack instead of doing damage, if you are proficient. Using a weapon in this way does not require you to have a free hand. You can make a melee or ranged weapon attack roll in place of a STR (Athletics) check and in all other ways works the same as a normal grappling attack. To maintain a grapple with this weapon you must keep at least one hand on it. **Grappling** weapons tend to also be **flexible** weapons, but aren't required to be.
 
-* **Heavy.** A heavy weapon’s size and bulk make difficult to wield for small creatures and for all creatures while mounted. A small creature or mounted creature has Disadvantage on Attack rolls with **heavy** weapons. Heavy weapons tend to be **slow** and **two-handed** and should not also have the **mounted** property.
+* **Heavy.** A heavy weapon’s size and bulk make difficult to wield for small creatures and for all creatures while mounted. A small creature or mounted creature has Disadvantage on Attack rolls with **heavy** weapons. Heavy weapons tend to be **slow** and **two-handed**.
 
 * **High-crit.** These weapons deal higher than normal damage on a critical hit due to cruel spikes or barbs that pierce armor and strike at vital organs. If you are proficient with this weapon and get a critical hit, any weapon damage die that is a max value (i.e. 6 on a d6) can be rolled again and added to the total damage. These additional dice are not rolled again even if they result in a max value. This feature is negated by targets wearing **hardened** armor. Impaling weapons like picks and spears tend to be **high-crit**.
 
@@ -73,8 +73,6 @@ ___
 * **Lunging.** Some one-handed weapons are long and light enough to be used to sacrifice power to gain reach. When making a reach attack with a **lunging** weapon use the lower damage die listed in parentheses. You cannot use this feature while holding the weapon in both hands or if you are not proficient with this weapon. A **lunging** weapon is typically not also **heavy**, **reach**, or **two-handed**.
 
 * **Monk.** Weapons with this property count as Monk weapons that can be used with the Martial Arts feature. **Monk** weapons tend to be simple weapons without the **heavy** or **two-handed** properties, however there are a few select martial weapons that are specifically included.
-
-* **Mounted.** Mounted weapons are most effective when used while mounted. You have disadvantage when you use a mounted weapon to attack a target within 5 feet of you. Also, a mounted weapon requires two hands to wield when you aren't mounted. Mounted weapons tend to be piercing, **slow**, and **reach** weapons.
 
 * **Powerdraw.** Especially powerful bows are constructed of reinforced, rare, or composite materials while others are recurved. These bows derive their damage from the increased strength necessary to pull it. When applied to a short bow or long bow this property increases the range and allows you to use your Strength modifier for damage rolls in place of Dexterity. **Powerdraw** bows are rare and valuable.
 
@@ -88,12 +86,12 @@ ___
 
 * **Sneaky.** This weapon is especially dangerous when used to strike a distracted or unaware foe. If you hit with this weapon and had Advantage with the attack, use the higher damage die listed. It can also be used with a Rogue's Sneak Attack feature, if not already allowed. **Sneaky** weapons tend to be simple, small, silent, and easily concealable. They also tend to be low damaging. A sneaky weapon should not also have the **heavy**, **two-handed**, or **versatile** properties.
 
-* **Staggering.** These weapons rely on heavy mass to deliver staggering blows. If you are proficient with this weapon and get a critical hit on a creature, that creature cannot take reactions until the beginning of their next turn. Staggering weapons tend to be bludgeoning, **heavy**, or **slow**. Staggering weapons can not also be **light** or **finesse**.
-
 <div class='pageNumber auto'></div>
 
 \page
 ___
+
+* **Staggering.** These weapons rely on heavy mass to deliver staggering blows. If you are proficient with this weapon and get a critical hit on a creature, that creature cannot take reactions until the beginning of their next turn. Staggering weapons tend to be bludgeoning, **heavy**, or **slow**. Staggering weapons can not also be **light** or **finesse**.
 
 * **Thrown.** If a weapon has the thrown property, you can throw the weapon to make a ranged Attack. If the weapon is a melee weapon, you use the same ability modifier for that Attack roll and damage roll that you would use for a melee Attack with the weapon. For example, if you throw a hand axe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property. Thrown weapons are usually not **two-handed**, **heavy**, or **slow**. Thrown weapons have a maximum range which is 3x its short range.
 
@@ -105,35 +103,37 @@ ___
 
 * **Weak.** A weapon with this property is fragile, made of sub-standard materials, or worn with age. When you hit with an attack roll and deal max damage or get a critical hit this weapon becomes broken and unuseable. Improvised, practice, ceremonial, or ancient weapons do not stand up to abuse and tend to be **weak**.
 
+```
+```
 
-<div class="wide" style="margin-top:20px;">
+<div class="wide">
   
 ##### Weapons by Property
 | Property   | Weapons |
 |:-----------|:--------|
 | Ammunition | Blowgun, Bows, Dart thrower, Crossbows, Recurve bows, Repeating crossbows, Sling, Staff sling |
-| Bracing    | Pike, Spears |
+| Bracing    | Pike, Lance, Spears |
 | Brutal     | Battle axe, Great axe, Halberd, Scimitar, Scythe, Sickle |
 | Finesse    | Dagger, Dart, Rapier, Scimitar, Scourge, Short sword, Whip |
 | Flexible   | Flails, Lasso, Nanchaku, Scourge, Spiked chain, Whip |
 | Grappling  | Bolas, Lasso, Man-catcher, Net, Spiked chain, Whip |
 | Heavy      | Glaive, Great axe, Great flail, Great hammer, Great pick, Great sword, Halberd, Heavy crossbow, Long bow, Man-catcher, Pike, Pole hammer, Recurve long bow, Repeating heavy crossbow, Scythe, Spiked chain |
-| High-crit  | Javelin, Lances, Picks, Pike, Rapier, Spears |
+| High-crit  | Javelin, Lance, Picks, Pike, Rapier, Spears |
 | Light      | Axe, Club, Daggers, Gauntlets, Hammer, Hand crossbow, Nunchaku, Pick, Scimitar, Scourge, Short sword, Sickle, Throwing knife, Unarmed strike |
 | Loading    | Blowgun, Crossbows |
 | Lunging    | Quarter staff, Spear, Rapier |
 | Monk       | Axe, Club, Daggers, Flail, Gauntlets, Hammer, Javelin, Mace, Nunchaku, Pick, Quarter staff, Short sword, Shovel, Sickle, Spear, Unarmed strike, Whip |
-| Mounted    | Lances |
-| Reach      | Glaive, Halberd, Lances, Lasso, Long spear, Man-catcher, Pike, Pole hammer, Spiked chain, Whip |
+| Reach      | Glaive, Halberd, Lance, Lasso, Long spear, Man-catcher, Pike, Pole hammer, Spiked chain, Whip |
 | Repeating  | Repeating crossbows |
-| Slow       | Battle axe, Great axe, Great club, Great flail, Great hammer, Great pick, Halberd, Heavy flail, Lances, Morning star, Pick, Pole hammer, Scythe, Shovel, Spiked chain, War hammer, War pick |
+| Slow       | Battle axe, Great axe, Great club, Great flail, Great hammer, Great pick, Halberd, Heavy flail, Morning star, Pick, Pole hammer, Scythe, Shovel, Spiked chain, War hammer, War pick |
 | Sneaky     | Blowgun, Club, Daggers, Throwing knife |
 | Staggering | Great club, Great hammer, Mace, Morning star, Pole hammer, War hammer |
 | Thrown     | Axe, Bolas, Dagger, Dart, Hammer, Javelin, Net, Spear, Throwing knife |
-| Two-handed | Bows, Glaive, Great axe, Great club, Great flail, Great hammer, Great pick, Great sword, Halberd, Heavy crossbow, Lasso, Light crossbow, Long spear, Man-catcher, Pike, Pole hammer, Repeating heavy crossbow, Repeating light crossbow, Scythe, Shovel, Spiked chain, Staff sling |
-| Underwater | Crossbows, Daggers, Dart, Dart thrower, Javelin, Man-catcher, Net, Pike, Short sword, Spears |
+| Two-handed | Bows, Glaive, Great axe, Great club, Great flail, Great hammer, Great pick, Great sword, Halberd, Heavy crossbow, Lance, Lasso, Light crossbow, Long spear, Man-catcher, Pike, Pole hammer, Repeating heavy crossbow, Repeating light crossbow, Scythe, Shovel, Spiked chain, Staff sling |
+| Underwater | Crossbows, Daggers, Dart, Dart thrower, Javelin, Lance, Man-catcher, Net, Pike, Short sword, Spears |
 | Versatile  | Battle axe, Broad sword, Heavy flail, Long sword, Quarter staff, Spear, War hammer, War pick |
-| Weak       | Lances, Long spear |
+| Weak       | Lance, Long spear |
+
 
 </div>
 
@@ -181,25 +181,25 @@ ___
 
 <div class="wide classTable">
 ##### Table: Simple Melee Weapons
-| Name           | Damage | Cost  | Weight  | Properties | Variants |
-|:---------------|:-------|------:|--------:|:-----------|:---------|
-| Lasso | ─ | 1 sp | 0.1 lb. | flexible, grappling, reach, two-handed | Lariat |
-| Unarmed strike | 1 bludgeoning | ─ | ─ | light, monk | |
-| Club | 1d4 bludgeoning | 1 sp | 2 lb. | light, monk, sneaky (1d6) | Cudgel, Sap |
-| Hammer | 1d4 bludgeoning | 2 gp | 2 lb. | light, monk, thrown (20/60) | Light hammer, Throwing hammer |
-| Dagger | 1d4 piercing or slashing | 2 gp | 1 lb. | finesse, light, monk, sneaky (1d6), thrown (20/60), underwater | Dirk, Knife, Stiletto |
-| Sickle | 1d4 slashing | 1 gp | 2 lb. | brutal, light, monk | Billhook, Machete, Kama |
-| Flail | 1d6 bludgeoning | 5 gp | 2 lb. | flexible, monk | Light flail |
-| Mace | 1d6 bludgeoning | 5 gp | 3 lb. | monk, staggering | Baton, Truncheon |
-| Quarter staff | 1d6 bludgeoning | 2 sp | 4 lb. | lunging (1d4), monk, versatile (1d8) | Single stick |
-| Javelin | 1d6 piercing | 5 sp | 2 lb. | high-crit, monk, thrown (30/90), underwater | Pilum |
-| Pick | 1d6 piercing | 5 gp | 4 lb. | high-crit, light, monk, slow | Adze, Hoe, Light pick |
-| Spear | 1d6 piercing | 2 gp | 3 lb. | bracing, high-crit, lunging (1d4), monk, thrown (20/60), underwater, versatile (1d8) | Harpoon, Pitchfork, Trident |
-| Axe | 1d6 slashing | 5 gp | 2 lb. | light, monk, thrown (20/60) | Hand axe, Hatchet, Throwing axe |
-| Great club | 1d8 bludgeoning | 2 sp | 10 lb. | slow, staggering, two-handed | Two-handed club |
-| Shovel | 1d8 slashing | 5 sp | 2 lb. | slow, two-handed | Spade |
-| Scythe | 1d8 slashing | 2 gp | 10 lb. | brutal, heavy, slow, two-handed | |
-| Long spear | 2d4 piercing | 5 gp | 6 lb. | bracing, high-crit, reach, two-handed, underwater, weak | Boar spear, Great spear, War spear |
+| Weapon                   | Damage                           | Cost    | Weight     | Properties                                                                           | Variants                                     |
+|:-------------------------|:---------------------------------|--------:|-----------:|:-------------------------------------------------------------------------------------|:---------------------------------------------|
+| Lasso                    |                                  | 1 sp    | 0.1 lb.    | flexible, grappling, reach, two-handed                                               | Lariat                                       |
+| Unarmed strike           | 1 bludgeoning                    |         | 0 lb.      | light, monk                                                                          |                                              |
+| Club                     | 1d4 bludgeoning                  | 1 sp    | 2 lb.      | light, monk, sneaky (1d6)                                                            | Cudgel, Sap                                  |
+| Hammer                   | 1d4 bludgeoning                  | 2 gp    | 2 lb.      | light, monk, thrown (20/60)                                                          | Light hammer, Throwing hammer                |
+| Dagger                   | 1d4 piercing or slashing         | 2 gp    | 1 lb.      | finesse, light, monk, sneaky (1d6), thrown (20/60), underwater                       | Dirk, Knife, Stiletto                        |
+| Sickle                   | 1d4 slashing                     | 1 gp    | 2 lb.      | brutal, light, monk                                                                  | Billhook, Kama, Machete                      |
+| Flail                    | 1d6 bludgeoning                  | 5 gp    | 2 lb.      | flexible, monk                                                                       | Light flail                                  |
+| Mace                     | 1d6 bludgeoning                  | 5 gp    | 3 lb.      | monk, staggering                                                                     | Baton, Truncheon                             |
+| Quarter staff            | 1d6 bludgeoning                  | 2 sp    | 4 lb.      | lunging (1d4), monk, versatile (1d8)                                                 | Single stick                                 |
+| Javelin                  | 1d6 piercing                     | 5 sp    | 2 lb.      | high crit, monk, thrown (30/90), underwater                                          | Pilum                                        |
+| Pick                     | 1d6 piercing                     | 5 gp    | 4 lb.      | high crit, light, monk, slow                                                         | Adze, Hoe, Light pick                        |
+| Spear                    | 1d6 piercing                     | 2 gp    | 3 lb.      | bracing, high crit, lunging (1d4), monk, thrown (20/60), underwater, versatile (1d8) | Harpoon, Pitchfork, Trident                  |
+| Axe                      | 1d6 slashing                     | 5 gp    | 2 lb.      | light, monk, thrown (20/60)                                                          | Hand axe, Hatchet, Throwing axe              |
+| Great club               | 1d8 bludgeoning                  | 2 sp    | 10 lb.     | slow, staggering, two-handed                                                         | Two-handed club                              |
+| Shovel                   | 1d8 slashing                     | 5 sp    | 2 lb.      | slow, two-handed                                                                     | Spade                                        |
+| Scythe                   | 1d8 slashing                     | 2 gp    | 10 lb.     | brutal, heavy, slow, two-handed                                                      |                                              |
+| Long spear               | 2d4 piercing                     | 5 gp    | 6 lb.      | bracing, high crit, reach, two-handed, underwater, weak                              | Boar spear, Light lance, War spear           |
 
 </div>
 
@@ -222,17 +222,20 @@ ___
 
 * **Sling.** A sling is a simple leather thong with a pouch use for hurling stones or metal bullets. It is a common weapon among shepherds and other common folk and can be easily stored in a pouch along with stones and bullets.
 
-<div class="wide classTable" style="margin-top:40px;">
+```
+```
+
+<div class="wide classTable" >
 ##### Table: Simple Range Weapons
-| Name | Damage | Cost | Weight | Properties | Variants |
-|:-----|:-------|-----:|-------:|:-----------|:---------|
-| Net | ─ | 1 gp | 3 lb. | grappling, thrown (5/15), underwater | |
-| Sling | 1d4 bludgeoning | 1 sp | 0.01 lb. | ammunition (40/160) | |
-| Dart | 1d4 piercing | 5 cp | 0.25 lb. | finesse, thrown (30/90), underwater | Plumbata |
-| Short bow | 1d6 piercing | 25 gp | 2 lb. | ammunition (80/320), two-handed | Self-bow, Hunting bow |
-| Recurve short bow | 1d6 piercing | 50 gp | 2 lb. | ammunition (100/400), powerdraw, two-handed | Composite horn bow |
-| Light crossbow | 1d8 piercing | 25 gp | 5 lb. | ammunition (80/320), loading, two-handed, underwater | |
-| Repeating light crossbow | 1d8 piercing | 125 gp | 6 lb. | ammunition (80/320), repeating, two-handed, underwater | | |
+| Weapon                   | Damage                           | Cost    | Weight     | Properties                                                     | Variants                                     |
+|:-------------------------|:---------------------------------|--------:|-----------:|:---------------------------------------------------------------|:---------------------------------------------|
+| Net                      |                                  | 1 gp    | 3 lb.      | grappling, thrown (5/15), underwater                           |                                              |
+| Sling                    | 1d4 bludgeoning                  | 1 sp    | 0.01 lb.   | ammunition (40/160)                                            |                                              |
+| Dart                     | 1d4 piercing                     | 5 cp    | 0.25 lb.   | finesse, thrown (30/90), underwater                            | Plumbata                                     |
+| Short bow                | 1d6 piercing                     | 25 gp   | 2 lb.      | ammunition (80/320), two-handed                                | Hunting bow, Self-bow                        |
+| Recurve short bow        | 1d6 piercing                     | 50 gp   | 2 lb.      | ammunition (100/400), powerdraw, two-handed                    | Composite horn bow                           |
+| Light crossbow           | 1d8 piercing                     | 25 gp   | 5 lb.      | ammunition (80/320), loading, two-handed, underwater           |                                              |
+| Repeating light crossbow | 1d8 piercing                     | 125 gp  | 6 lb.      | ammunition (80/320), repeating, two-handed, underwater         |                                              |
 
 </div>
 
@@ -295,71 +298,67 @@ ___
 
 * **Whip.** A long braided flexible leather cord attached to a stiff handle. Traditionally used to train animals or torture prisoners it can be useful as a weapon as well.
 
+```
+```
+
+<div class="wide classTable">
+##### Table: Martial Melee Weapons - Bludgeoning
+| Weapon                   | Damage                           | Cost      | Weight     | Properties                                                     | Variants                                     |
+|:-------------------------|:---------------------------------|----------:|-----------:|:---------------------------------------------------------------|:---------------------------------------------|
+| Gauntlet                 | 1d2 bludgeoning                  | 2 gp      | 1 lb.      | light, monk                                                    | Brass knuckles, Cestus                       |
+| Nunchaku                 | 1d4 bludgeoning                  | 6 gp      | 1 lb.      | flexible, light, monk                                          |                                              |
+| Chain whip               | 1d6 bludgeoning or 1d4 slashing  | 25 gp     | 10 lb.     | flexible, grappling, heavy, reach, slow, two-handed            | Kusari-gama, Spiked chain                    |
+| War flail                | 1d8 bludgeoning                  | 50 gp     | 8 lb.      | flexible, slow, versatile (1d10)                               | Ball and chain, Military flail               |
+| War hammer               | 1d8 bludgeoning                  | 15 gp     | 6 lb.      | slow, staggering, versatile (1d10)                             | Military hammer                              |
+| Morning star             | 1d4 bludgeoning and 1d4 piercing | 15 gp     | 8 lb.      | slow, staggering                                               | Spiked mace                                  |
+| Pole hammer              | 1d10 bludgeoning or 1d8 piercing | 10 gp     | 8 lb.      | heavy, reach, slow, staggering, two-handed                     | Bec de corbin, Lucerne hammer                |
+| Great flail              | 1d12 bludgeoning                 | 25 gp     | 10 lb.     | flexible, heavy, slow, two-handed                              | Two-handed flail                             |
+| Maul                     | 2d6 bludgeoning                  | 20 gp     | 10 lb.     | heavy, slow, staggering, two-handed                            | Great hammer, Two-handed hammer              |
+
+</div>
+
+<div class='pageNumber auto'></div>
+
+\page
+
+<div class="wide classTable">
+
+##### Table: Martial Melee Weapons - Piercing
+| Weapon                   | Damage                           | Cost      | Weight     | Properties                                                     | Variants                                     |
+|:-------------------------|:---------------------------------|----------:|-----------:|:---------------------------------------------------------------|:---------------------------------------------|
+| Spiked gauntlet          | 1d4 piercing                     | 5 gp      | 1 lb.      | light, monk                                                    |                                              |
+| Man-catcher              | 1d4 piercing                     | 30 gp     | 8 lb.      | grappling, heavy, reach, two-handed, underwater                |                                              |
+| Punching dagger          | 1d6 piercing                     | 5 gp      | 1 lb.      | light, monk, sneaky (1d8), underwater                          | Katar, Knuckle knife, Sai, Siangham          |
+| Short sword              | 1d6 piercing                     | 10 gp     | 2 lb.      | finesse, light, monk, underwater                               | Gladius, Hanger, Small sword, Xiphos         |
+| Morning star             | 1d4 bludgeoning and 1d4 piercing | 15 gp     | 8 lb.      | slow, staggering                                               | Spiked mace                                  |
+| Rapier                   | 1d8 piercing                     | 25 gp     | 2 lb.      | finesse, high crit, lunging (1d6)                              | Epee, Fencing sword, Foil                    |
+| War pick                 | 1d8 piercing                     | 8 gp      | 6 lb.      | high crit, slow, versatile (1d10)                              | Military pick                                |
+| Lance                    | 1d10 piercing                    | 15 gp     | 8 lb.      | bracing, high crit, reach, two-handed, underwater, weak        | Great spear, Heavy lance                     |
+| Pike                     | 1d10 piercing                    | 10 gp     | 9 lb.      | bracing, heavy, high crit, reach, two-handed, underwater       | Partisan, Military fork, Ranseur, Spetum     |
+| Great pick               | 2d6 piercing                     | 10 gp     | 8 lb.      | heavy, high crit, slow, two-handed                             | Heavy pick, Mattock                          |
+</div>
+
+```
+```
+
 <div class="wide classTable" style="margin-top:40px;">
-##### Table: Martial Melee Weapons (Bludgeoning)
-| Name | Damage | Cost | Weight | Properties | Variants |
-|:-----|:-------|-----:|-------:|:-----------|:---------|
-| Gauntlet | 1d2 bludgeoning | 2 gp | 1 lb. | light, monk | Brass knuckles, Cestus |
-| Nunchaku | 1d4 bludgeoning | 6 gp | 1 lb. | flexible, light, monk | |
-| Chain | 1d6 bludgeoning or 1d4 slashing | 25 gp | 10 lb. | flexible, grappling, heavy, reach, slow, two-handed | Chain whip, Kusari-gama |
-| War flail | 1d8 bludgeoning | 50 gp | 8 lb. | flexible, slow, versatile (1d10) | Ball and chain, Military flail |
-| War hammer | 1d8 bludgeoning | 15 gp | 6 lb. | slow, staggering, versatile (1d10) | Military hammer |
-| Morning star | 1d4 bludgeoning and 1d4 piercing | 15 gp | 8 lb. | slow, staggering | Spiked mace |
-| Pole hammer | 1d10 bludgeoning or 1d8 piercing | 10 gp | 8 lb. | heavy, reach, slow, staggering, two-handed | Bec de corbin, Lucerne hammer |
-| Great flail | 1d12 bludgeoning | 25 gp | 10 lb. | flexible, heavy, slow, two-handed | Two-handed flail |
-| Maul | 2d6 bludgeoning | 20 gp | 10 lb. | heavy, slow, staggering, two-handed | Great hammer, Two-handed hammer |
 
+##### Table: Martial Melee Weapons - Slashing
+| Weapon                   | Damage                           | Cost      | Weight     | Properties                                                     | Variants                                     |
+|:-------------------------|:---------------------------------|----------:|-----------:|:---------------------------------------------------------------|:---------------------------------------------|
+| Clawed gauntlet          | 1d4 slashing                     | 5 gp      | 1 lb.      | light, monk                                                    | Bagh nakh                                    |
+| Whip                     | 1d4 slashing                     | 2 gp      | 3 lb.      | finesse, flexible, grappling, monk, reach                      | Bull-whip                                    |
+| Scimitar                 | 1d6 slashing                     | 15 gp     | 3 lb.      | brutal, finesse, light                                         | Cutlass, Dao, Falchion, Kukri, Sabre, Tulwar |
+| Scourge                  | 1d6 slashing                     | 3 gp      | 2 lb.      | finesse, flexible, light                                       | Cat-o-nine-tails, Lash                       |
+| Broad sword              | 1d6 slashing                     | 10 gp     | 4 lb.      | versatile (2d4)                                                | Arming sword, Jian, Viking sword             |
+| Battle axe               | 1d8 slashing                     | 15 gp     | 4 lb.      | brutal, slow, versatile (1d10)                                 | Khopesh, Military cleaver, War axe           |
+| Long sword               | 1d8 slashing                     | 15 gp     | 5 lb.      | versatile (1d10)                                               | Bastard sword, Katana, War sword             |
+| Glaive                   | 2d4 slashing                     | 10 gp     | 8 lb.      | heavy, reach, two-handed                                       | Bill, Fauchard, Guisarme                     |
+| Halberd                  | 1d10 slashing or 1d8 piercing    | 10 gp     | 15 lb.     | brutal, heavy, reach, slow, two-handed                         | Bardiche, Poleaxe, Voulge                    |
+| Great axe                | 1d12 slashing                    | 30 gp     | 7 lb.      | brutal, heavy, slow, two-handed                                | Two-handed axe                               |
+| Great sword              | 2d6 slashing                     | 50 gp     | 8 lb.      | heavy, two-handed                                              | Claymore, Two-handed sword, Zwiehander       |
 </div>
-
-<div class='pageNumber auto'></div>
-
-\page
-
-<div class="wide classTable">
-##### Table: Martial Melee Weapons (Piercing)
-| Name | Damage | Cost | Weight | Properties | Variants |
-|:-----|:-------|-----:|-------:|:-----------|:---------|
-| Spiked gauntlet | 1d4 piercing | 5 gp | 1 lb. | light, monk | |
-| Man catcher | 1d4 piercing | 30 gp | 8 lb. | grappling, heavy, reach, two-handed, underwater | Catchpole |
-| Punching dagger | 1d6 piercing | 5 gp | 1 lb. | light, monk, sneaky (1d8), underwater | Katar, Knuckle knife, Sai, Siangham |
-| Short sword | 1d6 piercing | 10 gp | 2 lb. | finesse, light, monk, underwater | Gladius, Hanger, Small sword, Xiphos |
-| Jousting lance | 1d6 piercing | 5 gp | 4 lb. | high-crit, mounted, reach, slow, weak | |
-| War pick | 1d8 piercing | 8 gp | 6 lb. | high-crit, slow, versatile (1d10) | Military pick |
-| Light lance | 1d8 piercing | 10 gp | 6 lb. | high-crit, mounted, reach, slow, weak | |
-| Rapier | 1d8 piercing | 25 gp | 2 lb. | finesse, high-crit, lunging (1d6) | Epee, Foil, Fencing sword |
-| Morning star | 1d4 bludgeoning and 1d4 piercing | 15 gp | 8 lb. | slow, staggering | Spiked mace |
-| Lance | 1d10 piercing | 15 gp | 8 lb. | high-crit, mounted, reach, slow, weak | |
-| Pike | 1d10 piercing | 10 gp | 9 lb. | bracing, heavy, high-crit, reach, two-handed, underwater | Partisan, Military fork, Ranseur, Spetum |
-| Heavy lance | 1d12 piercing | 20 gp | 10 lb. | high-crit, mounted, reach, slow, weak | |
-| Great pick | 2d6 piercing | 10 gp | 8 lb. | heavy, high-crit, slow, two-handed | Heavy pick, Mattock |
-
-</div>
- 
-
-
-<div class='pageNumber auto'></div>
-
-\page
-
-
-<div class="wide classTable">
-##### Table: Martial Melee Weapons (Slashing)
-| Name | Damage | Cost | Weight | Properties | Variants |
-|:-----|:-------|-----:|-------:|:-----------|:---------|
-| Clawed gauntlet | 1d4 slashing | 5 gp | 1 lb. | light, monk | Bagh nakh |
-| Whip | 1d4 slashing | 2 gp | 3 lb. | finesse, flexible, grappling, monk, reach | Bull-whip |
-| Scimitar | 1d6 slashing | 15 gp | 3 lb. | brutal, finesse, light | Cutlass, Dao, Falchion, Kopis, Kukri, Sabre, Tulwar |
-| Scourge | 1d6 slashing | 3 gp | 2 lb. | finesse, flexible, light | Cat-o-nine-tails, Lash |
-| Broad sword | 1d6 slashing | 10 gp | 4 lb. | versatile (2d4) | Arming sword, Jian, Viking sword |
-| Battle axe | 1d8 slashing | 15 gp | 4 lb. | brutal, slow, versatile (1d10) | Khopesh, Military cleaver, War axe |
-| Long sword | 1d8 slashing | 15 gp | 5 lb. | versatile (1d10) | Bastard sword, Katana, War sword |
-| Glaive | 2d4 slashing | 10 gp | 8 lb. | heavy, reach, two-handed | Bill, Fauchard, Guisarme |
-| Halberd | 1d10 slashing or 1d8 piercing | 10 gp | 15 lb. | brutal, heavy, reach, slow, two-handed | Bardiche, Voulge, Poleaxe |
-| Great axe | 1d12 slashing | 30 gp | 7 lb. | brutal, heavy, slow, two-handed | Two-handed axe |
-| Great sword | 2d6 slashing | 50 gp | 8 lb. | heavy, two-handed | Claymore, Two-handed sword, Zwiehander |
-
-</div>
-
+  
 <div class='pageNumber auto'></div>
 
 \page
@@ -390,22 +389,21 @@ ___
 ```
 ```
 
-<div class="wide classTable">
+<div class="wide classTable" style="margin-top:40px;">
 ##### Table: Martial Range Weapons
-| Name | Damage | Cost | Weight | Properties | Variants |
-|:-----|:-------|-----:|-------:|:-----------|:---------|
-| Blowgun | 1 piercing | 10 gp | 1 lb. | ammunition (25/100), loading, sneaky (1d4) | |
-| Bolas | 1d4 bludgeoning | 5 gp | 2 lb. | grappling, thrown (20/60) | |
-| Throwing knife | 1d4 piercing | 1 gp | 0.5 lb. | light, sneaky (1d6), thrown (30/90) | Throwing star |
-| Staff sling | 1d6 bludgeoning | 5 sp | 3 lb. | ammunition (80/320), two-handed | |
-| Dart thrower | 1d6 piercing | 5 sp | 1 lb. | ammunition (40/120), underwater | Atlatl |
-| Hand crossbow | 1d6 piercing | 75 gp | 3 lb. | ammunition (30/120), light, loading, underwater | |
-| Repeating hand crossbow | 1d6 piercing | 375 gp | 5 lb. | ammunition (30/120), light, loading, repeating, underwater | |
-| Long bow | 1d8 piercing | 50 gp | 2 lb. | ammunition (150/600), heavy, two-handed | War bow |
-| Recurve long bow | 1d8 piercing | 100 gp | 3 lb. | ammunition (200/800), heavy, powerdraw, two-handed | Great bow, Composite war bow |
-| Medium crossbow | 1d10 piercing | 50 gp | 9 lb. | ammunition (100/400), loading, two-handed, underwater | |
-| Heavy crossbow | 1d12 piercing | 75 gp | 18 lb. | ammunition (120/480), heavy, loading, two-handed, underwater | Arbalest |
-
+| Weapon                   | Damage                           | Cost      | Weight     | Properties                                                     | Variants                                     |
+|:-------------------------|:---------------------------------|----------:|-----------:|:---------------------------------------------------------------|:---------------------------------------------|
+| Blowgun                  | 1 piercing                       | 10 gp     | 1 lb.      | ammunition (25/100), loading, sneaky (1d4)                     |                                              |
+| Bolas                    | 1d4 bludgeoning                  | 5 gp      | 2 lb.      | grappling, thrown (20/60)                                      |                                              |
+| Throwing knife           | 1d4 piercing                     | 1 gp      | 0.5 lb.    | light, sneaky (1d6), thrown (30/90)                            | Throwing star                                |
+| Staff sling              | 1d6 bludgeoning                  | 5 sp      | 3 lb.      | ammunition (80/320), two-handed                                |                                              |
+| Dart thrower             | 1d6 piercing                     | 5 sp      | 1 lb.      | ammunition (40/160), underwater                                | Atlatl                                       |
+| Hand crossbow            | 1d6 piercing                     | 75 gp     | 3 lb.      | ammunition (30/120), light, loading, underwater                |                                              |
+| Repeating hand crossbow  | 1d6 piercing                     | 375 gp    | 5 lb.      | ammunition (30/120), light, loading, repeating, underwater     |                                              |
+| Long bow                 | 1d8 piercing                     | 50 gp     | 2 lb.      | ammunition (150/600), heavy, two-handed                        | War bow                                      |
+| Recurve long bow         | 1d8 piercing                     | 100 gp    | 3 lb.      | ammunition (200/800), heavy, powerdraw, two-handed             | Composite war bow, Great bow                 |
+| Medium crossbow          | 1d10 piercing                    | 50 gp     | 9 lb.      | ammunition (100/400), loading, two-handed, underwater          |                                              |
+| Heavy crossbow           | 1d12 piercing                    | 75 gp     | 18 lb.     | ammunition (120/480), heavy, loading, two-handed, underwater   | Arbalest                                     |
 
 </div>
 
@@ -762,4 +760,5 @@ This product was formatted using [The Homebrewery](http://www.naturalcrit.com/ho
 * v2.1 Update some property definitions, added weak to long spear
 * v2.2 Add weapon by damage type tables, better hyphenage, merge oversized and heavy weapon properties, include hardened proprety in armor tables, more optional rules, various minor updates, fixes, and adjustments
 * v2.3 Renamed properties: Bracing, Cumbersome, Restricting, Staggering. Updated some weapons. Simplify some descriptions. Add Light Armor Master feat. Add new optional rules.
+* v2.4 Merged Bracing and Mounted properties, updated tables.
 <div class='pageNumber auto'></div>
