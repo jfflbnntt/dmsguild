@@ -1,21 +1,21 @@
 ##### Table: Martial Melee Weapons - Bludgeoning
 | Weapon                   | Damage                           | Cost      | Weight     | Properties                                                     | Variants                                     |
 |:-------------------------|:---------------------------------|----------:|-----------:|:---------------------------------------------------------------|:---------------------------------------------|
-| Gauntlet                 | 1d2 bludgeoning                  | 2 gp      | 1 lb.      | light, monk                                                    | Brass knuckles, Cestus                       |
-| Nunchaku                 | 1d4 bludgeoning                  | 6 gp      | 1 lb.      | flexible, light, monk                                          |                                              |
+| Gauntlet                 | 1d2 bludgeoning                  | 2 gp      | 1 lb.      | light, monk, sneaky (1d4)                                      | Brass knuckles, Cestus                       |
+| Nunchaku                 | 1d4 bludgeoning                  | 6 gp      | 1 lb.      | flexible, light, monk, sneaky (1d6)                            |                                              |
 | Chain whip               | 1d6 bludgeoning or 1d4 slashing  | 25 gp     | 10 lb.     | flexible, grappling, heavy, reach, slow, two-handed            | Kusari-gama, Spiked chain                    |
 | War flail                | 1d8 bludgeoning                  | 50 gp     | 8 lb.      | flexible, slow, versatile (1d10)                               | Ball and chain, Military flail               |
 | War hammer               | 1d8 bludgeoning                  | 15 gp     | 6 lb.      | slow, staggering, versatile (1d10)                             | Military hammer                              |
 | Morning star             | 1d4 bludgeoning and 1d4 piercing | 15 gp     | 8 lb.      | slow, staggering                                               | Spiked mace                                  |
 | Pole hammer              | 1d10 bludgeoning or 1d8 piercing | 10 gp     | 8 lb.      | heavy, reach, slow, staggering, two-handed                     | Bec de corbin, Lucerne hammer                |
 | Great flail              | 1d12 bludgeoning                 | 25 gp     | 10 lb.     | flexible, heavy, slow, two-handed                              | Two-handed flail                             |
-| Maul                     | 2d6 bludgeoning                  | 20 gp     | 10 lb.     | heavy, slow, staggering, two-handed                            | Great hammer, Two-handed hammer              |
+| Great hammer             | 2d6 bludgeoning                  | 20 gp     | 10 lb.     | heavy, slow, staggering, two-handed                            | Maul, Two-handed hammer                      |
 
 
 ##### Table: Martial Melee Weapons - Piercing
 | Weapon                   | Damage                           | Cost      | Weight     | Properties                                                     | Variants                                     |
 |:-------------------------|:---------------------------------|----------:|-----------:|:---------------------------------------------------------------|:---------------------------------------------|
-| Spiked gauntlet          | 1d4 piercing                     | 5 gp      | 1 lb.      | light, monk                                                    |                                              |
+| Spiked gauntlet          | 1d4 piercing                     | 5 gp      | 1 lb.      | light, monk, sneaky (1d6)                                      |                                              |
 | Man-catcher              | 1d4 piercing                     | 30 gp     | 8 lb.      | grappling, heavy, reach, two-handed, underwater                |                                              |
 | Punching dagger          | 1d6 piercing                     | 5 gp      | 1 lb.      | light, monk, sneaky (1d8), underwater                          | Katar, Knuckle knife, Sai, Siangham          |
 | Short sword              | 1d6 piercing                     | 10 gp     | 2 lb.      | finesse, light, monk, underwater                               | Gladius, Hanger, Small sword, Xiphos         |
@@ -30,7 +30,7 @@
 ##### Table: Martial Melee Weapons - Slashing
 | Weapon                   | Damage                           | Cost      | Weight     | Properties                                                     | Variants                                     |
 |:-------------------------|:---------------------------------|----------:|-----------:|:---------------------------------------------------------------|:---------------------------------------------|
-| Clawed gauntlet          | 1d4 slashing                     | 5 gp      | 1 lb.      | light, monk                                                    | Bagh nakh                                    |
+| Clawed gauntlet          | 1d4 slashing                     | 5 gp      | 1 lb.      | light, monk, sneaky (1d6)                                      | Bagh nakh                                    |
 | Whip                     | 1d4 slashing                     | 2 gp      | 3 lb.      | finesse, flexible, grappling, monk, reach                      | Bull-whip                                    |
 | Scimitar                 | 1d6 slashing                     | 15 gp     | 3 lb.      | brutal, finesse, light                                         | Cutlass, Dao, Falchion, Kukri, Sabre, Tulwar |
 | Scourge                  | 1d6 slashing                     | 3 gp      | 2 lb.      | finesse, flexible, light                                       | Cat-o-nine-tails, Lash                       |

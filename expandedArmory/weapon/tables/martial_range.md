@@ -3,7 +3,6 @@
 |:-------------------------|:---------------------------------|----------:|-----------:|:---------------------------------------------------------------|:---------------------------------------------|
 | Blowgun                  | 1 piercing                       | 10 gp     | 1 lb.      | ammunition (25/100), loading, sneaky (1d4)                     |                                              |
 | Bolas                    | 1d4 bludgeoning                  | 5 gp      | 2 lb.      | grappling, thrown (20/60)                                      |                                              |
-| Throwing knife           | 1d4 piercing                     | 1 gp      | 0.5 lb.    | light, sneaky (1d6), thrown (30/90)                            | Throwing star                                |
 | Staff sling              | 1d6 bludgeoning                  | 5 sp      | 3 lb.      | ammunition (80/320), two-handed                                |                                              |
 | Dart thrower             | 1d6 piercing                     | 5 sp      | 1 lb.      | ammunition (40/160), underwater                                | Atlatl                                       |
 | Hand crossbow            | 1d6 piercing                     | 75 gp     | 3 lb.      | ammunition (30/120), light, loading, underwater                |                                              |

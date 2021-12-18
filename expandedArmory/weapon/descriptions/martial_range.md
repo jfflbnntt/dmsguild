@@ -19,5 +19,3 @@ ___
 * **Medium Crossbow.** A powerful martial crossbow that can be used from horseback.
 
 * **Staff Sling.** A sling mounted on a short staff which is used as a fulcrum to hurl stones and bullets much farther and faster than normally possible. The staff portion of the weapon can also be used in melee as a two-handed bludgeoning weapon if necessary.
-
-* **Throwing Knife.** A small sharp blade specially shaped and balanced for accurate throwing. Sometimes double-ended or shaped like a star so that it strikes with a sharp edge no matter how it hits. Smaller and easier to conceal than a dagger throwing knives are favored by spies and assassins.
