@@ -34,9 +34,9 @@ ___
 
 * **Rapier.** A long thin bladed sword meant for fencing and thrusting, often carried as a symbol of prestige and favored among nobles. They often have elaborate crossguards or basket hilts to protect the wielder's hand.
 
-* **Scimitar.** A short curved single-edged sword that makes for an effective weapon and all-purpose chopping tool. Popular among pirates.
+* **Scimitar.** A short curved single-edged sword that makes for an effective weapon and all-purpose chopping tool. Popular among pirates, bandits, and raiders.
 
-* **Scourge.** A short whip with multiple thongs typically made of leather. The thongs are often tipped with knots or sharp metal tips in order to cause additional pain.
+* **Scourge.** A short whip with multiple thongs typically made of leather. The thongs are often tipped with knots or sharp metal tips in order to cause additional pain. These are implements of torture and favored by cruel and sadistic creatures.
 
 * **Short Sword.** A small straight sword with a double-edged blade but primarily meant for stabbing. It is often given to soldiers as a back-up weapon for close combat should they not be able to bring polearms to bear.
 
@@ -46,4 +46,4 @@ ___
 
 * **War Pick and Great Pick.** A war pick is meant for combat and able to be used in one or two hands. A great pick is larger and heavier and only able to be wielded in two hands.
 
-* **Whip.** A long braided flexible leather cord attached to a stiff handle. Traditionally used to train animals or torture prisoners it can be useful as a weapon as well.
+* **Whip.** A long braided flexible leather cord attached to a stiff handle. Traditionally used to train animals or discipline underlings it can be useful as a weapon as well.
