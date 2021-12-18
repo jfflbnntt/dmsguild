@@ -265,7 +265,7 @@ ___
 
 * **Morning Star.** Not to be confused with a ball and chain, a morningstar is a large mace studded with spikes or alternatively a large club with with nails or other sharpened protrusions projecting from it. It is a nasty weapon favored among brutes and bugbears.
 
-* **Nunchaku.** A light flail-like weapon optimized for martial arts and duel wielding.
+* **Nunchaku.** A light flail-like weapon optimized for martial arts and dual wielding.
 
 * **Pike.** A very long spear meant to be used with two-hands and in formation with other pikemen. Similar to pikes are other thrusting spear-like polearms including the partisan, ranseur, and spetum.
 
