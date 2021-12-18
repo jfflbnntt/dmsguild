@@ -1,4 +1,4 @@
-# Armory Remix v2.5
+# Armory Remix v2.6
 
 A *street thug with club in hand sneaks up on an unsuspecting mark knowing that one quick strike to the back of the head will render his victim unconscious. Students listen intently to their weapons master as she instructs them on the finer points of spear fighting and how a quick change in grip can extend their reach to strike opponents at a distance. A veteran soldier, standing in formation shoulder to shoulder to green recruits, grits his teeth as he sets his pike to recieve the front ranks of the charging orc horde. With a flick of the wrist a bounty hunter wraps her whip around the ankles of a fleeing bounty enabling her to claim the full reward for bringing him in alive. A dual-wielding swordsman's quick flashing blades deter his enemies from trying to slip past him, while nearby his lightly armored halfling companion easily dodges past the slow and clumsy strikes of an ogre's greatclub.*
 
@@ -115,20 +115,20 @@ ___
 | Brutal     | Battle axe, Great axe, Halberd, Scimitar, Scythe, Sickle |
 | Finesse    | Dagger, Dart, Rapier, Scimitar, Scourge, Short sword, Whip |
 | Flexible   | Flails, Lasso, Nanchaku, Whips |
-| Grappling  | Bolas, Lasso, Man-catcher, Net, Chain whip, Whip |
-| Heavy      | Chain whip, Glaive, Great axe, Great flail, Great hammer, Great pick, Great sword, Halberd, Heavy crossbows, Long bows, Man-catcher, Pike, Pole hammer, Scythe |
+| Grappling  | Bolas, Chain, Lasso, Man-catcher, Net, Whip |
+| Heavy      | Chain, Glaive, Great axe, Great flail, Great hammer, Great pick, Great sword, Halberd, Heavy crossbows, Long bows, Man-catcher, Pike, Pole hammer, Scythe |
 | High-crit  | Dart, Javelin, Lance, Picks, Pike, Rapier, Spears |
 | Light      | Axe, Club, Daggers, Gauntlets, Hammer, Hand crossbow, Nunchaku, Pick, Scimitar, Scourge, Short sword, Sickle, Throwing knife, Unarmed strike |
 | Loading    | Blowgun, Crossbows |
 | Lunging    | Quarter staff, Spear, Rapier |
 | Monk       | Axe, Club, Daggers, Flail, Gauntlets, Hammer, Javelin, Mace, Nunchaku, Pick, Quarter staff, Short sword, Shovel, Sickle, Spear, Unarmed strike, Whip |
-| Reach      | Chain whip, Glaive, Halberd, Lance, Lasso, Long spear, Man-catcher, Pike, Pole hammer, Whip |
+| Reach      | Chain, Glaive, Halberd, Lance, Lasso, Long spear, Man-catcher, Pike, Pole hammer, Whip |
 | Repeating  | Repeating crossbows |
-| Slow       | Battle axe, Chain whip, Great axe, Great club, Great flail, Great hammer, Great pick, Halberd, Morning star, Pick, Pole hammer, Scythe, Shovel, War flail, War hammer, War pick |
+| Slow       | Battle axe, Chain, Great axe, Great club, Great flail, Great hammer, Great pick, Halberd, Morning star, Pick, Pole hammer, Scythe, Shovel, War flail, War hammer, War pick |
 | Sneaky     | Blowgun, Club, Dagger, Gauntlets, Nunchaku |
 | Staggering | Great club, Great hammer, Mace, Morning star, Pole hammer, War hammer |
 | Thrown     | Axe, Bolas, Dagger, Dart, Hammer, Javelin, Net, Spear |
-| Two-handed | Bows, Glaive, Great axe, Great club, Great flail, Great hammer, Great pick, Great sword, Halberd, Heavy crossbows, Lance, Lasso, Light crossbows, Long spear, Man-catcher, Pike, Pole hammer, Scythe, Shovel, Spiked chain, Staff sling |
+| Two-handed | Bows, Chain, Glaive, Great axe, Great club, Great flail, Great hammer, Great pick, Great sword, Halberd, Heavy crossbows, Lance, Lasso, Light crossbows, Long spear, Man-catcher, Pike, Pole hammer, Scythe, Shovel, Staff sling |
 | Underwater | Crossbows, Daggers, Dart, Dart thrower, Javelin, Lance, Man-catcher, Net, Pike, Short sword, Spears |
 | Versatile  | Battle axe, Broad sword, Long sword, Quarter staff, Spear, War flail, War hammer, War pick |
 | Weak       | Lance, Long spear |
@@ -249,7 +249,7 @@ ___
 
 * **Broad Sword.** A sword with wide double-edged blade with very little taper and a short pommel. The length is about midway between a short sword and a long sword, reaching lengths up to 3'. It is often considered a pre-cursor to the long sword.
 
-* **Chain.** A chain is a length of interlocking metal loops or bars and weighted on the ends. It can be used to whip, flail, or grapple opponents. Some chain weapons are spiked or have blades attached to the weighted ends.
+* **Chain.** A chain is a length of interlocking metal loops or bars and weighted on the ends. It can be used to whip, flail, or grapple opponents. Some chain weapons have blades attached to the weighted ends.
 
 * **Gauntlet, Clawed Gauntlet, or Spiked Gauntlet.** A gauntlet is a metal or weighted leather glove, usually worn as part of a suit of armor, that can add additonal impact to unarmed strikes. Gauntlets can be modified to include claws or spikes which cause additional slashing or piercing damage in hand-to-hand combat.
 
@@ -303,7 +303,7 @@ ___
 |:-------------------------|:---------------------------------|----------:|-----------:|:---------------------------------------------------------------|:---------------------------------------------|
 | Gauntlet                 | 1d2 bludgeoning                  | 2 gp      | 1 lb.      | light, monk, sneaky (1d4)                                      | Brass knuckles, Cestus                       |
 | Nunchaku                 | 1d4 bludgeoning                  | 6 gp      | 1 lb.      | flexible, light, monk, sneaky (1d6)                            |                                              |
-| Chain whip               | 1d6 bludgeoning or 1d4 slashing  | 25 gp     | 10 lb.     | flexible, grappling, heavy, reach, slow, two-handed            | Kusari-gama, Spiked chain                    |
+| Chain                    | 1d4 bludgeoning and 1d4 slashing | 25 gp     | 10 lb.     | flexible, grappling, heavy, reach, slow, two-handed            | Kusari-gama, Razor whip                      |
 | War flail                | 1d8 bludgeoning                  | 50 gp     | 8 lb.      | flexible, slow, versatile (1d10)                               | Ball and chain, Military flail               |
 | War hammer               | 1d8 bludgeoning                  | 15 gp     | 6 lb.      | slow, staggering, versatile (1d10)                             | Military hammer                              |
 | Morning star             | 1d4 bludgeoning and 1d4 piercing | 15 gp     | 8 lb.      | slow, staggering                                               | Spiked mace                                  |
@@ -751,5 +751,6 @@ This product was formatted using [The Homebrewery](http://www.naturalcrit.com/ho
 * v2.3 Renamed properties: Bracing, Cumbersome, Restricting, Staggering. Updated some weapons. Simplify some descriptions. Add Light Armor Master feat. Add new optional rules.
 * v2.4 Merged Bracing and Mounted properties, updated tables.
 * v2.5 Removed Throwing Knife as redundant, Dart is now high-crit, Gauntlets and Nunchaku are now sneaky, Shovel is a monk weapon, fix table errors.
+* v2.6 Updates to Chain weapon
 
 <div class='pageNumber auto'></div>

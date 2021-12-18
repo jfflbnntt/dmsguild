@@ -7,3 +7,4 @@
 * v2.3 Renamed properties: Bracing, Cumbersome, Restricting, Staggering. Updated some weapons. Simplify some descriptions. Add Light Armor Master feat. Add new optional rules.
 * v2.4 Merged Bracing and Mounted properties, updated tables.
 * v2.5 Removed Throwing Knife as redundant, Dart is now high-crit, Gauntlets and Nunchaku are now sneaky, Shovel is a monk weapon, fix table errors.
+* v2.6 Updates to Chain weapon

@@ -3,7 +3,7 @@
 |:-------------------------|:---------------------------------|----------:|-----------:|:---------------------------------------------------------------|:---------------------------------------------|
 | Gauntlet                 | 1d2 bludgeoning                  | 2 gp      | 1 lb.      | light, monk, sneaky (1d4)                                      | Brass knuckles, Cestus                       |
 | Nunchaku                 | 1d4 bludgeoning                  | 6 gp      | 1 lb.      | flexible, light, monk, sneaky (1d6)                            |                                              |
-| Chain whip               | 1d6 bludgeoning or 1d4 slashing  | 25 gp     | 10 lb.     | flexible, grappling, heavy, reach, slow, two-handed            | Kusari-gama, Spiked chain                    |
+| Chain                    | 1d4 bludgeoning and 1d4 slashing | 25 gp     | 10 lb.     | flexible, grappling, heavy, reach, slow, two-handed            | Kusari-gama, Razor whip                      |
 | War flail                | 1d8 bludgeoning                  | 50 gp     | 8 lb.      | flexible, slow, versatile (1d10)                               | Ball and chain, Military flail               |
 | War hammer               | 1d8 bludgeoning                  | 15 gp     | 6 lb.      | slow, staggering, versatile (1d10)                             | Military hammer                              |
 | Morning star             | 1d4 bludgeoning and 1d4 piercing | 15 gp     | 8 lb.      | slow, staggering                                               | Spiked mace                                  |

@@ -8,7 +8,7 @@ ___
 
 * **Broad Sword.** A sword with wide double-edged blade with very little taper and a short pommel. The length is about midway between a short sword and a long sword, reaching lengths up to 3'. It is often considered a pre-cursor to the long sword.
 
-* **Chain.** A chain is a length of interlocking metal loops or bars and weighted on the ends. It can be used to whip, flail, or grapple opponents. Some chain weapons are spiked or have blades attached to the weighted ends.
+* **Chain.** A chain is a length of interlocking metal loops or bars and weighted on the ends. It can be used to whip, flail, or grapple opponents. Some chain weapons have blades attached to the weighted ends.
 
 * **Gauntlet, Clawed Gauntlet, or Spiked Gauntlet.** A gauntlet is a metal or weighted leather glove, usually worn as part of a suit of armor, that can add additonal impact to unarmed strikes. Gauntlets can be modified to include claws or spikes which cause additional slashing or piercing damage in hand-to-hand combat.
 
